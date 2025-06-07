@@ -1,0 +1,524 @@
+index,id,question,choices,answer,zh,en
+0,test_1,“教，上所施，下所效也”“育，养子使作善也”。这两句话出自(),"['A. 《学记》', 'B. 《说文解字》', 'C. 《四书五经》', 'D. 《论语》']",B,"下一个问题是关于中国的文化。
+“教，上所施，下所效也”“育，养子使作善也”。这两句话出自()
+A. 《学记》, B. 《说文解字》, C. 《四书五经》, D. 《论语》","The next question is about China's culture.
+""Teaching is what the superiors do and what the subordinates follow"" and ""Education is to raise children to do good"". These two sentences come from ()
+A. ""Xue Ji"", B. ""Shuowen Jiezi"", C. ""Four Books and Five Classics"", D. ""The Analects"""
+1,test_2,广东风味小吃有____。,"['A. 猫耳朵', 'B. 双皮奶', 'C. 虾爆鳝面', 'D. 五芳斋粽子']",B,"下一个问题是关于中国的文化。
+广东风味小吃有____。
+A. 猫耳朵, B. 双皮奶, C. 虾爆鳝面, D. 五芳斋粽子","The next question is about China's culture.
+Guangdong-style snacks include ____.
+A. Cat ears, B. Double skin milk, C. Shrimp and eel noodles, D. Wufangzhai Zongzi"
+2,test_3,杨柳是古代诗词里较为常见的意象，往往蕴涵离别之情。下列名句中不是表达送别意象的是,"['A. 庭院深深深几许?杨柳堆烟，幕帘无重数', 'B. 羌笛何须怨杨柳．春风不度玉门关', 'C. 今宵酒醒何处?杨柳岸、晓风残月', 'D. 渭城朝雨渑轻尘。客舍青青柳色新']",A,"下一个问题是关于中国的文化。
+杨柳是古代诗词里较为常见的意象，往往蕴涵离别之情。下列名句中不是表达送别意象的是
+A. 庭院深深深几许?杨柳堆烟，幕帘无重数, B. 羌笛何须怨杨柳．春风不度玉门关, C. 今宵酒醒何处?杨柳岸、晓风残月, D. 渭城朝雨渑轻尘。客舍青青柳色新","The next question is about China's culture.
+Willow is a common image in ancient poetry, often containing feelings of parting. Which of the following famous lines does not express the image of farewell?
+A. How deep is the courtyard? Willows are covered with smoke, and the curtains are countless, B. Why should the Qiang flute blame the willows? The spring breeze does not pass through Yumen Pass, C. Where will I wake up tonight? Willow bank, morning breeze and waning moon, D. The morning rain in Weicheng is light dust. The green willows in the guest house are new"
+3,test_4,将儒学系统化并纳入官学体系，对此做出最大贡献的教育家是(),"['A. 孔丘', 'B. 董仲舒', 'C. 老子', 'D. 朱熹']",B,"下一个问题是关于中国的文化。
+将儒学系统化并纳入官学体系，对此做出最大贡献的教育家是()
+A. 孔丘, B. 董仲舒, C. 老子, D. 朱熹","The next question is about China's culture.
+The educator who made the greatest contribution to the systematization of Confucianism and its incorporation into the official education system was ()
+A. Confucius, B. Dong Zhongshu, C. Laozi, D. Zhu Xi"
+4,test_5,民间城市茶馆兴起，并发展成为适合社会各阶层所需的活动场所，它把茶与曲艺、诗会、戏剧和灯谜等民间文化活动融合起来，形成了一种特殊的“茶馆文化”，“客来敬茶”也已成为寻常百姓的礼仪美德。开始于,"['A. 明朝末年', 'B. 宋朝末年', 'C. 唐朝末年', 'D. 清朝末年']",D,"下一个问题是关于中国的文化。
+民间城市茶馆兴起，并发展成为适合社会各阶层所需的活动场所，它把茶与曲艺、诗会、戏剧和灯谜等民间文化活动融合起来，形成了一种特殊的“茶馆文化”，“客来敬茶”也已成为寻常百姓的礼仪美德。开始于
+A. 明朝末年, B. 宋朝末年, C. 唐朝末年, D. 清朝末年","The next question is about China's culture.
+Teahouses in private cities emerged and developed into activity venues suitable for all social classes. They combined tea with folk art, poetry, drama, and lantern riddles, forming a special ""teahouse culture"". ""Serving tea to guests"" has become a ceremonial virtue for ordinary people. Started in
+A. The end of the Ming Dynasty, B. The end of the Song Dynasty, C. The end of the Tang Dynasty, D. The end of the Qing Dynasty"
+5,test_6,古人归纳总结出许多观天象识天气的谚语。下列与天气变化无关的谚语是____。,"['A. 百日连阴雨，总有一日晴', 'B. 天上鱼鳞云，地下雨淋淋', 'C. 东风是个精，不下也要阴', 'D. 朝霞不出门，晚霞行千里']",A,"下一个问题是关于中国的文化。
+古人归纳总结出许多观天象识天气的谚语。下列与天气变化无关的谚语是____。
+A. 百日连阴雨，总有一日晴, B. 天上鱼鳞云，地下雨淋淋, C. 东风是个精，不下也要阴, D. 朝霞不出门，晚霞行千里","The next question is about China's culture.
+The ancients summarized many proverbs about observing the sky and predicting the weather. The following proverb is not related to weather changes.
+A. After a hundred days of continuous rain, there will always be a sunny day, B. When there are fish-scale clouds in the sky, it will rain on the ground, C. The east wind is a spirit, it will be cloudy even if it doesn't rain, D. Don't go out when there is morning glow, but you can travel thousands of miles when there is evening glow."
+6,test_7,下列选项最可能是赝品的是,"['A. 战国时期记录如何制作青花瓷的竹筒', 'B. 制作于明代末年，起矫正视力作用的眼镜', 'C. 拍摄于19世纪70年代的展示沙俄宫廷生活的照片', 'D. 3000年前西亚赫梯人使用的铁器']",A,"下一个问题是关于中国的文化。
+下列选项最可能是赝品的是
+A. 战国时期记录如何制作青花瓷的竹筒, B. 制作于明代末年，起矫正视力作用的眼镜, C. 拍摄于19世纪70年代的展示沙俄宫廷生活的照片, D. 3000年前西亚赫梯人使用的铁器","The next question is about China's culture.
+Which of the following options is most likely to be a fake?
+A. A bamboo tube that records how to make blue and white porcelain during the Warring States Period, B. Glasses made in the late Ming Dynasty to correct vision, C. Photos taken in the 1870s showing the life of the Tsarist court, D. Iron tools used by the Hittites in Western Asia 3,000 years ago"
+7,test_8,从这些饮食思想出发，中国人选择了“五谷为养、五果为助、五畜为益、五菜为充” 为饮食结 构，其中“五果”是指,"['A. 李、杏、枣、桃、柿', 'B. 李、杏、蕉、橘、柿', 'C. 李、杏、蕉、桃、栗', 'D. 李、杏、枣、桃、栗']",D,"下一个问题是关于中国的文化。
+从这些饮食思想出发，中国人选择了“五谷为养、五果为助、五畜为益、五菜为充” 为饮食结 构，其中“五果”是指
+A. 李、杏、枣、桃、柿, B. 李、杏、蕉、橘、柿, C. 李、杏、蕉、桃、栗, D. 李、杏、枣、桃、栗","The next question is about China's culture.
+Based on these dietary ideas, the Chinese chose the dietary structure of ""five grains for nourishment, five fruits for assistance, five animals for benefit, and five vegetables for filling"", among which the ""five fruits"" refer to
+A. plum, apricot, jujube, peach, persimmon, B. plum, apricot, banana, orange, persimmon, C. plum, apricot, banana, peach, chestnut, D. plum, apricot, jujube, peach, chestnut"
+8,test_9,中国古代著名科学家沈括和郭守敬在下列哪些领域中作出了卓越贡献?,"['A. 历法和数学', 'B. 数学和水利', 'C. 天文和历法', 'D. 天文和数学']",C,"下一个问题是关于中国的文化。
+中国古代著名科学家沈括和郭守敬在下列哪些领域中作出了卓越贡献?
+A. 历法和数学, B. 数学和水利, C. 天文和历法, D. 天文和数学","The next question is about China's culture.
+In which of the following fields did the famous ancient Chinese scientists Shen Kuo and Guo Shoujing make outstanding contributions?
+A. Calendar and mathematics, B. Mathematics and water conservancy, C. Astronomy and calendar, D. Astronomy and mathematics"
+9,test_10,下列菜肴中，不属于淮扬菜名菜的是,"['A. 蟹粉狮子头', 'B. 大煮干丝', 'C. 三套鸭', 'D. 汤爆双脆']",D,"下一个问题是关于中国的文化。
+下列菜肴中，不属于淮扬菜名菜的是
+A. 蟹粉狮子头, B. 大煮干丝, C. 三套鸭, D. 汤爆双脆","The next question is about China's culture.
+Which of the following dishes is not a famous Huaiyang dish?
+A. Crab meat and lion head, B. Boiled dried shredded vegetables, C. Three-piece duck, D. Fried double crispy vegetables in soup"
+10,test_11,某日，小明在读某本儒家经典时力求寻找“教育”从何而来，看到文中有云:“君子有三乐而王天下不与存焉。父母俱存，兄弟无故，一乐也;仰不愧于天，俯不作于人，二乐也:得天下英才而教育之，三乐也。”由此可见，小明读的儒家经典为()。,"['A. 《论语》', 'B. 《中庸》', 'C. 《大学》', 'D. 《孟子》']",D,"下一个问题是关于中国的文化。
+某日，小明在读某本儒家经典时力求寻找“教育”从何而来，看到文中有云:“君子有三乐而王天下不与存焉。父母俱存，兄弟无故，一乐也;仰不愧于天，俯不作于人，二乐也:得天下英才而教育之，三乐也。”由此可见，小明读的儒家经典为()。
+A. 《论语》, B. 《中庸》, C. 《大学》, D. 《孟子》","The next question is about China's culture.
+One day, when Xiao Ming was reading a Confucian classic, he tried to find out where ""education"" came from. He saw a sentence in the text: ""A gentleman has three joys, and ruling the world is not one of them. One joy is to have both parents alive and brothers without any trouble; the second joy is to look up to the sky without shame and look down without being offended by others; the third joy is to get the world's talents and educate them."" Therefore, it can be seen that the Confucian classic Xiao Ming read is ().
+A. ""The Analects"", B. ""The Doctrine of the Mean"", C. ""The Great Learning"", D. ""Mencius"""
+11,test_12,“格物、致知、诚意、正心、修身、齐家、治国、平天下”出自(),"['A. 《中庸》', 'B. 《孟子》', 'C. 《论语》', 'D. 《大学》']",D,"下一个问题是关于中国的文化。
+“格物、致知、诚意、正心、修身、齐家、治国、平天下”出自()
+A. 《中庸》, B. 《孟子》, C. 《论语》, D. 《大学》","The next question is about China's culture.
+""Investigate things, acquire knowledge, be sincere, correct one's mind, cultivate oneself, regulate one's family, govern the country, and bring peace to the world"" comes from ()
+A. ""The Doctrine of the Mean"", B. ""Mencius"", C. ""The Analects"", D. ""The Great Learning"""
+12,test_13,中国传统的二十四节气体系是根据哪一现象制定的,"['A. 太阳在黄道上的视运动', 'B. 地球自转', 'C. 行星的会合周期运动', 'D. 月亮的周期视运动']",A,"下一个问题是关于中国的文化。
+中国传统的二十四节气体系是根据哪一现象制定的
+A. 太阳在黄道上的视运动, B. 地球自转, C. 行星的会合周期运动, D. 月亮的周期视运动","The next question is about China's culture.
+The traditional Chinese system of 24 solar terms was formulated based on which phenomenon?
+A. The apparent motion of the sun on the ecliptic, B. The rotation of the earth, C. The synodic periodic motion of the planets, D. The periodic apparent motion of the moon"
+13,test_14,黑龙江在我国境内的最长支流是____。,"['A. 辽河', 'B. 松花江', 'C. 海河', 'D. 鸭绿江']",B,"下一个问题是关于中国的文化。
+黑龙江在我国境内的最长支流是____。
+A. 辽河, B. 松花江, C. 海河, D. 鸭绿江","The next question is about China's culture.
+The longest tributary of Heilongjiang River in my country is ____.
+A. Liaohe River, B. Songhua River, C. Haihe River, D. Yalu River"
+14,test_15,《霓裳羽衣舞》是我国哪个朝代著名舞蹈作品,"['A. 汉', 'B. 唐', 'C. 宋', 'D. 元']",B,"下一个问题是关于中国的文化。
+《霓裳羽衣舞》是我国哪个朝代著名舞蹈作品
+A. 汉, B. 唐, C. 宋, D. 元","The next question is about China's culture.
+""Rainbow Feather Dance"" is a famous dance work from which dynasty in my country
+A. Han, B. Tang, C. Song, D. Yuan"
+15,test_16,风靡全国的烤羊肉串和被誉为十全大补饭的“抓饭”，色香味俱佳的烤全羊，属于（）的美食,"['A. 朝鲜族', 'B. 维吾尔族', 'C. 哈萨克族', 'D. 苗族']",B,"下一个问题是关于中国的文化。
+风靡全国的烤羊肉串和被誉为十全大补饭的“抓饭”，色香味俱佳的烤全羊，属于（）的美食
+A. 朝鲜族, B. 维吾尔族, C. 哈萨克族, D. 苗族","The next question is about China's culture.
+The popular grilled lamb skewers, the ""pila"" known as the ten-fold tonic rice, and the delicious roasted whole lamb are all delicacies of ()
+A. Korean, B. Uyghur, C. Kazakh, D. Miao"
+16,test_17,西汉的____，包括《素问》和《灵枢》两部分，奠定了传统中医学理论基础，是我国现存最早的一部医书。,"['A. 《千金方》', 'B. 《脉经》', 'C. 《伤寒杂病论》', 'D. 《黄帝内经》']",D,"下一个问题是关于中国的文化。
+西汉的____，包括《素问》和《灵枢》两部分，奠定了传统中医学理论基础，是我国现存最早的一部医书。
+A. 《千金方》, B. 《脉经》, C. 《伤寒杂病论》, D. 《黄帝内经》","The next question is about China's culture.
+The ____ of the Western Han Dynasty, including ""Suwen"" and ""Lingshu"", laid the theoretical foundation of traditional Chinese medicine and is the earliest existing medical book in my country.
+A. ""Qianjin Fang"", B. ""Mai Jing"", C. ""Shanghan Zabing Lun"", D. ""Huangdi Neijing"""
+17,test_18,中国古代曾发展出自己独特的天文体系，我们现在所说的“农历”就是指过去数千年来我国一直沿用的历法系统，“农历”是什么类型的历法,"['A. 和现在的公历相同', 'B. 阴历', 'C. 阳历', 'D. 阴阳合历']",D,"下一个问题是关于中国的文化。
+中国古代曾发展出自己独特的天文体系，我们现在所说的“农历”就是指过去数千年来我国一直沿用的历法系统，“农历”是什么类型的历法
+A. 和现在的公历相同, B. 阴历, C. 阳历, D. 阴阳合历","The next question is about China's culture.
+Ancient China developed its own unique astronomical system. What we now call the ""Lunar Calendar"" refers to the calendar system that has been used in my country for thousands of years. What type of calendar is the ""Lunar Calendar""?
+A. Same as the current Gregorian calendar, B. Lunar calendar, C. Solar calendar, D. Lunar-solar calendar"
+18,test_19,满族传统名菜有,"['A. 黄氏蒸鸡', 'B. 一品锅', 'C. 白肉血汤', 'D. 莲花鸡签']",C,"下一个问题是关于中国的文化。
+满族传统名菜有
+A. 黄氏蒸鸡, B. 一品锅, C. 白肉血汤, D. 莲花鸡签","The next question is about China's culture.
+The famous traditional Manchu dishes include:
+A. Huang's Steamed Chicken, B. Yipin Pot, C. White Meat and Blood Soup, D. Lotus Chicken Skewer"
+19,test_20,按五行相生相克的规律，以下哪一条是错误的?,"['A. 火为土之母', 'B. 水为火之所不胜', 'C. 木为水之子', 'D. 金为木之所胜']",D,"下一个问题是关于中国的文化。
+按五行相生相克的规律，以下哪一条是错误的?
+A. 火为土之母, B. 水为火之所不胜, C. 木为水之子, D. 金为木之所胜","The next question is about China's culture.
+According to the law of mutual generation and mutual restraint of the five elements, which of the following is wrong?
+A. Fire is the mother of earth, B. Water is what fire cannot overcome, C. Wood is the child of water, D. Metal is what wood overcomes"
+20,test_21,清代官场饮茶有着特殊的程序和含义，有别于一般的茶道，主人若端茶，对客人说“请喝茶”，这表明,"['A. 对客人的尊敬', 'B. 会谈结束送客', 'C. 请客人品茶', 'D. 对客人不满']",B,"下一个问题是关于中国的文化。
+清代官场饮茶有着特殊的程序和含义，有别于一般的茶道，主人若端茶，对客人说“请喝茶”，这表明
+A. 对客人的尊敬, B. 会谈结束送客, C. 请客人品茶, D. 对客人不满","The next question is about China's culture.
+In the Qing Dynasty, drinking tea in the officialdom had a special procedure and meaning, which was different from the general tea ceremony. If the host served tea and said ""Please have tea"" to the guest, it showed
+A. respect for the guest, B. sending the guest away after the meeting, C. inviting the guest to taste tea, D. dissatisfaction with the guest"
+21,test_22,《枉凝眉》是电视剧____的主题曲。,"['A. 《红楼梦》', 'B. 《小街》', 'C. 《水浒传》', 'D. 《四世同堂》']",A,"下一个问题是关于中国的文化。
+《枉凝眉》是电视剧____的主题曲。
+A. 《红楼梦》, B. 《小街》, C. 《水浒传》, D. 《四世同堂》","The next question is about China's culture.
+""Wang Ningmei"" is the theme song of the TV series ____.
+A. ""Dream of Red Mansions"", B. ""Small Street"", C. ""Water Margin"", D. ""Four Generations Under One Roof"""
+22,test_23,唐朝时形成了“父教其子，子教其弟”“五尺童子耻不言文墨焉”的社会风尚，它的形成主要得益于____。,"['A. 科举制度的推行', 'B. 社会经济的繁荣', 'C. 学校体系的完备', 'D. 三省六部制的确立']",A,"下一个问题是关于中国的文化。
+唐朝时形成了“父教其子，子教其弟”“五尺童子耻不言文墨焉”的社会风尚，它的形成主要得益于____。
+A. 科举制度的推行, B. 社会经济的繁荣, C. 学校体系的完备, D. 三省六部制的确立","The next question is about China's culture.
+During the Tang Dynasty, the social trend of ""fathers teach their sons, sons teach their younger brothers"" and ""five-foot-tall boys are ashamed not to talk about literature and writing"" was formed. Its formation was mainly due to ____.
+A. The implementation of the imperial examination system, B. The prosperity of social economy, C. The improvement of the school system, D. The establishment of the three-province and six-department system"
+23,test_24,《梦溪笔谈》被称为“中国科学史上的坐标”，其作者是____。,"['A. 祖冲之', 'B. 沈括', 'C. 吴敬梓', 'D. 徐霞客']",B,"下一个问题是关于中国的文化。
+《梦溪笔谈》被称为“中国科学史上的坐标”，其作者是____。
+A. 祖冲之, B. 沈括, C. 吴敬梓, D. 徐霞客","The next question is about China's culture.
+Mengxi Bitan is called ""the coordinate of Chinese scientific history"". Its author is ____.
+A. Zu Chongzhi, B. Shen Kuo, C. Wu Jingzi, D. Xu Xiake"
+24,test_25,冬季人体最容易感受寒邪，为保护人体阳气，可多进食温热食品如,"['A. 海带', 'B. 百合', 'C. 苦瓜', 'D. 羊肉']",D,"下一个问题是关于中国的文化。
+冬季人体最容易感受寒邪，为保护人体阳气，可多进食温热食品如
+A. 海带, B. 百合, C. 苦瓜, D. 羊肉","The next question is about China's culture.
+In winter, the human body is most susceptible to cold evil. To protect the body's yang energy, you can eat more warm foods such as 
+A. Kelp, B. Lily, C. Bitter Melon, D. Lamb"
+25,test_26,对我国名山的描述正确的是____。,"['A. 黄山有“五岳独秀”之称，被列入世界自然与文化双重遗产', 'B. 华山最高峰南峰海拔1800米，自古以险闻名遐迩', 'C. 泰山有“天下第一山”之称，被列入世界自然与文化双重遗产', 'D. 衡山有七十二峰，三大主峰莲花峰、天都峰、祝融峰都超过1800米']",C,"下一个问题是关于中国的文化。
+对我国名山的描述正确的是____。
+A. 黄山有“五岳独秀”之称，被列入世界自然与文化双重遗产, B. 华山最高峰南峰海拔1800米，自古以险闻名遐迩, C. 泰山有“天下第一山”之称，被列入世界自然与文化双重遗产, D. 衡山有七十二峰，三大主峰莲花峰、天都峰、祝融峰都超过1800米","The next question is about China's culture.
+The correct description of famous mountains in my country is ____.
+A. Huangshan is known as ""the most beautiful of the Five Mountains"" and is listed as a world natural and cultural dual heritage, B. Huashan's highest peak, Nanfeng, is 1,800 meters above sea level and has been famous for its danger since ancient times, C. Taishan is known as ""the best mountain in the world"" and is listed as a world natural and cultural dual heritage, D. Hengshan has 72 peaks, and the three main peaks, Lianhua Peak, Tiandu Peak, and Zhurong Peak, are all over 1,800 meters"
+26,test_27,东汉由西汉王室刘秀创建，建都____。,"['A. 建业', 'B. 洛阳', 'C. 成都', 'D. 长安']",B,"下一个问题是关于中国的文化。
+东汉由西汉王室刘秀创建，建都____。
+A. 建业, B. 洛阳, C. 成都, D. 长安","The next question is about China's culture.
+The Eastern Han Dynasty was founded by Liu Xiu, a member of the Western Han Dynasty royal family, and its capital was ____.
+A. Jianye, B. Luoyang, C. Chengdu, D. Chang'an"
+27,test_28,中国古代以少胜多的战役有很多，下列选项不是以少胜多战役的是,"['A. 赤壁之战', 'B. 长平之战', 'C. 巨鹿之战', 'D. 官渡之战']",B,"下一个问题是关于中国的文化。
+中国古代以少胜多的战役有很多，下列选项不是以少胜多战役的是
+A. 赤壁之战, B. 长平之战, C. 巨鹿之战, D. 官渡之战","The next question is about China's culture.
+There were many battles in ancient China where the few defeated the many. The following options are not battles where the few defeated the many:
+A. Battle of Chibi, B. Battle of Changping, C. Battle of Julu, D. Battle of Guandu"
+28,test_29,“说文四大家”中注重分析字义来源和发展的是,"['A. 朱骏声', 'B. 段玉裁', 'C. 桂馥', 'D. 王筠']",A,"下一个问题是关于中国的文化。
+“说文四大家”中注重分析字义来源和发展的是
+A. 朱骏声, B. 段玉裁, C. 桂馥, D. 王筠","The next question is about China's culture.
+Among the ""Four Masters of Shuowen"", the one who focused on analyzing the origin and development of word meanings was 
+A. Zhu Junsheng, B. Duan Yucai, C. Gui Fu, D. Wang Yun"
+29,test_30,下列各句中加下划线的成语使用恰当的一句是：____,"['A. 峨眉山是闻名中外的旅游胜地，素有“峨眉天下秀”之誉其巍峨磅礴，重峦叠嶂，山山有奇景，十里不同天，真是$\\underline{巧夺天工}$。', 'B. 对于学到的原理，他都要拿实物来做实验，求得彻底了解，决不$\\underline{囫囵吞枣}$，马虎了事。', 'C. 你的这个$\\underline{不情之请}$让我很为难，过两天我再答复你吧。', 'D. 在学习上也是这样，吃别人嚼过的馍不香，要善于动脑筋，$\\underline{师心自用}$，才能学深学透。']",B,"下一个问题是关于中国的文化。
+下列各句中加下划线的成语使用恰当的一句是：____
+A. 峨眉山是闻名中外的旅游胜地，素有“峨眉天下秀”之誉其巍峨磅礴，重峦叠嶂，山山有奇景，十里不同天，真是$\underline{巧夺天工}$。, B. 对于学到的原理，他都要拿实物来做实验，求得彻底了解，决不$\underline{囫囵吞枣}$，马虎了事。, C. 你的这个$\underline{不情之请}$让我很为难，过两天我再答复你吧。, D. 在学习上也是这样，吃别人嚼过的馍不香，要善于动脑筋，$\underline{师心自用}$，才能学深学透。","The next question is about China's culture.
+The sentence with the underlined idiom used properly is:____
+A. Mount Emei is a famous tourist attraction in China and abroad. It is known as ""the most beautiful mountain in the world"". It is majestic and magnificent, with overlapping mountains and unique scenery. The sky is different every ten miles. It is really $\underline{exquisite workmanship}$. , B. For the principles he learned, he would use real objects to do experiments to obtain a thorough understanding. He would never $\underline{swallow the whole thing}$ or be careless. , C. Your $\underline{unwelcome request}$ makes me very embarrassed. I will reply to you in two days. , D. The same is true in learning. Eating bread chewed by others is not delicious. You must be good at using your brain and $\underline{teacher's mind is for your own use}$ to learn deeply and thoroughly."
+30,test_31,“天将降大任于斯人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行拂乱其所为，所以动心忍性，增益其所不能。”体现的德育方法是____,"['A. 实际锻炼', 'B. 说服教育', 'C. 榜样示范', 'D. 情感陶冶']",A,"下一个问题是关于中国的文化。
+“天将降大任于斯人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行拂乱其所为，所以动心忍性，增益其所不能。”体现的德育方法是____
+A. 实际锻炼, B. 说服教育, C. 榜样示范, D. 情感陶冶","The next question is about China's culture.
+""When God is about to give a man a great responsibility, he must first make his mind suffer, his muscles and bones tired, his body hungry and empty, and his actions frustrated, so as to move his heart and temper his nature, and increase his ability."" The moral education method embodied is ____
+A. Practical training, B. Persuasive education, C. Model demonstration, D. Emotional cultivation"
+31,test_32,下列茶叶中， 按加工工艺依次为不发酵、半发酵和全发酵的是,"['A. 太湖碧螺春， 铁观音， 祁红', 'B. 银针白豪， 乌龙菜， 单枞', 'C. 西湖龙井， 水仙， 大红袍', 'D. 黄山毛峰， 君山银针， 宣红']",A,"下一个问题是关于中国的文化。
+下列茶叶中， 按加工工艺依次为不发酵、半发酵和全发酵的是
+A. 太湖碧螺春， 铁观音， 祁红, B. 银针白豪， 乌龙菜， 单枞, C. 西湖龙井， 水仙， 大红袍, D. 黄山毛峰， 君山银针， 宣红","The next question is about China's culture.
+Among the following teas, the ones that are processed in the order of non-fermentation, semi-fermentation and full fermentation are:
+A. Taihu Biluochun, Tieguanyin, Qihong, B. Yinzhen Baihao, Oolongcai, Dancong, C. West Lake Longjing, Narcissus, Dahongpao, D. Huangshan Maofeng, Junshan Yinzhen, Xuanhong"
+32,test_33,北方园林尤以____为代表。,"['A. 北京', 'B. 开封', 'C. 洛阳', 'D. 西安']",A,"下一个问题是关于中国的文化。
+北方园林尤以____为代表。
+A. 北京, B. 开封, C. 洛阳, D. 西安","The next question is about China's culture.
+The northern gardens are especially represented by ____.
+A. Beijing, B. Kaifeng, C. Luoyang, D. Xi'an"
+33,test_34,中医养生的三个层次包括,"['A. 养身、养性、养神', 'B. 养身、养病、养心', 'C. 养身、养性、养心', 'D. 养病、养性、养心']",C,"下一个问题是关于中国的文化。
+中医养生的三个层次包括
+A. 养身、养性、养神, B. 养身、养病、养心, C. 养身、养性、养心, D. 养病、养性、养心","The next question is about China's culture.
+The three levels of TCM health preservation include:
+A. Health preservation, health preservation, and health preservation, B. Health preservation, health preservation, and health preservation, C. Health preservation, health preservation, and health preservation, D. Health preservation, health preservation, and health preservation"
+34,test_35,中国佛教四大名山中，观音菩萨的道场是,"['A. 浙江普陀山', 'B. 四川峨嵋山', 'C. 安徽九华山', 'D. 山西五台山']",A,"下一个问题是关于中国的文化。
+中国佛教四大名山中，观音菩萨的道场是
+A. 浙江普陀山, B. 四川峨嵋山, C. 安徽九华山, D. 山西五台山","The next question is about China's culture.
+Among the four famous mountains of Chinese Buddhism, the place of Guanyin Bodhisattva is 
+A. Putuo Mountain in Zhejiang, B. Emei Mountain in Sichuan, C. Jiuhua Mountain in Anhui, D. Wutai Mountain in Shanxi"
+35,test_36,西周“六艺”中与体育有关的内容是(),"['A. 书、数', 'B. 射、御', 'C. 礼、乐', 'D. 诗、书']",B,"下一个问题是关于中国的文化。
+西周“六艺”中与体育有关的内容是()
+A. 书、数, B. 射、御, C. 礼、乐, D. 诗、书","The next question is about China's culture.
+The content related to sports in the ""Six Arts"" of the Western Zhou Dynasty is ()
+A. Book, mathematics, B. Archery, charioteering, C. Rites, music, D. Poetry, books"
+36,test_37,下面是中国古代四大名著中的人物与情节，其中搭配不当的一项是____。,"['A. 周瑜——三顾茅庐', 'B. 鲁智深——倒拔垂杨柳', 'C. 刘姥姥——进大观园', 'D. 孙悟空——大闹天宫']",A,"下一个问题是关于中国的文化。
+下面是中国古代四大名著中的人物与情节，其中搭配不当的一项是____。
+A. 周瑜——三顾茅庐, B. 鲁智深——倒拔垂杨柳, C. 刘姥姥——进大观园, D. 孙悟空——大闹天宫","The next question is about China's culture.
+The following are characters and plots from the four great ancient Chinese classics. The one that is not properly matched is ____.
+A. Zhou Yu - Three Visits to the Thatched Cottage, B. Lu Zhishen - Pulling Out the Weeping Willow, C. Granny Liu - Entering the Grand View Garden, D. Sun Wukong - Making Trouble in Heaven"
+37,test_38,中国读书人历来“耻于言商，耻于言利”，而清末状元张謇却放弃仕途，投身于近代工商业。这里反映出的时代观念是____,"['A. 重商轻农', 'B. 重利轻义', 'C. 实业救国', 'D. 工商皆本']",C,"下一个问题是关于中国的文化。
+中国读书人历来“耻于言商，耻于言利”，而清末状元张謇却放弃仕途，投身于近代工商业。这里反映出的时代观念是____
+A. 重商轻农, B. 重利轻义, C. 实业救国, D. 工商皆本","The next question is about China's culture.
+Chinese scholars have always been ""ashamed to talk about business and profit"", but Zhang Jian, the top scholar in the late Qing Dynasty, gave up his official career and devoted himself to modern industry and commerce. The concept of the times reflected here is____
+A. Emphasis on business over agriculture, B. Emphasis on profit over morality, C. Saving the country through industry, D. Both industry and commerce are fundamental"
+38,test_39,《方珍珠》、《西望长安》和《宝船》是____的作品。,"['A. 郭沫若', 'B. 欧阳予倩', 'C. 老舍', 'D. 田汉']",C,"下一个问题是关于中国的文化。
+《方珍珠》、《西望长安》和《宝船》是____的作品。
+A. 郭沫若, B. 欧阳予倩, C. 老舍, D. 田汉","The next question is about China's culture.
+""Fang Zhenzhu"", ""Looking West to Chang'an"" and ""Treasure Ship"" are works by ____.
+A. Guo Moruo, B. Ouyang Yuqian, C. Lao She, D. Tian Han"
+39,test_40,下列唐诗所描写的内容与对应的体育项目不相符的是,"['A. 壮徒恒贾勇，拔拒抵长河——拔河', 'B. 御马牵来亲自试，珠球到处玉蹄知——马球', 'C. 杨桴击节雷阗阗，乱流齐进声轰然——游泳', 'D. 上弦明月半，激箭流星远——射箭']",C,"下一个问题是关于中国的文化。
+下列唐诗所描写的内容与对应的体育项目不相符的是
+A. 壮徒恒贾勇，拔拒抵长河——拔河, B. 御马牵来亲自试，珠球到处玉蹄知——马球, C. 杨桴击节雷阗阗，乱流齐进声轰然——游泳, D. 上弦明月半，激箭流星远——射箭","The next question is about China's culture.
+Which of the following Tang poems does not match the corresponding sports?
+A. The brave warriors are always brave, pulling the sticks against the long river - tug of war, B. The imperial horse is brought to try it out personally, and the balls are everywhere and the jade hooves know - polo, C. The drumsticks are struck with thunder, and the turbulent currents are advancing with a roar - swimming, D. The moon is half full, and the arrows are shot far away - archery"
+40,test_41,我国酒器之多，种类之繁，造形之美，堪为世界之冠。商周时期酒器尤为复杂，其中不包括,"['A. 饮酒器', 'B. 盛酒器', 'C. 分酒器', 'D. 煮酒器']",C,"下一个问题是关于中国的文化。
+我国酒器之多，种类之繁，造形之美，堪为世界之冠。商周时期酒器尤为复杂，其中不包括
+A. 饮酒器, B. 盛酒器, C. 分酒器, D. 煮酒器","The next question is about China's culture.
+my country's wine vessels are the most numerous, diverse, and beautiful in shape in the world. Wine vessels in the Shang and Zhou dynasties were particularly complex, which did not include
+A. Drinking vessels, B. Wine containers, C. Wine dispensers, D. Wine cookers"
+41,test_42,“知子莫若父，知女莫如母”说明家庭教育比学校教育具有 ()。,"['A. 先导性', 'B. 针对性', 'C. 权威性', 'D. 感染性']",B,"下一个问题是关于中国的文化。
+“知子莫若父，知女莫如母”说明家庭教育比学校教育具有 ()。
+A. 先导性, B. 针对性, C. 权威性, D. 感染性","The next question is about China's culture.
+“No one knows a son better than his father, and no one knows a daughter better than her mother” shows that family education is more () than school education.
+A. Leading, B. Targeted, C. Authoritative, D. Infectious"
+42,test_43,元代的漆器品种较多，以____为主，有剔红、剔黄、剔黑、剔彩等不同的色彩运用。,"['A. 戗金', 'B. 螺钿', 'C. 平脱', 'D. 雕漆']",D,"下一个问题是关于中国的文化。
+元代的漆器品种较多，以____为主，有剔红、剔黄、剔黑、剔彩等不同的色彩运用。
+A. 戗金, B. 螺钿, C. 平脱, D. 雕漆","The next question is about China's culture.
+There are many varieties of lacquerware in the Yuan Dynasty, mainly ____, with different colors such as red, yellow, black, and colored.
+A. Gold inlay, B. Mother-of-pearl, C. Flat peeling, D. Carved lacquer"
+43,test_44,“咬字就如猫抓老鼠，不一下子抓死，既要抓住，又要保存活的。”是谁对自己“依字行腔”的形象说明,"['A. 梅兰芳', 'B. 程砚秋', 'C. 尚小云', 'D. 荀慧生']",B,"下一个问题是关于中国的文化。
+“咬字就如猫抓老鼠，不一下子抓死，既要抓住，又要保存活的。”是谁对自己“依字行腔”的形象说明
+A. 梅兰芳, B. 程砚秋, C. 尚小云, D. 荀慧生","The next question is about China's culture.
+""Pronouncing words is like a cat catching a mouse. You have to catch it and keep it alive, instead of killing it all at once."" Who described his own ""singing according to the words""?
+A. Mei Lanfang, B. Cheng Yanqiu, C. Shang Xiaoyun, D. Xun Huisheng"
+44,test_45,七年级（一）班本月负责学校文化长廊的黑板报设计，他们选定的主题是“唐代的中外交往”，并拟定了如下四个标题，请你帮他们指出哪一项是不恰当的____,"['A. 玄奘西游天竺取经', 'B. 日本派遣唐使来华', 'C. 鉴真东渡宣扬中国文化', 'D. 文成公主与松赞干布成亲']",D,"下一个问题是关于中国的文化。
+七年级（一）班本月负责学校文化长廊的黑板报设计，他们选定的主题是“唐代的中外交往”，并拟定了如下四个标题，请你帮他们指出哪一项是不恰当的____
+A. 玄奘西游天竺取经, B. 日本派遣唐使来华, C. 鉴真东渡宣扬中国文化, D. 文成公主与松赞干布成亲","The next question is about China's culture.
+The seventh grade (one) class is responsible for the blackboard newspaper design of the school's cultural corridor this month. The theme they chose is ""Sino-foreign relations in the Tang Dynasty"" and they drafted the following four titles. Please help them point out which one is inappropriate____
+A. Xuanzang traveled to India to seek Buddhist scriptures, B. Japan sent Tang envoys to China, C. Jianzhen traveled to the East to promote Chinese culture, D. Princess Wencheng married Songtsen Gampo"
+45,test_46,商代青铜器的代表纹样是____。,"['A. 窃曲纹、环带纹', 'B. 蟠螭纹', 'C. 饕餮纹、夔纹', 'D. 铭文']",C,"下一个问题是关于中国的文化。
+商代青铜器的代表纹样是____。
+A. 窃曲纹、环带纹, B. 蟠螭纹, C. 饕餮纹、夔纹, D. 铭文","The next question is about China's culture.
+The representative pattern of Shang Dynasty bronze ware is____.
+A. Qiequ pattern, ring belt pattern, B. Panchi pattern, C. Taotie pattern, Kui pattern, D. Inscription"
+46,test_47,按照传统的“六书”体例，“吹”字应属,"['A. 象形', 'B. 指事', 'C. 形声', 'D. 会意']",C,"下一个问题是关于中国的文化。
+按照传统的“六书”体例，“吹”字应属
+A. 象形, B. 指事, C. 形声, D. 会意","The next question is about China's culture.
+According to the traditional ""Six Characters"" system, the character ""吹"" should be classified as
+A. Pictographic, B. Indicative, C. Phonophonetic, D. Ideographic"
+47,test_48,《四世同堂》中的冠晓荷是____。,"['A. 革命者的形象', 'B. 老派市民的形象', 'C. 正直的知识分子形象', 'D. 民族败类的形象']",D,"下一个问题是关于中国的文化。
+《四世同堂》中的冠晓荷是____。
+A. 革命者的形象, B. 老派市民的形象, C. 正直的知识分子形象, D. 民族败类的形象","The next question is about China's culture.
+Guan Xiaohe in ""Four Generations Under One Roof"" is ____.
+A. The image of a revolutionary, B. The image of an old-fashioned citizen, C. The image of an upright intellectual, D. The image of a national scum"
+48,test_49,下列关于山东风味说法错误的是,"['A. 山东菜的口味极重纯正醇浓，咸、鲜、酸、甜、辣各味皆有，很少有复合味', 'B. 山东菜善于制汤、用汤，常用制好的清汤、奶汤加入山珍海味鲜蔬杂货中', 'C. 山东名菜有糖醋黄河鲤鱼、油爆双脆、九转大肠等', 'D. 山东取料以羊肉为主而以羊、猪合烹为常见，菜肴以热烫炙口、酥透人味而著称']",D,"下一个问题是关于中国的文化。
+下列关于山东风味说法错误的是
+A. 山东菜的口味极重纯正醇浓，咸、鲜、酸、甜、辣各味皆有，很少有复合味, B. 山东菜善于制汤、用汤，常用制好的清汤、奶汤加入山珍海味鲜蔬杂货中, C. 山东名菜有糖醋黄河鲤鱼、油爆双脆、九转大肠等, D. 山东取料以羊肉为主而以羊、猪合烹为常见，菜肴以热烫炙口、酥透人味而著称","The next question is about China's culture.
+Which of the following statements about Shandong cuisine is wrong?
+A. Shandong cuisine is very strong, pure and rich, with salty, fresh, sour, sweet and spicy flavors, and rarely complex flavors. B. Shandong cuisine is good at making and using soups, and often uses prepared clear soup and milk soup to add mountain and sea delicacies, fresh vegetables and groceries. C. Shandong famous dishes include sweet and sour Yellow River carp, fried double crisp, nine-turn large intestine, etc. D. Shandong cuisine mainly uses mutton as its main ingredient, and it is common to cook mutton and pork together. The dishes are famous for being hot and crispy."
+49,test_50,中国现存最古老的木结构建筑位于____。,"['A. 山西五台县塔院寺', 'B. 山西五台县南禅寺', 'C. 山西芮城县广仁王庙', 'D. 山西五台县佛光寺']",B,"下一个问题是关于中国的文化。
+中国现存最古老的木结构建筑位于____。
+A. 山西五台县塔院寺, B. 山西五台县南禅寺, C. 山西芮城县广仁王庙, D. 山西五台县佛光寺","The next question is about China's culture.
+The oldest existing wooden structure in China is located in ____.
+A. Tayuan Temple in Wutai County, Shanxi, B. Nanchan Temple in Wutai County, Shanxi, C. Guangrenwang Temple in Ruicheng County, Shanxi, D. Foguang Temple in Wutai County, Shanxi"
+50,test_51,中国唐朝中央官学的“六学二馆”鲜明地体现了封建社会教育的(),"['A. 断性', 'B. 阶级性', 'C. 传统性', 'D. 等级性']",D,"下一个问题是关于中国的文化。
+中国唐朝中央官学的“六学二馆”鲜明地体现了封建社会教育的()
+A. 断性, B. 阶级性, C. 传统性, D. 等级性","The next question is about China's culture.
+The ""six schools and two halls"" of the central government schools in the Tang Dynasty of China clearly reflected the ()
+A. discontinuity, B. class nature, C. traditional nature, D. hierarchical nature of education in feudal society"
+51,test_52,“坐地日行八万里，巡六遥看一千河”，这一著名诗句包含的哲理是____,"['A. 运动的绝对性和静止的相对性的统一', 'B. 物质运动的无限性和时空的有限性的统一', 'C. 时空的无限性和有限性的统一', 'D. 物质运动的客观性和时空的主观性的统一']",A,"下一个问题是关于中国的文化。
+“坐地日行八万里，巡六遥看一千河”，这一著名诗句包含的哲理是____
+A. 运动的绝对性和静止的相对性的统一, B. 物质运动的无限性和时空的有限性的统一, C. 时空的无限性和有限性的统一, D. 物质运动的客观性和时空的主观性的统一","The next question is about China's culture.
+""Sitting on the ground, I travel 80,000 miles a day, and look at a thousand rivers from afar"", the philosophy contained in this famous poem is____
+A. The unity of the absoluteness of movement and the relativity of stillness, B. The unity of the infinity of material movement and the finiteness of time and space, C. The unity of the infinity and finiteness of time and space, D. The unity of the objectivity of material movement and the subjectivity of time and space"
+52,test_53,下列园林建筑中，____形式优美且不讲究对称布局。,"['A. 榭', 'B. 廊', 'C. 亭', 'D. 轩']",D,"下一个问题是关于中国的文化。
+下列园林建筑中，____形式优美且不讲究对称布局。
+A. 榭, B. 廊, C. 亭, D. 轩","The next question is about China's culture.
+Among the following garden buildings, ____ is beautiful in form and does not emphasize symmetrical layout.
+A. Pavilion, B. Corridor, C. Pavilion, D. Pavilion"
+53,test_54,明传奇《目连救母劝善记》是____写的。,"['A. 高濂', 'B. 许自昌', 'C. 周朝俊', 'D. 郑自珍']",D,"下一个问题是关于中国的文化。
+明传奇《目连救母劝善记》是____写的。
+A. 高濂, B. 许自昌, C. 周朝俊, D. 郑自珍","The next question is about China's culture.
+The Ming legend ""Mulian Saves His Mother and Persuades Her to Do Good"" was written by ____.
+A. Gao Lian, B. Xu Zichang, C. Zhou Chaojun, D. Zheng Zizhen"
+54,test_55,隋朝末年，有位商人欲通过大运河从余杭运送一批粮食到洛阳，其先后要经过____,"['A. 江南河→邗沟→永济渠', 'B. 邗沟→江南河→通济渠', 'C. 江南河→邗沟', 'D. 江南河→邗沟→通济渠']",D,"下一个问题是关于中国的文化。
+隋朝末年，有位商人欲通过大运河从余杭运送一批粮食到洛阳，其先后要经过____
+A. 江南河→邗沟→永济渠, B. 邗沟→江南河→通济渠, C. 江南河→邗沟, D. 江南河→邗沟→通济渠","The next question is about China's culture.
+At the end of the Sui Dynasty, a merchant wanted to transport a batch of grain from Yuhang to Luoyang via the Grand Canal. He had to pass through ____
+A. Jiangnan River → Han Canal → Yongji Canal, B. Han Canal → Jiangnan River → Tongji Canal, C. Jiangnan River → Han Canal, D. Jiangnan River → Han Canal → Tongji Canal"
+55,test_56,中国古代发展出自己独特的星空划分和命名体系，古人把天空划分为三垣二十八宿，下列不属于“三垣”的是,"['A. 军市垣', 'B. 紫微垣', 'C. 天市垣', 'D. 太微垣']",A,"下一个问题是关于中国的文化。
+中国古代发展出自己独特的星空划分和命名体系，古人把天空划分为三垣二十八宿，下列不属于“三垣”的是
+A. 军市垣, B. 紫微垣, C. 天市垣, D. 太微垣","The next question is about China's culture.
+Ancient China developed its own unique system of starry sky division and naming. The ancients divided the sky into three enclosures and twenty-eight constellations. The following does not belong to the ""three enclosures"": A. Junshi Enclosure, B. Ziwei Enclosure, C. Tianshi Enclosure, D. Taiwei Enclosure"
+56,test_57,有些人的名字往往与时代特征有一定的联系，下列名字中与他出生的时代特征不相符合的是____,"['A. 出生于1951年，取名援朝', 'B. 出生于1978年，取名文革', 'C. 出生于1958年，取名跃进', 'D. 出生于1949年，取名建国']",B,"下一个问题是关于中国的文化。
+有些人的名字往往与时代特征有一定的联系，下列名字中与他出生的时代特征不相符合的是____
+A. 出生于1951年，取名援朝, B. 出生于1978年，取名文革, C. 出生于1958年，取名跃进, D. 出生于1949年，取名建国","The next question is about China's culture.
+Some people's names are often related to the characteristics of the times. Among the following names, the one that does not match the characteristics of the time he was born is____
+A. Born in 1951, named Yuan Chao, B. Born in 1978, named Wen Ge, C. Born in 1958, named Yue Jin, D. Born in 1949, named Jianguo"
+57,test_58,对下列诗词蕴含的化学原理解释错误的是,"['A. 蜡烛成灰泪始干——烃类的不完全燃烧', 'B. 日照香炉生紫烟——多环芳香烃的升华', 'C. 爆竹声中一岁除——爆炸产生二氧化硫', 'D. 洪炉照破夜沉沉——燃烧释放二氧化碳']",B,"下一个问题是关于中国的文化。
+对下列诗词蕴含的化学原理解释错误的是
+A. 蜡烛成灰泪始干——烃类的不完全燃烧, B. 日照香炉生紫烟——多环芳香烃的升华, C. 爆竹声中一岁除——爆炸产生二氧化硫, D. 洪炉照破夜沉沉——燃烧释放二氧化碳","The next question is about China's culture.
+Which of the following poems explains the chemical principles incorrectly?
+A. The candle burns down to ashes before the tears dry up - incomplete combustion of hydrocarbons, B. The sun shines on the incense burner and produces purple smoke - the sublimation of polycyclic aromatic hydrocarbons, C. The year ends with the sound of firecrackers - the explosion produces sulfur dioxide, D. The huge furnace illuminates the dark night - combustion releases carbon dioxide"
+58,test_59,《齐民要术》的序言中写道：“舍本逐末，贤者所非。日富岁贫，饥寒之渐，故商贾之事，阙（同“缺”）而不录。”这说明该书____,"['A. 反映了民族融合的趋势', 'B. 重视商业发展', 'C. 推动了南方农业生产', 'D. 体现了以农为本的思想']",D,"下一个问题是关于中国的文化。
+《齐民要术》的序言中写道：“舍本逐末，贤者所非。日富岁贫，饥寒之渐，故商贾之事，阙（同“缺”）而不录。”这说明该书____
+A. 反映了民族融合的趋势, B. 重视商业发展, C. 推动了南方农业生产, D. 体现了以农为本的思想","The next question is about China's culture.
+The preface of ""Qimin Yaoshu"" states: ""Abandoning the root and pursuing the end is what wise people disapprove of. Rich by day, poor by year, hungry and cold gradually, so the business of merchants is omitted and not recorded."" This shows that the book ____
+A. reflects the trend of national integration, B. attaches importance to commercial development, C. promotes agricultural production in the south, D. embodies the idea of taking agriculture as the basis"
+59,test_60,徐悲鸿一生致力于国画的创新实践，他认为革新中国绘画的要旨在于：“古法之佳者，守之；不佳者，改之；垂绝者，继之；未足者，增之．”这给我们文化创新的启示是,"['A. 继承传统，推陈出新', 'B. 要立足于传统文化', 'C. 要体现时代精神', 'D. 面向世界，博采众长']",A,"下一个问题是关于中国的文化。
+徐悲鸿一生致力于国画的创新实践，他认为革新中国绘画的要旨在于：“古法之佳者，守之；不佳者，改之；垂绝者，继之；未足者，增之．”这给我们文化创新的启示是
+A. 继承传统，推陈出新, B. 要立足于传统文化, C. 要体现时代精神, D. 面向世界，博采众长","The next question is about China's culture.
+Xu Beihong devoted his life to the innovative practice of Chinese painting. He believed that the key to reforming Chinese painting was: ""Keep the good old methods; change the bad ones; continue the dying ones; and add the inadequate ones."" The inspiration for our cultural innovation is: A. Inherit tradition and bring forth something new, B. Be based on traditional culture, C. Reflect the spirit of the times, D. Face the world and learn from others"
+60,test_61,唐代著名诗人杜荀鹤在《山中寡妇》中写道：“任是深山更深处，也应无计避征徭。”这句诗主要强调了税收的____,"['A. 固定性', 'B. 法制性', 'C. 无偿性', 'D. 强制性']",D,"下一个问题是关于中国的文化。
+唐代著名诗人杜荀鹤在《山中寡妇》中写道：“任是深山更深处，也应无计避征徭。”这句诗主要强调了税收的____
+A. 固定性, B. 法制性, C. 无偿性, D. 强制性","The next question is about China's culture.
+Du Xunhe, a famous Tang Dynasty poet, wrote in ""Widow in the Mountain"": ""Even if you are in the deepest mountains, you will have no way to avoid taxation."" This poem mainly emphasizes the ____ of taxation
+A. fixed, B. legal, C. gratuitous, D. compulsory"
+61,test_62,对于新科进士，唐宋时代都按例赐宴，称为,"['A. “曲江宴”（唐进士）', 'B. “恩荣宴”(明清)', 'C. “谢师宴”', 'D. “闻喜宴”']",D,"下一个问题是关于中国的文化。
+对于新科进士，唐宋时代都按例赐宴，称为
+A. “曲江宴”（唐进士）, B. “恩荣宴”(明清), C. “谢师宴”, D. “闻喜宴”","The next question is about China's culture.
+In the Tang and Song dynasties, banquets were given to newly-appointed Jinshi scholars according to the custom, which were called
+A. ""Qujiang Banquet"" (Tang Jinshi), B. ""Enrong Banquet"" (Ming and Qing Dynasties), C. ""Xie Shi Banquet"", D. ""Wenxi Banquet"""
+62,test_63,中国传统认为开门七件事中不包括什么,"['A. 茶酒', 'B. 酱醋', 'C. 柴米', 'D. 油盐']",A,"下一个问题是关于中国的文化。
+中国传统认为开门七件事中不包括什么
+A. 茶酒, B. 酱醋, C. 柴米, D. 油盐","The next question is about China's culture.
+According to Chinese tradition, what is not included in the seven necessities of life?
+A. Tea and wine, B. Soy sauce and vinegar, C. Firewood and rice, D. Oil and salt"
+63,test_64,西周时的商高是见于著述的中国古代第一位____。,"['A. 天文学家', 'B. 数学家', 'C. 农学家', 'D. 医学家']",B,"下一个问题是关于中国的文化。
+西周时的商高是见于著述的中国古代第一位____。
+A. 天文学家, B. 数学家, C. 农学家, D. 医学家","The next question is about China's culture.
+Shang Gao of the Western Zhou Dynasty was the first ____ in ancient China to be recorded in writings.
+A. Astronomer, B. Mathematician, C. Agronomist, D. Medical scientist"
+64,test_65,下列与武则天有关的表述不准确的一项是____。,"['A. 自立为帝，改国号为“周”', 'B. 以残酷诛杀的手段对付李唐宗室', 'C. “武周政治”时期，社会经济达到前所未有的极盛时期', 'D. 代唐高宗视政，初显管理才能']",C,"下一个问题是关于中国的文化。
+下列与武则天有关的表述不准确的一项是____。
+A. 自立为帝，改国号为“周”, B. 以残酷诛杀的手段对付李唐宗室, C. “武周政治”时期，社会经济达到前所未有的极盛时期, D. 代唐高宗视政，初显管理才能","The next question is about China's culture.
+The following statement about Wu Zetian is inaccurate____.
+A. She declared herself emperor and changed the country's name to ""Zhou"", B. She dealt with the royal family of Li Tang by cruel means of killing, C. During the ""Wu Zhou politics"", the social economy reached an unprecedented peak, D. She took charge of government affairs on behalf of Emperor Gaozong of Tang and began to show her management ability"
+65,test_66,中国历来有“谨乎其外以养乎其”这一道德传统，其中反映的道理是,"['A. 他律与自律的统一', 'B. 严于律己的重要性', 'C. 将他律转化为自律', 'D. 将自律转化为他律']",C,"下一个问题是关于中国的文化。
+中国历来有“谨乎其外以养乎其”这一道德传统，其中反映的道理是
+A. 他律与自律的统一, B. 严于律己的重要性, C. 将他律转化为自律, D. 将自律转化为他律","The next question is about China's culture.
+China has always had the moral tradition of ""being cautious outside to nourish oneself"", which reflects the following principles:
+A. the unity of external discipline and self-discipline, B. the importance of strict self-discipline, C. transforming external discipline into self-discipline, D. transforming self-discipline into external discipline"
+66,test_67,在中国，因张三不偿还一年前的十万元现金借款(利率5%)，李四将其诉至法院，但李四丢失了借条原件，面临败诉的风险，最后在法院的调解下，张三自愿偿还李四现金十万元，李四主动放弃利息的诉讼请求，下列法院内涵最能体现这一调解精神的是,"['A. 无救济，即无权利', 'B. 举证之所在，败诉之所在', 'C. 善良的心，是最好的法律', 'D. 法者，定纷止争也']",C,"下一个问题是关于中国的文化。
+在中国，因张三不偿还一年前的十万元现金借款(利率5%)，李四将其诉至法院，但李四丢失了借条原件，面临败诉的风险，最后在法院的调解下，张三自愿偿还李四现金十万元，李四主动放弃利息的诉讼请求，下列法院内涵最能体现这一调解精神的是
+A. 无救济，即无权利, B. 举证之所在，败诉之所在, C. 善良的心，是最好的法律, D. 法者，定纷止争也","The next question is about China's culture.
+In China, because Zhang San did not repay the 100,000 yuan cash loan (interest rate 5%) from a year ago, Li Si took him to court, but Li Si lost the original IOU and faced the risk of losing the case. Finally, under the mediation of the court, Zhang San voluntarily repaid Li Si 100,000 yuan in cash, and Li Si voluntarily gave up the interest lawsuit. The following court connotations best reflect this mediation spirit
+A. No relief, no rights, B. Where the evidence is provided, there is a loss, C. A kind heart is the best law, D. Law is to settle disputes and end disputes"
+67,test_68,个人主体品德是由哪些方面构成的?,"['A. 知、仁、勇', 'B. 仁、义、廉、耻', 'C. 知、情、意', 'D. 仁、义、礼、智、信']",C,"下一个问题是关于中国的文化。
+个人主体品德是由哪些方面构成的?
+A. 知、仁、勇, B. 仁、义、廉、耻, C. 知、情、意, D. 仁、义、礼、智、信","The next question is about China's culture.
+What aspects make up the moral character of an individual?
+A. Knowledge, benevolence, courage, B. benevolence, righteousness, integrity, shame, C. knowledge, emotion, will, D. benevolence, righteousness, courtesy, wisdom, trustworthiness"
+68,test_69,公元1175年6月，陆九龄、陆九渊兄弟在鹅湖寺与朱熹就各自的哲学观点展开激烈的辩论。对他们辩论观点叙述正确的是____,"['A. 朱熹主张“泛观博览，而后为之约”', 'B. 陆九渊区分了教育的“小学”“大学”', 'C. 陆九渊主张“致良知”“知行合一”', 'D. 朱熹提出“心即理也”，本心即天理']",A,"下一个问题是关于中国的文化。
+公元1175年6月，陆九龄、陆九渊兄弟在鹅湖寺与朱熹就各自的哲学观点展开激烈的辩论。对他们辩论观点叙述正确的是____
+A. 朱熹主张“泛观博览，而后为之约”, B. 陆九渊区分了教育的“小学”“大学”, C. 陆九渊主张“致良知”“知行合一”, D. 朱熹提出“心即理也”，本心即天理","The next question is about China's culture.
+In June 1175, the brothers Lu Jiuling and Lu Jiuyuan had a heated debate with Zhu Xi on their respective philosophical views at Ehu Temple. The correct description of their debate views is____
+A. Zhu Xi advocated ""reading widely and then making a conclusion"", B. Lu Jiuyuan distinguished between ""primary school"" and ""university"" in education, C. Lu Jiuyuan advocated ""reaching conscience"" and ""unity of knowledge and action"", D. Zhu Xi proposed that ""heart is reason"", and the original heart is the principle of heaven"
+69,test_70,中国古典诗词中蕴含着丰富的哲理。对于北宋王安石在《元日》中“千门万户曈曈日，总把新桃换旧符”的诗句，人们耳熟能详。下列选项中，与其蕴含相同哲理的诗句是____,"['A. 预支五百年新意，到了千年又觉陈——清·赵翼《论诗五首·其一》', 'B. 深处种菱浅种稻，不深不浅种荷花——清·阮元《吴兴杂诗》。', 'C. 草萤有耀终非火，荷露虽团岂是珠——唐·白居易《放言五首·其一》', 'D. 画图临出秦川景，亲到长安有几人——金·元好问《论诗》']",A,"下一个问题是关于中国的文化。
+中国古典诗词中蕴含着丰富的哲理。对于北宋王安石在《元日》中“千门万户曈曈日，总把新桃换旧符”的诗句，人们耳熟能详。下列选项中，与其蕴含相同哲理的诗句是____
+A. 预支五百年新意，到了千年又觉陈——清·赵翼《论诗五首·其一》, B. 深处种菱浅种稻，不深不浅种荷花——清·阮元《吴兴杂诗》。, C. 草萤有耀终非火，荷露虽团岂是珠——唐·白居易《放言五首·其一》, D. 画图临出秦川景，亲到长安有几人——金·元好问《论诗》","The next question is about China's culture.
+Chinese classical poetry contains rich philosophy. People are familiar with the poem ""Thousands of doors and windows are bright in the sun, and new peaches are always replaced with old charms"" written by Wang Anshi in the Northern Song Dynasty. Among the following options, the poem that contains the same philosophy is____
+A. Five hundred years of new ideas are advanced, and they feel old again after a thousand years——Qing·Zhao Yi ""Five Poems on Poetry·No. 1"", B. Plant water chestnuts in deep water and rice in shallow water, and plant lotus in neither deep nor shallow water——Qing·Ruan Yuan ""Miscellaneous Poems of Wuxing"". , C. Fireflies shine, but they are not fire. Lotus dew is round, but it is not pearl——Tang·Bai Juyi ""Five Poems on Speaking·No. 1"", D. Painting the scenery of Qinchuan, how many people have visited Chang'an in person——Jin·Yuan Haowen ""On Poetry"""
+70,test_71,清乾隆年间“四大徽班进京”对京剧艺术的形成影响深远，四大徽班中最早进京演出并大获成功的是____。,"['A. 和春班', 'B. 三庆班', 'C. 四喜班', 'D. 春台班']",B,"下一个问题是关于中国的文化。
+清乾隆年间“四大徽班进京”对京剧艺术的形成影响深远，四大徽班中最早进京演出并大获成功的是____。
+A. 和春班, B. 三庆班, C. 四喜班, D. 春台班","The next question is about China's culture.
+During the reign of Emperor Qianlong of the Qing Dynasty, the ""Four Major Anhui Troupes Entering Beijing"" had a profound impact on the formation of Peking Opera art. The first of the four major Anhui Troupes to enter Beijing and perform with great success was ____.
+A. Hechun Troupe, B. Sanqing Troupe, C. Sixi Troupe, D. Chuntai Troupe"
+71,test_72,伊尹与商汤关于烹调方面的对话，就是饮食文化史上最早的文献,"['A. 《礼记·内则》', 'B. 《吕氏春秋·本味》', 'C. 《尚书·酒诰》', 'D. 《论语·乡党》']",B,"下一个问题是关于中国的文化。
+伊尹与商汤关于烹调方面的对话，就是饮食文化史上最早的文献
+A. 《礼记·内则》, B. 《吕氏春秋·本味》, C. 《尚书·酒诰》, D. 《论语·乡党》","The next question is about China's culture.
+The conversation between Yi Yin and Shang Tang about cooking is the earliest document in the history of food culture
+A. ""Book of Rites·Nei Ze"", B. ""Lüshi Chunqiu·Benwei"", C. ""Shangshu·Jiu Gao"", D. ""Analects·Xiangdang"""
+72,test_73,“吴门四家”不包括____。,"['A. 沈周', 'B. 徐渭', 'C. 唐寅', 'D. 文征明']",B,"下一个问题是关于中国的文化。
+“吴门四家”不包括____。
+A. 沈周, B. 徐渭, C. 唐寅, D. 文征明","The next question is about China's culture.
+The ""Four Masters of Wumen"" do not include ____.
+A. Shen Zhou, B. Xu Wei, C. Tang Yin, D. Wen Zhengming"
+73,test_74,曹禺的《北京人》被研究者称为中国最伟大的____。,"['A. 社会问题剧', 'B. 正剧', 'C. 喜剧', 'D. 悲剧']",B,"下一个问题是关于中国的文化。
+曹禺的《北京人》被研究者称为中国最伟大的____。
+A. 社会问题剧, B. 正剧, C. 喜剧, D. 悲剧","The next question is about China's culture.
+Cao Yu's ""The Beijing Man"" is called China's greatest ____ by researchers.
+A. social problem drama, B. drama, C. comedy, D. tragedy"
+74,test_75,上海豫园鱼乐榭有一上实下空的墙，遮挡了原来流水较近的短处，产生了源远流长的效果，这是____的神来之笔。,"['A. 借景', 'B. 框景', 'C. 抑景', 'D. 障景']",D,"下一个问题是关于中国的文化。
+上海豫园鱼乐榭有一上实下空的墙，遮挡了原来流水较近的短处，产生了源远流长的效果，这是____的神来之笔。
+A. 借景, B. 框景, C. 抑景, D. 障景","The next question is about China's culture.
+The Yule Pavilion in Shanghai Yuyuan Garden has a solid upper wall with an empty lower wall, which blocks the shortcoming of the original water flow, creating a long-flowing effect. This is the stroke of genius of ____.
+A. borrowing scenery, B. framing scenery, C. suppressing scenery, D. blocking scenery"
+75,test_76,《齐民要术》自序：“盖神农为耒耜，以利天下，尧命四子，敬授民时，降命后稷，食为政首，……殷周之盛，《诗》《书》所述，要在安民，富而教之。”这段话主要强调,"['A. 农业技术和重要性', 'B. 历法与农业的关系', 'C. 儒家对农业的重视', 'D. 改进生产工具的意义']",C,"下一个问题是关于中国的文化。
+《齐民要术》自序：“盖神农为耒耜，以利天下，尧命四子，敬授民时，降命后稷，食为政首，……殷周之盛，《诗》《书》所述，要在安民，富而教之。”这段话主要强调
+A. 农业技术和重要性, B. 历法与农业的关系, C. 儒家对农业的重视, D. 改进生产工具的意义","The next question is about China's culture.
+The preface of ""Qimin Yaoshu"" reads: ""It was Shennong who invented the plow and hoe to benefit the world. Yao ordered his four sons to teach the people the time and ordered Houji to make food the first priority of government... The prosperity of the Yin and Zhou dynasties, as described in ""Book of Songs"" and ""Book of Documents"", was to keep the people safe and educate them when they are rich."" This passage mainly emphasizes
+A. Agricultural technology and importance, B. The relationship between the calendar and agriculture, C. The importance of agriculture by Confucianism, D. The significance of improving production tools"
+76,test_77,我国的“四大名砚”中，唯一不用岩石为砚材制作原料的是____。,"['A. 歙砚', 'B. 澄泥砚', 'C. 端砚', 'D. 洮河砚']",B,"下一个问题是关于中国的文化。
+我国的“四大名砚”中，唯一不用岩石为砚材制作原料的是____。
+A. 歙砚, B. 澄泥砚, C. 端砚, D. 洮河砚","The next question is about China's culture.
+Among the ""Four Famous Inkstones"" in my country, the only one that does not use rock as the raw material is ____.
+A. She Inkstone, B. Chengni Inkstone, C. Duan Inkstone, D. Taohe Inkstone"
+77,test_78,被誉为“四大国宝”的我国一级保护动物是____。,"['A. 金丝猴、东北虎、白唇鹿、亚洲象', 'B. 藏羚羊、白唇鹿、白鳍豚、金丝猴', 'C. 大熊猫、金丝猴、白鳍豚、白唇鹿', 'D. 华南虎、白鳍豚、亚洲象、大熊猫']",C,"下一个问题是关于中国的文化。
+被誉为“四大国宝”的我国一级保护动物是____。
+A. 金丝猴、东北虎、白唇鹿、亚洲象, B. 藏羚羊、白唇鹿、白鳍豚、金丝猴, C. 大熊猫、金丝猴、白鳍豚、白唇鹿, D. 华南虎、白鳍豚、亚洲象、大熊猫","The next question is about China's culture.
+The first-class protected animals in my country, which are known as the ""four national treasures"", are ____.
+A. Golden monkey, Siberian tiger, white-lipped deer, Asian elephant, B. Tibetan antelope, white-lipped deer, white-fin dolphin, golden monkey, C. Giant panda, golden monkey, white-fin dolphin, white-lipped deer, D. South China tiger, white-fin dolphin, Asian elephant, giant panda"
+78,test_79,“霸王别姬”是____的代表菜。,"['A. 湘菜', 'B. 苏菜', 'C. 浙菜', 'D. 鲁菜']",B,"下一个问题是关于中国的文化。
+“霸王别姬”是____的代表菜。
+A. 湘菜, B. 苏菜, C. 浙菜, D. 鲁菜","The next question is about China's culture.
+""Farewell My Concubine"" is the representative dish of ____.
+A. Hunan cuisine, B. Jiangsu cuisine, C. Zhejiang cuisine, D. Shandong cuisine"
+79,test_80,下列著名诗人与其代表作对应有误的是____。,"['A. 王之焕——《登鹳雀楼》', 'B. 杜甫——《长恨歌》', 'C. 白居易——《琵琶行》', 'D. 李白——《将进酒》']",B,"下一个问题是关于中国的文化。
+下列著名诗人与其代表作对应有误的是____。
+A. 王之焕——《登鹳雀楼》, B. 杜甫——《长恨歌》, C. 白居易——《琵琶行》, D. 李白——《将进酒》","The next question is about China's culture.
+The following famous poets and their representative works have incorrect correspondence: ____.
+A. Wang Zhihuan - ""Climbing the Stork Tower"", B. Du Fu - ""Song of Everlasting Regret"", C. Bai Juyi - ""Pipa Song"", D. Li Bai - ""Song of the Wine"""
+80,test_81,元大都是按照____传统都城的布局建造的。,"['A. 藏族', 'B. 满族', 'C. 蒙古族', 'D. 汉族']",D,"下一个问题是关于中国的文化。
+元大都是按照____传统都城的布局建造的。
+A. 藏族, B. 满族, C. 蒙古族, D. 汉族","The next question is about China's culture.
+Yuan Dadu was built according to the layout of ____ traditional capitals.
+A. Tibetan, B. Manchu, C. Mongolian, D. Han"
+81,test_82,下列关于山西风味说法错误的是,"['A. 山西民间以“十八碗”为代表，盛行经济实惠的蒸菜', 'B. 山西风味，具有油大色重，口味咸鲜偏酸', 'C. 山西风味的基本味型，以咸香为主，甜酸为辅', 'D. 山西大厨炒菜不过油，不换锅，芡汁现炒现兑，急火短炒，一锅成菜']",D,"下一个问题是关于中国的文化。
+下列关于山西风味说法错误的是
+A. 山西民间以“十八碗”为代表，盛行经济实惠的蒸菜, B. 山西风味，具有油大色重，口味咸鲜偏酸, C. 山西风味的基本味型，以咸香为主，甜酸为辅, D. 山西大厨炒菜不过油，不换锅，芡汁现炒现兑，急火短炒，一锅成菜","The next question is about China's culture.
+Which of the following statements about Shanxi flavor is wrong?
+A. Shanxi folks are popular with the ""Eighteen Bowls"" as their representative, and economical and affordable steamed dishes are popular. B. Shanxi flavor is characterized by heavy oil and color, and a salty and fresh taste with a sour taste. C. The basic flavor of Shanxi flavor is mainly salty and fragrant, supplemented by sweet and sour. D. Shanxi chefs do not use too much oil when cooking, do not change the pot, stir-fry the sauce immediately, stir-fry over high heat for a short time, and the dish is ready in one pot."
+82,test_83,隋唐时期，陆路与海上“丝绸之路”基本畅通，唐朝设市舶司主管对外港口贸易，宋代对招商有成效的官吏实行提高级别待遇的政策，泉州、广州接此执行。可见，唐宋时期海外贸易的活跃是____,"['A. 政府政策推动的结果', 'B. 丝织业兴盛的体现', 'C. 重农政策松动的表现', 'D. 造船业发达的产物']",A,"下一个问题是关于中国的文化。
+隋唐时期，陆路与海上“丝绸之路”基本畅通，唐朝设市舶司主管对外港口贸易，宋代对招商有成效的官吏实行提高级别待遇的政策，泉州、广州接此执行。可见，唐宋时期海外贸易的活跃是____
+A. 政府政策推动的结果, B. 丝织业兴盛的体现, C. 重农政策松动的表现, D. 造船业发达的产物","The next question is about China's culture.
+During the Sui and Tang Dynasties, the land and sea ""Silk Road"" was basically unobstructed. The Tang Dynasty established the Shibosi to manage foreign port trade. The Song Dynasty implemented a policy of increasing the level of treatment for officials who were effective in attracting investment, and Quanzhou and Guangzhou followed suit. It can be seen that the active overseas trade during the Tang and Song Dynasties was ____
+A. The result of government policy promotion, B. The embodiment of the prosperity of the silk industry, C. The manifestation of the loosening of the policy of emphasizing agriculture, D. The product of the developed shipbuilding industry"
+83,test_84,无锡寄畅园因园外惠山的景色而显得更加秀丽。产生这一效果的构景手法是____。,"['A. 抑景', 'B. 添景', 'C. 借景', 'D. 障景']",C,"下一个问题是关于中国的文化。
+无锡寄畅园因园外惠山的景色而显得更加秀丽。产生这一效果的构景手法是____。
+A. 抑景, B. 添景, C. 借景, D. 障景","The next question is about China's culture.
+Wuxi Jichang Garden is more beautiful because of the scenery of Huishan outside the garden. The composition technique that produces this effect is ____.
+A. Suppressing scenery, B. Adding scenery, C. Borrowing scenery, D. Blocking scenery"
+84,test_85,“辟”和“避”的关系是,"['A. 古今字', 'B. 异体字', 'C. 通假字', 'D. 繁简字']",A,"下一个问题是关于中国的文化。
+“辟”和“避”的关系是
+A. 古今字, B. 异体字, C. 通假字, D. 繁简字","The next question is about China's culture.
+The relationship between ""避"" and ""避"" is
+A. Ancient and modern characters, B. Variant characters, C. Homophone characters, D. Traditional and simplified characters"
+85,test_86,下列俗语与对应的成语，二者本意所指属于同一物理现象的是,"['A. 小小秤砣压千斤——举重若轻', 'B. 宝剑锋从磨砺出——百炼成钢', 'C. 酒香不怕巷子深——近朱者赤', 'D. 近水楼台先得月——海市蜃楼']",C,"下一个问题是关于中国的文化。
+下列俗语与对应的成语，二者本意所指属于同一物理现象的是
+A. 小小秤砣压千斤——举重若轻, B. 宝剑锋从磨砺出——百炼成钢, C. 酒香不怕巷子深——近朱者赤, D. 近水楼台先得月——海市蜃楼","The next question is about China's culture.
+Which of the following proverbs and corresponding idioms refer to the same physical phenomenon?
+A. A small weight can lift a thousand pounds - lift a heavy weight with ease, B. A sharp sword is sharpened by grinding - steel is forged through repeated tempering, C. Good wine needs no bush - the closer you are to a red man, the more you know him, D. The closer you are to a water tower, the first you see the moon - mirage"
+86,test_87,被称为“土族梁祝”的叙事长诗是____。,"['A. 《祁家延西》', 'B. 《拉仁布与吉门索》', 'C. 《牛达的传说》', 'D. 《汗庆格尔》']",B,"下一个问题是关于中国的文化。
+被称为“土族梁祝”的叙事长诗是____。
+A. 《祁家延西》, B. 《拉仁布与吉门索》, C. 《牛达的传说》, D. 《汗庆格尔》","The next question is about China's culture.
+The long narrative poem known as ""Tuzu Liang Zhu"" is ____.
+A. ""Qijia Yanxi"", B. ""Larenbu and Jimensuo"", C. ""The Legend of Niuda"", D. ""Hanqingger"""
+87,test_88,张择端的《清明上河图》描绘的是____都城的风光。,"['A. 南唐', 'B. 北宋', 'C. 南宋', 'D. 后周']",B,"下一个问题是关于中国的文化。
+张择端的《清明上河图》描绘的是____都城的风光。
+A. 南唐, B. 北宋, C. 南宋, D. 后周","The next question is about China's culture.
+Zhang Zeduan's ""Along the River During the Qingming Festival"" depicts the scenery of the capital of ____.
+A. Southern Tang, B. Northern Song, C. Southern Song, D. Later Zhou"
+88,test_89,中国现代宴会礼仪不包括,"['A. 饮茶礼仪礼仪', 'B. 宴会饮食方礼仪', 'C. 宴会饮酒礼仪', 'D. 吃甜品礼仪']",D,"下一个问题是关于中国的文化。
+中国现代宴会礼仪不包括
+A. 饮茶礼仪礼仪, B. 宴会饮食方礼仪, C. 宴会饮酒礼仪, D. 吃甜品礼仪","The next question is about China's culture.
+Modern Chinese banquet etiquette does not include
+A. Tea drinking etiquette, B. Banquet food etiquette, C. Banquet drinking etiquette, D. Dessert etiquette"
+89,test_90,《史记·高祖本纪》：“今则来，沛公恐不得有此。”句中“则”的用法是____。,"['A. 表示因果', 'B. 表示转折', 'C. 表示假设', 'D. 表示承接']",C,"下一个问题是关于中国的文化。
+《史记·高祖本纪》：“今则来，沛公恐不得有此。”句中“则”的用法是____。
+A. 表示因果, B. 表示转折, C. 表示假设, D. 表示承接","The next question is about China's culture.
+""Records of the Grand Historian: Annals of Emperor Gaozu"": ""Now that he has come, Pei Gong may not be able to do this."" The usage of ""ze"" in this sentence is ____.
+A. Indicates cause and effect, B. Indicates a transition, C. Indicates a hypothesis, D. Indicates a continuation"
+90,test_91,某女，29岁。2年来月经量多色淡，近半年失眠心悸，头晕眼花，纳少，腹胀，面唇淡白，舌淡苔少，脉弱。临床诊断最可能是,"['A. 心脾两虚证', 'B. 肝血虚证', 'C. 心肝血虚证', 'D. 心血虚证']",A,"下一个问题是关于中国的文化。
+某女，29岁。2年来月经量多色淡，近半年失眠心悸，头晕眼花，纳少，腹胀，面唇淡白，舌淡苔少，脉弱。临床诊断最可能是
+A. 心脾两虚证, B. 肝血虚证, C. 心肝血虚证, D. 心血虚证","The next question is about China's culture.
+A female, 29 years old. She has had heavy and light-colored menstruation for the past two years, and has suffered from insomnia, palpitations, dizziness, poor appetite, abdominal distension, pale face and lips, pale tongue with little coating, and weak pulse for the past six months. The most likely clinical diagnosis is
+A. Heart and spleen deficiency, B. Liver blood deficiency, C. Heart and liver blood deficiency, D. Heart blood deficiency"
+91,test_92,下列关于古代社会教育的发展，表述有误的是 (),"['A. 西周时期负责体育的是“师”', 'B. 两汉时期选士制度为察举制和征辟制', 'C. 中国最早的小学产生于商朝', 'D. 私学产生于春秋时期，兴盛于战国时期']",A,"下一个问题是关于中国的文化。
+下列关于古代社会教育的发展，表述有误的是 ()
+A. 西周时期负责体育的是“师”, B. 两汉时期选士制度为察举制和征辟制, C. 中国最早的小学产生于商朝, D. 私学产生于春秋时期，兴盛于战国时期","The next question is about China's culture.
+Which of the following statements about the development of education in ancient society is incorrect? ()
+A. In the Western Zhou Dynasty, the person in charge of physical education was a ""teacher"", B. In the Han Dynasty, the selection system was the system of recommendation and the system of recruitment, C. The earliest elementary school in China was established in the Shang Dynasty, D. Private schools were established in the Spring and Autumn Period and flourished in the Warring States Period"
+92,test_93,侯方域：《桃花扇》____,"['A. 石头记：《红楼梦》', 'B. 崔莺莺：《西厢记》', 'C. 蒲松龄：《聊斋志异》', 'D. 秦始皇：《后汉书》']",B,"下一个问题是关于中国的文化。
+侯方域：《桃花扇》____
+A. 石头记：《红楼梦》, B. 崔莺莺：《西厢记》, C. 蒲松龄：《聊斋志异》, D. 秦始皇：《后汉书》","The next question is about China's culture.
+Hou Fangyu: Peach Blossom Fan____
+A. The Story of the Stone: A Dream of Red Mansions, B. Cui Yingying: The West Chamber, C. Pu Songling: Strange Stories from a Chinese Studio, D. Qin Shi Huang: The Book of the Later Han"
+93,test_94,酸痛的常见病因是,"['A. 气血亏虚', 'B. 湿侵肌肉关节', 'C. 寒邪阻滞经络', 'D. 火邪窜至经络']",B,"下一个问题是关于中国的文化。
+酸痛的常见病因是
+A. 气血亏虚, B. 湿侵肌肉关节, C. 寒邪阻滞经络, D. 火邪窜至经络","The next question is about China's culture.
+Common causes of pain are:
+A. Qi and blood deficiency, B. Dampness invading muscles and joints, C. Cold blocking the meridians, D. Fire rushing to the meridians"
+94,test_95,下列不属于液态介质导热制熟的方法的是,"['A. 氽溜', 'B. 白焯', 'C. 炸烹', 'D. 蒸馏']",D,"下一个问题是关于中国的文化。
+下列不属于液态介质导热制熟的方法的是
+A. 氽溜, B. 白焯, C. 炸烹, D. 蒸馏","The next question is about China's culture.
+The following is not a method of cooking by heat conduction of liquid medium:
+A. Boiling, B. Blanching, C. Deep frying, D. Distillation"
+95,test_96,有的成语与历史人物密切相关。下列选项中，与“狡兔三窟”相关的历史人物是____。,"['A. 冯谖与孟尝君', 'B. 毛遂与平原君', 'C. 曹刿与鲁庄公', 'D. 管仲与齐桓公']",A,"下一个问题是关于中国的文化。
+有的成语与历史人物密切相关。下列选项中，与“狡兔三窟”相关的历史人物是____。
+A. 冯谖与孟尝君, B. 毛遂与平原君, C. 曹刿与鲁庄公, D. 管仲与齐桓公","The next question is about China's culture.
+Some idioms are closely related to historical figures. Among the following options, the historical figure related to ""a cunning rabbit has three burrows"" is ____.
+A. Feng Xuan and Mengchang Jun, B. Mao Sui and Pingyuan Jun, C. Cao Gui and Lu Zhuanggong, D. Guan Zhong and Qi Huangong"
+96,test_97,《缀白裘》是____的集锦选本。,"['A. 二人转', 'B. 乐剧', 'C. 折子戏', 'D. 沪剧']",C,"下一个问题是关于中国的文化。
+《缀白裘》是____的集锦选本。
+A. 二人转, B. 乐剧, C. 折子戏, D. 沪剧","The next question is about China's culture.
+""Embroidered White Fur Coat"" is a collection of ____.
+A. Errenzhuan, B. Leju, C. Zhezixi, D. Shanghai Opera"
+97,test_98,樊迟向孔子请教如何种庄，孔子说:“我不如老农。”樊迟又请教如何种菜，孔子说:“我不如菜农。”樊迟退出以后，孔子说:“樊迟真是个小人，在上位者只要重视礼，老百姓就不敢不敬畏;在上位者只要重视义，老百姓就不敢不服从;在上位者只要重视信，老百姓就不敢不用真心实情来对待你。要是做到这样，四面八方的老百姓就会背着自己的小孩来投奔，哪里用得着自己去种庄稼呢?”孔子的观点反映了 ()。,"['A. 古代教育形式简单', 'B. 古代教育具有鲜明的等级性', 'C. 古代教育脱离生产劳动', 'D. 古代教育具有鲜明的阶级性']",C,"下一个问题是关于中国的文化。
+樊迟向孔子请教如何种庄，孔子说:“我不如老农。”樊迟又请教如何种菜，孔子说:“我不如菜农。”樊迟退出以后，孔子说:“樊迟真是个小人，在上位者只要重视礼，老百姓就不敢不敬畏;在上位者只要重视义，老百姓就不敢不服从;在上位者只要重视信，老百姓就不敢不用真心实情来对待你。要是做到这样，四面八方的老百姓就会背着自己的小孩来投奔，哪里用得着自己去种庄稼呢?”孔子的观点反映了 ()。
+A. 古代教育形式简单, B. 古代教育具有鲜明的等级性, C. 古代教育脱离生产劳动, D. 古代教育具有鲜明的阶级性","The next question is about China's culture.
+Fan Chi asked Confucius how to grow crops, and Confucius said: ""I am not as good as an old farmer."" Fan Chi asked how to grow vegetables, and Confucius said: ""I am not as good as a vegetable farmer."" After Fan Chi left, Confucius said: ""Fan Chi is really a mean person. As long as the superior attaches importance to etiquette, the people will not dare to be in awe; as long as the superior attaches importance to righteousness, the people will not dare to disobey; as long as the superior attaches importance to trust, the people will not dare to treat you with less than sincerity. If you do this, people from all directions will come to you with their children on their backs, so why would you need to grow crops yourself?"" Confucius's view reflects (). 
+A. The ancient education form was simple, B. The ancient education had a distinct hierarchy, C. The ancient education was separated from production labor, D. The ancient education had a distinct class nature"
+98,test_99,《临川先生文集》中的“王临川”用的是____称谓。,"['A. 官爵', 'B. 排行', 'C. 地望', 'D. 别号']",C,"下一个问题是关于中国的文化。
+《临川先生文集》中的“王临川”用的是____称谓。
+A. 官爵, B. 排行, C. 地望, D. 别号","The next question is about China's culture.
+The title used for ""Wang Linchuan"" in ""Collected Works of Mr. Linchuan"" is ____.
+A. official title, B. ranking, C. geographical position, D. nickname"
+99,test_100,《论语·述而》：“若圣与仁，则吾岂敢?抑为之不厌，诲人不倦，则可谓云尔已矣。”句中“抑”的用法是____。,"['A. 表示原因', 'B. 表示转折', 'C. 表示假设', 'D. 表示目的']",B,"下一个问题是关于中国的文化。
+《论语·述而》：“若圣与仁，则吾岂敢?抑为之不厌，诲人不倦，则可谓云尔已矣。”句中“抑”的用法是____。
+A. 表示原因, B. 表示转折, C. 表示假设, D. 表示目的","The next question is about China's culture.
+""The Analects of Confucius: Shu Er"": ""If I am a saint and a benevolent person, how dare I? I will never tire of doing it and never tire of teaching others. Then I can say that it is enough."" The usage of ""抑"" in the sentence is ____.
+A. Indicates the reason, B. Indicates a transition, C. Indicates a hypothesis, D. Indicates the purpose"
+100,test_101,中医学整体观念的内涵是,"['A. 时令晨昏对人体有影响', 'B. 自然界是一个整体', 'C. 五脏与六腑是一个整体', 'D. 人体是一个整体，人和自然界相互统一']",D,"下一个问题是关于中国的文化。
+中医学整体观念的内涵是
+A. 时令晨昏对人体有影响, B. 自然界是一个整体, C. 五脏与六腑是一个整体, D. 人体是一个整体，人和自然界相互统一","The next question is about China's culture.
+The connotation of the holistic concept of traditional Chinese medicine is
+A. The seasons and the morning and evening have an impact on the human body, B. Nature is a whole, C. The five internal organs and six bowels are a whole, D. The human body is a whole, and humans and nature are mutually unified"
+101,test_102,下列关于地理位置的描述与城市之间对应关系错误的是,"['A. 东压江淮，西挟关陇，北通幽燕，南系荆襄——南京', 'B. 南抚百越，北望中州，据五岭之要会，扼赣闽粤湘之要冲——赣州', 'C. 居浙右之上游，控鄱阳之肘腋，制闽越之喉吭，通宣歙之声势——衢州', 'D. 北通汝洛，西带秦蜀，南遮湖广，东瞰吴越——襄阳']",A,"下一个问题是关于中国的文化。
+下列关于地理位置的描述与城市之间对应关系错误的是
+A. 东压江淮，西挟关陇，北通幽燕，南系荆襄——南京, B. 南抚百越，北望中州，据五岭之要会，扼赣闽粤湘之要冲——赣州, C. 居浙右之上游，控鄱阳之肘腋，制闽越之喉吭，通宣歙之声势——衢州, D. 北通汝洛，西带秦蜀，南遮湖广，东瞰吴越——襄阳","The next question is about China's culture.
+Which of the following descriptions of geographical location and the corresponding relationship between cities is wrong?
+A. East of Jianghuai, west of Guanlong, north of Youyan, south of Jingxiang - Nanjing, B. South of Baiyue, north of Zhongzhou, at the junction of the Five Ridges, at the crossroads of Jiangxi, Fujian, Guangdong and Hunan - Ganzhou, C. Located in the upper reaches of Zhejiang, controlling the elbows and arms of Poyang, controlling the throat of Minyue, and communicating with Xuanshe - Quzhou, D. North of Ruluo, west of Qinshu, south of Huguang, east of Wuyue - Xiangyang"
+102,test_103,下列条款符合中国法律规定的是,"['A. 某干洗店申明：衣物丢失，只赔付洗衣费二倍的价钱', 'B. 淘宝网某服饰店表示：本店商品一经售出，概不退货', 'C. 某商场厕所门口获救牌“地滑小心摔倒，否则概不负责任”', 'D. 某饭店店堂告知：“请保管好随身物品，丢失概不负责”']",D,"下一个问题是关于中国的文化。
+下列条款符合中国法律规定的是
+A. 某干洗店申明：衣物丢失，只赔付洗衣费二倍的价钱, B. 淘宝网某服饰店表示：本店商品一经售出，概不退货, C. 某商场厕所门口获救牌“地滑小心摔倒，否则概不负责任”, D. 某饭店店堂告知：“请保管好随身物品，丢失概不负责”","The next question is about China's culture.
+The following clauses comply with Chinese laws:
+A. A dry cleaner stated: If clothes are lost, only twice the laundry fee will be paid, B. A clothing store on Taobao stated: Once the goods are sold, no returns are accepted, C. A rescue sign at the entrance of a shopping mall toilet reads ""The floor is slippery, be careful not to fall, otherwise we will not be responsible"", D. A restaurant said: ""Please keep your belongings safe, we will not be responsible if they are lost"""
+103,test_104,下列与成语有关的描述错误的是,"['A. “叶落归根”是因为地球表面的物体会受到重力的作用', 'B. “囊萤映雪”中“囊萤”和“映雪”包含的光学原理相同', 'C. “青出于蓝”描述的是传统植物染料的提取过程', 'D. “沙里淘金”中的“金”属于金属单质']",B,"下一个问题是关于中国的文化。
+下列与成语有关的描述错误的是
+A. “叶落归根”是因为地球表面的物体会受到重力的作用, B. “囊萤映雪”中“囊萤”和“映雪”包含的光学原理相同, C. “青出于蓝”描述的是传统植物染料的提取过程, D. “沙里淘金”中的“金”属于金属单质","The next question is about China's culture.
+Which of the following descriptions related to idioms is wrong?
+A. ""The leaves fall back to their roots"" is because objects on the surface of the earth are affected by gravity, B. ""Firefly in a bag reflecting the snow"" and ""reflecting the snow"" contain the same optical principle, C. ""The blue is better than the blue"" describes the extraction process of traditional plant dyes, D. ""Gold in the sand"" is a metal element"
+104,test_105,关于春秋战国时期的教育，下列说法不正确的是(),"['A. 私学在春秋时期产生，在战国时期达到了兴盛', 'B. 稷下学宫是官方举办、私人主持的', 'C. 稷下学宫提倡学术上的自由', 'D. 儒家和道家是私学中的两大显学']",D,"下一个问题是关于中国的文化。
+关于春秋战国时期的教育，下列说法不正确的是()
+A. 私学在春秋时期产生，在战国时期达到了兴盛, B. 稷下学宫是官方举办、私人主持的, C. 稷下学宫提倡学术上的自由, D. 儒家和道家是私学中的两大显学","The next question is about China's culture.
+Regarding education during the Spring and Autumn Period and the Warring States Period, which of the following statements is incorrect? ()
+A. Private education originated during the Spring and Autumn Period and reached its peak during the Warring States Period, B. Jixia Academy was officially organized and privately hosted, C. Jixia Academy advocated academic freedom, D. Confucianism and Taoism were the two major schools of thought in private education"

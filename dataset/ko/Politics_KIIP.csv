@@ -1,0 +1,1423 @@
+index,id,paragraph,question,choices,answer,options,ko,en
+689,KIIP_politics_1,,"다음은 한국사회의 정치에 대한 문제이다.
+한국 민주정치의 발전에 영향을 미친 주요 사건 중 하나는 무엇인가?","['A. 대한민국 헌법의 제정', 'B. 6·25 전쟁', 'C. 일본의 항복', 'D. 북한의 핵 실험']",A,"A. 대한민국 헌법의 제정
+B. 6·25 전쟁
+C. 일본의 항복
+D. 북한의 핵 실험
+","다음은 한국사회의 정치에 대한 문제이다.
+한국 민주정치의 발전에 영향을 미친 주요 사건 중 하나는 무엇인가?
+A. 대한민국 헌법의 제정
+B. 6·25 전쟁
+C. 일본의 항복
+D. 북한의 핵 실험
+","Next is the issue of politics in Korean society.
+What is one of the major events that influenced the development of Korean democratic politics?
+A. Enactment of the Constitution of the Republic of Korea
+B. Korean War
+C. Japan’s Surrender
+D. North Korea’s nuclear test
+"
+690,KIIP_politics_2,,"다음은 한국사회의 정치에 대한 문제이다.
+1987년 6월에 시민들이 주장한 것은 무엇인가?","['A. 대통령 직선제', 'B. 국회의원 직선제', 'C. 지방자치제', 'D. 국민투표제']",A,"A. 대통령 직선제
+B. 국회의원 직선제
+C. 지방자치제
+D. 국민투표제
+","다음은 한국사회의 정치에 대한 문제이다.
+1987년 6월에 시민들이 주장한 것은 무엇인가?
+A. 대통령 직선제
+B. 국회의원 직선제
+C. 지방자치제
+D. 국민투표제
+","Next is the issue of politics in Korean society.
+What did citizens claim in June 1987?
+A. Direct presidential election
+B. Direct election of members of the National Assembly
+C. Local self-government
+D. Referendum system
+"
+691,KIIP_politics_3,,"다음은 한국사회의 정치에 대한 문제이다.
+1987년에 대통령 직선제 개헌을 주장하는 시민들의 시위가 확산된 월은 언제인가?","['A. 5월', 'B. 6월', 'C. 7월', 'D. 8월']",B,"A. 5월
+B. 6월
+C. 7월
+D. 8월
+","다음은 한국사회의 정치에 대한 문제이다.
+1987년에 대통령 직선제 개헌을 주장하는 시민들의 시위가 확산된 월은 언제인가?
+A. 5월
+B. 6월
+C. 7월
+D. 8월
+","Next is the issue of politics in Korean society.
+In which month in 1987 did citizens' protests demanding a constitutional amendment to direct presidential election spread?
+A: May
+B.June
+C. July
+D. August
+"
+692,KIIP_politics_4,,"다음은 한국사회의 정치에 대한 문제이다.
+한국의 민주화 과정에 영향을 끼친 것은 어떤 시기 이후인가?","['A. 1970년대 이후', 'B. 1980년대 이후', 'C. 1990년대 이후', 'D. 2000년대 이후']",B,"A. 1970년대 이후
+B. 1980년대 이후
+C. 1990년대 이후
+D. 2000년대 이후
+","다음은 한국사회의 정치에 대한 문제이다.
+한국의 민주화 과정에 영향을 끼친 것은 어떤 시기 이후인가?
+A. 1970년대 이후
+B. 1980년대 이후
+C. 1990년대 이후
+D. 2000년대 이후
+","Next is the issue of politics in Korean society.
+After what period of time did Korea's democratization process have an impact?
+A. Since the 1970s
+B. After the 1980s
+C. Since the 1990s
+D. After 2000
+"
+693,KIIP_politics_5,,"다음은 한국사회의 정치에 대한 문제이다.
+대한민국 헌법 제1조는 어떤 내용을 담고 있는가?","['A. 대한민국은 공산주의 국가이다.', 'B. 대한민국은 민주주의에 바탕을 둔 공화국이다.', 'C. 대한민국은 군주제를 기반으로 한 국가이다.', 'D. 대한민국은 독재주의 국가이다.']",B,"A. 대한민국은 공산주의 국가이다.
+B. 대한민국은 민주주의에 바탕을 둔 공화국이다.
+C. 대한민국은 군주제를 기반으로 한 국가이다.
+D. 대한민국은 독재주의 국가이다.
+","다음은 한국사회의 정치에 대한 문제이다.
+대한민국 헌법 제1조는 어떤 내용을 담고 있는가?
+A. 대한민국은 공산주의 국가이다.
+B. 대한민국은 민주주의에 바탕을 둔 공화국이다.
+C. 대한민국은 군주제를 기반으로 한 국가이다.
+D. 대한민국은 독재주의 국가이다.
+","Next is the issue of politics in Korean society.
+What does Article 1 of the Constitution of the Republic of Korea contain?
+A. South Korea is a communist country.
+B. The Republic of Korea is a republic based on democracy.
+C. The Republic of Korea is a country based on a monarchy.
+D. South Korea is an authoritarian country.
+"
+694,KIIP_politics_6,,"다음은 한국사회의 정치에 대한 문제이다.
+한국은 어떤 형태의 민주주의를 기본적으로 채택하고 있는가?","['A. 직접민주주의', 'B. 간접민주주의', 'C. 자유민주주의', 'D. 사회민주주의']",B,"A. 직접민주주의
+B. 간접민주주의
+C. 자유민주주의
+D. 사회민주주의
+","다음은 한국사회의 정치에 대한 문제이다.
+한국은 어떤 형태의 민주주의를 기본적으로 채택하고 있는가?
+A. 직접민주주의
+B. 간접민주주의
+C. 자유민주주의
+D. 사회민주주의
+","Next is the issue of politics in Korean society.
+What type of democracy does Korea basically adopt?
+A. Direct democracy
+B. Indirect democracy
+C. Liberal democracy
+D. Social democracy
+"
+695,KIIP_politics_7,,"다음은 한국사회의 정치에 대한 문제이다.
+한국은 어떤 정부 형태를 채택하고 있는가?","['A. 대통령제', 'B. 의원내각제', 'C. 군주제', 'D. 공화제']",A,"A. 대통령제
+B. 의원내각제
+C. 군주제
+D. 공화제
+","다음은 한국사회의 정치에 대한 문제이다.
+한국은 어떤 정부 형태를 채택하고 있는가?
+A. 대통령제
+B. 의원내각제
+C. 군주제
+D. 공화제
+","Next is the issue of politics in Korean society.
+What form of government does Korea adopt?
+A. Presidential system
+B. Parliamentary government system
+C. Monarchy
+D. republicanism
+"
+696,KIIP_politics_8,,"다음은 한국사회의 정치에 대한 문제이다.
+한국의 첫번째 대통령은 누구인가?","['A. 윤보선', 'B. 박정희', 'C. 이승만', 'D. 노태우']",C,"A. 윤보선
+B. 박정희
+C. 이승만
+D. 노태우
+","다음은 한국사회의 정치에 대한 문제이다.
+한국의 첫번째 대통령은 누구인가?
+A. 윤보선
+B. 박정희
+C. 이승만
+D. 노태우
+","Next is the issue of politics in Korean society.
+Who was Korea's first president?
+A. Yoon Bo-seon
+B. Park Chung-hee
+C. Syngman Rhee
+D. Roh Tae-woo
+"
+697,KIIP_politics_9,,"다음은 한국사회의 정치에 대한 문제이다.
+한국의 10번째 대통령은 누구인가?","['A. 최규하', 'B. 전두환', 'C. 노태우', 'D. 김영삼']",A,"A. 최규하
+B. 전두환
+C. 노태우
+D. 김영삼
+","다음은 한국사회의 정치에 대한 문제이다.
+한국의 10번째 대통령은 누구인가?
+A. 최규하
+B. 전두환
+C. 노태우
+D. 김영삼
+","Next is the issue of politics in Korean society.
+Who is South Korea's 10th president?
+A. Gyuha Choi
+B. Chun Doo-hwan
+C. Roh Tae-woo
+D. Kim Young-sam
+"
+698,KIIP_politics_10,,"다음은 한국사회의 정치에 대한 문제이다.
+한국의 18번째 대통령은 누구인가?","['A. 노무현', 'B. 이명박', 'C. 박근혜', 'D. 문재인']",C,"A. 노무현
+B. 이명박
+C. 박근혜
+D. 문재인
+","다음은 한국사회의 정치에 대한 문제이다.
+한국의 18번째 대통령은 누구인가?
+A. 노무현
+B. 이명박
+C. 박근혜
+D. 문재인
+","Next is the issue of politics in Korean society.
+Who is South Korea's 18th president?
+A. Roh Moo-hyun
+B. Lee Myung-bak
+C. Park Geun-hye
+D. Moon Jae-in
+"
+699,KIIP_politics_11,,"다음은 한국사회의 정치에 대한 문제이다.
+한국에서는 누가 주인으로서의 권리를 행사하는가?","['A. 대통령', 'B. 국회의원', 'C. 국민', 'D. 정부']",C,"A. 대통령
+B. 국회의원
+C. 국민
+D. 정부
+","다음은 한국사회의 정치에 대한 문제이다.
+한국에서는 누가 주인으로서의 권리를 행사하는가?
+A. 대통령
+B. 국회의원
+C. 국민
+D. 정부
+","Next is the issue of politics in Korean society.
+Who exercises rights as owner in Korea?
+A. President
+B. National Assembly member
+C. people
+D. government
+"
+700,KIIP_politics_12,,"다음은 한국사회의 정치에 대한 문제이다.
+박정희는 몇 대 대통령이었는가?","['A. 4대', 'B. 5-9대', 'C. 10대', 'D. 11-12대']",B,"A. 4대
+B. 5-9대
+C. 10대
+D. 11-12대
+","다음은 한국사회의 정치에 대한 문제이다.
+박정희는 몇 대 대통령이었는가?
+A. 4대
+B. 5-9대
+C. 10대
+D. 11-12대
+","Next is the issue of politics in Korean society.
+How many presidents was Park Chung-hee?
+A. 4 generations
+B. 5-9 units
+C. Teenagers
+D. 11-12 units
+"
+701,KIIP_politics_13,,"다음은 한국사회의 정치에 대한 문제이다.
+대한민국 헌법이 제정된 날짜는 언제인가?","['A. 1948년 5월 10일', 'B. 1948년 7월 17일', 'C. 1948년 8월 15일', 'D. 1945년 8월 15일']",B,"A. 1948년 5월 10일
+B. 1948년 7월 17일
+C. 1948년 8월 15일
+D. 1945년 8월 15일
+","다음은 한국사회의 정치에 대한 문제이다.
+대한민국 헌법이 제정된 날짜는 언제인가?
+A. 1948년 5월 10일
+B. 1948년 7월 17일
+C. 1948년 8월 15일
+D. 1945년 8월 15일
+","Next is the issue of politics in Korean society.
+When was the Constitution of the Republic of Korea enacted?
+A: May 10, 1948
+B. July 17, 1948
+C. August 15, 1948
+D. August 15, 1945
+"
+702,KIIP_politics_14,,"다음은 한국사회의 정치에 대한 문제이다.
+4·19혁명은 어떤 사건에 반발하여 시작되었는가?","['A. 국회의원 총선거 개표 조작', 'B. 대통령 선거 부정', 'C. 민주화 요구 시위', 'D. 경제 정책 반대 시위']",A,"A. 국회의원 총선거 개표 조작
+B. 대통령 선거 부정
+C. 민주화 요구 시위
+D. 경제 정책 반대 시위
+","다음은 한국사회의 정치에 대한 문제이다.
+4·19혁명은 어떤 사건에 반발하여 시작되었는가?
+A. 국회의원 총선거 개표 조작
+B. 대통령 선거 부정
+C. 민주화 요구 시위
+D. 경제 정책 반대 시위
+","Next is the issue of politics in Korean society.
+What incident did the April 19 Revolution begin in response to?
+A. Manipulating the vote count in the general election of the National Assembly
+B. Presidential election fraud
+C. Demonstration demanding democratization
+D. Protests against economic policies
+"
+703,KIIP_politics_15,,"다음은 한국사회의 정치에 대한 문제이다.
+5·18 민주화운동에서 광주시민들이 요구한 것은 무엇인가?","['A. 군인들의 정치 개입 중단', 'B. 경제 개혁', 'C. 교육 개혁', 'D. 사회 개혁']",A,"A. 군인들의 정치 개입 중단
+B. 경제 개혁
+C. 교육 개혁
+D. 사회 개혁
+","다음은 한국사회의 정치에 대한 문제이다.
+5·18 민주화운동에서 광주시민들이 요구한 것은 무엇인가?
+A. 군인들의 정치 개입 중단
+B. 경제 개혁
+C. 교육 개혁
+D. 사회 개혁
+","Next is the issue of politics in Korean society.
+What did Gwangju citizens demand during the May 18 Democratization Movement?
+A. Stop military involvement in politics
+B. Economic Reform
+C. Education Reform
+D. Social reform
+"
+704,KIIP_politics_16,,"다음은 한국사회의 정치에 대한 문제이다.
+한국의 민주화 과정에 큰 영향을 끼친 것은 무엇인가?","['A. 한국의 경제 발전', 'B. 한국의 교육 발전', 'C. 5.18 민주화 운동', 'D. 사이버 공간에서의 표현의 자유']",C,"A. 한국의 경제 발전
+B. 한국의 교육 발전
+C. 5.18 민주화 운동
+D. 사이버 공간에서의 표현의 자유
+","다음은 한국사회의 정치에 대한 문제이다.
+한국의 민주화 과정에 큰 영향을 끼친 것은 무엇인가?
+A. 한국의 경제 발전
+B. 한국의 교육 발전
+C. 5.18 민주화 운동
+D. 사이버 공간에서의 표현의 자유
+","Next is the issue of politics in Korean society.
+What had a major impact on Korea's democratization process?
+A. Korea’s economic development
+B. Educational development in Korea
+C. 5.18 Democratization Movement
+D. Freedom of expression in cyberspace
+"
+705,KIIP_politics_17,,"다음은 한국사회의 정치에 대한 문제이다.
+1980년대에 정부와 시민들이 충돌하는 경우가 많았던 이유는 무엇인가?","['A. 정부의 경제 정책', 'B. 정부의 교육 정책', 'C. 정부의 민주화 요구 불충족', 'D. 정부의 사회 정책']",C,"A. 정부의 경제 정책
+B. 정부의 교육 정책
+C. 정부의 민주화 요구 불충족
+D. 정부의 사회 정책
+","다음은 한국사회의 정치에 대한 문제이다.
+1980년대에 정부와 시민들이 충돌하는 경우가 많았던 이유는 무엇인가?
+A. 정부의 경제 정책
+B. 정부의 교육 정책
+C. 정부의 민주화 요구 불충족
+D. 정부의 사회 정책
+","Next is the issue of politics in Korean society.
+Why were there so many conflicts between the government and citizens in the 1980s?
+A. Government economic policy
+B. Government education policy
+C. Failure to meet government demands for democratization
+D. Government social policy
+"
+706,KIIP_politics_18,,"다음은 한국사회의 정치에 대한 문제이다.
+4·19혁명의 결과로 어떤 대통령이 대통령직에서 물러났는가?","['A. 이승만', 'B. 박정희', 'C. 노태우', 'D. 김영삼']",A,"A. 이승만
+B. 박정희
+C. 노태우
+D. 김영삼
+","다음은 한국사회의 정치에 대한 문제이다.
+4·19혁명의 결과로 어떤 대통령이 대통령직에서 물러났는가?
+A. 이승만
+B. 박정희
+C. 노태우
+D. 김영삼
+","Next is the issue of politics in Korean society.
+Which president resigned from office as a result of the April 19 Revolution?
+A. Syngman Rhee
+B. Park Chung-hee
+C. Roh Tae-woo
+D. Kim Young-sam
+"
+707,KIIP_politics_19,,"다음은 한국사회의 정치에 대한 문제이다.
+1980년대 한국에서 민주화를 요구하는 시민들과 정부 사이에 충돌이 자주 발생한 이유는 무엇인가?","['A. 시민들의 민주화 요구가 증가했지만, 정부가 그 요구를 충족하지 못했기 때문', 'B. 정부의 민주화 정책이 실패했기 때문', 'C. 시민들의 민주화 요구가 줄어들었기 때문', 'D. 정부와 시민들 사이의 의사소통이 원활하지 않았기 때문']",A,"A. 시민들의 민주화 요구가 증가했지만, 정부가 그 요구를 충족하지 못했기 때문
+B. 정부의 민주화 정책이 실패했기 때문
+C. 시민들의 민주화 요구가 줄어들었기 때문
+D. 정부와 시민들 사이의 의사소통이 원활하지 않았기 때문
+","다음은 한국사회의 정치에 대한 문제이다.
+1980년대 한국에서 민주화를 요구하는 시민들과 정부 사이에 충돌이 자주 발생한 이유는 무엇인가?
+A. 시민들의 민주화 요구가 증가했지만, 정부가 그 요구를 충족하지 못했기 때문
+B. 정부의 민주화 정책이 실패했기 때문
+C. 시민들의 민주화 요구가 줄어들었기 때문
+D. 정부와 시민들 사이의 의사소통이 원활하지 않았기 때문
+","Next is the issue of politics in Korean society.
+Why did clashes frequently occur between citizens demanding democratization and the government in Korea in the 1980s?
+A. Because citizens’ demands for democratization increased, but the government failed to meet those demands.
+B. Because the government’s democratization policy failed
+C. Because citizens’ demands for democratization have decreased
+D. Because communication between the government and citizens was not smooth.
+"
+708,KIIP_politics_20,,"다음은 한국사회의 정치에 대한 문제이다.
+1987년 6월에 전국으로 확산된 시민들의 시위의 결과는 무엇인가?","['A. 대통령 직선제 개헌', 'B. 국회의 국정감사권 부활', 'C. 정부의 무너짐', 'D. 시민들의 민주화 요구 충족']",A,"A. 대통령 직선제 개헌
+B. 국회의 국정감사권 부활
+C. 정부의 무너짐
+D. 시민들의 민주화 요구 충족
+","다음은 한국사회의 정치에 대한 문제이다.
+1987년 6월에 전국으로 확산된 시민들의 시위의 결과는 무엇인가?
+A. 대통령 직선제 개헌
+B. 국회의 국정감사권 부활
+C. 정부의 무너짐
+D. 시민들의 민주화 요구 충족
+","Next is the issue of politics in Korean society.
+What was the result of the citizen protests that spread across the country in June 1987?
+A. Constitutional amendment to direct presidential election
+B. Restoration of the National Assembly’s right to audit government affairs
+C. The fall of the government
+D. Meeting citizens’ demands for democracy
+"
+709,KIIP_politics_21,,"다음은 한국사회의 정치에 대한 문제이다.
+국회의 국정감사권 부활이 한국에서 어떤 변화를 가져왔는가?","['A. 행정부의 권력 감소', 'B. 국회의 권력 증가', 'C. 행정부와 국회의 권력 균형', 'D. 국회의 권력 감소']",C,"A. 행정부의 권력 감소
+B. 국회의 권력 증가
+C. 행정부와 국회의 권력 균형
+D. 국회의 권력 감소
+","다음은 한국사회의 정치에 대한 문제이다.
+국회의 국정감사권 부활이 한국에서 어떤 변화를 가져왔는가?
+A. 행정부의 권력 감소
+B. 국회의 권력 증가
+C. 행정부와 국회의 권력 균형
+D. 국회의 권력 감소
+","Next is the issue of politics in Korean society.
+What changes has the restoration of the National Assembly’s right to audit government affairs brought about in Korea?
+A. Reduction in the power of the executive branch
+B. Increased power of the National Assembly
+C. Balance of power between the executive branch and the National Assembly
+D. Reduction in the power of the National Assembly.
+"
+710,KIIP_politics_22,,"다음은 한국사회의 정치에 대한 문제이다.
+1980년대에 민주화를 요구하는 시민들의 요구가 증가한 이유는 무엇인가?","['A. 당시 정부의 민주화 정책이 실패했기 때문', 'B. 시민들의 민주화 의식이 확산되었기 때문', 'C. 정부와 시민들 사이의 의사소통이 원활하지 않았기 때문', 'D. 모두 옳다']",B,"A. 당시 정부의 민주화 정책이 실패했기 때문
+B. 시민들의 민주화 의식이 확산되었기 때문
+C. 정부와 시민들 사이의 의사소통이 원활하지 않았기 때문
+D. 모두 옳다
+","다음은 한국사회의 정치에 대한 문제이다.
+1980년대에 민주화를 요구하는 시민들의 요구가 증가한 이유는 무엇인가?
+A. 당시 정부의 민주화 정책이 실패했기 때문
+B. 시민들의 민주화 의식이 확산되었기 때문
+C. 정부와 시민들 사이의 의사소통이 원활하지 않았기 때문
+D. 모두 옳다
+","Next is the issue of politics in Korean society.
+Why did citizens' demands for democratization increase in the 1980s?
+A. Because the government’s democratization policy at the time failed.
+B. Because citizens’ awareness of democracy has spread
+C. Because communication between the government and citizens was not smooth.
+D. All are correct
+"
+711,KIIP_politics_23,,"다음은 한국사회의 정치에 대한 문제이다.
+1987년에 시민들이 주장한 민주화 요구 중 하나는 무엇인가?","['A. 대통령 직선제', 'B. 국회의 국정감사권', 'C. 행정부의 권력 감소', 'D. 국회의 권력 증가']",A,"A. 대통령 직선제
+B. 국회의 국정감사권
+C. 행정부의 권력 감소
+D. 국회의 권력 증가
+","다음은 한국사회의 정치에 대한 문제이다.
+1987년에 시민들이 주장한 민주화 요구 중 하나는 무엇인가?
+A. 대통령 직선제
+B. 국회의 국정감사권
+C. 행정부의 권력 감소
+D. 국회의 권력 증가
+","Next is the issue of politics in Korean society.
+What was one of the demands for democratization raised by citizens in 1987?
+A. Direct presidential election
+B. The National Assembly’s right to audit government affairs
+C. Reduction in executive power.
+D. Increased power of the National Assembly
+"
+712,KIIP_politics_24,,"다음은 한국사회의 정치에 대한 문제이다.
+1987년에 전국으로 확산된 시민들의 시위의 주요 요구사항은 무엇인가?","['A. 대통령 직선제', 'B. 국회의 국정감사권', 'C. 행정부의 권력 감소', 'D. 국회의 권력 증가']",A,"A. 대통령 직선제
+B. 국회의 국정감사권
+C. 행정부의 권력 감소
+D. 국회의 권력 증가
+","다음은 한국사회의 정치에 대한 문제이다.
+1987년에 전국으로 확산된 시민들의 시위의 주요 요구사항은 무엇인가?
+A. 대통령 직선제
+B. 국회의 국정감사권
+C. 행정부의 권력 감소
+D. 국회의 권력 증가
+","Next is the issue of politics in Korean society.
+What were the main demands of the citizens' protests that spread across the country in 1987?
+A. Direct presidential election
+B. The National Assembly’s right to audit government affairs
+C. Reduction in executive power.
+D. Increased power of the National Assembly
+"
+713,KIIP_politics_25,,"다음은 한국사회의 정치에 대한 문제이다.
+한국은 아시아에서 어떤 점에서 최초인가?","['A. 외국인 영주권자를 ‘주민’으로 인정하여 지방선거투표권과 주민투표권 및 주민소환권을 부여한 나라', 'B. 외국인 영주권자를 ‘주민’으로 인정하여 대통령 선거투표권을 부여한 나라', 'C. 외국인 영주권자를 ‘주민’으로 인정하여 국회의원 선거투표권을 부여한 나라', 'D. 외국인 영주권자를 ‘주민’으로 인정하여 학생회 선거투표권을 부여한 나라']",A,"A. 외국인 영주권자를 ‘주민’으로 인정하여 지방선거투표권과 주민투표권 및 주민소환권을 부여한 나라
+B. 외국인 영주권자를 ‘주민’으로 인정하여 대통령 선거투표권을 부여한 나라
+C. 외국인 영주권자를 ‘주민’으로 인정하여 국회의원 선거투표권을 부여한 나라
+D. 외국인 영주권자를 ‘주민’으로 인정하여 학생회 선거투표권을 부여한 나라
+","다음은 한국사회의 정치에 대한 문제이다.
+한국은 아시아에서 어떤 점에서 최초인가?
+A. 외국인 영주권자를 ‘주민’으로 인정하여 지방선거투표권과 주민투표권 및 주민소환권을 부여한 나라
+B. 외국인 영주권자를 ‘주민’으로 인정하여 대통령 선거투표권을 부여한 나라
+C. 외국인 영주권자를 ‘주민’으로 인정하여 국회의원 선거투표권을 부여한 나라
+D. 외국인 영주권자를 ‘주민’으로 인정하여 학생회 선거투표권을 부여한 나라
+","Next is the issue of politics in Korean society.
+In what ways is Korea first in Asia?
+A. A country that recognizes foreign permanent residents as ‘residents’ and grants them the right to vote in local elections, referendum, and recall.
+B. A country that recognizes foreign permanent residents as ‘residents’ and grants them the right to vote in presidential elections.
+C. A country that recognizes foreign permanent residents as ‘residents’ and grants them the right to vote in national assembly elections.
+D. A country that recognizes foreign permanent residents as ‘residents’ and grants them the right to vote in student council elections.
+"
+714,KIIP_politics_26,,"다음은 한국사회의 정치에 대한 문제이다.
+한국에서 기초자치 단체는 어떤 것들로 구분되는가?","['A. 특별시와 광역시', 'B. 시와 군, 구', 'C. 도와 시', 'D. 특별시와 도']",B,"A. 특별시와 광역시
+B. 시와 군, 구
+C. 도와 시
+D. 특별시와 도
+","다음은 한국사회의 정치에 대한 문제이다.
+한국에서 기초자치 단체는 어떤 것들로 구분되는가?
+A. 특별시와 광역시
+B. 시와 군, 구
+C. 도와 시
+D. 특별시와 도
+","Next is the issue of politics in Korean society.
+What are basic autonomous organizations classified into in Korea?
+A. Special cities and metropolitan cities
+B. City, county, district
+C. Tao City
+D. Special cities and provinces
+"
+715,KIIP_politics_27,,"다음은 한국사회의 정치에 대한 문제이다.
+한국에서 선거는 어떤 방법으로 진행되는가?","['A. 국민이 자신을 대표할 사람을 직접 뽑는 방법', 'B. 정부가 대표를 지정하는 방법', 'C. 외국인이 대표를 지정하는 방법', 'D. 왕이 대표를 지정하는 방법']",A,"A. 국민이 자신을 대표할 사람을 직접 뽑는 방법
+B. 정부가 대표를 지정하는 방법
+C. 외국인이 대표를 지정하는 방법
+D. 왕이 대표를 지정하는 방법
+","다음은 한국사회의 정치에 대한 문제이다.
+한국에서 선거는 어떤 방법으로 진행되는가?
+A. 국민이 자신을 대표할 사람을 직접 뽑는 방법
+B. 정부가 대표를 지정하는 방법
+C. 외국인이 대표를 지정하는 방법
+D. 왕이 대표를 지정하는 방법
+","Next is the issue of politics in Korean society.
+How are elections conducted in Korea?
+A. How the people directly elect someone to represent them
+B. How the government appoints representatives
+C. How a foreigner can designate a representative
+D. How the King Appoints Representatives
+"
+716,KIIP_politics_28,,"다음은 한국사회의 정치에 대한 문제이다.
+한국에서 선거권이 주어지는 나이는 몇 세인가?","['A. 18세', 'B. 19세', 'C. 20세', 'D. 21세']",B,"A. 18세
+B. 19세
+C. 20세
+D. 21세
+","다음은 한국사회의 정치에 대한 문제이다.
+한국에서 선거권이 주어지는 나이는 몇 세인가?
+A. 18세
+B. 19세
+C. 20세
+D. 21세
+","Next is the issue of politics in Korean society.
+At what age do you have the right to vote in Korea?
+A. 18 years old
+B. 19 years old
+C. 20 years old
+D. 21 years old
+"
+717,KIIP_politics_29,,"다음은 한국사회의 정치에 대한 문제이다.
+한국의 선거는 어떤 원칙에 따라 치러지는가?","['A. 보통·평등·직접·비밀선거', 'B. 보통·평등·간접·비밀선거', 'C. 보통·불평등·직접·비밀선거', 'D. 보통·평등·직접·공개선거']",A,"A. 보통·평등·직접·비밀선거
+B. 보통·평등·간접·비밀선거
+C. 보통·불평등·직접·비밀선거
+D. 보통·평등·직접·공개선거
+","다음은 한국사회의 정치에 대한 문제이다.
+한국의 선거는 어떤 원칙에 따라 치러지는가?
+A. 보통·평등·직접·비밀선거
+B. 보통·평등·간접·비밀선거
+C. 보통·불평등·직접·비밀선거
+D. 보통·평등·직접·공개선거
+","Next is the issue of politics in Korean society.
+According to what principles are elections held in Korea?
+A. Universal, equal, direct, secret election
+B. Universal, equal, indirect, secret election
+C. Universal, unequal, direct, secret election
+D. Universal, equal, direct, open election
+"
+718,KIIP_politics_30,,"다음은 한국사회의 정치에 대한 문제이다.
+외국인은 한국의 어떤 선거에 참여할 수 없는가?","['A. 대통령 선거와 국회의원 선거', 'B. 지방자치단체 선거', 'C. 학생회 선거', 'D. 아파트 관리위원회 선거']",A,"A. 대통령 선거와 국회의원 선거
+B. 지방자치단체 선거
+C. 학생회 선거
+D. 아파트 관리위원회 선거
+","다음은 한국사회의 정치에 대한 문제이다.
+외국인은 한국의 어떤 선거에 참여할 수 없는가?
+A. 대통령 선거와 국회의원 선거
+B. 지방자치단체 선거
+C. 학생회 선거
+D. 아파트 관리위원회 선거
+","Next is the issue of politics in Korean society.
+Can foreigners participate in any elections in Korea?
+A. Presidential and National Assembly elections
+B. Local government elections
+C. Student Council Election
+D. Apartment Management Committee Election
+"
+719,KIIP_politics_31,,"다음은 한국사회의 정치에 대한 문제이다.
+한국에서 외국인이 지역 주민의 대표를 뽑는 선거에 투표할 수 있는 조건은 무엇인가?","['A. 영주권을 얻은 뒤 3년이 지난 만 19세 이상의 외국인', 'B. 영주권을 얻은 뒤 1년이 지난 만 19세 이상의 외국인', 'C. 영주권을 얻은 뒤 5년이 지난 만 19세 이상의 외국인', 'D. 영주권을 얻은 뒤 10년이 지난 만 19세 이상의 외국인']",A,"A. 영주권을 얻은 뒤 3년이 지난 만 19세 이상의 외국인
+B. 영주권을 얻은 뒤 1년이 지난 만 19세 이상의 외국인
+C. 영주권을 얻은 뒤 5년이 지난 만 19세 이상의 외국인
+D. 영주권을 얻은 뒤 10년이 지난 만 19세 이상의 외국인
+","다음은 한국사회의 정치에 대한 문제이다.
+한국에서 외국인이 지역 주민의 대표를 뽑는 선거에 투표할 수 있는 조건은 무엇인가?
+A. 영주권을 얻은 뒤 3년이 지난 만 19세 이상의 외국인
+B. 영주권을 얻은 뒤 1년이 지난 만 19세 이상의 외국인
+C. 영주권을 얻은 뒤 5년이 지난 만 19세 이상의 외국인
+D. 영주권을 얻은 뒤 10년이 지난 만 19세 이상의 외국인
+","Next is the issue of politics in Korean society.
+What are the conditions for foreigners to vote in elections to elect local residents' representatives in Korea?
+A. Foreigners over 19 years of age who have received permanent residency more than 3 years ago
+B. Foreigners aged 19 or older who have had one year since obtaining permanent residency
+C. Foreigners over 19 years of age who have obtained permanent residency more than 5 years ago
+D. Foreigners aged 19 or older 10 years after obtaining permanent residency
+"
+720,KIIP_politics_32,,"다음은 한국사회의 정치에 대한 문제이다.
+한국의 지방자치제는 어떤 제도인가?","['A. 지역 주민이 스스로 자기 지역의 대표자를 뽑아서 지역의 정치를 담당하도록 하는 제도', 'B. 정부가 지역의 대표자를 지정하여 지역의 정치를 담당하도록 하는 제도', 'C. 외국인이 지역의 대표자를 지정하여 지역의 정치를 담당하도록 하는 제도', 'D. 왕이 지역의 대표자를 지정하여 지역의 정치를 담당하도록 하는 제도']",A,"A. 지역 주민이 스스로 자기 지역의 대표자를 뽑아서 지역의 정치를 담당하도록 하는 제도
+B. 정부가 지역의 대표자를 지정하여 지역의 정치를 담당하도록 하는 제도
+C. 외국인이 지역의 대표자를 지정하여 지역의 정치를 담당하도록 하는 제도
+D. 왕이 지역의 대표자를 지정하여 지역의 정치를 담당하도록 하는 제도
+","다음은 한국사회의 정치에 대한 문제이다.
+한국의 지방자치제는 어떤 제도인가?
+A. 지역 주민이 스스로 자기 지역의 대표자를 뽑아서 지역의 정치를 담당하도록 하는 제도
+B. 정부가 지역의 대표자를 지정하여 지역의 정치를 담당하도록 하는 제도
+C. 외국인이 지역의 대표자를 지정하여 지역의 정치를 담당하도록 하는 제도
+D. 왕이 지역의 대표자를 지정하여 지역의 정치를 담당하도록 하는 제도
+","Next is the issue of politics in Korean society.
+What kind of system is Korea’s local self-government system?
+A. A system that allows local residents to elect their own local representatives to take charge of local politics
+B. A system in which the government appoints a regional representative to take charge of regional politics
+C. A system that allows foreigners to designate local representatives to take charge of local politics
+D. A system in which the king appoints a regional representative to take charge of regional politics
+"
+721,KIIP_politics_33,,"다음은 한국사회의 정치에 대한 문제이다.
+한국의 지방자치단체는 어떻게 구분되는가?","['A. 광역자치 단체와 기초자치단체', 'B. 도시와 시골', 'C. 대도시와 소도시', 'D. 지방과 중앙']",A,"A. 광역자치 단체와 기초자치단체
+B. 도시와 시골
+C. 대도시와 소도시
+D. 지방과 중앙
+","다음은 한국사회의 정치에 대한 문제이다.
+한국의 지방자치단체는 어떻게 구분되는가?
+A. 광역자치 단체와 기초자치단체
+B. 도시와 시골
+C. 대도시와 소도시
+D. 지방과 중앙
+","Next is the issue of politics in Korean society.
+How are local governments in Korea classified?
+A. Metropolitan and basic local governments
+B. Cities and countryside
+C. Big cities and small cities
+D. Local and central
+"
+722,KIIP_politics_34,,"다음은 한국사회의 정치에 대한 문제이다.
+2016년 기준 광역자치 단체로는 몇 개의 특별시가 있는가?","['A. 1개', 'B. 2개', 'C. 3개', 'D. 4개']",A,"A. 1개
+B. 2개
+C. 3개
+D. 4개
+","다음은 한국사회의 정치에 대한 문제이다.
+2016년 기준 광역자치 단체로는 몇 개의 특별시가 있는가?
+A. 1개
+B. 2개
+C. 3개
+D. 4개
+","Next is the issue of politics in Korean society.
+As of 2016, how many special cities are there as metropolitan autonomous organizations?
+A. 1
+B. 2
+C. 3
+D. 4
+"
+723,KIIP_politics_35,,"다음은 한국사회의 정치에 대한 문제이다.
+한국에서 사전 투표는 언제 일반적으로 시작하는가?","['A. 선거일 2일 전', 'B. 선거일 3일 전', 'C. 선거일 4일 전', 'D. 선거일 5일 전']",D,"A. 선거일 2일 전
+B. 선거일 3일 전
+C. 선거일 4일 전
+D. 선거일 5일 전
+","다음은 한국사회의 정치에 대한 문제이다.
+한국에서 사전 투표는 언제 일반적으로 시작하는가?
+A. 선거일 2일 전
+B. 선거일 3일 전
+C. 선거일 4일 전
+D. 선거일 5일 전
+","Next is the issue of politics in Korean society.
+When does early voting usually begin in Korea?
+A. 2 days before election day
+B. 3 days before election day
+C. 4 days before election day
+D. 5 days before election day
+"
+724,KIIP_politics_36,,"다음은 한국사회의 정치에 대한 문제이다.
+한국에서 사전 투표는 어디에서 할 수 있는가?","['A. 선거관리위원회에서', 'B. 자신이 가기 편리한 사전 투표소에서', 'C. 자신이 속한 지역의 투표소에서만', 'D. 모든 공공기관에서']",B,"A. 선거관리위원회에서
+B. 자신이 가기 편리한 사전 투표소에서
+C. 자신이 속한 지역의 투표소에서만
+D. 모든 공공기관에서
+","다음은 한국사회의 정치에 대한 문제이다.
+한국에서 사전 투표는 어디에서 할 수 있는가?
+A. 선거관리위원회에서
+B. 자신이 가기 편리한 사전 투표소에서
+C. 자신이 속한 지역의 투표소에서만
+D. 모든 공공기관에서
+","Next is the issue of politics in Korean society.
+Where can I vote early in Korea?
+A. At the Election Commission
+B. At an early voting location that is convenient for you.
+C. Only at the polling place in your area
+D. In all public institutions
+"
+725,KIIP_politics_37,,"다음은 한국사회의 정치에 대한 문제이다.
+한국에서 사전 투표를 위해 반드시 필요한 것은 무엇인가?","['A. 신분증', 'B. 투표용지', 'C. 사전 투표 신청서', 'D. 주민등록증']",A,"A. 신분증
+B. 투표용지
+C. 사전 투표 신청서
+D. 주민등록증
+","다음은 한국사회의 정치에 대한 문제이다.
+한국에서 사전 투표를 위해 반드시 필요한 것은 무엇인가?
+A. 신분증
+B. 투표용지
+C. 사전 투표 신청서
+D. 주민등록증
+","Next is the issue of politics in Korean society.
+What is essential for early voting in Korea?
+A. ID card
+B. Ballot
+C. Early voting application form
+D. Resident registration card
+"
+726,KIIP_politics_38,,"다음은 한국사회의 정치에 대한 문제이다.
+한국의 국가 권력은 어떻게 나누어져 있는가?","['A. 행정부, 입법부, 사법부', 'B. 행정부, 입법부, 경찰부', 'C. 행정부, 사법부, 경찰부', 'D. 행정부, 입법부, 국방부']",A,"A. 행정부, 입법부, 사법부
+B. 행정부, 입법부, 경찰부
+C. 행정부, 사법부, 경찰부
+D. 행정부, 입법부, 국방부
+","다음은 한국사회의 정치에 대한 문제이다.
+한국의 국가 권력은 어떻게 나누어져 있는가?
+A. 행정부, 입법부, 사법부
+B. 행정부, 입법부, 경찰부
+C. 행정부, 사법부, 경찰부
+D. 행정부, 입법부, 국방부
+","Next is the issue of politics in Korean society.
+How is state power divided in Korea?
+A. Executive, Legislative, and Judicial Branches
+B. Executive, Legislative, and Police Departments
+C. Executive, Judiciary, and Police Departments
+D. Executive, Legislative, and Department of Defense
+"
+727,KIIP_politics_39,,"다음은 한국사회의 정치에 대한 문제이다.
+대한민국 행정부의 최고 책임자는 누구인가?","['A. 국회의원', 'B. 국무총리', 'C. 대통령', 'D. 사법부 장관']",C,"A. 국회의원
+B. 국무총리
+C. 대통령
+D. 사법부 장관
+","다음은 한국사회의 정치에 대한 문제이다.
+대한민국 행정부의 최고 책임자는 누구인가?
+A. 국회의원
+B. 국무총리
+C. 대통령
+D. 사법부 장관
+","Next is the issue of politics in Korean society.
+Who is the chief executive officer of the Republic of Korea's administration?
+A. National Assembly member
+B. Prime Minister
+C.President
+D. Minister of Justice
+"
+728,KIIP_politics_40,,"다음은 한국사회의 정치에 대한 문제이다.
+한국의 대통령 임기는 얼마나 되는가?","['A. 4년', 'B. 5년', 'C. 6년', 'D. 7년']",B,"A. 4년
+B. 5년
+C. 6년
+D. 7년
+","다음은 한국사회의 정치에 대한 문제이다.
+한국의 대통령 임기는 얼마나 되는가?
+A. 4년
+B. 5년
+C. 6년
+D. 7년
+","Next is the issue of politics in Korean society.
+How long is the presidential term in Korea?
+A. 4 years
+B. 5 years
+C. 6 years
+D. 7 years
+"
+729,KIIP_politics_41,,"다음은 한국사회의 정치에 대한 문제이다.
+대한민국 국무총리의 주요 역할은 무엇인가?","['A. 대통령을 대신하여 나라를 대표하는 것', 'B. 행정부의 여러 정책을 종합적으로 관리하는 것', 'C. 국회에서 법을 만드는 것', 'D. 사법부를 관리하는 것']",B,"A. 대통령을 대신하여 나라를 대표하는 것
+B. 행정부의 여러 정책을 종합적으로 관리하는 것
+C. 국회에서 법을 만드는 것
+D. 사법부를 관리하는 것
+","다음은 한국사회의 정치에 대한 문제이다.
+대한민국 국무총리의 주요 역할은 무엇인가?
+A. 대통령을 대신하여 나라를 대표하는 것
+B. 행정부의 여러 정책을 종합적으로 관리하는 것
+C. 국회에서 법을 만드는 것
+D. 사법부를 관리하는 것
+","Next is the issue of politics in Korean society.
+What is the main role of the Prime Minister of the Republic of Korea?
+A. Representing the country on behalf of the president
+B. Comprehensively managing the administration’s various policies
+C. Making laws in the National Assembly
+D. Administering the judiciary
+"
+730,KIIP_politics_42,,"다음은 한국사회의 정치에 대한 문제이다.
+청와대의 뜻은 무엇인가?","['A. 흰색 지붕을 가진 집', 'B. 푸른색 지붕을 가진 집', 'C. 빨간색 지붕을 가진 집', 'D. 검은색 지붕을 가진 집']",B,"A. 흰색 지붕을 가진 집
+B. 푸른색 지붕을 가진 집
+C. 빨간색 지붕을 가진 집
+D. 검은색 지붕을 가진 집
+","다음은 한국사회의 정치에 대한 문제이다.
+청와대의 뜻은 무엇인가?
+A. 흰색 지붕을 가진 집
+B. 푸른색 지붕을 가진 집
+C. 빨간색 지붕을 가진 집
+D. 검은색 지붕을 가진 집
+","Next is the issue of politics in Korean society.
+What does the Blue House mean?
+A. A house with a white roof
+B. A house with a blue roof
+C. House with a red roof
+D. A house with a black roof
+"
+731,KIIP_politics_43,,"다음은 한국사회의 정치에 대한 문제이다.
+청와대는 어떤 역할을 하는 곳인가?","['A. 대통령이 일을 보는 곳', 'B. 대통령이 쉬는 곳', 'C. 비서들이 있는 곳', 'D. 모든 위의 항목']",D,"A. 대통령이 일을 보는 곳
+B. 대통령이 쉬는 곳
+C. 비서들이 있는 곳
+D. 모든 위의 항목
+","다음은 한국사회의 정치에 대한 문제이다.
+청와대는 어떤 역할을 하는 곳인가?
+A. 대통령이 일을 보는 곳
+B. 대통령이 쉬는 곳
+C. 비서들이 있는 곳
+D. 모든 위의 항목
+","Next is the issue of politics in Korean society.
+What role does the Blue House play?
+A. Where the President works
+B. Where the President rests
+C. Where the secretaries are
+D. All of the above
+"
+732,KIIP_politics_44,,"다음은 한국사회의 정치에 대한 문제이다.
+한국에서 법을 만드는 역할을 담당하는 부서는 무엇인가?","['A. 행정부', 'B. 입법부', 'C. 사법부', 'D. 경찰부']",B,"A. 행정부
+B. 입법부
+C. 사법부
+D. 경찰부
+","다음은 한국사회의 정치에 대한 문제이다.
+한국에서 법을 만드는 역할을 담당하는 부서는 무엇인가?
+A. 행정부
+B. 입법부
+C. 사법부
+D. 경찰부
+","Next is the issue of politics in Korean society.
+What department is responsible for making laws in Korea?
+A. Administration
+B. Legislative Assembly
+C. Judiciary
+D. Police Department
+"
+733,KIIP_politics_45,,"다음은 한국사회의 정치에 대한 문제이다.
+한국에서 입법부의 역할을 담당하는 기관은 무엇인가?","['A. 국무회의', 'B. 국무총리', 'C. 국회', 'D. 대법원']",C,"A. 국무회의
+B. 국무총리
+C. 국회
+D. 대법원
+","다음은 한국사회의 정치에 대한 문제이다.
+한국에서 입법부의 역할을 담당하는 기관은 무엇인가?
+A. 국무회의
+B. 국무총리
+C. 국회
+D. 대법원
+","Next is the issue of politics in Korean society.
+What institution is responsible for the legislative role in Korea?
+A. Cabinet meeting
+B. Prime Minister
+C. National Assembly
+D. Supreme Court
+"
+734,KIIP_politics_46,,"다음은 한국사회의 정치에 대한 문제이다.
+대한민국 국회의원의 임기는 얼마나 되는가?","['A. 2년', 'B. 3년', 'C. 4년', 'D. 5년']",C,"A. 2년
+B. 3년
+C. 4년
+D. 5년
+","다음은 한국사회의 정치에 대한 문제이다.
+대한민국 국회의원의 임기는 얼마나 되는가?
+A. 2년
+B. 3년
+C. 4년
+D. 5년
+","Next is the issue of politics in Korean society.
+How long is the term of office for members of the National Assembly in Korea?
+A. 2 years
+B. 3 years
+C. 4 years
+D. 5 years
+"
+735,KIIP_politics_47,,"다음은 한국사회의 정치에 대한 문제이다.
+대한민국 행정부 내에는 어떤 기관들이 있는가?","['A. 법무부, 교육부, 안전행정부', 'B. 국방부, 경찰청, 국세청', 'C. 국회, 대법원, 청와대', 'D. 국무회의, 국무총리, 대통령']",A,"A. 법무부, 교육부, 안전행정부
+B. 국방부, 경찰청, 국세청
+C. 국회, 대법원, 청와대
+D. 국무회의, 국무총리, 대통령
+","다음은 한국사회의 정치에 대한 문제이다.
+대한민국 행정부 내에는 어떤 기관들이 있는가?
+A. 법무부, 교육부, 안전행정부
+B. 국방부, 경찰청, 국세청
+C. 국회, 대법원, 청와대
+D. 국무회의, 국무총리, 대통령
+","Next is the issue of politics in Korean society.
+What agencies are within the executive branch of the Republic of Korea?
+A. Ministry of Justice, Ministry of Education, Ministry of Security and Public Administration
+B. Ministry of National Defense, National Police Agency, National Tax Service
+C. National Assembly, Supreme Court, Blue House
+D. State Council, Prime Minister, President
+"
+736,KIIP_politics_48,,"다음은 한국사회의 정치에 대한 문제이다.
+행정부가 나라 안팎의 일을 처리할 때 가장 우선으로 따라야 하는 것은 무엇인가?","['A. 국민의 뜻', 'B. 정해진 법', 'C. 헌법', 'D. 대통령의 지시']",B,"A. 국민의 뜻
+B. 정해진 법
+C. 헌법
+D. 대통령의 지시
+","다음은 한국사회의 정치에 대한 문제이다.
+행정부가 나라 안팎의 일을 처리할 때 가장 우선으로 따라야 하는 것은 무엇인가?
+A. 국민의 뜻
+B. 정해진 법
+C. 헌법
+D. 대통령의 지시
+","Next is the issue of politics in Korean society.
+What should the executive branch follow first when handling matters inside and outside the country?
+A. Will of the people
+B. established law
+C. Constitution
+D. Directions from the President
+"
+737,KIIP_politics_49,,"다음은 한국사회의 정치에 대한 문제이다.
+대한민국 국회의원은 어떤 두 가지로 구분되는가?","['A. 지역구 국회의원과 비례대표 국회의원', 'B. 여성 국회의원과 남성 국회의원', 'C. 당선 국회의원과 불출마 국회의원', 'D. 정당 소속 국회의원과 무소속 국회의원']",A,"A. 지역구 국회의원과 비례대표 국회의원
+B. 여성 국회의원과 남성 국회의원
+C. 당선 국회의원과 불출마 국회의원
+D. 정당 소속 국회의원과 무소속 국회의원
+","다음은 한국사회의 정치에 대한 문제이다.
+대한민국 국회의원은 어떤 두 가지로 구분되는가?
+A. 지역구 국회의원과 비례대표 국회의원
+B. 여성 국회의원과 남성 국회의원
+C. 당선 국회의원과 불출마 국회의원
+D. 정당 소속 국회의원과 무소속 국회의원
+","Next is the issue of politics in Korean society.
+What are the two types of members of the National Assembly in Korea?
+A. District National Assembly members and Proportional Representative National Assembly members
+B. Female National Assembly members and male National Assembly members
+C. Elected National Assembly members and non-elected National Assembly members
+D. Political party members and independent members of the National Assembly
+"
+738,KIIP_politics_50,,"다음은 한국사회의 정치에 대한 문제이다.
+한국에서 법을 해석하고 적용하여 분쟁을 해결하는 기관은 무엇인가?","['A. 국회', 'B. 행정부', 'C. 법원', 'D. 헌법재판소']",C,"A. 국회
+B. 행정부
+C. 법원
+D. 헌법재판소
+","다음은 한국사회의 정치에 대한 문제이다.
+한국에서 법을 해석하고 적용하여 분쟁을 해결하는 기관은 무엇인가?
+A. 국회
+B. 행정부
+C. 법원
+D. 헌법재판소
+","Next is the issue of politics in Korean society.
+What is the organization that interprets and applies the law to resolve disputes in Korea?
+A. National Assembly
+B. Administration
+C. Court
+D. Constitutional Court
+"
+739,KIIP_politics_51,,"다음은 한국사회의 정치에 대한 문제이다.
+대한민국 법원의 종류에 어떤 것들이 포함되어 있는가?","['A. 대법원, 고등법원, 지방법원, 가정법원', 'B. 헌법재판소, 행정법원, 가정법원, 지방법원', 'C. 대법원, 헌법재판소, 지방법원, 가정법원', 'D. 대법원, 행정법원, 지방법원, 가정법원']",A,"A. 대법원, 고등법원, 지방법원, 가정법원
+B. 헌법재판소, 행정법원, 가정법원, 지방법원
+C. 대법원, 헌법재판소, 지방법원, 가정법원
+D. 대법원, 행정법원, 지방법원, 가정법원
+","다음은 한국사회의 정치에 대한 문제이다.
+대한민국 법원의 종류에 어떤 것들이 포함되어 있는가?
+A. 대법원, 고등법원, 지방법원, 가정법원
+B. 헌법재판소, 행정법원, 가정법원, 지방법원
+C. 대법원, 헌법재판소, 지방법원, 가정법원
+D. 대법원, 행정법원, 지방법원, 가정법원
+","Next is the issue of politics in Korean society.
+What are the types of courts in Korea?
+A. Supreme Court, High Court, District Court, Family Court
+B. Constitutional Court, Administrative Court, Family Court, District Court
+C. Supreme Court, Constitutional Court, District Court, Family Court
+D. Supreme Court, Administrative Court, District Court, Family Court
+"
+740,KIIP_politics_52,,"다음은 한국사회의 정치에 대한 문제이다.
+대한민국 헌법재판소에는 몇 명의 헌법재판관이 있는가?","['A. 7명', 'B. 8명', 'C. 9명', 'D. 10명']",C,"A. 7명
+B. 8명
+C. 9명
+D. 10명
+","다음은 한국사회의 정치에 대한 문제이다.
+대한민국 헌법재판소에는 몇 명의 헌법재판관이 있는가?
+A. 7명
+B. 8명
+C. 9명
+D. 10명
+","Next is the issue of politics in Korean society.
+How many constitutional judges are there in the Constitutional Court of the Republic of Korea?
+A: 7 people
+B. 8 people
+C. 9 people
+D. 10 people
+"
+741,KIIP_politics_53,,"다음은 한국사회의 정치에 대한 문제이다.
+한국에서 국민이 정치에 참여할 수 있는 방법이 아닌 것은?","['A. 선거 참여', 'B. 집회·시위', 'C. 정당 가입', 'D. 인맥 관리']",D,"A. 선거 참여
+B. 집회·시위
+C. 정당 가입
+D. 인맥 관리
+","다음은 한국사회의 정치에 대한 문제이다.
+한국에서 국민이 정치에 참여할 수 있는 방법이 아닌 것은?
+A. 선거 참여
+B. 집회·시위
+C. 정당 가입
+D. 인맥 관리
+","Next is the issue of politics in Korean society.
+Which of the following is not a way for citizens to participate in politics in Korea?
+A. Participation in elections
+B. Rally/demonstration
+C. Political party affiliation
+D. Network management
+"
+742,KIIP_politics_54,,"다음은 한국사회의 정치에 대한 문제이다.
+어떤 방법으로 자신이 직접 대표자가 될 수 있는가?","['A. 집회·시위를 통해', 'B. 언론을 통해', 'C. 각종 선거에 출마하여', 'D. 인터넷을 통해']",C,"A. 집회·시위를 통해
+B. 언론을 통해
+C. 각종 선거에 출마하여
+D. 인터넷을 통해
+","다음은 한국사회의 정치에 대한 문제이다.
+어떤 방법으로 자신이 직접 대표자가 될 수 있는가?
+A. 집회·시위를 통해
+B. 언론을 통해
+C. 각종 선거에 출마하여
+D. 인터넷을 통해
+","Next is the issue of politics in Korean society.
+How can you become your own representative?
+A. Through rallies and protests
+B. Through the media
+C. By running in various elections
+D. Via the Internet
+"
+743,KIIP_politics_55,,"다음은 한국사회의 정치에 대한 문제이다.
+집회·시위의 주 목적은 무엇인가?","['A. 다른 사람들에게 자신의 의견이나 주장을 알리는 것', 'B. 대표자가 되는 것', 'C. 인터넷을 활용하는 것', 'D. 언론을 통해 의견을 알리는 것']",A,"A. 다른 사람들에게 자신의 의견이나 주장을 알리는 것
+B. 대표자가 되는 것
+C. 인터넷을 활용하는 것
+D. 언론을 통해 의견을 알리는 것
+","다음은 한국사회의 정치에 대한 문제이다.
+집회·시위의 주 목적은 무엇인가?
+A. 다른 사람들에게 자신의 의견이나 주장을 알리는 것
+B. 대표자가 되는 것
+C. 인터넷을 활용하는 것
+D. 언론을 통해 의견을 알리는 것
+","Next is the issue of politics in Korean society.
+What is the main purpose of rallies and protests?
+A. Making your opinions or claims known to others
+B. Being a representative
+C. Using the Internet
+D. Making opinions known through the media
+"
+744,KIIP_politics_56,,"다음은 한국사회의 정치에 대한 문제이다.
+민주주의가 자리 잡게 되면서 사람들이 어떤 것을 적극적으로 표출하게 되었는가?","['A. 이익과 주장', 'B. 성별과 나이', 'C. 직업과 학력', 'D. 국적과 종교']",A,"A. 이익과 주장
+B. 성별과 나이
+C. 직업과 학력
+D. 국적과 종교
+","다음은 한국사회의 정치에 대한 문제이다.
+민주주의가 자리 잡게 되면서 사람들이 어떤 것을 적극적으로 표출하게 되었는가?
+A. 이익과 주장
+B. 성별과 나이
+C. 직업과 학력
+D. 국적과 종교
+","Next is the issue of politics in Korean society.
+As democracy took root, what did people begin to actively express?
+A. Benefits and Claims
+B. Gender and age
+C. Occupation and education
+D. Nationality and Religion
+"
+745,KIIP_politics_57,,"다음은 한국사회의 정치에 대한 문제이다.
+한국 정부가 시작한 서비스 중 층간소음 분쟁을 해결하기 위한 서비스는 무엇인가?","['A. 층간소음 중재 서비스', 'B. 층간소음 감소 서비스', 'C. 층간소음 제거 서비스', 'D. 층간소음 조정 서비스']",A,"A. 층간소음 중재 서비스
+B. 층간소음 감소 서비스
+C. 층간소음 제거 서비스
+D. 층간소음 조정 서비스
+","다음은 한국사회의 정치에 대한 문제이다.
+한국 정부가 시작한 서비스 중 층간소음 분쟁을 해결하기 위한 서비스는 무엇인가?
+A. 층간소음 중재 서비스
+B. 층간소음 감소 서비스
+C. 층간소음 제거 서비스
+D. 층간소음 조정 서비스
+","Next is the issue of politics in Korean society.
+Among the services launched by the Korean government, which service is aimed at resolving inter-floor noise disputes?
+A. Inter-floor noise mediation service
+B. Inter-floor noise reduction service
+C. Inter-floor noise removal service
+D. Inter-floor noise adjustment service
+"
+746,KIIP_politics_58,,"다음은 한국사회의 정치에 대한 문제이다.
+현재 한국에서 많이 이루어지는 정치적 주장의 표현 방식이 아닌 것은?","['A. 1인 시위', 'B. 거리 행진', 'C. 촛불 집회', 'D. 건물 점거']",D,"A. 1인 시위
+B. 거리 행진
+C. 촛불 집회
+D. 건물 점거
+","다음은 한국사회의 정치에 대한 문제이다.
+현재 한국에서 많이 이루어지는 정치적 주장의 표현 방식이 아닌 것은?
+A. 1인 시위
+B. 거리 행진
+C. 촛불 집회
+D. 건물 점거
+","Next is the issue of politics in Korean society.
+Which of the following is not a common way of expressing political arguments in Korea?
+A. One-person protest
+B. street march
+C. Candlelight vigil
+D. Building Occupation
+"
+747,KIIP_politics_59,,"다음은 한국사회의 정치에 대한 문제이다.
+일본이 한국에 어떤 역사적 사건을 일으켰는가?","['A. 한국을 식민지로 점령', 'B. 한국과 전쟁', 'C. 한국에 경제적 지원', 'D. 한국에 문화적 영향']",A,"A. 한국을 식민지로 점령
+B. 한국과 전쟁
+C. 한국에 경제적 지원
+D. 한국에 문화적 영향
+","다음은 한국사회의 정치에 대한 문제이다.
+일본이 한국에 어떤 역사적 사건을 일으켰는가?
+A. 한국을 식민지로 점령
+B. 한국과 전쟁
+C. 한국에 경제적 지원
+D. 한국에 문화적 영향
+","Next is the issue of politics in Korean society.
+What historical events did Japan cause in Korea?
+A. Occupied Korea as a colony
+B. Korea and War
+C. Economic support to Korea
+D. Cultural influence on Korea
+"
+748,KIIP_politics_60,,"다음은 한국사회의 정치에 대한 문제이다.
+미국은 어떤 전쟁 이후부터 남한에 많은 영향을 주었는가?","['A. 1차 세계 대전', 'B. 2차 세계 대전', 'C. 한국 전쟁', 'D. 베트남 전쟁']",B,"A. 1차 세계 대전
+B. 2차 세계 대전
+C. 한국 전쟁
+D. 베트남 전쟁
+","다음은 한국사회의 정치에 대한 문제이다.
+미국은 어떤 전쟁 이후부터 남한에 많은 영향을 주었는가?
+A. 1차 세계 대전
+B. 2차 세계 대전
+C. 한국 전쟁
+D. 베트남 전쟁
+","Next is the issue of politics in Korean society.
+Since what war has the United States had much influence on South Korea?
+A. World War I
+B. World War II
+C. Korean War
+D. Vietnam War
+"
+749,KIIP_politics_61,,"다음은 한국사회의 정치에 대한 문제이다.
+한국 전쟁에서 러시아는 어떤 나라를 지원했는가?","['A. 북한', 'B. 중국', 'C. 미국', 'D. 남한']",A,"A. 북한
+B. 중국
+C. 미국
+D. 남한
+","다음은 한국사회의 정치에 대한 문제이다.
+한국 전쟁에서 러시아는 어떤 나라를 지원했는가?
+A. 북한
+B. 중국
+C. 미국
+D. 남한
+","Next is the issue of politics in Korean society.
+Which countries did Russia support in the Korean War?
+A. North Korea
+B. China
+C.United States
+D. South Korea
+"
+750,KIIP_politics_62,,"다음은 한국사회의 정치에 대한 문제이다.
+한국이 일본의 지배에서 벗어나 해방을 맞이한 날짜는 언제인가?","['A. 1945년 7월 15일', 'B. 1945년 8월 15일', 'C. 1945년 9월 15일', 'D. 1945년 10월 15일']",B,"A. 1945년 7월 15일
+B. 1945년 8월 15일
+C. 1945년 9월 15일
+D. 1945년 10월 15일
+","다음은 한국사회의 정치에 대한 문제이다.
+한국이 일본의 지배에서 벗어나 해방을 맞이한 날짜는 언제인가?
+A. 1945년 7월 15일
+B. 1945년 8월 15일
+C. 1945년 9월 15일
+D. 1945년 10월 15일
+","Next is the issue of politics in Korean society.
+When was Korea liberated from Japanese rule?
+A. July 15, 1945
+B. August 15, 1945
+C. September 15, 1945
+D. October 15, 1945
+"
+751,KIIP_politics_63,,"다음은 한국사회의 정치에 대한 문제이다.
+대한민국과 조선민주주의인민공화국이 각각 수립된 연도는 언제인가?","['A. 1945년', 'B. 1946년', 'C. 1947년', 'D. 1948년']",D,"A. 1945년
+B. 1946년
+C. 1947년
+D. 1948년
+","다음은 한국사회의 정치에 대한 문제이다.
+대한민국과 조선민주주의인민공화국이 각각 수립된 연도는 언제인가?
+A. 1945년
+B. 1946년
+C. 1947년
+D. 1948년
+","Next is the issue of politics in Korean society.
+When were the Republic of Korea and the Democratic People's Republic of Korea established?
+A: 1945
+B. 1946
+C. 1947
+D. 1948
+"
+752,KIIP_politics_64,,"다음은 한국사회의 정치에 대한 문제이다.
+한국전쟁이 시작된 날짜는 언제인가?","['A. 1950년 5월 25일', 'B. 1950년 6월 25일', 'C. 1950년 7월 25일', 'D. 1950년 8월 25일']",B,"A. 1950년 5월 25일
+B. 1950년 6월 25일
+C. 1950년 7월 25일
+D. 1950년 8월 25일
+","다음은 한국사회의 정치에 대한 문제이다.
+한국전쟁이 시작된 날짜는 언제인가?
+A. 1950년 5월 25일
+B. 1950년 6월 25일
+C. 1950년 7월 25일
+D. 1950년 8월 25일
+","Next is the issue of politics in Korean society.
+When did the Korean War begin?
+A: May 25, 1950
+B. June 25, 1950
+C. July 25, 1950
+D. August 25, 1950
+"
+753,KIIP_politics_65,,"다음은 한국사회의 정치에 대한 문제이다.
+한국전쟁이 끝난 연도는 언제인가?","['A. 1951년', 'B. 1952년', 'C. 1953년', 'D. 1954년']",C,"A. 1951년
+B. 1952년
+C. 1953년
+D. 1954년
+","다음은 한국사회의 정치에 대한 문제이다.
+한국전쟁이 끝난 연도는 언제인가?
+A. 1951년
+B. 1952년
+C. 1953년
+D. 1954년
+","Next is the issue of politics in Korean society.
+In what year did the Korean War end?
+A: 1951
+B. 1952
+C. 1953
+D. 1954
+"
+754,KIIP_politics_66,,"다음은 한국사회의 정치에 대한 문제이다.
+최초의 남북정상회담이 열린 연도는 언제인가?","['A. 1998년', 'B. 1999년', 'C. 2000년', 'D. 2001년']",C,"A. 1998년
+B. 1999년
+C. 2000년
+D. 2001년
+","다음은 한국사회의 정치에 대한 문제이다.
+최초의 남북정상회담이 열린 연도는 언제인가?
+A. 1998년
+B. 1999년
+C. 2000년
+D. 2001년
+","Next is the issue of politics in Korean society.
+In what year was the first inter-Korean summit held?
+A: 1998
+B. 1999
+C. 2000
+D. 2001
+"
+755,KIIP_politics_67,,"다음은 한국사회의 정치에 대한 문제이다.
+남북관계 개선 이후 늘어난 것은 무엇인가?","['A. 경제적·문화적 교류', 'B. 군사적 협력', 'C. 정치적 동맹', 'D. 과학기술 교류']",A,"A. 경제적·문화적 교류
+B. 군사적 협력
+C. 정치적 동맹
+D. 과학기술 교류
+","다음은 한국사회의 정치에 대한 문제이다.
+남북관계 개선 이후 늘어난 것은 무엇인가?
+A. 경제적·문화적 교류
+B. 군사적 협력
+C. 정치적 동맹
+D. 과학기술 교류
+","Next is the issue of politics in Korean society.
+What has increased since inter-Korean relations improved?
+A. Economic and cultural exchanges
+B. Military cooperation
+C. Political alliance
+D. Science and technology exchange
+"
+756,KIIP_politics_68,,"다음은 한국사회의 정치에 대한 문제이다.
+남북 정상회담이 열린 장소는 어디인가?","['A. 서울', 'B. 평양', 'C. 판문점', 'D. 개성']",B,"A. 서울
+B. 평양
+C. 판문점
+D. 개성
+","다음은 한국사회의 정치에 대한 문제이다.
+남북 정상회담이 열린 장소는 어디인가?
+A. 서울
+B. 평양
+C. 판문점
+D. 개성
+","Next is the issue of politics in Korean society.
+Where was the inter-Korean summit held?
+A. Seoul
+B. Pyongyang
+C. Panmunjom
+D. Individuality
+"
+757,KIIP_politics_69,,"다음은 한국사회의 정치에 대한 문제이다.
+2000년에 열린 남북 정상 회담에서 만난 두 정상의 이름은 무엇인가?","['A. 김대중, 김일성', 'B. 김대중, 김정일', 'C. 노무현, 김정일', 'D. 문재인, 김정은']",B,"A. 김대중, 김일성
+B. 김대중, 김정일
+C. 노무현, 김정일
+D. 문재인, 김정은
+","다음은 한국사회의 정치에 대한 문제이다.
+2000년에 열린 남북 정상 회담에서 만난 두 정상의 이름은 무엇인가?
+A. 김대중, 김일성
+B. 김대중, 김정일
+C. 노무현, 김정일
+D. 문재인, 김정은
+","Next is the issue of politics in Korean society.
+What are the names of the two leaders who met at the North-South summit held in 2000?
+A. Kim Dae-jung, Kim Il-sung
+B. Kim Dae-jung, Kim Jong-il
+C. Roh Moo-hyun, Kim Jong-il
+D. Moon Jae-in, Kim Jong-un
+"
+758,KIIP_politics_70,,"다음은 한국사회의 정치에 대한 문제이다.
+6·15남북 공동 선언의 내용 중 하나가 아닌 것은 무엇인가?","['A. 통일 문제의 자주적 해결', 'B. 1국가 2체제의 통일 방안 협의', 'C. 이산가족 문제 해결', 'D. 군사적 동맹']",D,"A. 통일 문제의 자주적 해결
+B. 1국가 2체제의 통일 방안 협의
+C. 이산가족 문제 해결
+D. 군사적 동맹
+","다음은 한국사회의 정치에 대한 문제이다.
+6·15남북 공동 선언의 내용 중 하나가 아닌 것은 무엇인가?
+A. 통일 문제의 자주적 해결
+B. 1국가 2체제의 통일 방안 협의
+C. 이산가족 문제 해결
+D. 군사적 동맹
+","Next is the issue of politics in Korean society.
+What is not one of the contents of the June 15 Inter-Korean Joint Declaration?
+A. Independent resolution of unification issues
+B. Discussion on unification plan for one country, two systems
+C. Solving the problem of separated families
+D. military alliance
+"
+759,KIIP_politics_71,,"다음은 한국사회의 정치에 대한 문제이다.
+많은 한국 국민들과 세계 사람들이 기원하는 것은 무엇인가?","['A. 한반도의 평화 통일', 'B. 남북의 냉전', 'C. 북한의 핵 무기 위협', 'D. 남북의 군사적 통합']",A,"A. 한반도의 평화 통일
+B. 남북의 냉전
+C. 북한의 핵 무기 위협
+D. 남북의 군사적 통합
+","다음은 한국사회의 정치에 대한 문제이다.
+많은 한국 국민들과 세계 사람들이 기원하는 것은 무엇인가?
+A. 한반도의 평화 통일
+B. 남북의 냉전
+C. 북한의 핵 무기 위협
+D. 남북의 군사적 통합
+","Next is the issue of politics in Korean society.
+What do many Koreans and people around the world wish for?
+A. Peaceful unification of the Korean Peninsula
+B. Cold War between North and South Korea
+C. North Korea’s nuclear weapons threat
+D. Military integration of North and South Korea
+"
+760,KIIP_politics_72,,"다음은 한국사회의 정치에 대한 문제이다.
+한반도 주변 4강에는 어떤 나라들이 포함되어 있는가?","['A. 중국, 일본, 미국, 러시아', 'B. 중국, 일본, 미국, 북한', 'C. 중국, 일본, 미국, 남한', 'D. 중국, 일본, 미국, 인도']",A,"A. 중국, 일본, 미국, 러시아
+B. 중국, 일본, 미국, 북한
+C. 중국, 일본, 미국, 남한
+D. 중국, 일본, 미국, 인도
+","다음은 한국사회의 정치에 대한 문제이다.
+한반도 주변 4강에는 어떤 나라들이 포함되어 있는가?
+A. 중국, 일본, 미국, 러시아
+B. 중국, 일본, 미국, 북한
+C. 중국, 일본, 미국, 남한
+D. 중국, 일본, 미국, 인도
+","Next is the issue of politics in Korean society.
+What countries are included in the four major powers around the Korean Peninsula?
+A. China, Japan, USA, Russia
+B. China, Japan, USA, North Korea
+C. China, Japan, USA, South Korea
+D. China, Japan, USA, India
+"
+761,KIIP_politics_73,,"다음은 한국사회의 정치에 대한 문제이다.
+미국이 한국 전쟁 때 어떤 나라를 지원했는가?","['A. 북한', 'B. 중국', 'C. 러시아', 'D. 남한']",D,"A. 북한
+B. 중국
+C. 러시아
+D. 남한
+","다음은 한국사회의 정치에 대한 문제이다.
+미국이 한국 전쟁 때 어떤 나라를 지원했는가?
+A. 북한
+B. 중국
+C. 러시아
+D. 남한
+","Next is the issue of politics in Korean society.
+Which countries did the United States support during the Korean War?
+A. North Korea
+B. China
+C.Russia
+D. South Korea
+"
+762,KIIP_politics_74,,"다음은 한국사회의 정치에 대한 문제이다.
+독도는 한국의 어느 지역에 위치해 있는가?","['A. 서울특별시', 'B. 제주특별자치도', 'C. 경상북도 울릉군', 'D. 부산광역시']",C,"A. 서울특별시
+B. 제주특별자치도
+C. 경상북도 울릉군
+D. 부산광역시
+","다음은 한국사회의 정치에 대한 문제이다.
+독도는 한국의 어느 지역에 위치해 있는가?
+A. 서울특별시
+B. 제주특별자치도
+C. 경상북도 울릉군
+D. 부산광역시
+","Next is the issue of politics in Korean society.
+In what region of Korea is Dokdo located?
+A. Seoul Metropolitan City
+B. Jeju Special Self-Governing Province
+C. Ulleung-gun, Gyeongsangbuk-do
+D. Busan Metropolitan City
+"
+763,KIIP_politics_75,,"다음은 한국사회의 정치에 대한 문제이다.
+독도 주변의 바다는 어떤 자원이 풍부한가?","['A. 석유', 'B. 금', 'C. 수산자원', 'D. 철']",C,"A. 석유
+B. 금
+C. 수산자원
+D. 철
+","다음은 한국사회의 정치에 대한 문제이다.
+독도 주변의 바다는 어떤 자원이 풍부한가?
+A. 석유
+B. 금
+C. 수산자원
+D. 철
+","Next is the issue of politics in Korean society.
+What resources are rich in the sea around Dokdo?
+A. Petroleum
+B. Gold
+C. Fishery resources
+D. iron
+"
+764,KIIP_politics_76,,"다음은 한국사회의 정치에 대한 문제이다.
+일본이 독도를 자국의 영토로 교과서에 기재하려는 행동은 국제적으로 어떻게 받아들여지고 있는가?","['A. 받아들여지고 있다', 'B. 받아들여지지 않고 있다', 'C. 중립적으로 받아들여지고 있다', 'D. 무시되고 있다']",B,"A. 받아들여지고 있다
+B. 받아들여지지 않고 있다
+C. 중립적으로 받아들여지고 있다
+D. 무시되고 있다
+","다음은 한국사회의 정치에 대한 문제이다.
+일본이 독도를 자국의 영토로 교과서에 기재하려는 행동은 국제적으로 어떻게 받아들여지고 있는가?
+A. 받아들여지고 있다
+B. 받아들여지지 않고 있다
+C. 중립적으로 받아들여지고 있다
+D. 무시되고 있다
+","Next is the issue of politics in Korean society.
+How is Japan's action to list Dokdo as its own territory in textbooks being received internationally?
+A. It is accepted.
+B. It is not accepted.
+C. It is accepted neutrally
+D. is being ignored
+"
+765,KIIP_politics_77,,"다음은 한국사회의 정치에 대한 문제이다.
+독도가 한국의 영토였음을 증명하는 문헌들은 어느 시대부터 존재하는가?","['A. 고구려 시대', 'B. 백제 시대', 'C. 신라 지증왕 시대', 'D. 조선 시대']",C,"A. 고구려 시대
+B. 백제 시대
+C. 신라 지증왕 시대
+D. 조선 시대
+","다음은 한국사회의 정치에 대한 문제이다.
+독도가 한국의 영토였음을 증명하는 문헌들은 어느 시대부터 존재하는가?
+A. 고구려 시대
+B. 백제 시대
+C. 신라 지증왕 시대
+D. 조선 시대
+","Next is the issue of politics in Korean society.
+From what era do documents proving that Dokdo was Korean territory exist?
+A. Goguryeo period
+B. Baekje Period
+C. Period of King Jijeung of Silla
+D. Joseon Dynasty
+"
+766,KIIP_politics_78,,"다음은 한국사회의 정치에 대한 문제이다.
+현재 독도에는 몇 명의 주민이 살고 있는가?","['A. 1명', 'B. 2명', 'C. 3명', 'D. 4명']",B,"A. 1명
+B. 2명
+C. 3명
+D. 4명
+","다음은 한국사회의 정치에 대한 문제이다.
+현재 독도에는 몇 명의 주민이 살고 있는가?
+A. 1명
+B. 2명
+C. 3명
+D. 4명
+","Next is the issue of politics in Korean society.
+How many residents currently live on Dokdo?
+A. 1 person
+B. 2 people
+C. 3 people
+D. 4 people
+"
+767,KIIP_politics_79,,"다음은 한국사회의 정치에 대한 문제이다.
+독도에 상주하며 독도 수호 임무를 다하고 있는 단체는 무엇인가?","['A. 해경', 'B. 해군', 'C. 독도경비대', 'D. 해양경찰청']",C,"A. 해경
+B. 해군
+C. 독도경비대
+D. 해양경찰청
+","다음은 한국사회의 정치에 대한 문제이다.
+독도에 상주하며 독도 수호 임무를 다하고 있는 단체는 무엇인가?
+A. 해경
+B. 해군
+C. 독도경비대
+D. 해양경찰청
+","Next is the issue of politics in Korean society.
+What is the organization that resides on Dokdo and is carrying out its mission to protect Dokdo?
+A. Coast Guard
+B.Navy
+C. Dokdo Guard
+D. Coast Guard
+"

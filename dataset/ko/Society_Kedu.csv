@@ -1,0 +1,484 @@
+index,id,paragraph,question,choices,answer,options,ko,en
+1098,Kedu_Society_1,,"다음은 한국사회에 대한 문제이다.
+한국의 인구피라미드에 관한 다음 설명의 ( )안에 들어갈 내용을 옳게 나열한것은?
+1960년대 초만 해도 ( ㄱ ) 출산율과 ( ㄴ ) 사망률로 전통사회의 전형적인모형인 피라미드형 구조를 보였다. 1990년대에는 ( ㄷ ) 출산율과 ( ㄹ ) 사망률을 가진 종형 구조로 바뀌었다.","['A. ㄱ : 낮은, ㄴ : 높은, ㄷ : 낮은, ㄹ : 높은', 'B. ㄱ : 높은, ㄴ : 높은, ㄷ : 낮은, ㄹ : 낮은', 'C. ㄱ : 높은, ㄴ : 높은, ㄷ : 낮은, ㄹ : 높은', 'D. ㄱ : 높은, ㄴ : 낮은, ㄷ : 낮은, ㄹ : 낮은']",B,"A. ㄱ : 낮은, ㄴ : 높은, ㄷ : 낮은, ㄹ : 높은
+B. ㄱ : 높은, ㄴ : 높은, ㄷ : 낮은, ㄹ : 낮은
+C. ㄱ : 높은, ㄴ : 높은, ㄷ : 낮은, ㄹ : 높은
+D. ㄱ : 높은, ㄴ : 낮은, ㄷ : 낮은, ㄹ : 낮은
+","다음은 한국사회에 대한 문제이다.
+한국의 인구피라미드에 관한 다음 설명의 ( )안에 들어갈 내용을 옳게 나열한것은?
+1960년대 초만 해도 ( (1) ) 출산율과 ( (2) ) 사망률로 전통사회의 전형적인모형인 피라미드형 구조를 보였다. 1990년대에는 ( (3) ) 출산율과 ( (4) ) 사망률을 가진 종형 구조로 바뀌었다.
+A. (1) : 낮은, (2) : 높은, (3) : 낮은, (4) : 높은
+B. (1) : 높은, (2) : 높은, (3) : 낮은, (4) : 낮은
+C. (1) : 높은, (2) : 높은, (3) : 낮은, (4) : 높은
+D. (1) : 높은, (2) : 낮은, (3) : 낮은, (4) : 낮은
+","The following is a problem for Korean society.
+Which of the following correctly lists the information in ( ) in the following explanation about Korea's population pyramid?
+Even in the early 1960s, ( (1) ) birth rate and ( (2) ) death rate showed a pyramid-shaped structure, a typical model of traditional society. In the 1990s, it changed to a bell-shaped structure with ( (3) ) birth rate and ( (4) ) death rate.
+A. (1): low, (2): high, (3): low, (4): high
+B. (1): high, (2): high, (3): low, (4): low
+C. (1): high, (2): high, (3): low, (4): high
+D. (1): high, (2): low, (3): low, (4): low
+"
+1099,Kedu_Society_2,,"다음은 한국사회에 대한 문제이다.
+1990년대 ‘신세대’의 등장과 밀접한 관련이 있는 사항을 모두 고른 것은? 
+ ㄱ. 냉전 질서의 강화 
+ ㄴ. 물질적 풍요와 개인적 자유의 확대 
+ ㄷ. 권위주의의 약화 
+ ㄹ. 영상문화에서 문자중심 문화로의 전환 
+ ㅁ. 디지털 매체의 확산","['A. ㄱ, ㄴ, ㅁ', 'B. ㄴ, ㄷ, ㄹ', 'C. ㄱ, ㄴ, ㄹ', 'D. ㄴ, ㄷ, ㅁ']",D,"A. ㄱ, ㄴ, ㅁ
+B. ㄴ, ㄷ, ㄹ
+C. ㄱ, ㄴ, ㄹ
+D. ㄴ, ㄷ, ㅁ
+","다음은 한국사회에 대한 문제이다.
+1990년대 ‘신세대’의 등장과 밀접한 관련이 있는 사항을 모두 고른 것은? 
+ (1)  냉전 질서의 강화 
+ (2)  물질적 풍요와 개인적 자유의 확대 
+ (3)  권위주의의 약화 
+ (4)  영상문화에서 문자중심 문화로의 전환 
+ ㅁ. 디지털 매체의 확산
+A. (1), (2), ㅁ
+B. (2), (3), (4)
+C. (1), (2), (4)
+D. (2), (3), ㅁ
+","The following is a problem for Korean society.
+Which of the following are all closely related to the emergence of the ‘new generation’ in the 1990s? 
+ (1) Strengthening the Cold War order 
+ (2) Expansion of material abundance and personal freedom 
+ (3) Weakening of authoritarianism 
+ (4) Transition from video culture to text-centered culture 
+ grave. proliferation of digital media
+A. (1), (2), ㅁ
+B. (2), (3), (4)
+C. (1), (2), (4)
+D. (2), (3), ㅁ
+"
+1100,Kedu_Society_3,,"다음은 한국사회에 대한 문제이다.
+친족 구성원의 호칭을 잘못 연결한 것은?","['A. 반서갱동(飯西羹東)', 'B. 어동육서(魚東肉西)', 'C. 홍동백서(紅東白西)', 'D. 서두동미(西頭東尾)']",A,"A. 반서갱동(飯西羹東)
+B. 어동육서(魚東肉西)
+C. 홍동백서(紅東白西)
+D. 서두동미(西頭東尾)
+","다음은 한국사회에 대한 문제이다.
+친족 구성원의 호칭을 잘못 연결한 것은?
+A. 반서갱동(飯西羹東)
+B. 어동육서(魚東肉西)
+C. 홍동백서(紅東白西)
+D. 서두동미(西頭東尾)
+","The following is a problem for Korean society.
+What is wrong with linking the titles of family members?
+A. Banseogaengdong (Food East)
+B. Fish, East, and Yukseo
+C. Red East White Book
+D. Seo Du Dong Mi (西頭東尾)
+"
+1101,Kedu_Society_4,,"다음은 한국사회에 대한 문제이다.
+<애국가>에 관한 설명으로 옳은 것은?","['A. 19세기 초 애국가류 가사들이 독립신문에 발표되었다.', 'B. 안익태가 작곡한 <한국환상곡>이 일제강점기부터 <애국가>의 멜로디가 되었다.', 'C. 1948년 정부 수립 전까지 독일 노래인 <올드랭사인>(Auld Lang Syne)의 멜로디로부르기도 했다.', 'D. 2010년에 제정된 ‘국민의례 규정’에는 정식 절차 시 <애국가>를 1절부터 4절까지모두 제창하거나 1절만 제창하도록 규정되어 있다.']",D,"A. 19세기 초 애국가류 가사들이 독립신문에 발표되었다.
+B. 안익태가 작곡한 <한국환상곡>이 일제강점기부터 <애국가>의 멜로디가 되었다.
+C. 1948년 정부 수립 전까지 독일 노래인 <올드랭사인>(Auld Lang Syne)의 멜로디로부르기도 했다.
+D. 2010년에 제정된 ‘국민의례 규정’에는 정식 절차 시 <애국가>를 1절부터 4절까지모두 제창하거나 1절만 제창하도록 규정되어 있다.
+","다음은 한국사회에 대한 문제이다.
+<애국가>에 관한 설명으로 옳은 것은?
+A. 19세기 초 애국가류 가사들이 독립신문에 발표되었다.
+B. 안익태가 작곡한 <한국환상곡>이 일제강점기부터 <애국가>의 멜로디가 되었다.
+C. 1948년 정부 수립 전까지 독일 노래인 <올드랭사인>(Auld Lang Syne)의 멜로디로부르기도 했다.
+D. 2010년에 제정된 ‘국민의례 규정’에는 정식 절차 시 <애국가>를 1절부터 4절까지모두 제창하거나 1절만 제창하도록 규정되어 있다.
+","The following is a problem for Korean society.
+Which of the following is correct regarding <National Anthem>?
+A. In the early 19th century, lyrics of national anthems were published in the Independent Newspaper.
+B. <Korean Fantasy> composed by Ahn Ik-tae became the melody of <National Anthem> from the Japanese colonial period.
+C. Until the establishment of the government in 1948, it was also sung as the melody of the German song <Auld Lang Syne>.
+D. The ‘National Ceremony Regulations’ enacted in 2010 stipulate that during formal proceedings, either all verses 1 to 4 of the National Anthem must be sung or only verse 1 must be sung.
+"
+1102,Kedu_Society_5,,"다음은 한국사회에 대한 문제이다.
+다음 중 인척으로 나열된 것은?","['A. 이모, 사위, 백부', 'B. 숙모, 며느리, 장모', 'C. 이모, 외숙모, 장인', 'D. 숙모, 사위, 외조모']",B,"A. 이모, 사위, 백부
+B. 숙모, 며느리, 장모
+C. 이모, 외숙모, 장인
+D. 숙모, 사위, 외조모
+","다음은 한국사회에 대한 문제이다.
+다음 중 인척으로 나열된 것은?
+A. 이모, 사위, 백부
+B. 숙모, 며느리, 장모
+C. 이모, 외숙모, 장인
+D. 숙모, 사위, 외조모
+","The following is a problem for Korean society.
+Which of the following is listed as an in-law?
+A. Aunt, son-in-law, uncle
+B. Aunt, daughter-in-law, mother-in-law
+C. Aunt, maternal uncle, father-in-law
+D. Aunt, son-in-law, maternal grandmother
+"
+1103,Kedu_Society_6,,"다음은 한국사회에 대한 문제이다.
+최근 한국 문화예술계와 관련된 사회문화 현상으로 볼 수 없는 것은?","['A. 한국영화의 지속적인 발전으로 스크린쿼터제가 폐지되었다.', 'B. 스마트폰을 활용한 새로운 문화예술 창작 실험이 증가하고 있다.', 'C. 문학작품이나 웹툰에 기반한 원소스 멀티유즈(OSMU)가 활성화되고 있다.', 'D. 주5일제의 전면 시행에 따라 문화예술 여가활동이 더욱 증가되었다.']",A,"A. 한국영화의 지속적인 발전으로 스크린쿼터제가 폐지되었다.
+B. 스마트폰을 활용한 새로운 문화예술 창작 실험이 증가하고 있다.
+C. 문학작품이나 웹툰에 기반한 원소스 멀티유즈(OSMU)가 활성화되고 있다.
+D. 주5일제의 전면 시행에 따라 문화예술 여가활동이 더욱 증가되었다.
+","다음은 한국사회에 대한 문제이다.
+최근 한국 문화예술계와 관련된 사회문화 현상으로 볼 수 없는 것은?
+A. 한국영화의 지속적인 발전으로 스크린쿼터제가 폐지되었다.
+B. 스마트폰을 활용한 새로운 문화예술 창작 실험이 증가하고 있다.
+C. 문학작품이나 웹툰에 기반한 원소스 멀티유즈(OSMU)가 활성화되고 있다.
+D. 주5일제의 전면 시행에 따라 문화예술 여가활동이 더욱 증가되었다.
+","The following is a problem for Korean society.
+What cannot be considered a recent social and cultural phenomenon related to the Korean culture and arts community?
+A. With the continued development of Korean films, the screen quota system was abolished.
+B. New cultural and artistic creation experiments using smartphones are increasing.
+C. One-source multi-use (OSMU) based on literary works or webtoons is becoming active.
+D. With the full implementation of the five-day workweek, cultural, artistic and leisure activities have increased.
+"
+1104,Kedu_Society_7,,"다음은 한국사회에 대한 문제이다.
+1960년대 이후 산업화가 한국사회에 미친 영향으로 보기 어려운 것은?","['A. 농촌인구의 감소와 도시인구의 급격한 증가를 가져왔다.', 'B. 대기업과 중소기업 간의 부익부 빈익빈 현상은 점점 완화되었다.', 'C. 고도 경제성장 과정에서 농.어업 종사자의 비율은 현격하게 저하되었다.', 'D. 1970년대 중반 이후 내구소비재의 급속한 보급으로 가계의 소비구조에 많은 변화가있었다.']",B,"A. 농촌인구의 감소와 도시인구의 급격한 증가를 가져왔다.
+B. 대기업과 중소기업 간의 부익부 빈익빈 현상은 점점 완화되었다.
+C. 고도 경제성장 과정에서 농.어업 종사자의 비율은 현격하게 저하되었다.
+D. 1970년대 중반 이후 내구소비재의 급속한 보급으로 가계의 소비구조에 많은 변화가있었다.
+","다음은 한국사회에 대한 문제이다.
+1960년대 이후 산업화가 한국사회에 미친 영향으로 보기 어려운 것은?
+A. 농촌인구의 감소와 도시인구의 급격한 증가를 가져왔다.
+B. 대기업과 중소기업 간의 부익부 빈익빈 현상은 점점 완화되었다.
+C. 고도 경제성장 과정에서 농.어업 종사자의 비율은 현격하게 저하되었다.
+D. 1970년대 중반 이후 내구소비재의 급속한 보급으로 가계의 소비구조에 많은 변화가있었다.
+","The following is a problem for Korean society.
+What is difficult to see as the impact of industrialization on Korean society since the 1960s?
+A. It resulted in a decline in the rural population and a rapid increase in the urban population.
+B. The phenomenon of the rich getting richer and the poor getting poorer between large corporations and small and medium-sized companies has gradually eased.
+C. During the process of high economic growth, the ratio of agricultural and fishing workers decreased significantly.
+D. Since the mid-1970s, there have been many changes in the household consumption structure due to the rapid spread of durable consumer goods.
+"
+1105,Kedu_Society_8,,"다음은 한국사회에 대한 문제이다.
+한국의 베이비붐 세대에 관한 설명으로 옳은 것은?","['A. 정부의 출산장려정책으로 등장한 세대이다.', 'B. 1946년부터 1954년 사이에 태어난 사람들을 일컫는 말이다.', 'C. 대학 진학률이 60%를 넘어 학력 인플레의 문제가 처음 제기되었다.', 'D. 출산율이 높은 시기에 태어났기 때문에 치열한 경쟁을 경험했다.']",D,"A. 정부의 출산장려정책으로 등장한 세대이다.
+B. 1946년부터 1954년 사이에 태어난 사람들을 일컫는 말이다.
+C. 대학 진학률이 60%를 넘어 학력 인플레의 문제가 처음 제기되었다.
+D. 출산율이 높은 시기에 태어났기 때문에 치열한 경쟁을 경험했다.
+","다음은 한국사회에 대한 문제이다.
+한국의 베이비붐 세대에 관한 설명으로 옳은 것은?
+A. 정부의 출산장려정책으로 등장한 세대이다.
+B. 1946년부터 1954년 사이에 태어난 사람들을 일컫는 말이다.
+C. 대학 진학률이 60%를 넘어 학력 인플레의 문제가 처음 제기되었다.
+D. 출산율이 높은 시기에 태어났기 때문에 치열한 경쟁을 경험했다.
+","The following is a problem for Korean society.
+Which of the following is correct regarding Korea's baby boomers?
+A. This is the generation that emerged as a result of the government’s birth encouragement policy.
+B. Refers to people born between 1946 and 1954.
+C. As the college entrance rate exceeded 60%, the issue of academic inflation was raised for the first time.
+D. Because they were born in a time when birth rates were high, they experienced fierce competition.
+"
+1106,Kedu_Society_9,,"다음은 한국사회에 대한 문제이다.
+최근 한국사회에서 스마트폰의 보급과 인터넷 사용이 급증하여 발생하는 현상으로옳지 않은 것은?","['A. 환경오염의 심화', 'B. 쌍방향 의사소통의 활성화', 'C. 재택근무자의 증가', 'D. 외국과의 활발한 접촉']",A,"A. 환경오염의 심화
+B. 쌍방향 의사소통의 활성화
+C. 재택근무자의 증가
+D. 외국과의 활발한 접촉
+","다음은 한국사회에 대한 문제이다.
+최근 한국사회에서 스마트폰의 보급과 인터넷 사용이 급증하여 발생하는 현상으로옳지 않은 것은?
+A. 환경오염의 심화
+B. 쌍방향 의사소통의 활성화
+C. 재택근무자의 증가
+D. 외국과의 활발한 접촉
+","The following is a problem for Korean society.
+Which of the following is not true regarding the recent rapid increase in the spread of smartphones and Internet use in Korean society?
+A. Intensification of environmental pollution
+B. Activation of two-way communication
+C. Increase in telecommuters
+D. Active contact with foreign countries
+"
+1107,Kedu_Society_10,,"다음은 한국사회에 대한 문제이다.
+서울에 관한 설명으로 옳지 않은 것은?","['A. 경성을 서울로 개칭한 것은 1945년이다.', 'B. 지하철이 처음 개통된 해는 1974년이다.', 'C. 1992년은 서울 정도(定都) 600년이 된 해이다.', 'D. 2013년 현재 25개의 자치구가 있다.']",C,"A. 경성을 서울로 개칭한 것은 1945년이다.
+B. 지하철이 처음 개통된 해는 1974년이다.
+C. 1992년은 서울 정도(定都) 600년이 된 해이다.
+D. 2013년 현재 25개의 자치구가 있다.
+","다음은 한국사회에 대한 문제이다.
+서울에 관한 설명으로 옳지 않은 것은?
+A. 경성을 서울로 개칭한 것은 1945년이다.
+B. 지하철이 처음 개통된 해는 1974년이다.
+C. 1992년은 서울 정도(定都) 600년이 된 해이다.
+D. 2013년 현재 25개의 자치구가 있다.
+","The following is a problem for Korean society.
+Which of the following is not correct about Seoul?
+A. Gyeongseong was renamed Seoul in 1945.
+B. The year the subway first opened was 1974.
+C. 1992 is the 600th anniversary of the establishment of Seoul.
+D. As of 2013, there are 25 autonomous districts.
+"
+1108,Kedu_Society_11,,"다음은 한국사회에 대한 문제이다.
+관광 상품으로 개발된 길에 관한 설명으로 옳은 것은?","['A. DMZ의 평화와 생태를 주제로 하는 길은 ‘바우길’이다.', 'B. 지리산의 자연과 역사가 담긴 길은 ‘생태길’이다.', 'C. 백두대간과 동해를 잇는 길은 ‘동해 둘레길’이다.', 'D. 전남 해안선을 따라 걷는 길은 ‘남도 갯길’이다.']",D,"A. DMZ의 평화와 생태를 주제로 하는 길은 ‘바우길’이다.
+B. 지리산의 자연과 역사가 담긴 길은 ‘생태길’이다.
+C. 백두대간과 동해를 잇는 길은 ‘동해 둘레길’이다.
+D. 전남 해안선을 따라 걷는 길은 ‘남도 갯길’이다.
+","다음은 한국사회에 대한 문제이다.
+관광 상품으로 개발된 길에 관한 설명으로 옳은 것은?
+A. DMZ의 평화와 생태를 주제로 하는 길은 ‘바우길’이다.
+B. 지리산의 자연과 역사가 담긴 길은 ‘생태길’이다.
+C. 백두대간과 동해를 잇는 길은 ‘동해 둘레길’이다.
+D. 전남 해안선을 따라 걷는 길은 ‘남도 갯길’이다.
+","The following is a problem for Korean society.
+Which of the following is correct regarding a road developed as a tourist product?
+A. The road with the theme of peace and ecology in the DMZ is ‘Baugil.’
+B. The road that contains the nature and history of Jiri Mountain is the ‘Ecological Road’.
+C. The road connecting the Baekdudaegan Mountain Range and the East Sea is the ‘East Sea Dullegil’.
+D. The walking path along the coastline of Jeollanam-do is called ‘Namdo Gaetgil.’
+"
+1109,Kedu_Society_12,,"다음은 한국사회에 대한 문제이다.
+한국의 고령화 현상과 관련된 내용으로 옳지 않은 것은?","['A. 복지비 지출 증가로 정부의 재정 부담이 커지고 있다.', 'B. 노인의 빈곤, 소외, 자살 등의 사회 문제가 증가되고 있다.', 'C. 2007년 기초노령연금법이 제정되어 현재 시행되고 있다.', 'D. 고령화는']",D,"A. 복지비 지출 증가로 정부의 재정 부담이 커지고 있다.
+B. 노인의 빈곤, 소외, 자살 등의 사회 문제가 증가되고 있다.
+C. 2007년 기초노령연금법이 제정되어 현재 시행되고 있다.
+D. 고령화는
+","다음은 한국사회에 대한 문제이다.
+한국의 고령화 현상과 관련된 내용으로 옳지 않은 것은?
+A. 복지비 지출 증가로 정부의 재정 부담이 커지고 있다.
+B. 노인의 빈곤, 소외, 자살 등의 사회 문제가 증가되고 있다.
+C. 2007년 기초노령연금법이 제정되어 현재 시행되고 있다.
+D. 고령화는
+","The following is a problem for Korean society.
+Which of the following is incorrect regarding the aging phenomenon in Korea?
+A. The government's financial burden is increasing due to increased welfare spending.
+B. Social problems such as poverty, alienation, and suicide among the elderly are increasing.
+C. The Basic Old Age Pension Act was enacted in 2007 and is currently in effect.
+D. Aging
+"
+1110,Kedu_Society_13,,"다음은 한국사회에 대한 문제이다.
+태극기의 4괘 이름과 의미의 연결이 옳은 것은? 
+ 건( )- 곤( )-감( )-리( )","['A. 하늘 - 땅 - 물 - 불', 'B. 하늘 - 땅 - 불 - 물', 'C. 땅 - 하늘 - 물 - 불', 'D. 땅']",A,"A. 하늘 - 땅 - 물 - 불
+B. 하늘 - 땅 - 불 - 물
+C. 땅 - 하늘 - 물 - 불
+D. 땅
+","다음은 한국사회에 대한 문제이다.
+태극기의 4괘 이름과 의미의 연결이 옳은 것은? 
+ 건( )- 곤( )-감( )-리( )
+A. 하늘 - 땅 - 물 - 불
+B. 하늘 - 땅 - 불 - 물
+C. 땅 - 하늘 - 물 - 불
+D. 땅
+","The following is a problem for Korean society.
+What is the correct connection between the names and meanings of the four trigrams of Taegeukgi? 
+ Geon ( )- Gon ( )- Gam ( )- Lee ( )
+A. Sky - Earth - Water - Fire
+B. Sky - Earth - Fire - Water
+C. Earth - Sky - Water - Fire
+D. land
+"
+1111,Kedu_Society_14,,"다음은 한국사회에 대한 문제이다.
+한국의 저출산 원인과 거리가 먼 것은?","['A. 개인주의의 확산', 'B. 자녀 양육비의 과다 지출', 'C. 맞벌이 부부의 증가', 'D. 재택 근무제 도입']",D,"A. 개인주의의 확산
+B. 자녀 양육비의 과다 지출
+C. 맞벌이 부부의 증가
+D. 재택 근무제 도입
+","다음은 한국사회에 대한 문제이다.
+한국의 저출산 원인과 거리가 먼 것은?
+A. 개인주의의 확산
+B. 자녀 양육비의 과다 지출
+C. 맞벌이 부부의 증가
+D. 재택 근무제 도입
+","The following is a problem for Korean society.
+What is the distant cause of Korea's low birth rate?
+A. Spread of individualism
+B. Excessive expenditure of child support
+C. Increase in dual-income couples
+D. Introduction of work-from-home system
+"
+1112,Kedu_Society_15,,"다음은 한국사회에 대한 문제이다.
+한국의 국제사회 공헌 활동에 관한 설명 중 옳지 않은 것은?","['A. 한국국제협력단(KOICA)을 통해 개발 경험과 기술이 필요한 국가를 지원하고 있다.', 'B. 자이툰 부대가 평화유지를 목표로 아프가니스탄에 파견되어 활동하였다.', 'C. 경제협력개발기구(OECD) 산하 개발원조위원회에 가입하여 회원국으로 활동하고있다.', 'D. 온실가스 감축과 기후변화 적응을 지원하는 녹색기후기금(GCF) 사무국을 인천 송도에유치하였다.']",B,"A. 한국국제협력단(KOICA)을 통해 개발 경험과 기술이 필요한 국가를 지원하고 있다.
+B. 자이툰 부대가 평화유지를 목표로 아프가니스탄에 파견되어 활동하였다.
+C. 경제협력개발기구(OECD) 산하 개발원조위원회에 가입하여 회원국으로 활동하고있다.
+D. 온실가스 감축과 기후변화 적응을 지원하는 녹색기후기금(GCF) 사무국을 인천 송도에유치하였다.
+","다음은 한국사회에 대한 문제이다.
+한국의 국제사회 공헌 활동에 관한 설명 중 옳지 않은 것은?
+A. 한국국제협력단(KOICA)을 통해 개발 경험과 기술이 필요한 국가를 지원하고 있다.
+B. 자이툰 부대가 평화유지를 목표로 아프가니스탄에 파견되어 활동하였다.
+C. 경제협력개발기구(OECD) 산하 개발원조위원회에 가입하여 회원국으로 활동하고있다.
+D. 온실가스 감축과 기후변화 적응을 지원하는 녹색기후기금(GCF) 사무국을 인천 송도에유치하였다.
+","The following is a problem for Korean society.
+Which of the following statements about Korea's contribution activities to the international community is incorrect?
+A. We are supporting countries in need of development experience and technology through the Korea International Cooperation Agency (KOICA).
+B. The Zaytun unit was dispatched to Afghanistan and operated with the goal of maintaining peace.
+C. We have joined the Development Assistance Committee under the Organization for Economic Co-operation and Development (OECD) and are working as a member.
+D. The Green Climate Fund (GCF) secretariat, which supports greenhouse gas reduction and climate change adaptation, was established in Songdo, Incheon.
+"
+1113,Kedu_Society_16,,"다음은 한국사회에 대한 문제이다.
+현재 한국 사회의 다문화 현상으로 옳지 않은 것은?","['A. 경기도 안산에 외국인 거리가 형성되어 있다.', 'B. 국적별 장기체류 외국인은 미국인이 가장 많다.', 'C. 장기체류 외국인의 절반 이상이 수도권에 집중되어 있다.', 'D. 다문화가족지원센터는 결혼이민자 등에 대한 한국어교육 업무를 수행하고 있다.']",B,"A. 경기도 안산에 외국인 거리가 형성되어 있다.
+B. 국적별 장기체류 외국인은 미국인이 가장 많다.
+C. 장기체류 외국인의 절반 이상이 수도권에 집중되어 있다.
+D. 다문화가족지원센터는 결혼이민자 등에 대한 한국어교육 업무를 수행하고 있다.
+","다음은 한국사회에 대한 문제이다.
+현재 한국 사회의 다문화 현상으로 옳지 않은 것은?
+A. 경기도 안산에 외국인 거리가 형성되어 있다.
+B. 국적별 장기체류 외국인은 미국인이 가장 많다.
+C. 장기체류 외국인의 절반 이상이 수도권에 집중되어 있다.
+D. 다문화가족지원센터는 결혼이민자 등에 대한 한국어교육 업무를 수행하고 있다.
+","The following is a problem for Korean society.
+What is incorrect about the current multicultural phenomenon in Korean society?
+A. A foreigner street has been formed in Ansan, Gyeonggi-do.
+B. Americans are the largest group of long-term residents by nationality.
+C. More than half of long-term foreigners are concentrated in the metropolitan area.
+D. The Multicultural Family Support Center carries out Korean language education for marriage immigrants, etc.
+"
+1114,Kedu_Society_17,,"다음은 한국사회에 대한 문제이다.
+한국 방송사의 주요 사건을 순서대로 바르게 연결한 것은? 
+ ㄱ. 컬러텔레비전 방송이 시작되었다. 
+ ㄴ. 민영 방송인 SBS가 방송을 시작하였다. 
+ ㄷ. 종합 유선 방송이 본방송을 시작하였다. 
+ ㄹ. 종합편성 방송채널 4개와 보도전문 방송채널 1개의 방송이 시작되었다.","['A. ㄱ - ㄴ - ㄷ - ㄹ', 'B. ㄱ - ㄴ - ㄹ - ㄷ', 'C. ㄴ - ㄱ - ㄷ - ㄹ', 'D. ㄴ - ㄱ - ㄹ - ㄷ']",A,"A. ㄱ - ㄴ - ㄷ - ㄹ
+B. ㄱ - ㄴ - ㄹ - ㄷ
+C. ㄴ - ㄱ - ㄷ - ㄹ
+D. ㄴ - ㄱ - ㄹ - ㄷ
+","다음은 한국사회에 대한 문제이다.
+한국 방송사의 주요 사건을 순서대로 바르게 연결한 것은? 
+ (1)  컬러텔레비전 방송이 시작되었다. 
+ (2)  민영 방송인 SBS가 방송을 시작하였다. 
+ (3)  종합 유선 방송이 본방송을 시작하였다. 
+ (4)  종합편성 방송채널 4개와 보도전문 방송채널 1개의 방송이 시작되었다.
+A. (1) - (2) - (3) - (4)
+B. (1) - (2) - (4) - (3)
+C. (2) - (1) - (3) - (4)
+D. (2) - (1) - (4) - (3)
+","The following is a problem for Korean society.
+Which of the following correctly connects the major events of Korean broadcasting companies in order? 
+ (1) Color television broadcasting began. 
+ (2) SBS, a private broadcaster, began broadcasting. 
+ (3) General cable broadcasting began broadcasting. 
+ (4) Broadcasting of 4 general programming channels and 1 reporting channel began.
+A. (1) - (2) - (3) - (4)
+B. (1) - (2) - (4) - (3)
+C. (2) - (1) - (3) - (4)
+D. (2) - (1) - (4) - (3)
+"
+1115,Kedu_Society_18,,"다음은 한국사회에 대한 문제이다.
+한국의 국경일이 아닌 것은?","['A. 3ㆍ1절', 'B. 현충일', 'C. 제헌절', 'D. 한글날']",B,"A. 3ㆍ1절
+B. 현충일
+C. 제헌절
+D. 한글날
+","다음은 한국사회에 대한 문제이다.
+한국의 국경일이 아닌 것은?
+A. 3ㆍ1절
+B. 현충일
+C. 제헌절
+D. 한글날
+","The following is a problem for Korean society.
+What is not a national holiday in Korea?
+A. Section 3ㆍ1
+B. Memorial Day
+C. Constitution Day
+D. Hangul Day
+"
+1116,Kedu_Society_19,,"다음은 한국사회에 대한 문제이다.
+중양절에 관한 설명으로 옳지 않은 것은?","['A. 음력으로 9월 9일이다.', 'B. 고려속요 <동동>의 소재로 사용되었다.', 'C. 진달래꽃으로 음식을 해서 먹는다.', 'D. 이날을 기점으로 제비가 다시 강남으로 돌아간다고 전해진다.']",C,"A. 음력으로 9월 9일이다.
+B. 고려속요 <동동>의 소재로 사용되었다.
+C. 진달래꽃으로 음식을 해서 먹는다.
+D. 이날을 기점으로 제비가 다시 강남으로 돌아간다고 전해진다.
+","다음은 한국사회에 대한 문제이다.
+중양절에 관한 설명으로 옳지 않은 것은?
+A. 음력으로 9월 9일이다.
+B. 고려속요 <동동>의 소재로 사용되었다.
+C. 진달래꽃으로 음식을 해서 먹는다.
+D. 이날을 기점으로 제비가 다시 강남으로 돌아간다고 전해진다.
+","The following is a problem for Korean society.
+Which of the following is incorrect regarding the Chongyang Festival?
+A. It is September 9th in the lunar calendar.
+B. It was used as the material for the Goryeo folk song <Dongdong>.
+C. Make food with azalea flowers and eat them.
+D. It is said that starting from this day, the swallow returns to Gangnam.
+"
+1117,Kedu_Society_20,,"다음은 한국사회에 대한 문제이다.
+‘재외동포’에 관한 설명으로 옳지 않은 것은?","['A. 재외동포재단은 1997년에 발족되었다.', 'B. 2019년 기준 국내체류 외국 국적 동포의 국적은 중국이 가장 많다.', 'C. 재외동포의 법적 지위를 보장하기 위해 1999년에 재외동포의 출입국과 법적 지위에관한 법률 이 제정되었다.', 'D. 재외동포의 출입국과 법적 지위에 관한 법률 에 따르면 한국 국적을 가진해외영주권자는 재외동포가 아니다.']",D,"A. 재외동포재단은 1997년에 발족되었다.
+B. 2019년 기준 국내체류 외국 국적 동포의 국적은 중국이 가장 많다.
+C. 재외동포의 법적 지위를 보장하기 위해 1999년에 재외동포의 출입국과 법적 지위에관한 법률 이 제정되었다.
+D. 재외동포의 출입국과 법적 지위에 관한 법률 에 따르면 한국 국적을 가진해외영주권자는 재외동포가 아니다.
+","다음은 한국사회에 대한 문제이다.
+‘재외동포’에 관한 설명으로 옳지 않은 것은?
+A. 재외동포재단은 1997년에 발족되었다.
+B. 2019년 기준 국내체류 외국 국적 동포의 국적은 중국이 가장 많다.
+C. 재외동포의 법적 지위를 보장하기 위해 1999년에 재외동포의 출입국과 법적 지위에관한 법률 이 제정되었다.
+D. 재외동포의 출입국과 법적 지위에 관한 법률 에 따르면 한국 국적을 가진해외영주권자는 재외동포가 아니다.
+","The following is a problem for Korean society.
+Which of the following is incorrect regarding ‘overseas Koreans’?
+A. The Overseas Korean Foundation was launched in 1997.
+B. As of 2019, the largest number of foreign nationals residing in Korea is Chinese.
+C. In order to guarantee the legal status of overseas Koreans, the Act on Immigration and Legal Status of Overseas Koreans was enacted in 1999.
+D. According to the Act on Immigration and Legal Status of Overseas Koreans, overseas permanent residents with Korean nationality are not overseas Koreans.
+"
+1118,Kedu_Society_21,,"다음은 한국사회에 대한 문제이다.
+친족과 촌수에 관한 설명으로 옳은 것은?","['A. 자매는 1촌이다.', 'B. 고모는 4촌이다.', 'C. 종숙(당숙)은 종조부의 아들이다.', 'D. 외삼촌은 조모의 남자 형제이다.']",C,"A. 자매는 1촌이다.
+B. 고모는 4촌이다.
+C. 종숙(당숙)은 종조부의 아들이다.
+D. 외삼촌은 조모의 남자 형제이다.
+","다음은 한국사회에 대한 문제이다.
+친족과 촌수에 관한 설명으로 옳은 것은?
+A. 자매는 1촌이다.
+B. 고모는 4촌이다.
+C. 종숙(당숙)은 종조부의 아들이다.
+D. 외삼촌은 조모의 남자 형제이다.
+","The following is a problem for Korean society.
+Which of the following is correct regarding relatives and cousins?
+A. The sisters are first cousins.
+B. My aunt is my 4th cousin.
+C. Jong-suk (Dang-suk) is the son of my great-uncle.
+D. My maternal uncle is my grandmother’s brother.
+"
+1119,Kedu_Society_22,,"다음은 한국사회에 대한 문제이다.
+태극기에 관한 설명으로 옳지 않은 것은?","['A. 1882년에 태극기를 제작하여 사용하였다.', 'B. 태극은 음양의 조화를 나타낸다.', 'C. 4괘는 하늘과 땅, 물과 불을 의미한다.', 'D. 4괘의 선(線)은 각각 양( )과 음( )을 나타낸다.']",D,"A. 1882년에 태극기를 제작하여 사용하였다.
+B. 태극은 음양의 조화를 나타낸다.
+C. 4괘는 하늘과 땅, 물과 불을 의미한다.
+D. 4괘의 선(線)은 각각 양( )과 음( )을 나타낸다.
+","다음은 한국사회에 대한 문제이다.
+태극기에 관한 설명으로 옳지 않은 것은?
+A. 1882년에 태극기를 제작하여 사용하였다.
+B. 태극은 음양의 조화를 나타낸다.
+C. 4괘는 하늘과 땅, 물과 불을 의미한다.
+D. 4괘의 선(線)은 각각 양( )과 음( )을 나타낸다.
+","The following is a problem for Korean society.
+Which of the following is not correct regarding Taegeukgi?
+A. Taegeukgi was produced and used in 1882.
+B. Taegeuk represents the harmony of yin and yang.
+C. The four trigrams mean heaven and earth, water and fire.
+D. The lines of the four trigrams represent yang ( ) and yin ( ), respectively.
+"
+1120,Kedu_Society_23,,"다음은 한국사회에 대한 문제이다.
+친족의 촌수에 관한 설명으로 옳은 것은?","['A. 동생은 1촌이다.', 'B. 조부는 2촌이다.', 'C. 종조부는 3촌이다.', 'D. 고모의 아들은 5촌이다.']",B,"A. 동생은 1촌이다.
+B. 조부는 2촌이다.
+C. 종조부는 3촌이다.
+D. 고모의 아들은 5촌이다.
+","다음은 한국사회에 대한 문제이다.
+친족의 촌수에 관한 설명으로 옳은 것은?
+A. 동생은 1촌이다.
+B. 조부는 2촌이다.
+C. 종조부는 3촌이다.
+D. 고모의 아들은 5촌이다.
+","The following is a problem for Korean society.
+Which of the following is correct regarding the number of relatives?
+A. My younger brother is my first cousin.
+B. My grandfather is my second cousin.
+C. My great-uncle is my third cousin.
+D. My aunt’s son is her 5th cousin.
+"
+1121,Kedu_Society_24,,"다음은 한국사회에 대한 문제이다.
+다문화 가족과 한국 사회의 변화에 관한 설명으로 옳지 않은 것은?","['A. 2022년 기준으로 등록외국인 수는 118만 명이 넘는다.', 'B. 2008년 3월에 ｢다문화가족지원법｣이 제정되었다.', 'C. 한국인들은 유교적 전통에 따라 오래 전부터 다른 계층, 민족과의 결혼을 쉽게받아들였다.', 'D. 다문화 가족이 늘어난 사회에서는 문화적ㆍ인종적 편견을 버려야 한다.']",C,"A. 2022년 기준으로 등록외국인 수는 118만 명이 넘는다.
+B. 2008년 3월에 ｢다문화가족지원법｣이 제정되었다.
+C. 한국인들은 유교적 전통에 따라 오래 전부터 다른 계층, 민족과의 결혼을 쉽게받아들였다.
+D. 다문화 가족이 늘어난 사회에서는 문화적ㆍ인종적 편견을 버려야 한다.
+","다음은 한국사회에 대한 문제이다.
+다문화 가족과 한국 사회의 변화에 관한 설명으로 옳지 않은 것은?
+A. 2022년 기준으로 등록외국인 수는 118만 명이 넘는다.
+B. 2008년 3월에 ｢다문화가족지원법｣이 제정되었다.
+C. 한국인들은 유교적 전통에 따라 오래 전부터 다른 계층, 민족과의 결혼을 쉽게받아들였다.
+D. 다문화 가족이 늘어난 사회에서는 문화적ㆍ인종적 편견을 버려야 한다.
+","The following is a problem for Korean society.
+Which of the following is not correct regarding multicultural families and changes in Korean society?
+A. As of 2022, the number of registered foreigners exceeds 1.18 million.
+B. The Multicultural Family Support Act was enacted in March 2008.
+C. Following Confucian traditions, Koreans have long readily accepted marriages with people from other classes and ethnic groups.
+D. In a society where multicultural families have increased, cultural and racial prejudices must be abandoned.
+"
+1122,Kedu_Society_25,,"다음은 한국사회에 대한 문제이다.
+한국인의 응원 문화에 관한 설명으로 옳지 않은 것은?","['A. 응원은 하나의 문화로서 옛날부터 지금까지 이어져 오고 있다.', 'B. 개인 또는 집단의 목적을 위해 모두가 화합해서 힘을 북돋아주는 일이다.', 'C. 한일 월드컵을 계기로 서양에서 시작된 길거리 응원 문화가 본격적으로 수입되었다.', 'D. 인터넷 매체의 발달로 각종 서포터즈의 활동 등 응원 문화가 더욱 조직화되었다.']",C,"A. 응원은 하나의 문화로서 옛날부터 지금까지 이어져 오고 있다.
+B. 개인 또는 집단의 목적을 위해 모두가 화합해서 힘을 북돋아주는 일이다.
+C. 한일 월드컵을 계기로 서양에서 시작된 길거리 응원 문화가 본격적으로 수입되었다.
+D. 인터넷 매체의 발달로 각종 서포터즈의 활동 등 응원 문화가 더욱 조직화되었다.
+","다음은 한국사회에 대한 문제이다.
+한국인의 응원 문화에 관한 설명으로 옳지 않은 것은?
+A. 응원은 하나의 문화로서 옛날부터 지금까지 이어져 오고 있다.
+B. 개인 또는 집단의 목적을 위해 모두가 화합해서 힘을 북돋아주는 일이다.
+C. 한일 월드컵을 계기로 서양에서 시작된 길거리 응원 문화가 본격적으로 수입되었다.
+D. 인터넷 매체의 발달로 각종 서포터즈의 활동 등 응원 문화가 더욱 조직화되었다.
+","The following is a problem for Korean society.
+Which of the following is not correct regarding Korean cheering culture?
+A. Cheering is a culture that has been continued since ancient times.
+B. It is the work of uniting and strengthening everyone for an individual or group purpose.
+C. With the Korea-Japan World Cup as an opportunity, the street cheering culture that originated in the West was imported in earnest.
+D. With the development of internet media, the cheering culture, including the activities of various supporters, has become more organized.
+"

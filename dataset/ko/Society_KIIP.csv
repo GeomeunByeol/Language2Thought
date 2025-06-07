@@ -1,0 +1,5113 @@
+index,id,paragraph,question,choices,answer,options,ko,en
+814,KIIP_society_1,,"다음은 한국사회에 대한 문제이다.
+남한이나 South Korea라는 명칭은 어떤 경우에 주로 사용되는가?","['A. 북한과 구별할 때', 'B. 국제회의에서', 'C. 영어권에서', 'D. 한자를 사용할 때']",A,"A. 북한과 구별할 때
+B. 국제회의에서
+C. 영어권에서
+D. 한자를 사용할 때
+","다음은 한국사회에 대한 문제이다.
+남한이나 South Korea라는 명칭은 어떤 경우에 주로 사용되는가?
+A. 북한과 구별할 때
+B. 국제회의에서
+C. 영어권에서
+D. 한자를 사용할 때
+","The following is a problem for Korean society.
+In what cases is the name South Korea or South Korea mainly used?
+A. When distinguishing from North Korea
+B. At international conferences
+C. In English-speaking countries
+D. When using Chinese characters
+"
+815,KIIP_society_2,,"다음은 한국사회에 대한 문제이다.
+대한민국이라는 국가명이 처음 사용된 연도는 언제인가?","['A. 1945년', 'B. 1948년', 'C. 1950년', 'D. 1953년']",B,"A. 1945년
+B. 1948년
+C. 1950년
+D. 1953년
+","다음은 한국사회에 대한 문제이다.
+대한민국이라는 국가명이 처음 사용된 연도는 언제인가?
+A. 1945년
+B. 1948년
+C. 1950년
+D. 1953년
+","The following is a problem for Korean society.
+In what year was the country name Republic of Korea first used?
+A: 1945
+B. 1948
+C. 1950
+D. 1953
+"
+816,KIIP_society_3,,"다음은 한국사회에 대한 문제이다.
+대한민국의 국기의 이름은 무엇인가?","['A. 삼색기', 'B. 태극기', 'C. 별기', 'D. 단청기']",B,"A. 삼색기
+B. 태극기
+C. 별기
+D. 단청기
+","다음은 한국사회에 대한 문제이다.
+대한민국의 국기의 이름은 무엇인가?
+A. 삼색기
+B. 태극기
+C. 별기
+D. 단청기
+","The following is a problem for Korean society.
+What is the name of the national flag of South Korea?
+A. Tricolor
+B. Taegeukgi
+C. Separate note
+D. Dancheonggi
+"
+817,KIIP_society_4,,"다음은 한국사회에 대한 문제이다.
+태극기의 구성 요소로 옳지 않은 것은 무엇인가?","['A. 흰색 바탕', 'B. 빨강과 파랑의 태극 문양', 'C. 모서리의 검은색 4괘', 'D. 중앙의 노란색 별']",D,"A. 흰색 바탕
+B. 빨강과 파랑의 태극 문양
+C. 모서리의 검은색 4괘
+D. 중앙의 노란색 별
+","다음은 한국사회에 대한 문제이다.
+태극기의 구성 요소로 옳지 않은 것은 무엇인가?
+A. 흰색 바탕
+B. 빨강과 파랑의 태극 문양
+C. 모서리의 검은색 4괘
+D. 중앙의 노란색 별
+","The following is a problem for Korean society.
+What are the incorrect components of Taegeukgi?
+A. White background
+B. Red and blue Taegeuk symbol
+C. Four black lines in the corner
+D. Yellow star in the center
+"
+818,KIIP_society_5,,"다음은 한국사회에 대한 문제이다.
+태극기의 흰색 바탕은 무엇을 의미하는가?","['A. 밝음과 순수, 평화에 대한 사랑', 'B. 희망과 미래', 'C. 자유와 독립', 'D. 평화와 화합']",A,"A. 밝음과 순수, 평화에 대한 사랑
+B. 희망과 미래
+C. 자유와 독립
+D. 평화와 화합
+","다음은 한국사회에 대한 문제이다.
+태극기의 흰색 바탕은 무엇을 의미하는가?
+A. 밝음과 순수, 평화에 대한 사랑
+B. 희망과 미래
+C. 자유와 독립
+D. 평화와 화합
+","The following is a problem for Korean society.
+What does the white background of the Taegeukgi mean?
+A. Love for brightness, purity, and peace
+B. Hope and Future
+C. Freedom and Independence
+D. Peace and Harmony
+"
+819,KIIP_society_6,,"다음은 한국사회에 대한 문제이다.
+태극기의 태극 문양에서 빨강과 파랑이 합쳐진 것은 무엇을 표현하는가?","['A. 조화로운 우주', 'B. 평화와 화합', 'C. 자연의 조화', 'D. 밝음과 순수']",A,"A. 조화로운 우주
+B. 평화와 화합
+C. 자연의 조화
+D. 밝음과 순수
+","다음은 한국사회에 대한 문제이다.
+태극기의 태극 문양에서 빨강과 파랑이 합쳐진 것은 무엇을 표현하는가?
+A. 조화로운 우주
+B. 평화와 화합
+C. 자연의 조화
+D. 밝음과 순수
+","The following is a problem for Korean society.
+What does the combination of red and blue in the Taegeuk symbol of the Taegeukgi represent?
+A. Harmonious Universe
+B. Peace and Harmony
+C. Harmony of nature
+D. Brightness and purity
+"
+820,KIIP_society_7,,"다음은 한국사회에 대한 문제이다.
+태극기의 4괘는 무엇을 의미하는가?","['A. 하늘, 땅, 물, 불', 'B. 동, 서, 남, 북', 'C. 봄, 여름, 가을, 겨울', 'D. 나무, 불, 흙, 물']",A,"A. 하늘, 땅, 물, 불
+B. 동, 서, 남, 북
+C. 봄, 여름, 가을, 겨울
+D. 나무, 불, 흙, 물
+","다음은 한국사회에 대한 문제이다.
+태극기의 4괘는 무엇을 의미하는가?
+A. 하늘, 땅, 물, 불
+B. 동, 서, 남, 북
+C. 봄, 여름, 가을, 겨울
+D. 나무, 불, 흙, 물
+","The following is a problem for Korean society.
+What do the four trigrams of Taegeukgi mean?
+A. Sky, Earth, Water, Fire
+B. East, West, South, North
+C. Spring, summer, fall, winter
+D. Wood, fire, earth, water
+"
+821,KIIP_society_8,,"다음은 한국사회에 대한 문제이다.
+태극기가 강조하고 있는 가치는 무엇인가?","['A. 평화와 화합', 'B. 자유와 독립', 'C. 희망과 미래', 'D. 밝음과 순수']",A,"A. 평화와 화합
+B. 자유와 독립
+C. 희망과 미래
+D. 밝음과 순수
+","다음은 한국사회에 대한 문제이다.
+태극기가 강조하고 있는 가치는 무엇인가?
+A. 평화와 화합
+B. 자유와 독립
+C. 희망과 미래
+D. 밝음과 순수
+","The following is a problem for Korean society.
+What values ​​does Taegeukgi emphasize?
+A. Peace and Harmony
+B. Freedom and Independence
+C. Hope and Future
+D. Brightness and purity
+"
+822,KIIP_society_9,,"다음은 한국사회에 대한 문제이다.
+한국에서는 어떤 날에 주로 태극기를 집에 달아두는가?","['A. 국경일이나 국가기념일', 'B. 생일이나 결혼기념일', 'C. 크리스마스나 설날', 'D. 어린이날이나 추석']",A,"A. 국경일이나 국가기념일
+B. 생일이나 결혼기념일
+C. 크리스마스나 설날
+D. 어린이날이나 추석
+","다음은 한국사회에 대한 문제이다.
+한국에서는 어떤 날에 주로 태극기를 집에 달아두는가?
+A. 국경일이나 국가기념일
+B. 생일이나 결혼기념일
+C. 크리스마스나 설날
+D. 어린이날이나 추석
+","The following is a problem for Korean society.
+On what days do people usually display the Taegeukgi at home in Korea?
+A. National holidays or national anniversaries
+B. Birthday or wedding anniversary
+C. Christmas or New Year’s Day
+D. Children’s Day or Chuseok
+"
+823,KIIP_society_10,,"다음은 한국사회에 대한 문제이다.
+대한민국의 국가는 무엇인가?","['A. 국민가', 'B. 애국가', 'C. 통일가', 'D. 민주가']",B,"A. 국민가
+B. 애국가
+C. 통일가
+D. 민주가
+","다음은 한국사회에 대한 문제이다.
+대한민국의 국가는 무엇인가?
+A. 국민가
+B. 애국가
+C. 통일가
+D. 민주가
+","The following is a problem for Korean society.
+What is the national anthem of South Korea?
+A. National song
+B. National Anthem
+C. Unification Song
+D. Democratic Party
+"
+824,KIIP_society_11,,"다음은 한국사회에 대한 문제이다.
+애국가는 몇 절로 구성되어 있는가?","['A. 2절', 'B. 3절', 'C. 4절', 'D. 5절']",C,"A. 2절
+B. 3절
+C. 4절
+D. 5절
+","다음은 한국사회에 대한 문제이다.
+애국가는 몇 절로 구성되어 있는가?
+A. 2절
+B. 3절
+C. 4절
+D. 5절
+","The following is a problem for Korean society.
+How many verses does the national anthem consist of?
+A. Section 2
+B. Section 3
+C. Section 4
+D. Section 5
+"
+825,KIIP_society_12,,"다음은 한국사회에 대한 문제이다.
+한국에서 중요한 행사를 할 때 어떤 것에 대하여 경례를 하는가?","['A. 국가', 'B. 국회', 'C. 태극기', 'D. 국민']",C,"A. 국가
+B. 국회
+C. 태극기
+D. 국민
+","다음은 한국사회에 대한 문제이다.
+한국에서 중요한 행사를 할 때 어떤 것에 대하여 경례를 하는가?
+A. 국가
+B. 국회
+C. 태극기
+D. 국민
+","The following is a problem for Korean society.
+What do you salute during important events in Korea?
+A. Country
+B. National Assembly
+C. Taegeukgi
+D. people
+"
+826,KIIP_society_13,,"다음은 한국사회에 대한 문제이다.
+한국에서 중요한 행사를 할 때 어떤 맹세를 하는가?","['A. 국민의 맹세', 'B. 국가의 맹세', 'C. 태극기에 대한 맹세', 'D. 헌법의 맹세']",C,"A. 국민의 맹세
+B. 국가의 맹세
+C. 태극기에 대한 맹세
+D. 헌법의 맹세
+","다음은 한국사회에 대한 문제이다.
+한국에서 중요한 행사를 할 때 어떤 맹세를 하는가?
+A. 국민의 맹세
+B. 국가의 맹세
+C. 태극기에 대한 맹세
+D. 헌법의 맹세
+","The following is a problem for Korean society.
+What kind of oath do you make during important events in Korea?
+A. The People's Oath
+B. National Oath
+C. Pledge to Taegeukgi
+D. Constitutional Oath
+"
+827,KIIP_society_14,,"다음은 한국사회에 대한 문제이다.
+태극기에 대한 맹세를 할 때 어디에 손을 대는가?","['A. 오른쪽 가슴', 'B. 왼쪽 가슴', 'C. 머리 위', 'D. 양쪽 어깨']",B,"A. 오른쪽 가슴
+B. 왼쪽 가슴
+C. 머리 위
+D. 양쪽 어깨
+","다음은 한국사회에 대한 문제이다.
+태극기에 대한 맹세를 할 때 어디에 손을 대는가?
+A. 오른쪽 가슴
+B. 왼쪽 가슴
+C. 머리 위
+D. 양쪽 어깨
+","The following is a problem for Korean society.
+Where do you place your hand when swearing the Taegeukgi?
+A. Right breast
+B. Left chest
+C. overhead
+D. Both shoulders
+"
+828,KIIP_society_15,,"다음은 한국사회에 대한 문제이다.
+애국가는 언제부터 사용되기 시작했는가?","['A. 약 50년 전', 'B. 약 100년 전', 'C. 약 150년 전', 'D. 약 200년 전']",B,"A. 약 50년 전
+B. 약 100년 전
+C. 약 150년 전
+D. 약 200년 전
+","다음은 한국사회에 대한 문제이다.
+애국가는 언제부터 사용되기 시작했는가?
+A. 약 50년 전
+B. 약 100년 전
+C. 약 150년 전
+D. 약 200년 전
+","The following is a problem for Korean society.
+When did the national anthem begin to be used?
+A. About 50 years ago
+B. About 100 years ago
+C. About 150 years ago
+D. About 200 years ago
+"
+829,KIIP_society_16,,"다음은 한국사회에 대한 문제이다.
+애국가의 의미는 무엇인가?","['A. 나라를 지키는 노래', 'B. 나라를 사랑하는 노래', 'C. 나라를 위한 노래', 'D. 나라를 창조하는 노래']",B,"A. 나라를 지키는 노래
+B. 나라를 사랑하는 노래
+C. 나라를 위한 노래
+D. 나라를 창조하는 노래
+","다음은 한국사회에 대한 문제이다.
+애국가의 의미는 무엇인가?
+A. 나라를 지키는 노래
+B. 나라를 사랑하는 노래
+C. 나라를 위한 노래
+D. 나라를 창조하는 노래
+","The following is a problem for Korean society.
+What is the meaning of the national anthem?
+A. A song that protects the country
+B. A song about loving the country
+C. A song for the country
+D. A song that creates a nation
+"
+830,KIIP_society_17,,"다음은 한국사회에 대한 문제이다.
+한국에서 중요한 국가 행사를 할 때 어떤 행동을 하는가?","['A. 인사', 'B. 박수', 'C. 경례', 'D. 축하']",C,"A. 인사
+B. 박수
+C. 경례
+D. 축하
+","다음은 한국사회에 대한 문제이다.
+한국에서 중요한 국가 행사를 할 때 어떤 행동을 하는가?
+A. 인사
+B. 박수
+C. 경례
+D. 축하
+","The following is a problem for Korean society.
+What do you do when important national events take place in Korea?
+A. Greetings
+B. Applause
+C. Salute
+D. congratulations
+"
+831,KIIP_society_18,,"다음은 한국사회에 대한 문제이다.
+태극기에 대한 맹세를 할 때 어떤 것을 위하여 충성을 다짐하는가?","['A. 대한민국의 무궁한 영광', 'B. 대한민국의 무한한 발전', 'C. 대한민국의 무한한 행복', 'D. 대한민국의 무한한 평화']",A,"A. 대한민국의 무궁한 영광
+B. 대한민국의 무한한 발전
+C. 대한민국의 무한한 행복
+D. 대한민국의 무한한 평화
+","다음은 한국사회에 대한 문제이다.
+태극기에 대한 맹세를 할 때 어떤 것을 위하여 충성을 다짐하는가?
+A. 대한민국의 무궁한 영광
+B. 대한민국의 무한한 발전
+C. 대한민국의 무한한 행복
+D. 대한민국의 무한한 평화
+","The following is a problem for Korean society.
+When you pledge to Taegeukgi, what do you pledge your allegiance to?
+A. The infinite glory of the Republic of Korea
+B. Infinite development of the Republic of Korea
+C. Korea’s Infinite Happiness
+D. Infinite Peace in Korea
+"
+832,KIIP_society_19,,"다음은 한국사회에 대한 문제이다.
+중요한 국가 행사를 제외하고는 애국가의 몇 절을 주로 부르는가?","['A. 1절', 'B. 2절', 'C. 3절', 'D. 4절']",A,"A. 1절
+B. 2절
+C. 3절
+D. 4절
+","다음은 한국사회에 대한 문제이다.
+중요한 국가 행사를 제외하고는 애국가의 몇 절을 주로 부르는가?
+A. 1절
+B. 2절
+C. 3절
+D. 4절
+","The following is a problem for Korean society.
+Excluding important national events, which verse of the national anthem is usually sung?
+A. Section 1
+B. Section 2
+C. Section 3
+D. Section 4
+"
+833,KIIP_society_20,,"다음은 한국사회에 대한 문제이다.
+애국가의 작곡가는 누구인가?","['A. 안익태', 'B. 윤동주', 'C. 김소월', 'D. 이효석']",A,"A. 안익태
+B. 윤동주
+C. 김소월
+D. 이효석
+","다음은 한국사회에 대한 문제이다.
+애국가의 작곡가는 누구인가?
+A. 안익태
+B. 윤동주
+C. 김소월
+D. 이효석
+","The following is a problem for Korean society.
+Who is the composer of the national anthem?
+A. Ahn Eak-tae
+B. Dongju Yoon
+C. Sowol Kim
+D. Lee Hyo-seok
+"
+834,KIIP_society_21,,"다음은 한국사회에 대한 문제이다.
+애국가 1절의 가사는 무엇인가?","['A. 동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리나라 만세', 'B. 남산 위에 저 소나무 철갑을 두른 듯 바람서리 불변함은 우리 기상일세', 'C. 가을 하늘 공활한데 높고 구름 없이 밝은 달은 우리 가슴 일편단심일세', 'D. 이 기상과 이 맘으로 충성을 다하여 괴로우나 즐거우나 나라 사랑하세']",A,"A. 동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리나라 만세
+B. 남산 위에 저 소나무 철갑을 두른 듯 바람서리 불변함은 우리 기상일세
+C. 가을 하늘 공활한데 높고 구름 없이 밝은 달은 우리 가슴 일편단심일세
+D. 이 기상과 이 맘으로 충성을 다하여 괴로우나 즐거우나 나라 사랑하세
+","다음은 한국사회에 대한 문제이다.
+애국가 1절의 가사는 무엇인가?
+A. 동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리나라 만세
+B. 남산 위에 저 소나무 철갑을 두른 듯 바람서리 불변함은 우리 기상일세
+C. 가을 하늘 공활한데 높고 구름 없이 밝은 달은 우리 가슴 일편단심일세
+D. 이 기상과 이 맘으로 충성을 다하여 괴로우나 즐거우나 나라 사랑하세
+","The following is a problem for Korean society.
+What are the lyrics of the first verse of the national anthem?
+A. May God protect our country until the waters of the East Sea and Mt. Baekdu dry and wear out.
+B. That pine tree on top of Namsan Mountain, as if wearing iron armor, is as constant as the wind frost is our weather.
+C. The autumn sky is clear, the moon is high and cloudless, and our hearts are single-minded.
+D. Be loyal with this spirit and this heart, and love your country no matter how painful or happy it may be.
+"
+835,KIIP_society_22,,"다음은 한국사회에 대한 문제이다.
+삼일절은 어떤 날을 기념하는가?","['A. 일제의 지배에 저항하여 1919년에 일으킨 독립만세운동을 기념하는 날', 'B. 국가를 위해 자신의 목숨을 바친 순국선열을 기념하는 날', 'C. 1948년 대한민국 최초의 헌법이 제정된 날을 기념한 날', 'D. 1945년 일본의 지배에서 벗어나 독립을 맞이한 것을 기념하는 날']",A,"A. 일제의 지배에 저항하여 1919년에 일으킨 독립만세운동을 기념하는 날
+B. 국가를 위해 자신의 목숨을 바친 순국선열을 기념하는 날
+C. 1948년 대한민국 최초의 헌법이 제정된 날을 기념한 날
+D. 1945년 일본의 지배에서 벗어나 독립을 맞이한 것을 기념하는 날
+","다음은 한국사회에 대한 문제이다.
+삼일절은 어떤 날을 기념하는가?
+A. 일제의 지배에 저항하여 1919년에 일으킨 독립만세운동을 기념하는 날
+B. 국가를 위해 자신의 목숨을 바친 순국선열을 기념하는 날
+C. 1948년 대한민국 최초의 헌법이 제정된 날을 기념한 날
+D. 1945년 일본의 지배에서 벗어나 독립을 맞이한 것을 기념하는 날
+","The following is a problem for Korean society.
+What day is Independence Movement Day celebrated?
+A. A day commemorating the independence movement that took place in 1919 in resistance to Japanese rule.
+B. A day to commemorate martyrs who sacrificed their lives for the country.
+C. A day commemorating the enactment of the first Constitution of the Republic of Korea in 1948
+D. A day commemorating independence from Japanese rule in 1945
+"
+836,KIIP_society_23,,"다음은 한국사회에 대한 문제이다.
+현충일은 어떤 날을 기념하는가?","['A. 일제의 지배에 저항하여 1919년에 일으킨 독립만세운동을 기념하는 날', 'B. 국가를 위해 자신의 목숨을 바친 순국선열을 기념하는 날', 'C. 1948년 대한민국 최초의 헌법이 제정된 날을 기념한 날', 'D. 1945년 일본의 지배에서 벗어나 독립을 맞이한 것을 기념하는 날']",B,"A. 일제의 지배에 저항하여 1919년에 일으킨 독립만세운동을 기념하는 날
+B. 국가를 위해 자신의 목숨을 바친 순국선열을 기념하는 날
+C. 1948년 대한민국 최초의 헌법이 제정된 날을 기념한 날
+D. 1945년 일본의 지배에서 벗어나 독립을 맞이한 것을 기념하는 날
+","다음은 한국사회에 대한 문제이다.
+현충일은 어떤 날을 기념하는가?
+A. 일제의 지배에 저항하여 1919년에 일으킨 독립만세운동을 기념하는 날
+B. 국가를 위해 자신의 목숨을 바친 순국선열을 기념하는 날
+C. 1948년 대한민국 최초의 헌법이 제정된 날을 기념한 날
+D. 1945년 일본의 지배에서 벗어나 독립을 맞이한 것을 기념하는 날
+","The following is a problem for Korean society.
+What day is Memorial Day celebrated?
+A. A day commemorating the independence movement that took place in 1919 in resistance to Japanese rule.
+B. A day to commemorate martyrs who sacrificed their lives for the country.
+C. A day commemorating the enactment of the first Constitution of the Republic of Korea in 1948
+D. A day commemorating independence from Japanese rule in 1945
+"
+837,KIIP_society_24,,"다음은 한국사회에 대한 문제이다.
+제헌절은 어떤 날을 기념하는가?","['A. 일제의 지배에 저항하여 1919년에 일으킨 독립만세운동을 기념하는 날', 'B. 국가를 위해 자신의 목숨을 바친 순국선열을 기념하는 날', 'C. 1948년 대한민국 최초의 헌법이 제정된 날을 기념한 날', 'D. 1945년 일본의 지배에서 벗어나 독립을 맞이한 것을 기념하는 날']",C,"A. 일제의 지배에 저항하여 1919년에 일으킨 독립만세운동을 기념하는 날
+B. 국가를 위해 자신의 목숨을 바친 순국선열을 기념하는 날
+C. 1948년 대한민국 최초의 헌법이 제정된 날을 기념한 날
+D. 1945년 일본의 지배에서 벗어나 독립을 맞이한 것을 기념하는 날
+","다음은 한국사회에 대한 문제이다.
+제헌절은 어떤 날을 기념하는가?
+A. 일제의 지배에 저항하여 1919년에 일으킨 독립만세운동을 기념하는 날
+B. 국가를 위해 자신의 목숨을 바친 순국선열을 기념하는 날
+C. 1948년 대한민국 최초의 헌법이 제정된 날을 기념한 날
+D. 1945년 일본의 지배에서 벗어나 독립을 맞이한 것을 기념하는 날
+","The following is a problem for Korean society.
+What day is Constitution Day celebrated?
+A. A day commemorating the independence movement that took place in 1919 in resistance to Japanese rule.
+B. A day to commemorate martyrs who sacrificed their lives for the country.
+C. A day commemorating the enactment of the first Constitution of the Republic of Korea in 1948
+D. A day commemorating independence from Japanese rule in 1945
+"
+838,KIIP_society_25,,"다음은 한국사회에 대한 문제이다.
+광복절은 어떤 날을 기념하는가?","['A. 일제의 지배에 저항하여 1919년에 일으킨 독립만세운동을 기념하는 날', 'B. 국가를 위해 자신의 목숨을 바친 순국선열을 기념하는 날', 'C. 1948년 대한민국 최초의 헌법이 제정된 날을 기념한 날', 'D. 1945년 일본의 지배에서 벗어나 독립을 맞이한 것을 기념하는 날']",D,"A. 일제의 지배에 저항하여 1919년에 일으킨 독립만세운동을 기념하는 날
+B. 국가를 위해 자신의 목숨을 바친 순국선열을 기념하는 날
+C. 1948년 대한민국 최초의 헌법이 제정된 날을 기념한 날
+D. 1945년 일본의 지배에서 벗어나 독립을 맞이한 것을 기념하는 날
+","다음은 한국사회에 대한 문제이다.
+광복절은 어떤 날을 기념하는가?
+A. 일제의 지배에 저항하여 1919년에 일으킨 독립만세운동을 기념하는 날
+B. 국가를 위해 자신의 목숨을 바친 순국선열을 기념하는 날
+C. 1948년 대한민국 최초의 헌법이 제정된 날을 기념한 날
+D. 1945년 일본의 지배에서 벗어나 독립을 맞이한 것을 기념하는 날
+","The following is a problem for Korean society.
+What day is Liberation Day celebrated?
+A. A day commemorating the independence movement that took place in 1919 in resistance to Japanese rule.
+B. A day to commemorate martyrs who sacrificed their lives for the country.
+C. A day commemorating the enactment of the first Constitution of the Republic of Korea in 1948
+D. A day commemorating independence from Japanese rule in 1945
+"
+839,KIIP_society_26,,"다음은 한국사회에 대한 문제이다.
+개천절은 어떤 날을 기념하는가?","['A. 일제의 지배에 저항하여 1919년에 일으킨 독립만세운동을 기념하는 날', 'B. 국가를 위해 자신의 목숨을 바친 순국선열을 기념하는 날', 'C. 1948년 대한민국 최초의 헌법이 제정된 날을 기념한 날', 'D. 한반도에 최초의 국가가 만들어진 것을 기념하는 날']",D,"A. 일제의 지배에 저항하여 1919년에 일으킨 독립만세운동을 기념하는 날
+B. 국가를 위해 자신의 목숨을 바친 순국선열을 기념하는 날
+C. 1948년 대한민국 최초의 헌법이 제정된 날을 기념한 날
+D. 한반도에 최초의 국가가 만들어진 것을 기념하는 날
+","다음은 한국사회에 대한 문제이다.
+개천절은 어떤 날을 기념하는가?
+A. 일제의 지배에 저항하여 1919년에 일으킨 독립만세운동을 기념하는 날
+B. 국가를 위해 자신의 목숨을 바친 순국선열을 기념하는 날
+C. 1948년 대한민국 최초의 헌법이 제정된 날을 기념한 날
+D. 한반도에 최초의 국가가 만들어진 것을 기념하는 날
+","The following is a problem for Korean society.
+What day is National Foundation Day celebrated?
+A. A day commemorating the independence movement that took place in 1919 in resistance to Japanese rule.
+B. A day to commemorate martyrs who sacrificed their lives for the country.
+C. A day commemorating the enactment of the first Constitution of the Republic of Korea in 1948
+D. A day commemorating the creation of the first nation on the Korean Peninsula
+"
+840,KIIP_society_27,,"다음은 한국사회에 대한 문제이다.
+한글날은 어떤 날을 기념하는가?","['A. 일제의 지배에 저항하여 1919년에 일으킨 독립만세운동을 기념하는 날', 'B. 국가를 위해 자신의 목숨을 바친 순국선열을 기념하는 날', 'C. 1948년 대한민국 최초의 헌법이 제정된 날을 기념한 날', 'D. 세종대왕이 한글을 만든 것을 기념하는 날']",D,"A. 일제의 지배에 저항하여 1919년에 일으킨 독립만세운동을 기념하는 날
+B. 국가를 위해 자신의 목숨을 바친 순국선열을 기념하는 날
+C. 1948년 대한민국 최초의 헌법이 제정된 날을 기념한 날
+D. 세종대왕이 한글을 만든 것을 기념하는 날
+","다음은 한국사회에 대한 문제이다.
+한글날은 어떤 날을 기념하는가?
+A. 일제의 지배에 저항하여 1919년에 일으킨 독립만세운동을 기념하는 날
+B. 국가를 위해 자신의 목숨을 바친 순국선열을 기념하는 날
+C. 1948년 대한민국 최초의 헌법이 제정된 날을 기념한 날
+D. 세종대왕이 한글을 만든 것을 기념하는 날
+","The following is a problem for Korean society.
+What day is Hangul Day celebrated?
+A. A day commemorating the independence movement that took place in 1919 in resistance to Japanese rule.
+B. A day to commemorate martyrs who sacrificed their lives for the country.
+C. A day commemorating the enactment of the first Constitution of the Republic of Korea in 1948
+D. A day commemorating King Sejong’s creation of Hangul
+"
+841,KIIP_society_28,,"다음은 한국사회에 대한 문제이다.
+대한민국을 상징하는 나라의 꽃은 무엇인가?","['A. 장미', 'B. 튤립', 'C. 무궁화', 'D. 벚꽃']",C,"A. 장미
+B. 튤립
+C. 무궁화
+D. 벚꽃
+","다음은 한국사회에 대한 문제이다.
+대한민국을 상징하는 나라의 꽃은 무엇인가?
+A. 장미
+B. 튤립
+C. 무궁화
+D. 벚꽃
+","The following is a problem for Korean society.
+What is the national flower that symbolizes Korea?
+A. roses
+B. Tulip
+C. Rose of Sharon
+D. Cherry blossoms
+"
+842,KIIP_society_29,,"다음은 한국사회에 대한 문제이다.
+한국에서 무궁화는 주로 어떤 것을 상징하는가?","['A. 아름다움을 상징하는 꽃', 'B. 행복을 상징하는 꽃', 'C. 나라를 상징하는 꽃', 'D. 평화를 상징하는 꽃']",C,"A. 아름다움을 상징하는 꽃
+B. 행복을 상징하는 꽃
+C. 나라를 상징하는 꽃
+D. 평화를 상징하는 꽃
+","다음은 한국사회에 대한 문제이다.
+한국에서 무궁화는 주로 어떤 것을 상징하는가?
+A. 아름다움을 상징하는 꽃
+B. 행복을 상징하는 꽃
+C. 나라를 상징하는 꽃
+D. 평화를 상징하는 꽃
+","The following is a problem for Korean society.
+What does the Rose of Sharon mainly symbolize in Korea?
+A. A flower that symbolizes beauty
+B. Flowers that symbolize happiness
+C. Flowers that symbolize the country
+D. A flower symbolizing peace
+"
+843,KIIP_society_30,,"다음은 한국사회에 대한 문제이다.
+무궁화 꽃이 활짝 핀 모양은 어디에 활용되고 있는가?","['A. 대한민국 국가 문장', 'B. 대한민국 국기', 'C. 대한민국 국가', 'D. 대한민국 헌법']",A,"A. 대한민국 국가 문장
+B. 대한민국 국기
+C. 대한민국 국가
+D. 대한민국 헌법
+","다음은 한국사회에 대한 문제이다.
+무궁화 꽃이 활짝 핀 모양은 어디에 활용되고 있는가?
+A. 대한민국 국가 문장
+B. 대한민국 국기
+C. 대한민국 국가
+D. 대한민국 헌법
+","The following are questions about Korean society.
+Where is the shape of a fully bloomed Rose of Sharon used?
+A. National emblem of the Republic of Korea
+B. National flag of the Republic of Korea
+C. National anthem of the Republic of Korea
+D. Constitution of the Republic of Korea
+"
+844,KIIP_society_31,,"다음은 한국사회에 대한 문제이다.
+무궁화는 어느 나라의 상징 꽃으로 사랑받아 왔는가?","['A. 일본', 'B. 중국', 'C. 미국', 'D. 한국']",D,"A. 일본
+B. 중국
+C. 미국
+D. 한국
+","다음은 한국사회에 대한 문제이다.
+무궁화는 어느 나라의 상징 꽃으로 사랑받아 왔는가?
+A. 일본
+B. 중국
+C. 미국
+D. 한국
+","The following is a problem for Korean society.
+The Rose of Sharon is loved as a symbolic flower of which country?
+A.Japan
+B. China
+C.United States
+D. Korea
+"
+845,KIIP_society_32,,"다음은 한국사회에 대한 문제이다.
+무궁화 꽃이 활짝 핀 모양은 어떤 것을 상징하는데 활용되고 있는가?","['A. 대한민국 국가', 'B. 대한민국 국기', 'C. 대한민국 정부', 'D. 대한민국 헌법']",C,"A. 대한민국 국가
+B. 대한민국 국기
+C. 대한민국 정부
+D. 대한민국 헌법
+","다음은 한국사회에 대한 문제이다.
+무궁화 꽃이 활짝 핀 모양은 어떤 것을 상징하는데 활용되고 있는가?
+A. 대한민국 국가
+B. 대한민국 국기
+C. 대한민국 정부
+D. 대한민국 헌법
+","The following is a problem for Korean society.
+What is the shape of the Rose of Sharon in full bloom used to symbolize?
+A. National Anthem of the Republic of Korea
+B. Flag of the Republic of Korea
+C. Government of the Republic of Korea
+D. Constitution of the Republic of Korea
+"
+846,KIIP_society_33,,"다음은 한국사회에 대한 문제이다.
+무궁화는 어느 나라를 상징하는 꽃인가?","['A. 일본', 'B. 중국', 'C. 미국', 'D. 대한민국']",D,"A. 일본
+B. 중국
+C. 미국
+D. 대한민국
+","다음은 한국사회에 대한 문제이다.
+무궁화는 어느 나라를 상징하는 꽃인가?
+A. 일본
+B. 중국
+C. 미국
+D. 대한민국
+","The following is a problem for Korean society.
+Which country does Rose of Sharon symbolize?
+A.Japan
+B. China
+C.United States
+D. Republic of Korea
+"
+847,KIIP_society_34,,"다음은 한국사회에 대한 문제이다.
+21세기 기준으로, 한글은 얼마나 이전에 창제되었는가?","['A. 100년 전', 'B. 600년 전', 'C. 2000년 전', 'D. 기원전 부터 존재했다']",B,"A. 100년 전
+B. 600년 전
+C. 2000년 전
+D. 기원전 부터 존재했다
+","다음은 한국사회에 대한 문제이다.
+21세기 기준으로, 한글은 얼마나 이전에 창제되었는가?
+A. 100년 전
+B. 600년 전
+C. 2000년 전
+D. 기원전 부터 존재했다
+","The following is a problem for Korean society.
+By 21st century standards, how long ago was Hangul created?
+A. 100 years ago
+B. 600 years ago
+C. 2000 years ago
+D. It existed since BC
+"
+848,KIIP_society_35,,"다음은 한국사회에 대한 문제이다.
+한글은 몇 개의 자음과 몇 개의 모음으로 이루어져 있는가?","['A. 10개의 자음, 14개의 모음', 'B. 14개의 자음, 10개의 모음', 'C. 12개의 자음, 12개의 모음', 'D. 15개의 자음, 9개의 모음']",B,"A. 10개의 자음, 14개의 모음
+B. 14개의 자음, 10개의 모음
+C. 12개의 자음, 12개의 모음
+D. 15개의 자음, 9개의 모음
+","다음은 한국사회에 대한 문제이다.
+한글은 몇 개의 자음과 몇 개의 모음으로 이루어져 있는가?
+A. 10개의 자음, 14개의 모음
+B. 14개의 자음, 10개의 모음
+C. 12개의 자음, 12개의 모음
+D. 15개의 자음, 9개의 모음
+","The following is a problem for Korean society.
+How many consonants and how many vowels does Hangul consist of?
+A. 10 consonants, 14 vowels
+B. 14 consonants, 10 vowels
+C. 12 consonants, 12 vowels
+D. 15 consonants, 9 vowels
+"
+849,KIIP_society_36,,"다음은 한국사회에 대한 문제이다.
+한글의 모음은 어떤 요소를 결합하여 만들었는가?","['A. 하늘, 땅, 바람', 'B. 하늘, 땅, 불', 'C. 하늘, 땅, 사람', 'D. 하늘, 물, 사람']",C,"A. 하늘, 땅, 바람
+B. 하늘, 땅, 불
+C. 하늘, 땅, 사람
+D. 하늘, 물, 사람
+","다음은 한국사회에 대한 문제이다.
+한글의 모음은 어떤 요소를 결합하여 만들었는가?
+A. 하늘, 땅, 바람
+B. 하늘, 땅, 불
+C. 하늘, 땅, 사람
+D. 하늘, 물, 사람
+","The following is a problem for Korean society.
+What elements were combined to create the vowels of Hangul?
+A. Sky, earth, wind
+B. Sky, Earth, Fire
+C. Sky, Earth, People
+D. Sky, water, people
+"
+850,KIIP_society_37,,"다음은 한국사회에 대한 문제이다.
+한글의 자음과 모음을 합한 총 개수는 몇 개인가?","['A. 20개', 'B. 22개', 'C. 24개', 'D. 26개']",C,"A. 20개
+B. 22개
+C. 24개
+D. 26개
+","다음은 한국사회에 대한 문제이다.
+한글의 자음과 모음을 합한 총 개수는 몇 개인가?
+A. 20개
+B. 22개
+C. 24개
+D. 26개
+","The following is a problem for Korean society.
+What is the total number of consonants and vowels in Hangul?
+A: 20
+B. 22
+C. 24
+D. 26
+"
+851,KIIP_society_38,,"다음은 한국사회에 대한 문제이다.
+한글이 만들어진 이후에 어떤 변화가 있었는가?","['A. 문맹이 늘었다', 'B. 문맹이 줄었다', 'C. 문화가 후퇴했다', 'D. 문화가 변화하지 않았다']",B,"A. 문맹이 늘었다
+B. 문맹이 줄었다
+C. 문화가 후퇴했다
+D. 문화가 변화하지 않았다
+","다음은 한국사회에 대한 문제이다.
+한글이 만들어진 이후에 어떤 변화가 있었는가?
+A. 문맹이 늘었다
+B. 문맹이 줄었다
+C. 문화가 후퇴했다
+D. 문화가 변화하지 않았다
+","The following is a problem for Korean society.
+What changes have occurred since Hangul was created?
+A. Illiteracy has increased
+B. Illiteracy has decreased
+C. Culture retreated
+D. The culture has not changed.
+"
+852,KIIP_society_39,,"다음은 한국사회에 대한 문제이다.
+유네스코에서는 한글의 성과를 기념하기 위해 어떤 상을 만들었는가?","['A. 세종대왕상', 'B. 한글상', 'C. 세종상', 'D. 유네스코상']",A,"A. 세종대왕상
+B. 한글상
+C. 세종상
+D. 유네스코상
+","다음은 한국사회에 대한 문제이다.
+유네스코에서는 한글의 성과를 기념하기 위해 어떤 상을 만들었는가?
+A. 세종대왕상
+B. 한글상
+C. 세종상
+D. 유네스코상
+","The following is a problem for Korean society.
+What award did UNESCO create to commemorate the achievements of Hangul?
+A. King Sejong Statue
+B. Hangul Award
+C. Sejong Award
+D. UNESCO Award
+"
+853,KIIP_society_40,,"다음은 한국사회에 대한 문제이다.
+한글을 구성할 수 있는 휴대폰 자판의 이름은 무엇인가?","['A. 천지인', 'B. 나랏글', 'C. 세종', 'D. 훈민정음']",A,"A. 천지인
+B. 나랏글
+C. 세종
+D. 훈민정음
+","다음은 한국사회에 대한 문제이다.
+한글을 구성할 수 있는 휴대폰 자판의 이름은 무엇인가?
+A. 천지인
+B. 나랏글
+C. 세종
+D. 훈민정음
+","The following is a problem for Korean society.
+What is the name of the mobile phone keyboard that can compose Hangul?
+A. Cheonjiin
+B. Naratgeul
+C. Sejong
+D. Hunminjeongeum
+"
+854,KIIP_society_41,,"다음은 한국사회에 대한 문제이다.
+한글을 창제한 사람은 누구인가?","['A. 태조', 'B. 세종', 'C. 예종', 'D. 정조']",B,"A. 태조
+B. 세종
+C. 예종
+D. 정조
+","다음은 한국사회에 대한 문제이다.
+한글을 창제한 사람은 누구인가?
+A. 태조
+B. 세종
+C. 예종
+D. 정조
+","The following is a problem for Korean society.
+Who invented Hangul?
+A. Taejo
+B. Sejong
+C. Yejong
+D. Jeongjo
+"
+855,KIIP_society_42,,"다음은 한국사회에 대한 문제이다.
+한글의 자음은 어떻게 만들어졌는가?","['A. 사람의 발음 기관을 보고 만들었다', 'B. 동물의 울음소리를 보고 만들었다', 'C. 자연의 소리를 보고 만들었다', 'D. 기타 다른 언어를 참고하여 만들었다']",A,"A. 사람의 발음 기관을 보고 만들었다
+B. 동물의 울음소리를 보고 만들었다
+C. 자연의 소리를 보고 만들었다
+D. 기타 다른 언어를 참고하여 만들었다
+","다음은 한국사회에 대한 문제이다.
+한글의 자음은 어떻게 만들어졌는가?
+A. 사람의 발음 기관을 보고 만들었다
+B. 동물의 울음소리를 보고 만들었다
+C. 자연의 소리를 보고 만들었다
+D. 기타 다른 언어를 참고하여 만들었다
+","The following is a problem for Korean society.
+How were the consonants of Hangul created?
+A. It was created based on the human pronunciation organ.
+B. It was made after hearing the sounds of animals.
+C. Made based on the sounds of nature
+D. Made with reference to other languages
+"
+856,KIIP_society_43,,"다음은 한국사회에 대한 문제이다.
+한글이 만들어진 이후에 한국의 문화에 어떤 영향을 미쳤는가?","['A. 문화가 발전하였다', 'B. 문화가 후퇴하였다', 'C. 문화에 큰 변화가 없었다', 'D. 문화가 다양해졌다']",A,"A. 문화가 발전하였다
+B. 문화가 후퇴하였다
+C. 문화에 큰 변화가 없었다
+D. 문화가 다양해졌다
+","다음은 한국사회에 대한 문제이다.
+한글이 만들어진 이후에 한국의 문화에 어떤 영향을 미쳤는가?
+A. 문화가 발전하였다
+B. 문화가 후퇴하였다
+C. 문화에 큰 변화가 없었다
+D. 문화가 다양해졌다
+","The following is a problem for Korean society.
+What influence has Hangul had on Korean culture since it was created?
+A. Culture has developed
+B. Culture retreated
+C. There was no significant change in culture
+D. Culture has become more diverse
+"
+857,KIIP_society_44,,"다음은 한국사회에 대한 문제이다.
+2020년 기준, 한국에서 결혼하는 연령대는 대체로 어떻게 변화하고 있는가?","['A. 점점 낮아지고 있다', 'B. 변화가 없다', 'C. 점점 높아지고 있다', 'D. 불규칙적으로 변화하고 있다']",C,"A. 점점 낮아지고 있다
+B. 변화가 없다
+C. 점점 높아지고 있다
+D. 불규칙적으로 변화하고 있다
+","다음은 한국사회에 대한 문제이다.
+2020년 기준, 한국에서 결혼하는 연령대는 대체로 어떻게 변화하고 있는가?
+A. 점점 낮아지고 있다
+B. 변화가 없다
+C. 점점 높아지고 있다
+D. 불규칙적으로 변화하고 있다
+","The following is a problem for Korean society.
+As of 2020, how is the age group getting married in Korea generally changing?
+A. It is getting lower.
+B. No change
+C. It is getting higher.
+D. It is changing irregularly
+"
+858,KIIP_society_45,,"다음은 한국사회에 대한 문제이다.
+1980년대 한국에서는 보통 몇 명의 자녀를 가족 당 가지고 있었는가?","['A. 1~2명', 'B. 3~5명', 'C. 6~8명', 'D. 9명 이상']",B,"A. 1~2명
+B. 3~5명
+C. 6~8명
+D. 9명 이상
+","다음은 한국사회에 대한 문제이다.
+1980년대 한국에서는 보통 몇 명의 자녀를 가족 당 가지고 있었는가?
+A. 1~2명
+B. 3~5명
+C. 6~8명
+D. 9명 이상
+","The following is a problem for Korean society.
+How many children did each family usually have in Korea in the 1980s?
+A. 1-2 people
+B. 3~5 people
+C. 6-8 people
+D. 9 or more people
+"
+859,KIIP_society_46,,"다음은 한국사회에 대한 문제이다.
+1980년대 한국에서는 어떤 자녀가 결혼 후에도 부모와 같이 사는 경우가 많았는가?","['A. 첫째 아들', 'B. 둘째 아들', 'C. 첫째 딸', 'D. 둘째 딸']",A,"A. 첫째 아들
+B. 둘째 아들
+C. 첫째 딸
+D. 둘째 딸
+","다음은 한국사회에 대한 문제이다.
+1980년대 한국에서는 어떤 자녀가 결혼 후에도 부모와 같이 사는 경우가 많았는가?
+A. 첫째 아들
+B. 둘째 아들
+C. 첫째 딸
+D. 둘째 딸
+","The following is a problem for Korean society.
+In Korea in the 1980s, which children often lived with their parents even after marriage?
+A. First son
+B. Second son
+C. First daughter
+D. Second daughter
+"
+860,KIIP_society_47,,"다음은 한국사회에 대한 문제이다.
+1980년대  한국에서는 어떤 형태의 가족 구조를 많이 볼 수 있었는가?","['A. 핵가족', 'B. 대가족', 'C. 단독 가족', 'D. 복합 가족']",B,"A. 핵가족
+B. 대가족
+C. 단독 가족
+D. 복합 가족
+","다음은 한국사회에 대한 문제이다.
+1980년대  한국에서는 어떤 형태의 가족 구조를 많이 볼 수 있었는가?
+A. 핵가족
+B. 대가족
+C. 단독 가족
+D. 복합 가족
+","The following is a problem for Korean society.
+What types of family structures were most common in Korea in the 1980s?
+A. Nuclear family
+B. Large family
+C. Single family
+D. Complex family
+"
+861,KIIP_society_48,,"다음은 한국사회에 대한 문제이다.
+산업화와 도시화가 진행되면서 한국에서는 어떤 변화가 일어났는가?","['A. 자녀들이 부모와 떨어져 생활하게 되었다', 'B. 대가족이 더욱 확대되었다', 'C. 핵가족이 줄어들었다', 'D. 1인 가구가 줄어들었다']",A,"A. 자녀들이 부모와 떨어져 생활하게 되었다
+B. 대가족이 더욱 확대되었다
+C. 핵가족이 줄어들었다
+D. 1인 가구가 줄어들었다
+","다음은 한국사회에 대한 문제이다.
+산업화와 도시화가 진행되면서 한국에서는 어떤 변화가 일어났는가?
+A. 자녀들이 부모와 떨어져 생활하게 되었다
+B. 대가족이 더욱 확대되었다
+C. 핵가족이 줄어들었다
+D. 1인 가구가 줄어들었다
+","The following is a problem for Korean society.
+What changes have occurred in Korea as industrialization and urbanization progress?
+A. Children have become separated from their parents.
+B. Large families became more expanded
+C. The nuclear family has decreased
+D. The number of single-person households has decreased
+"
+862,KIIP_society_49,,"다음은 한국사회에 대한 문제이다.
+2010년대 기준, 한국의 주요 가족 형태는 무엇인가?","['A. 핵가족', 'B. 대가족', 'C. 1인 가구', 'D. 부부만 사는 가구']",A,"A. 핵가족
+B. 대가족
+C. 1인 가구
+D. 부부만 사는 가구
+","다음은 한국사회에 대한 문제이다.
+2010년대 기준, 한국의 주요 가족 형태는 무엇인가?
+A. 핵가족
+B. 대가족
+C. 1인 가구
+D. 부부만 사는 가구
+","The following is a problem for Korean society.
+As of the 2010s, what are the main family types in Korea?
+A. Nuclear family
+B. Large family
+C. One-person household
+D. Households where only a couple lives
+"
+863,KIIP_society_50,,"다음은 한국사회에 대한 문제이다.
+2010년대 기준, 젊은 사람들 사이에서 결혼에 대한 어떤 경향이 보이는가?","['A. 결혼을 서두르는 경향이 있다', 'B. 결혼을 미루거나 하지 않는 경향이 있다', 'C. 결혼 후 빠르게 자녀를 가지는 경향이 있다', 'D. 결혼을 하지 않고 독신을 유지하는 경향이 있다']",B,"A. 결혼을 서두르는 경향이 있다
+B. 결혼을 미루거나 하지 않는 경향이 있다
+C. 결혼 후 빠르게 자녀를 가지는 경향이 있다
+D. 결혼을 하지 않고 독신을 유지하는 경향이 있다
+","다음은 한국사회에 대한 문제이다.
+2010년대 기준, 젊은 사람들 사이에서 결혼에 대한 어떤 경향이 보이는가?
+A. 결혼을 서두르는 경향이 있다
+B. 결혼을 미루거나 하지 않는 경향이 있다
+C. 결혼 후 빠르게 자녀를 가지는 경향이 있다
+D. 결혼을 하지 않고 독신을 유지하는 경향이 있다
+","The following is a problem for Korean society.
+As of the 2010s, what trends do you see regarding marriage among young people?
+A. There is a tendency to rush into marriage.
+B. There is a tendency to postpone or not get married
+C. People tend to have children quickly after marriage
+D. There is a tendency to remain single without getting married.
+"
+864,KIIP_society_51,,"다음은 한국사회에 대한 문제이다.
+2010년대 기준,  한국 사회에서 늘어나는 가족 형태는 무엇인가?","['A. 대가족', 'B. 핵가족', 'C. 1인 가구', 'D. 부부만 사는 가구']",C,"A. 대가족
+B. 핵가족
+C. 1인 가구
+D. 부부만 사는 가구
+","다음은 한국사회에 대한 문제이다.
+2010년대 기준,  한국 사회에서 늘어나는 가족 형태는 무엇인가?
+A. 대가족
+B. 핵가족
+C. 1인 가구
+D. 부부만 사는 가구
+","The following is a problem for Korean society.
+As of the 2010s, what types of families are increasing in Korean society?
+A. Large family
+B. Nuclear family
+C. One-person household
+D. Households where only a couple lives
+"
+865,KIIP_society_52,,"다음은 한국사회에 대한 문제이다.
+장남이란 무엇인가?","['A. 부모가 낳은 자녀 중 가장 먼저 태어난 아들', 'B. 부모가 낳은 자녀 중 가장 마지막에 태어난 아들', 'C. 부모가 낳은 자녀 중 가장 먼저 태어난 딸', 'D. 부모가 낳은 자녀 중 가장 마지막에 태어난 딸']",A,"A. 부모가 낳은 자녀 중 가장 먼저 태어난 아들
+B. 부모가 낳은 자녀 중 가장 마지막에 태어난 아들
+C. 부모가 낳은 자녀 중 가장 먼저 태어난 딸
+D. 부모가 낳은 자녀 중 가장 마지막에 태어난 딸
+","다음은 한국사회에 대한 문제이다.
+장남이란 무엇인가?
+A. 부모가 낳은 자녀 중 가장 먼저 태어난 아들
+B. 부모가 낳은 자녀 중 가장 마지막에 태어난 아들
+C. 부모가 낳은 자녀 중 가장 먼저 태어난 딸
+D. 부모가 낳은 자녀 중 가장 마지막에 태어난 딸
+","The following is a problem for Korean society.
+What is an eldest son?
+A. The first born son among the children born to his parents.
+B. The last born son among the children born to his parents.
+C. The first born daughter among the children born to her parents.
+D. The last born daughter among the children born to her parents.
+"
+866,KIIP_society_53,,"다음은 한국사회에 대한 문제이다.
+핵가족이란 무엇인가?","['A. 한 쌍의 부부와 그들의 미혼 자녀 만으로 이루어진 가족', 'B. 조부모, 부모, 자녀 등 여러 세대의 가족이 같이 모여 사는 가족', 'C. 혼자서 가정을 이루어 살아가는 사람', 'D. 부부만 사는 가구']",A,"A. 한 쌍의 부부와 그들의 미혼 자녀 만으로 이루어진 가족
+B. 조부모, 부모, 자녀 등 여러 세대의 가족이 같이 모여 사는 가족
+C. 혼자서 가정을 이루어 살아가는 사람
+D. 부부만 사는 가구
+","다음은 한국사회에 대한 문제이다.
+핵가족이란 무엇인가?
+A. 한 쌍의 부부와 그들의 미혼 자녀 만으로 이루어진 가족
+B. 조부모, 부모, 자녀 등 여러 세대의 가족이 같이 모여 사는 가족
+C. 혼자서 가정을 이루어 살아가는 사람
+D. 부부만 사는 가구
+","The following is a problem for Korean society.
+What is a nuclear family?
+A. A family consisting of only a couple and their unmarried children
+B. A family where multiple generations of family members, including grandparents, parents, and children, live together
+C. A person who starts a family alone and lives alone
+D. Households where only a couple lives
+"
+867,KIIP_society_54,,"다음은 한국사회에 대한 문제이다.
+1인 가구란 무엇인가?","['A. 한 쌍의 부부와 그들의 미혼 자녀 만으로 이루어진 가족', 'B. 조부모, 부모, 자녀 등 여러 세대의 가족이 같이 모여 사는 가족', 'C. 혼자서 가정을 이루어 살아가는 사람', 'D. 부부만 사는 가구']",C,"A. 한 쌍의 부부와 그들의 미혼 자녀 만으로 이루어진 가족
+B. 조부모, 부모, 자녀 등 여러 세대의 가족이 같이 모여 사는 가족
+C. 혼자서 가정을 이루어 살아가는 사람
+D. 부부만 사는 가구
+","다음은 한국사회에 대한 문제이다.
+1인 가구란 무엇인가?
+A. 한 쌍의 부부와 그들의 미혼 자녀 만으로 이루어진 가족
+B. 조부모, 부모, 자녀 등 여러 세대의 가족이 같이 모여 사는 가족
+C. 혼자서 가정을 이루어 살아가는 사람
+D. 부부만 사는 가구
+","The following is a problem for Korean society.
+What is a single-person household?
+A. A family consisting of only a couple and their unmarried children
+B. A family where multiple generations of family members, including grandparents, parents, and children, live together
+C. A person who starts a family alone and lives alone
+D. Households where only a couple lives
+"
+868,KIIP_society_55,,"다음은 한국사회에 대한 문제이다.
+한국에서 결혼을 할 때 남자에게는 주로 어떤 표현을 사용하는가?","['A. 시집간다', 'B. 장가간다', 'C. 혼인한다', 'D. 떠나간다']",B,"A. 시집간다
+B. 장가간다
+C. 혼인한다
+D. 떠나간다
+","다음은 한국사회에 대한 문제이다.
+한국에서 결혼을 할 때 남자에게는 주로 어떤 표현을 사용하는가?
+A. 시집간다
+B. 장가간다
+C. 혼인한다
+D. 떠나간다
+","The following is a problem for Korean society.
+What expressions do men usually use when getting married in Korea?
+A. Getting married
+B. Getting married
+C. Get married
+D. leaving
+"
+869,KIIP_society_56,,"다음은 한국사회에 대한 문제이다.
+아이가 엄마의 형제를 부를 때 어떤 호칭을 사용하는가?","['A. 이모', 'B. 외삼촌', 'C. 고모', 'D. 삼촌']",B,"A. 이모
+B. 외삼촌
+C. 고모
+D. 삼촌
+","다음은 한국사회에 대한 문제이다.
+아이가 엄마의 형제를 부를 때 어떤 호칭을 사용하는가?
+A. 이모
+B. 외삼촌
+C. 고모
+D. 삼촌
+","The following is a problem for Korean society.
+What title does a child use when calling his or her mother's siblings?
+A. Aunt
+B. maternal uncle
+C. Aunt
+D. Uncle
+"
+870,KIIP_society_57,,"다음은 한국사회에 대한 문제이다.
+아이가 아빠의 자매를 부를 때 어떤 호칭을 사용하는가?","['A. 이모', 'B. 외삼촌', 'C. 고모', 'D. 삼촌']",C,"A. 이모
+B. 외삼촌
+C. 고모
+D. 삼촌
+","다음은 한국사회에 대한 문제이다.
+아이가 아빠의 자매를 부를 때 어떤 호칭을 사용하는가?
+A. 이모
+B. 외삼촌
+C. 고모
+D. 삼촌
+","The following is a problem for Korean society.
+What title does a child use when calling his father's sister?
+A. Aunt
+B. maternal uncle
+C. Aunt
+D. Uncle
+"
+871,KIIP_society_58,,"다음은 한국사회에 대한 문제이다.
+아이가 아빠의 형제를 부를 때 어떤 호칭을 사용하는가?","['A. 이모', 'B. 외삼촌', 'C. 고모', 'D. 삼촌']",B,"A. 이모
+B. 외삼촌
+C. 고모
+D. 삼촌
+","다음은 한국사회에 대한 문제이다.
+아이가 아빠의 형제를 부를 때 어떤 호칭을 사용하는가?
+A. 이모
+B. 외삼촌
+C. 고모
+D. 삼촌
+","The following is a problem for Korean society.
+What title does a child use when calling his/her father's sibling?
+A. Aunt
+B. maternal uncle
+C. Aunt
+D. Uncle
+"
+872,KIIP_society_59,,"다음은 한국사회에 대한 문제이다.
+한국에서 ""식구""라는 표현의 의미는 무엇인가?","['A. 아주 가깝고 친밀한 사이', 'B. 친구', 'C. 동료', 'D. 한상에서 같이 밥을 먹는 사이']",D,"A. 아주 가깝고 친밀한 사이
+B. 친구
+C. 동료
+D. 한상에서 같이 밥을 먹는 사이
+","다음은 한국사회에 대한 문제이다.
+한국에서 ""식구""라는 표현의 의미는 무엇인가?
+A. 아주 가깝고 친밀한 사이
+B. 친구
+C. 동료
+D. 한상에서 같이 밥을 먹는 사이
+","The following is a problem for Korean society.
+What does the expression “family” mean in Korea?
+A. Very close and intimate relationship
+B.Friend
+C. Colleague
+D. While eating together at a table
+"
+873,KIIP_society_60,,"다음은 한국사회에 대한 문제이다.
+한국에서 부부가 서로를 어떻게 부르는지 예를 들어주세요.","['A. 여보, 당신', 'B. 아빠, 엄마', 'C. 형, 누나', 'D. 각자의 이름을 부른다']",A,"A. 여보, 당신
+B. 아빠, 엄마
+C. 형, 누나
+D. 각자의 이름을 부른다
+","다음은 한국사회에 대한 문제이다.
+한국에서 부부가 서로를 어떻게 부르는지 예를 들어주세요.
+A. 여보, 당신
+B. 아빠, 엄마
+C. 형, 누나
+D. 각자의 이름을 부른다
+","The following is a problem for Korean society.
+Please give an example of how couples call each other in Korea.
+A. Honey, you
+B. Dad, Mom
+C. Brother, sister
+D. Call each person’s name.
+"
+874,KIIP_society_61,,"다음은 한국사회에 대한 문제이다.
+한국에서 남편이 아내의 부모님을 어떻게 부르는가?","['A. 아버님, 어머님', 'B. 장인어른, 장모님', 'C. 아빠, 엄마', 'D. 할아버지, 할머니']",B,"A. 아버님, 어머님
+B. 장인어른, 장모님
+C. 아빠, 엄마
+D. 할아버지, 할머니
+","다음은 한국사회에 대한 문제이다.
+한국에서 남편이 아내의 부모님을 어떻게 부르는가?
+A. 아버님, 어머님
+B. 장인어른, 장모님
+C. 아빠, 엄마
+D. 할아버지, 할머니
+","The following is a problem for Korean society.
+How does a husband call his wife's parents in Korea?
+A. Father, mother
+B. Father-in-law, mother-in-law
+C. Dad, Mom
+D. Grandfather and grandmother
+"
+875,KIIP_society_62,,"다음은 한국사회에 대한 문제이다.
+한국에서 시부모가 아직 아이를 낳지 않은 며느리를 어떻게 부르는가?","['A. 어멈아', 'B. (새)아가', 'C. 며느리', 'D. 아들의 아내']",B,"A. 어멈아
+B. (새)아가
+C. 며느리
+D. 아들의 아내
+","다음은 한국사회에 대한 문제이다.
+한국에서 시부모가 아직 아이를 낳지 않은 며느리를 어떻게 부르는가?
+A. 어멈아
+B. (새)아가
+C. 며느리
+D. 아들의 아내
+","The following is a problem for Korean society.
+In Korea, what do parents-in-law call their daughter-in-law who has not yet given birth to a child?
+A. Mom
+B. (New) Baby
+C. Daughter-in-law
+D. Son's wife
+"
+876,KIIP_society_63,,"다음은 한국사회에 대한 문제이다.
+한국에서 아이를 낳은 후 시부모가 며느리를 어떻게 부르는가?","['A. 며느리', 'B. (새)아가', 'C. 어멈아', 'D. 아들의 아내']",C,"A. 며느리
+B. (새)아가
+C. 어멈아
+D. 아들의 아내
+","다음은 한국사회에 대한 문제이다.
+한국에서 아이를 낳은 후 시부모가 며느리를 어떻게 부르는가?
+A. 며느리
+B. (새)아가
+C. 어멈아
+D. 아들의 아내
+","The following is a problem for Korean society.
+How do parents-in-law call their daughter-in-law after giving birth in Korea?
+A. Daughter-in-law
+B. (New) baby
+C. Mom
+D. Son's wife
+"
+877,KIIP_society_64,,"다음은 한국사회에 대한 문제이다.
+사위의 성이 ""김""일 경우, 아내의 부모는 사위를 어떻게 부르는가?","['A. 김아들', 'B. 김아들님', 'C. 김서방', 'D. 김사위']",C,"A. 김아들
+B. 김아들님
+C. 김서방
+D. 김사위
+","다음은 한국사회에 대한 문제이다.
+사위의 성이 ""김""일 경우, 아내의 부모는 사위를 어떻게 부르는가?
+A. 김아들
+B. 김아들님
+C. 김서방
+D. 김사위
+","The following is a problem for Korean society.
+If the son-in-law's last name is ""Kim"", what do the wife's parents call the son-in-law?
+A. Kim Son
+B. Son Kim
+C. Kim Seo-bang
+D. Son-in-law Kim
+"
+878,KIIP_society_65,,"다음은 한국사회에 대한 문제이다.
+한국에서 부부가 아이를 낳은 후 서로를 부르는 호칭으로 옳지않은 것은?","['A. 여보', 'B. 당신', 'C. ◯◯아빠, ◯◯엄마', 'D. 엄마,아빠']",D,"A. 여보
+B. 당신
+C. ◯◯아빠, ◯◯엄마
+D. 엄마,아빠
+","다음은 한국사회에 대한 문제이다.
+한국에서 부부가 아이를 낳은 후 서로를 부르는 호칭으로 옳지않은 것은?
+A. 여보
+B. 당신
+C. ◯◯아빠, ◯◯엄마
+D. 엄마,아빠
+","The following is a problem for Korean society.
+In Korea, what is the wrong title for a couple to call each other after having a child?
+A. Honey
+B. you
+C. ◯◯Dad, ◯◯Mom
+D. Mom, Dad
+"
+879,KIIP_society_66,,"다음은 한국사회에 대한 문제이다.
+한국에서 아내가 남편의 부모님을 어떻게 부르는가?","['A. 아버님, 어머님', 'B. 장인어른, 장모님', 'C. 아빠, 엄마', 'D. 할아버지, 할머니']",A,"A. 아버님, 어머님
+B. 장인어른, 장모님
+C. 아빠, 엄마
+D. 할아버지, 할머니
+","다음은 한국사회에 대한 문제이다.
+한국에서 아내가 남편의 부모님을 어떻게 부르는가?
+A. 아버님, 어머님
+B. 장인어른, 장모님
+C. 아빠, 엄마
+D. 할아버지, 할머니
+","The following is a problem for Korean society.
+How does a wife call her husband's parents in Korea?
+A. Father, mother
+B. Father-in-law, mother-in-law
+C. Dad, Mom
+D. Grandfather and grandmother
+"
+880,KIIP_society_67,,"다음은 한국사회에 대한 문제이다.
+아내가 남편의 누나를 어떻게 부르는가?","['A. 아가씨', 'B. 형님', 'C. 아주버님', 'D. 도련님']",B,"A. 아가씨
+B. 형님
+C. 아주버님
+D. 도련님
+","다음은 한국사회에 대한 문제이다.
+아내가 남편의 누나를 어떻게 부르는가?
+A. 아가씨
+B. 형님
+C. 아주버님
+D. 도련님
+","The following is a problem for Korean society.
+How does a wife call her husband's sister?
+A. Miss
+B. Brother
+C. Mr. Uncle
+D. Master
+"
+881,KIIP_society_68,,"다음은 한국사회에 대한 문제이다.
+아내가 남편의 기혼 남동생을 어떻게 부르는가?","['A. 아주버님', 'B. 아드님', 'C. 서방님', 'D. 형님']",C,"A. 아주버님
+B. 아드님
+C. 서방님
+D. 형님
+","다음은 한국사회에 대한 문제이다.
+아내가 남편의 기혼 남동생을 어떻게 부르는가?
+A. 아주버님
+B. 아드님
+C. 서방님
+D. 형님
+","The following is a problem for Korean society.
+How does a wife call her husband's married brother?
+A. Mr. Uncle
+B. Your son
+C. Seobang
+D. Brother
+"
+882,KIIP_society_69,,"다음은 한국사회에 대한 문제이다.
+남편이 아내의 오빠를 어떻게 부르는가?","['A. 처형', 'B. 처제', 'C. 형님', 'D. 처남']",C,"A. 처형
+B. 처제
+C. 형님
+D. 처남
+","다음은 한국사회에 대한 문제이다.
+남편이 아내의 오빠를 어떻게 부르는가?
+A. 처형
+B. 처제
+C. 형님
+D. 처남
+","The following is a problem for Korean society.
+How does a husband call his wife's brother?
+A. Execution
+B. Sister-in-law
+C. Brother
+D. Brother-in-law
+"
+883,KIIP_society_70,,"다음은 한국사회에 대한 문제이다.
+한국에서 가족과 친척 관계를 어떻게 표시하는가?","['A. 촌수', 'B. 세대', 'C. 계급', 'D. 등급']",A,"A. 촌수
+B. 세대
+C. 계급
+D. 등급
+","다음은 한국사회에 대한 문제이다.
+한국에서 가족과 친척 관계를 어떻게 표시하는가?
+A. 촌수
+B. 세대
+C. 계급
+D. 등급
+","The following is a problem for Korean society.
+How are family and kinship relationships indicated in Korea?
+A. Number of relatives
+B. Generation
+C. Rank
+D. Grade
+"
+884,KIIP_society_71,,"다음은 한국사회에 대한 문제이다.
+부모와 자녀는 몇 촌인가?","['A. 1촌', 'B. 2촌', 'C. 3촌', 'D. 4촌']",A,"A. 1촌
+B. 2촌
+C. 3촌
+D. 4촌
+","다음은 한국사회에 대한 문제이다.
+부모와 자녀는 몇 촌인가?
+A. 1촌
+B. 2촌
+C. 3촌
+D. 4촌
+","The following is a problem for Korean society.
+How related are the parents and children?
+A. First-degree connections
+B. Second degree of kinship
+C. Third cousin
+D. 4th cousin
+"
+885,KIIP_society_72,,"다음은 한국사회에 대한 문제이다.
+자신이 결혼해 아이를 낳았을 때, 자신의 남동생과 자신의 아이는 몇 촌인가?","['A. 1촌', 'B. 2촌', 'C. 3촌', 'D. 4촌']",C,"A. 1촌
+B. 2촌
+C. 3촌
+D. 4촌
+","다음은 한국사회에 대한 문제이다.
+자신이 결혼해 아이를 낳았을 때, 자신의 남동생과 자신의 아이는 몇 촌인가?
+A. 1촌
+B. 2촌
+C. 3촌
+D. 4촌
+","The following is a problem for Korean society.
+When you get married and have a child, how close is your child to your younger brother?
+A. First-degree connections
+B. Second degree of kinship
+C. Third cousin
+D. 4th cousin
+"
+886,KIIP_society_73,,"다음은 한국사회에 대한 문제이다.
+자신의 남동생의 아이와 자신의 아이는 몇 촌인가?","['A. 1촌', 'B. 2촌', 'C. 3촌', 'D. 4촌']",D,"A. 1촌
+B. 2촌
+C. 3촌
+D. 4촌
+","다음은 한국사회에 대한 문제이다.
+자신의 남동생의 아이와 자신의 아이는 몇 촌인가?
+A. 1촌
+B. 2촌
+C. 3촌
+D. 4촌
+","The following is a problem for Korean society.
+How close is your younger brother's child to your child?
+A. First-degree connections
+B. Second degree of kinship
+C. Third cousin
+D. 4th cousin
+"
+887,KIIP_society_74,,"다음은 한국사회에 대한 문제이다.
+남편이나 아내의 형제자매에게서 태어난 아이들 간의 관계를 무엇이라고 부르는가?","['A. 형제', 'B. 사촌', 'C. 동료', 'D. 친구']",B,"A. 형제
+B. 사촌
+C. 동료
+D. 친구
+","다음은 한국사회에 대한 문제이다.
+남편이나 아내의 형제자매에게서 태어난 아이들 간의 관계를 무엇이라고 부르는가?
+A. 형제
+B. 사촌
+C. 동료
+D. 친구
+","The following is a problem for Korean society.
+What is the relationship between children born to a husband or wife's siblings called?
+A. Brother
+B. Cousin
+C. Colleague
+D. friend
+"
+888,KIIP_society_75,,"다음은 한국사회에 대한 문제이다.
+내 아이와 아내의 남자 형제의 자녀의 관계를 무엇이라고 부르는가?","['A. 친사촌', 'B. 고종사촌', 'C. 외사촌', 'D. 이종사촌']",C,"A. 친사촌
+B. 고종사촌
+C. 외사촌
+D. 이종사촌
+","다음은 한국사회에 대한 문제이다.
+내 아이와 아내의 남자 형제의 자녀의 관계를 무엇이라고 부르는가?
+A. 친사촌
+B. 고종사촌
+C. 외사촌
+D. 이종사촌
+","The following is a problem for Korean society.
+What do I call the relationship between my child and my wife's brother's child?
+A. Paternal cousin
+B. Gojong’s cousin
+C. Maternal cousin
+D. Different cousins
+"
+889,KIIP_society_76,,"다음은 한국사회에 대한 문제이다.
+내 아이와 남편의 여자 형제의 자녀의 관계를 무엇이라고 부르는가?","['A. 친사촌', 'B. 고종사촌', 'C. 외사촌', 'D. 이종사촌']",B,"A. 친사촌
+B. 고종사촌
+C. 외사촌
+D. 이종사촌
+","다음은 한국사회에 대한 문제이다.
+내 아이와 남편의 여자 형제의 자녀의 관계를 무엇이라고 부르는가?
+A. 친사촌
+B. 고종사촌
+C. 외사촌
+D. 이종사촌
+","The following is a problem for Korean society.
+What do I call the relationship between my child and my husband's sister's child?
+A. Paternal cousin
+B. Gojong’s cousin
+C. Maternal cousin
+D. Different cousins
+"
+890,KIIP_society_77,,"다음은 한국사회에 대한 문제이다.
+2010년대 기준, 한국에서 대부분의 사람들이 어느 나이에 직장에서 은퇴하는가?","['A. 40세 전후', 'B. 55세에서 60세 전후', 'C. 65세에서 70세 전후', 'D. 70세 이상']",B,"A. 40세 전후
+B. 55세에서 60세 전후
+C. 65세에서 70세 전후
+D. 70세 이상
+","다음은 한국사회에 대한 문제이다.
+2010년대 기준, 한국에서 대부분의 사람들이 어느 나이에 직장에서 은퇴하는가?
+A. 40세 전후
+B. 55세에서 60세 전후
+C. 65세에서 70세 전후
+D. 70세 이상
+","The following is a problem for Korean society.
+As of the 2010s, at what age do most people retire from work in Korea?
+A. Around age 40
+B. Around 55 to 60 years old
+C. Around 65 to 70 years old
+D. 70 years or older
+"
+891,KIIP_society_78,,"다음은 한국사회에 대한 문제이다.
+한국에서는 몇 살부터 일을 하는 것이 가능한가?","['A. 10세', 'B. 12세', 'C. 15세', 'D. 18세']",C,"A. 10세
+B. 12세
+C. 15세
+D. 18세
+","다음은 한국사회에 대한 문제이다.
+한국에서는 몇 살부터 일을 하는 것이 가능한가?
+A. 10세
+B. 12세
+C. 15세
+D. 18세
+","The following is a problem for Korean society.
+At what age is it possible to start working in Korea?
+A. 10 years old
+B. 12 years old
+C. 15 years old
+D. 18 years old
+"
+892,KIIP_society_79,,"다음은 한국사회에 대한 문제이다.
+2020년 기준 한국 사회에서 인기가 높은 직업은 무엇인가?","['A. 의사', 'B. 변호사', 'C. 공무원', 'D. 교사']",A,"A. 의사
+B. 변호사
+C. 공무원
+D. 교사
+","다음은 한국사회에 대한 문제이다.
+2020년 기준 한국 사회에서 인기가 높은 직업은 무엇인가?
+A. 의사
+B. 변호사
+C. 공무원
+D. 교사
+","The following is a problem for Korean society.
+What are the most popular occupations in Korean society as of 2020?
+A. Doctor
+B. Lawyer
+C. Civil servants
+D. teacher
+"
+893,KIIP_society_80,,"다음은 한국사회에 대한 문제이다.
+20세기 초반에 비해 한국에서의 어떤 변화 때문에 여성과 남성의 경제활동 비율 격차가 줄어들었는가?","['A. 여성의 사회 진출이 늘어남', 'B. 남성의 사회 진출이 줄어듬', 'C. 인구수가 많아짐', 'D. 경제활동이 줄어듬']",A,"A. 여성의 사회 진출이 늘어남
+B. 남성의 사회 진출이 줄어듬
+C. 인구수가 많아짐
+D. 경제활동이 줄어듬
+","다음은 한국사회에 대한 문제이다.
+20세기 초반에 비해 한국에서의 어떤 변화 때문에 여성과 남성의 경제활동 비율 격차가 줄어들었는가?
+A. 여성의 사회 진출이 늘어남
+B. 남성의 사회 진출이 줄어듬
+C. 인구수가 많아짐
+D. 경제활동이 줄어듬
+","The following is a problem for Korean society.
+What changes in Korea have caused the gap in economic activity rates between women and men to narrow compared to the early 20th century?
+A. Increased entry of women into society
+B. Men’s social advancement decreases
+C. The population increases
+D. Economic activity decreases.
+"
+894,KIIP_society_81,,"다음은 한국사회에 대한 문제이다.
+2010년대 기준, 한국에서 어떤 기업에서 일하기를 많은 사람들이 원하는가?","['A. 중소기업', 'B. 스타트업', 'C. 대기업', 'D. 외국기업']",C,"A. 중소기업
+B. 스타트업
+C. 대기업
+D. 외국기업
+","다음은 한국사회에 대한 문제이다.
+2010년대 기준, 한국에서 어떤 기업에서 일하기를 많은 사람들이 원하는가?
+A. 중소기업
+B. 스타트업
+C. 대기업
+D. 외국기업
+","The following is a problem for Korean society.
+As of the 2010s, what companies do many people want to work for in Korea?
+A. Small and medium-sized businesses
+B. Startup
+C. Large companies
+D. Foreign companies
+"
+895,KIIP_society_82,,"다음은 한국사회에 대한 문제이다.
+1980년대 한국에서 일을 하는 사람들은 대부분 누구였는가?","['A. 여성', 'B. 남성', 'C. 어린이', 'D. 노인']",B,"A. 여성
+B. 남성
+C. 어린이
+D. 노인
+","다음은 한국사회에 대한 문제이다.
+1980년대 한국에서 일을 하는 사람들은 대부분 누구였는가?
+A. 여성
+B. 남성
+C. 어린이
+D. 노인
+","The following is a problem for Korean society.
+Who were most people working in Korea in the 1980s?
+A.Women
+B. Male
+C.Children
+D. Elderly
+"
+896,KIIP_society_83,,"다음은 한국사회에 대한 문제이다.
+남성의 비율이 더 높다가 2010년 이후 한국에서 남녀 비율이 비슷해진 것은?","['A. 초등학교 진학률', 'B. 중학교 진학률', 'C. 고등학교 진학률', 'D. 대학 진학률']",D,"A. 초등학교 진학률
+B. 중학교 진학률
+C. 고등학교 진학률
+D. 대학 진학률
+","다음은 한국사회에 대한 문제이다.
+남성의 비율이 더 높다가 2010년 이후 한국에서 남녀 비율이 비슷해진 것은?
+A. 초등학교 진학률
+B. 중학교 진학률
+C. 고등학교 진학률
+D. 대학 진학률
+","The following is a problem for Korean society.
+The ratio of men was higher, but since 2010, the ratio of men and women has become similar in Korea?
+A. Elementary school enrollment rate
+B. Middle school enrollment rate
+C. High school entrance rate
+D. College entrance rate
+"
+897,KIIP_society_84,,"다음은 한국사회에 대한 문제이다.
+한국에 많은 부부 유형은?","['A. 맞벌이 부부', 'B. 전업주부 부부', 'C. 전업주부 부부', 'D. 모두 일하지 않는 부부']",A,"A. 맞벌이 부부
+B. 전업주부 부부
+C. 전업주부 부부
+D. 모두 일하지 않는 부부
+","다음은 한국사회에 대한 문제이다.
+한국에 많은 부부 유형은?
+A. 맞벌이 부부
+B. 전업주부 부부
+C. 전업주부 부부
+D. 모두 일하지 않는 부부
+","The following is a problem for Korean society.
+What are the most common types of couples in Korea?
+A. Dual-income couple
+B. Full-time housewife couple
+C. Full-time housewife couple
+D. A couple who neither work.
+"
+898,KIIP_society_85,,"다음은 한국사회에 대한 문제이다.
+다른 나라에 비해 특히 한국 사람들이 직장생활에서 중시하는 것은 무엇인가?","['A. 인간관계', 'B. 업무 성과', 'C. 업무 효율성', 'D. 업무 분담']",A,"A. 인간관계
+B. 업무 성과
+C. 업무 효율성
+D. 업무 분담
+","다음은 한국사회에 대한 문제이다.
+다른 나라에 비해 특히 한국 사람들이 직장생활에서 중시하는 것은 무엇인가?
+A. 인간관계
+B. 업무 성과
+C. 업무 효율성
+D. 업무 분담
+","The following is a problem for Korean society.
+What do Koreans especially value in their work life compared to other countries?
+A. Human relations
+B. Work performance
+C. Work efficiency
+D. Division of work
+"
+899,KIIP_society_86,,"다음은 한국사회에 대한 문제이다.
+기혼 여성 중 어떤 경우에 직장을 그만두는 경우가 많은가?","['A. 출산과 양육 때문', 'B. 직장 내 인간관계 때문', 'C. 직장 내 업무 부담 때문', 'D. 직장 내 성과 부담 때문']",A,"A. 출산과 양육 때문
+B. 직장 내 인간관계 때문
+C. 직장 내 업무 부담 때문
+D. 직장 내 성과 부담 때문
+","다음은 한국사회에 대한 문제이다.
+기혼 여성 중 어떤 경우에 직장을 그만두는 경우가 많은가?
+A. 출산과 양육 때문
+B. 직장 내 인간관계 때문
+C. 직장 내 업무 부담 때문
+D. 직장 내 성과 부담 때문
+","The following is a problem for Korean society.
+In what cases do married women most often quit their jobs?
+A. Because of childbirth and childrearing
+B. Because of interpersonal relationships at work
+C. Due to workload at work
+D. Due to performance pressure at work
+"
+900,KIIP_society_87,,"다음은 한국사회에 대한 문제이다.
+자녀를 어느 정도 키운 후에 다시 일을 하기 원하는 여성들이 겪는 어려움은 무엇인가?","['A. 다시 취업하기 어려움', 'B. 자녀 양육의 어려움', 'C. 직장 내 인간관계의 어려움', 'D. 직장 내 업무 부담의 어려움']",A,"A. 다시 취업하기 어려움
+B. 자녀 양육의 어려움
+C. 직장 내 인간관계의 어려움
+D. 직장 내 업무 부담의 어려움
+","다음은 한국사회에 대한 문제이다.
+자녀를 어느 정도 키운 후에 다시 일을 하기 원하는 여성들이 겪는 어려움은 무엇인가?
+A. 다시 취업하기 어려움
+B. 자녀 양육의 어려움
+C. 직장 내 인간관계의 어려움
+D. 직장 내 업무 부담의 어려움
+","The following is a problem for Korean society.
+What are the difficulties experienced by women who want to return to work after raising their children?
+A. Difficult to get a job again
+B. Difficulty raising children
+C. Difficulties with interpersonal relationships at work
+D. Difficulties with workload at work
+"
+901,KIIP_society_88,,"다음은 한국사회에 대한 문제이다.
+한국 직장에서 높임말을 쓰는 대상은?","['A. 상사에게만', 'B. 동료와 상사 모두에게', 'C. 가장 높은 위치에 있는 사람에게만', 'D. 나이가 더 많은 사람에게']",B,"A. 상사에게만
+B. 동료와 상사 모두에게
+C. 가장 높은 위치에 있는 사람에게만
+D. 나이가 더 많은 사람에게
+","다음은 한국사회에 대한 문제이다.
+한국 직장에서 높임말을 쓰는 대상은?
+A. 상사에게만
+B. 동료와 상사 모두에게
+C. 가장 높은 위치에 있는 사람에게만
+D. 나이가 더 많은 사람에게
+","The following is a problem for Korean society.
+Who uses polite language in Korean workplaces?
+A. Only to superiors
+B. To both colleagues and superiors
+C. Only for those in the highest positions.
+D. To older people
+"
+902,KIIP_society_89,,"다음은 한국사회에 대한 문제이다.
+한국에서 명절 등을 제외하고 거의 매일 영업하는 곳은 어디인가?","['A. 편의점', 'B. 도서관', 'C. 동사무소', 'D. 체육관']",A,"A. 편의점
+B. 도서관
+C. 동사무소
+D. 체육관
+","다음은 한국사회에 대한 문제이다.
+한국에서 명절 등을 제외하고 거의 매일 영업하는 곳은 어디인가?
+A. 편의점
+B. 도서관
+C. 동사무소
+D. 체육관
+","The following is a problem for Korean society.
+Which place in Korea is open almost every day except for holidays?
+A. Convenience store
+B.Library
+C. Town office
+D. Gym
+"
+903,KIIP_society_90,,"다음은 한국사회에 대한 문제이다.
+한국 직장에서는 서로를 부를 때 어떤 방식을 주로 사용하는가?","['A. 이름', 'B. 직급', 'C. 호칭', 'D. 별명']",B,"A. 이름
+B. 직급
+C. 호칭
+D. 별명
+","다음은 한국사회에 대한 문제이다.
+한국 직장에서는 서로를 부를 때 어떤 방식을 주로 사용하는가?
+A. 이름
+B. 직급
+C. 호칭
+D. 별명
+","The following is a problem for Korean society.
+What methods do people usually use to address each other in the Korean workplace?
+A. Name
+B. Rank
+C. Title
+D. Nickname
+"
+904,KIIP_society_91,,"다음은 한국사회에 대한 문제이다.
+한국 직장에서 가까이 지내는 동료들끼리는 어떻게 부르며 친밀한 관계를 만드는가?","['A. 직급으로 부름', 'B. 호칭으로 부름', 'C. ‘형님’또는 ‘언니’라고 부르거나 이름으로 부름', 'D. 별명으로 부름']",C,"A. 직급으로 부름
+B. 호칭으로 부름
+C. ‘형님’또는 ‘언니’라고 부르거나 이름으로 부름
+D. 별명으로 부름
+","다음은 한국사회에 대한 문제이다.
+한국 직장에서 가까이 지내는 동료들끼리는 어떻게 부르며 친밀한 관계를 만드는가?
+A. 직급으로 부름
+B. 호칭으로 부름
+C. ‘형님’또는 ‘언니’라고 부르거나 이름으로 부름
+D. 별명으로 부름
+","The following is a problem for Korean society.
+How do you call close colleagues at work in Korea and create a close relationship with them?
+A. Call by rank
+B. Calling by title
+C. Calling you ‘big brother’ or ‘sister’ or calling you by your name
+D. Calling by nickname
+"
+905,KIIP_society_92,,"다음은 한국사회에 대한 문제이다.
+한국 직장에서 작은 모임을 만들어서 주로 무엇을 즐기는가?","['A. 취미생활', 'B. 업무 토론', 'C. 경제 활동', 'D. 학문 연구']",A,"A. 취미생활
+B. 업무 토론
+C. 경제 활동
+D. 학문 연구
+","다음은 한국사회에 대한 문제이다.
+한국 직장에서 작은 모임을 만들어서 주로 무엇을 즐기는가?
+A. 취미생활
+B. 업무 토론
+C. 경제 활동
+D. 학문 연구
+","The following is a problem for Korean society.
+What do you usually enjoy doing in small gatherings at work in Korea?
+A. Hobbies
+B. Work Discussion
+C. Economic activity
+D. Academic research
+"
+906,KIIP_society_93,,"다음은 한국사회에 대한 문제이다.
+한국 직장인들은 일반적으로 언제 휴가를 사용하는가?","['A. 1월', 'B. 4월', 'C. 7월 말이나 8월 초', 'D. 12월']",C,"A. 1월
+B. 4월
+C. 7월 말이나 8월 초
+D. 12월
+","다음은 한국사회에 대한 문제이다.
+한국 직장인들은 일반적으로 언제 휴가를 사용하는가?
+A. 1월
+B. 4월
+C. 7월 말이나 8월 초
+D. 12월
+","The following is a problem for Korean society.
+When do Korean office workers generally take vacation?
+A: January
+B. April
+C. Late July or early August
+D. December
+"
+907,KIIP_society_94,,"다음은 한국사회에 대한 문제이다.
+한국 사람들은 여름 휴가철에 주로 어디로 놀러 가는가?","['A. 산', 'B. 해수욕장이나 계곡', 'C. 도시', 'D. 쇼핑몰']",B,"A. 산
+B. 해수욕장이나 계곡
+C. 도시
+D. 쇼핑몰
+","다음은 한국사회에 대한 문제이다.
+한국 사람들은 여름 휴가철에 주로 어디로 놀러 가는가?
+A. 산
+B. 해수욕장이나 계곡
+C. 도시
+D. 쇼핑몰
+","The following is a problem for Korean society.
+Where do Korean people usually go on summer vacation?
+A. Mountain
+B. Beach or valley
+C.City
+D. Shopping mall
+"
+908,KIIP_society_95,,"다음은 한국사회에 대한 문제이다.
+한국의 관공서나 회사에서는 보통 언제부터 언제까지 일을 하는가?","['A. 오전 8시부터 오후 5시까지', 'B. 오전 9시부터 오후 6시까지', 'C. 오전 10시부터 오후 7시까지', 'D. 오전 11시부터 오후 8시까지']",B,"A. 오전 8시부터 오후 5시까지
+B. 오전 9시부터 오후 6시까지
+C. 오전 10시부터 오후 7시까지
+D. 오전 11시부터 오후 8시까지
+","다음은 한국사회에 대한 문제이다.
+한국의 관공서나 회사에서는 보통 언제부터 언제까지 일을 하는가?
+A. 오전 8시부터 오후 5시까지
+B. 오전 9시부터 오후 6시까지
+C. 오전 10시부터 오후 7시까지
+D. 오전 11시부터 오후 8시까지
+","The following is a problem for Korean society.
+From when to how long do you usually work at a government office or company in Korea?
+A. From 8 a.m. to 5 p.m.
+B. 9:00 AM to 6:00 PM
+C. 10 AM to 7 PM
+D. From 11 AM to 8 PM
+"
+909,KIIP_society_96,,"다음은 한국사회에 대한 문제이다.
+한국의 관공서나 회사에서는 보통 언제 점심시간을 가지는가?","['A. 11시', 'B. 12시', 'C. 1시', 'D. 2시']",B,"A. 11시
+B. 12시
+C. 1시
+D. 2시
+","다음은 한국사회에 대한 문제이다.
+한국의 관공서나 회사에서는 보통 언제 점심시간을 가지는가?
+A. 11시
+B. 12시
+C. 1시
+D. 2시
+","The following is a problem for Korean society.
+When do government offices and companies in Korea usually have lunch break?
+A: 11 o'clock
+B. 12 o'clock
+C. 1 o'clock
+D. 2 o'clock
+"
+910,KIIP_society_97,,"다음은 한국사회에 대한 문제이다.
+한국의 관공서나 회사에서는 보통 하루에 몇 시간 일을 하는가?","['A. 6시간', 'B. 7시간', 'C. 8시간', 'D. 9시간']",C,"A. 6시간
+B. 7시간
+C. 8시간
+D. 9시간
+","다음은 한국사회에 대한 문제이다.
+한국의 관공서나 회사에서는 보통 하루에 몇 시간 일을 하는가?
+A. 6시간
+B. 7시간
+C. 8시간
+D. 9시간
+","The following is a problem for Korean society.
+How many hours do you usually work per day at government offices or companies in Korea?
+A. 6 hours
+B. 7 hours
+C. 8 hours
+D. 9 hours
+"
+911,KIIP_society_98,,"다음은 한국사회에 대한 문제이다.
+대부분의 한국 직장에서 적용되는 근무제는 무엇인가?","['A. 주 7일제', 'B. 주 6일제', 'C. 주 5일제', 'D. 주 4일제']",C,"A. 주 7일제
+B. 주 6일제
+C. 주 5일제
+D. 주 4일제
+","다음은 한국사회에 대한 문제이다.
+대부분의 한국 직장에서 적용되는 근무제는 무엇인가?
+A. 주 7일제
+B. 주 6일제
+C. 주 5일제
+D. 주 4일제
+","The following is a problem for Korean society.
+What is the work system applied in most Korean workplaces?
+A. 7-day week
+B. 6-day week
+C. 5-day week
+D. 4-day week
+"
+912,KIIP_society_99,,"다음은 한국사회에 대한 문제이다.
+한국에서 근무 후 직원들끼리 식사하는 것을 뭐라고 하는가?","['A. 운동', 'B. 회식', 'C. 영화 관람', 'D. 쇼핑']",B,"A. 운동
+B. 회식
+C. 영화 관람
+D. 쇼핑
+","다음은 한국사회에 대한 문제이다.
+한국에서 근무 후 직원들끼리 식사하는 것을 뭐라고 하는가?
+A. 운동
+B. 회식
+C. 영화 관람
+D. 쇼핑
+","The following is a problem for Korean society.
+What is it called when employees eat together after work in Korea?
+A. Exercise
+B. Dinner
+C. Watch a movie
+D. Shopping
+"
+913,KIIP_society_100,,"다음은 한국사회에 대한 문제이다.
+한국에서 회식을 하는 주된 이유는 무엇인가?","['A. 스트레스 해소 및 축하', 'B. 프로젝트 논의', 'C. 가족과의 소통 강화', 'D. 운동 및 건강 증진']",A,"A. 스트레스 해소 및 축하
+B. 프로젝트 논의
+C. 가족과의 소통 강화
+D. 운동 및 건강 증진
+","다음은 한국사회에 대한 문제이다.
+한국에서 회식을 하는 주된 이유는 무엇인가?
+A. 스트레스 해소 및 축하
+B. 프로젝트 논의
+C. 가족과의 소통 강화
+D. 운동 및 건강 증진
+","The following is a problem for Korean society.
+What is the main reason for having a company dinner in Korea?
+A. Stress Relief and Celebration
+B. Project discussion
+C. Strengthening communication with family
+D. Exercise and health promotion
+"
+914,KIIP_society_101,,"다음은 한국사회에 대한 문제이다.
+한국의 회식에서 직원들이 주로 하는 활동은 무엇인가?","['A. 노래 부르기', 'B. 영화 보기', 'C. 식사 및 술 마시기', 'D. 게임하기']",C,"A. 노래 부르기
+B. 영화 보기
+C. 식사 및 술 마시기
+D. 게임하기
+","다음은 한국사회에 대한 문제이다.
+한국의 회식에서 직원들이 주로 하는 활동은 무엇인가?
+A. 노래 부르기
+B. 영화 보기
+C. 식사 및 술 마시기
+D. 게임하기
+","The following is a problem for Korean society.
+What are the main activities employees do at company dinners in Korea?
+A. Sing a song
+B. Watch a movie
+C. Eating and Drinking
+D. Playing games
+"
+915,KIIP_society_102,,"다음은 한국사회에 대한 문제이다.
+한국 도시에서 하루 24시간 영업하는 곳은 어디인가?","['A. 편의점', 'B. 도서관', 'C. 지하철역', 'D. 학원']",A,"A. 편의점
+B. 도서관
+C. 지하철역
+D. 학원
+","다음은 한국사회에 대한 문제이다.
+한국 도시에서 하루 24시간 영업하는 곳은 어디인가?
+A. 편의점
+B. 도서관
+C. 지하철역
+D. 학원
+","The following is a problem for Korean society.
+Which places in Korean cities are open 24 hours a day?
+A. Convenience store
+B.Library
+C. Subway station
+D. Academy
+"
+916,KIIP_society_103,,"다음은 한국사회에 대한 문제이다.
+한국에서 도시 내 이동에 주로 이용하는 교통수단은 무엇인가?","['A. 시내버스, 지하철, 택시', 'B. 자전거, 택시, 지하철', 'C. 시내버스, 자전거, 택시', 'D. 지하철, 택시, 비행기']",A,"A. 시내버스, 지하철, 택시
+B. 자전거, 택시, 지하철
+C. 시내버스, 자전거, 택시
+D. 지하철, 택시, 비행기
+","다음은 한국사회에 대한 문제이다.
+한국에서 도시 내 이동에 주로 이용하는 교통수단은 무엇인가?
+A. 시내버스, 지하철, 택시
+B. 자전거, 택시, 지하철
+C. 시내버스, 자전거, 택시
+D. 지하철, 택시, 비행기
+","The following is a problem for Korean society.
+What is the main means of transportation used to move within the city in Korea?
+A. City buses, subways, taxis
+B. Bicycle, taxi, subway
+C. City buses, bicycles, taxis
+D. Subway, taxi, airplane
+"
+917,KIIP_society_104,,"다음은 한국사회에 대한 문제이다.
+서울에서 운행되는 지하철 노선에는 어떤 것들이 있는가?","['A. 1~9호선, 분당선, 신분당선', 'B. 1~5호선, 분당선, 신분당선', 'C. 1~10호선, 분당선, 신림선', 'D. 1~9호선, 분당선, 신도림선']",A,"A. 1~9호선, 분당선, 신분당선
+B. 1~5호선, 분당선, 신분당선
+C. 1~10호선, 분당선, 신림선
+D. 1~9호선, 분당선, 신도림선
+","다음은 한국사회에 대한 문제이다.
+서울에서 운행되는 지하철 노선에는 어떤 것들이 있는가?
+A. 1~9호선, 분당선, 신분당선
+B. 1~5호선, 분당선, 신분당선
+C. 1~10호선, 분당선, 신림선
+D. 1~9호선, 분당선, 신도림선
+","The following is a problem for Korean society.
+What subway lines operate in Seoul?
+A. Lines 1 to 9, Bundang Line, Shinbundang Line
+B. Lines 1 to 5, Bundang Line, Shinbundang Line
+C. Lines 1 to 10, Bundang Line, Sillim Line
+D. Lines 1 to 9, Bundang Line, Sindorim Line
+"
+918,KIIP_society_105,,"다음은 한국사회에 대한 문제이다.
+지하철은 주로 어디에서 이용하는 교통수단인가?","['A. 대도시', 'B. 시골', 'C. 산책로', 'D. 해변']",A,"A. 대도시
+B. 시골
+C. 산책로
+D. 해변
+","다음은 한국사회에 대한 문제이다.
+지하철은 주로 어디에서 이용하는 교통수단인가?
+A. 대도시
+B. 시골
+C. 산책로
+D. 해변
+","The following is a problem for Korean society.
+Where is the subway mainly used as a means of transportation?
+A. Big city
+B. Countryside
+C. Walkway
+D. Beach
+"
+919,KIIP_society_106,,"다음은 한국사회에 대한 문제이다.
+도시 밖으로 먼 거리를 이동할 때 주로 이용하는 교통수단은 무엇인가?","['A. 택시', 'B. 자전거', 'C. 시외버스, 고속버스, 기차', 'D. 지하철']",C,"A. 택시
+B. 자전거
+C. 시외버스, 고속버스, 기차
+D. 지하철
+","다음은 한국사회에 대한 문제이다.
+도시 밖으로 먼 거리를 이동할 때 주로 이용하는 교통수단은 무엇인가?
+A. 택시
+B. 자전거
+C. 시외버스, 고속버스, 기차
+D. 지하철
+","The following is a problem for Korean society.
+What mode of transportation do you usually use when traveling long distances outside the city?
+A. Taxi
+B. Bicycle
+C. Intercity buses, express buses, trains
+D. Subway
+"
+920,KIIP_society_107,,"다음은 한국사회에 대한 문제이다.
+사람들이 시내버스를 타기 위해 이용하는 장소는 어디인가?","['A. 버스 정류장', 'B. 지하철역', 'C. 택시 승강장', 'D. 비행기 승강장']",A,"A. 버스 정류장
+B. 지하철역
+C. 택시 승강장
+D. 비행기 승강장
+","다음은 한국사회에 대한 문제이다.
+사람들이 시내버스를 타기 위해 이용하는 장소는 어디인가?
+A. 버스 정류장
+B. 지하철역
+C. 택시 승강장
+D. 비행기 승강장
+","The following is a problem for Korean society.
+Where do people use to catch the city bus?
+A. Bus stop
+B. Subway station
+C. Taxi stand
+D. Airplane platform
+"
+921,KIIP_society_108,,"다음은 한국사회에 대한 문제이다.
+어떤 방법을 통해 시내버스의 도착 시간을 미리 알 수 있는가?","['A. 휴대전화와 버스 정류장의 전광판', 'B. 신문', 'C. 라디오', 'D. 텔레비전']",A,"A. 휴대전화와 버스 정류장의 전광판
+B. 신문
+C. 라디오
+D. 텔레비전
+","다음은 한국사회에 대한 문제이다.
+어떤 방법을 통해 시내버스의 도착 시간을 미리 알 수 있는가?
+A. 휴대전화와 버스 정류장의 전광판
+B. 신문
+C. 라디오
+D. 텔레비전
+","The following is a problem for Korean society.
+How can I find out in advance the arrival time of a city bus?
+A. Mobile phones and electronic signs at bus stops
+B. Newspaper
+C.Radio
+D. Television
+"
+922,KIIP_society_109,,"다음은 한국사회에 대한 문제이다.
+교통카드로 이용할 수 없는 교통수단은?","['A. 지하철', 'B. 시내버스', 'C. 택시', 'D. KTX']",D,"A. 지하철
+B. 시내버스
+C. 택시
+D. KTX
+","다음은 한국사회에 대한 문제이다.
+교통카드로 이용할 수 없는 교통수단은?
+A. 지하철
+B. 시내버스
+C. 택시
+D. KTX
+","The following is a problem for Korean society.
+What transportation methods cannot be used with a transportation card?
+A. Subway
+B. City bus
+C. Taxi
+D.KTX
+"
+923,KIIP_society_110,,"다음은 한국사회에 대한 문제이다.
+한국에서 지하철이 운행되는 도시는 어디인가?","['A. 서울, 수도권, 부산, 대구, 광주, 대전', 'B. 서울, 부산, 대구, 광주', 'C. 서울, 수도권, 부산, 대구', 'D. 서울, 수도권, 부산, 대구, 대전']",A,"A. 서울, 수도권, 부산, 대구, 광주, 대전
+B. 서울, 부산, 대구, 광주
+C. 서울, 수도권, 부산, 대구
+D. 서울, 수도권, 부산, 대구, 대전
+","다음은 한국사회에 대한 문제이다.
+한국에서 지하철이 운행되는 도시는 어디인가?
+A. 서울, 수도권, 부산, 대구, 광주, 대전
+B. 서울, 부산, 대구, 광주
+C. 서울, 수도권, 부산, 대구
+D. 서울, 수도권, 부산, 대구, 대전
+","The following is a problem for Korean society.
+In which cities does the subway run in Korea?
+A. Seoul, metropolitan area, Busan, Daegu, Gwangju, Daejeon
+B. Seoul, Busan, Daegu, Gwangju
+C. Seoul, metropolitan area, Busan, Daegu
+D. Seoul, metropolitan area, Busan, Daegu, Daejeon
+"
+924,KIIP_society_111,,"다음은 한국사회에 대한 문제이다.
+교통카드 기능을 포함하여 사용할 수 없는 것은 무엇인가?","['A. 신용카드', 'B. 휴대전화', 'C. 체크카드', 'D. 신분증']",D,"A. 신용카드
+B. 휴대전화
+C. 체크카드
+D. 신분증
+","다음은 한국사회에 대한 문제이다.
+교통카드 기능을 포함하여 사용할 수 없는 것은 무엇인가?
+A. 신용카드
+B. 휴대전화
+C. 체크카드
+D. 신분증
+","The following is a problem for Korean society.
+What cannot be used, including transportation card functions?
+A. Credit card
+B. Cell phone
+C. Check card
+D. ID card
+"
+925,KIIP_society_112,,"다음은 한국사회에 대한 문제이다.
+모범택시는 어떤 특징을 가지고 있는가?","['A. 일반택시보다 저렴한 요금', 'B. 일반택시보다 높은 서비스 제공', 'C. 일반택시보다 느린 운행 속도', 'D. 일반택시보다 작은 차량 크기']",B,"A. 일반택시보다 저렴한 요금
+B. 일반택시보다 높은 서비스 제공
+C. 일반택시보다 느린 운행 속도
+D. 일반택시보다 작은 차량 크기
+","다음은 한국사회에 대한 문제이다.
+모범택시는 어떤 특징을 가지고 있는가?
+A. 일반택시보다 저렴한 요금
+B. 일반택시보다 높은 서비스 제공
+C. 일반택시보다 느린 운행 속도
+D. 일반택시보다 작은 차량 크기
+","The following is a problem for Korean society.
+What characteristics does a model taxi have?
+A. Cheaper fares than regular taxis
+B. Provides higher service than regular taxis
+C. Slower operating speed than regular taxis
+D. Smaller vehicle size than a regular taxi
+"
+926,KIIP_society_113,,"다음은 한국사회에 대한 문제이다.
+KTX의 특징은 무엇인가?","['A. 가장 느린 기차', 'B. 가장 저렴한 요금', 'C. 가장 빠른 기차', 'D. 가장 늦게 운행하는 기차']",C,"A. 가장 느린 기차
+B. 가장 저렴한 요금
+C. 가장 빠른 기차
+D. 가장 늦게 운행하는 기차
+","다음은 한국사회에 대한 문제이다.
+KTX의 특징은 무엇인가?
+A. 가장 느린 기차
+B. 가장 저렴한 요금
+C. 가장 빠른 기차
+D. 가장 늦게 운행하는 기차
+","The following is a problem for Korean society.
+What are the characteristics of KTX?
+A. The slowest train
+B. Cheapest rate
+C. The fastest train
+D. The latest train to run
+"
+927,KIIP_society_114,,"다음은 한국사회에 대한 문제이다.
+한국에서 대중교통을 이용할 때 주로 사용하는 결제 수단은 무엇인가?","['A. 현금', 'B. 교통카드', 'C. 신용카드', 'D. 체크카드']",B,"A. 현금
+B. 교통카드
+C. 신용카드
+D. 체크카드
+","다음은 한국사회에 대한 문제이다.
+한국에서 대중교통을 이용할 때 주로 사용하는 결제 수단은 무엇인가?
+A. 현금
+B. 교통카드
+C. 신용카드
+D. 체크카드
+","The following is a problem for Korean society.
+What is the main payment method used when using public transportation in Korea?
+A. Cash
+B. Transportation card
+C. Credit card
+D. Check card
+"
+928,KIIP_society_115,,"다음은 한국사회에 대한 문제이다.
+교통카드를 어떻게 충전하거나 사용할 수 있는가?","['A. 충전소에서 충전하거나, 신용카드나 체크카드에 교통카드 기능을 넣어 사용', 'B. 인터넷으로만 충전 가능', 'C. 은행에서만 충전 가능', 'D. 휴대폰으로만 충전 가능']",A,"A. 충전소에서 충전하거나, 신용카드나 체크카드에 교통카드 기능을 넣어 사용
+B. 인터넷으로만 충전 가능
+C. 은행에서만 충전 가능
+D. 휴대폰으로만 충전 가능
+","다음은 한국사회에 대한 문제이다.
+교통카드를 어떻게 충전하거나 사용할 수 있는가?
+A. 충전소에서 충전하거나, 신용카드나 체크카드에 교통카드 기능을 넣어 사용
+B. 인터넷으로만 충전 가능
+C. 은행에서만 충전 가능
+D. 휴대폰으로만 충전 가능
+","The following is a problem for Korean society.
+How can I recharge or use my transportation card?
+A. Charge at a charging station or use the transportation card function on a credit or check card.
+B. Charging possible only through the internet
+C. Rechargeable only at banks
+D. Charging possible only with mobile phone
+"
+929,KIIP_society_116,,"다음은 한국사회에 대한 문제이다.
+대형택시의 장점은 무엇인가?","['A. 차가 작아서 편리하다', 'B. 차가 커서 짐을 많이 실을 수 있다', 'C. 운행 속도가 빠르다', 'D. 요금이 저렴하다']",B,"A. 차가 작아서 편리하다
+B. 차가 커서 짐을 많이 실을 수 있다
+C. 운행 속도가 빠르다
+D. 요금이 저렴하다
+","다음은 한국사회에 대한 문제이다.
+대형택시의 장점은 무엇인가?
+A. 차가 작아서 편리하다
+B. 차가 커서 짐을 많이 실을 수 있다
+C. 운행 속도가 빠르다
+D. 요금이 저렴하다
+","The following is a problem for Korean society.
+What are the advantages of large taxis?
+A. The car is small and convenient.
+B. The car is large so it can carry a lot of luggage.
+C. The driving speed is fast.
+D. The fare is cheap.
+"
+930,KIIP_society_117,,"다음은 한국사회에 대한 문제이다.
+시외버스, 고속버스, 기차 이용 시 어떻게 하면 더 편리하게 이용할 수 있는가?","['A. 인터넷을 통해 미리 예매', 'B. 현장에서 바로 구매', 'C. 전화로 예매', 'D. 우편으로 예매']",A,"A. 인터넷을 통해 미리 예매
+B. 현장에서 바로 구매
+C. 전화로 예매
+D. 우편으로 예매
+","다음은 한국사회에 대한 문제이다.
+시외버스, 고속버스, 기차 이용 시 어떻게 하면 더 편리하게 이용할 수 있는가?
+A. 인터넷을 통해 미리 예매
+B. 현장에서 바로 구매
+C. 전화로 예매
+D. 우편으로 예매
+","The following is a problem for Korean society.
+How can I use it more conveniently when using intercity buses, express buses, and trains?
+A. Advance reservations through the internet
+B. Purchase directly on site
+C. Reservation by phone
+D. Reservation by mail
+"
+931,KIIP_society_118,,"다음은 한국사회에 대한 문제이다.
+한국의 기차 종류에는 어떤 것들이 있는가?","['A. KTX, 새마을호, 무궁화호, 누리로호', 'B. KTX, 새마을호, 무궁화호, 콜밴', 'C. KTX, 새마을호, 무궁화호, 모범택시', 'D. KTX, 새마을호, 무궁화호, 일반택시']",A,"A. KTX, 새마을호, 무궁화호, 누리로호
+B. KTX, 새마을호, 무궁화호, 콜밴
+C. KTX, 새마을호, 무궁화호, 모범택시
+D. KTX, 새마을호, 무궁화호, 일반택시
+","다음은 한국사회에 대한 문제이다.
+한국의 기차 종류에는 어떤 것들이 있는가?
+A. KTX, 새마을호, 무궁화호, 누리로호
+B. KTX, 새마을호, 무궁화호, 콜밴
+C. KTX, 새마을호, 무궁화호, 모범택시
+D. KTX, 새마을호, 무궁화호, 일반택시
+","The following is a problem for Korean society.
+What types of trains are there in Korea?
+A. KTX, Saemaeul, Mugunghwa, Nuriro
+B. KTX, Saemaeul, Mugunghwa, Call Van
+C. KTX, Saemaeul, Mugunghwa, model taxi
+D. KTX, Saemaeul, Mugunghwa, regular taxi
+"
+932,KIIP_society_119,,"다음은 한국사회에 대한 문제이다.
+한국에서 대중교통을 이용할 때 주로 무엇을 이용하는가?","['A. 현금', 'B. 교통카드', 'C. 신용카드', 'D. 체크카드']",B,"A. 현금
+B. 교통카드
+C. 신용카드
+D. 체크카드
+","다음은 한국사회에 대한 문제이다.
+한국에서 대중교통을 이용할 때 주로 무엇을 이용하는가?
+A. 현금
+B. 교통카드
+C. 신용카드
+D. 체크카드
+","The following is a problem for Korean society.
+What do you mainly use when using public transportation in Korea?
+A. Cash
+B. Transportation card
+C. Credit card
+D. Check card
+"
+933,KIIP_society_120,,"다음은 한국사회에 대한 문제이다.
+환승제도를 이용하면 어떤 혜택을 받을 수 있는가?","['A. 요금 할인', 'B. 우선 탑승', 'C. 주간 무료 이용', 'D. 식사 제공']",A,"A. 요금 할인
+B. 우선 탑승
+C. 주간 무료 이용
+D. 식사 제공
+","다음은 한국사회에 대한 문제이다.
+환승제도를 이용하면 어떤 혜택을 받을 수 있는가?
+A. 요금 할인
+B. 우선 탑승
+C. 주간 무료 이용
+D. 식사 제공
+","The following is a problem for Korean society.
+What benefits can I receive by using the transfer system?
+A. Rate discount
+B. Priority boarding
+C. Free weekly use
+D. Meals provided
+"
+934,KIIP_society_121,,"다음은 한국사회에 대한 문제이다.
+대중교통 환승에 관한 설명 중 옳은 것은?","['A. 횟수 제한이 없다.', 'B. 즉시 사용하여야 한다.', 'C. 1회까지 가능하다.', 'D. 일정 시간 이내에 사용해야한다.']",D,"A. 횟수 제한이 없다.
+B. 즉시 사용하여야 한다.
+C. 1회까지 가능하다.
+D. 일정 시간 이내에 사용해야한다.
+","다음은 한국사회에 대한 문제이다.
+대중교통 환승에 관한 설명 중 옳은 것은?
+A. 횟수 제한이 없다.
+B. 즉시 사용하여야 한다.
+C. 1회까지 가능하다.
+D. 일정 시간 이내에 사용해야한다.
+","The following is a problem for Korean society.
+Which of the following statements about public transportation transfers is correct?
+A. There is no limit to the number of times.
+B. Must be used immediately.
+C. Up to 1 time is possible.
+D. Must be used within a certain period of time.
+"
+935,KIIP_society_122,,"다음은 한국사회에 대한 문제이다.
+환승제도를 이용하려면 어떻게 해야하는가?","['A. 홈페이지에서 신청하기', 'B. 카드를 단말기에 찍기', 'C. 운전기사에게 직접 말하기', 'D. 환승 특별 카드 발급 받기']",B,"A. 홈페이지에서 신청하기
+B. 카드를 단말기에 찍기
+C. 운전기사에게 직접 말하기
+D. 환승 특별 카드 발급 받기
+","다음은 한국사회에 대한 문제이다.
+환승제도를 이용하려면 어떻게 해야하는가?
+A. 홈페이지에서 신청하기
+B. 카드를 단말기에 찍기
+C. 운전기사에게 직접 말하기
+D. 환승 특별 카드 발급 받기
+","The following is a problem for Korean society.
+How do I use the transfer system?
+A. Apply on the website
+B. Swipe the card into the terminal
+C. Talk directly to the driver
+D. Obtaining a special transfer card
+"
+936,KIIP_society_123,,"다음은 한국사회에 대한 문제이다.
+다음 중 우편물이나 짐, 상품 등을 원하는 장소까지 배달해주는 일을 하는 곳은 어디인가?","['A. 우체국', 'B. 무선통신사', 'C. 은행', 'D. 경찰청']",A,"A. 우체국
+B. 무선통신사
+C. 은행
+D. 경찰청
+","다음은 한국사회에 대한 문제이다.
+다음 중 우편물이나 짐, 상품 등을 원하는 장소까지 배달해주는 일을 하는 곳은 어디인가?
+A. 우체국
+B. 무선통신사
+C. 은행
+D. 경찰청
+","The following is a problem for Korean society.
+Which of the following places delivers mail, luggage, goods, etc. to the desired location?
+A. Post office
+B. Wireless carrier
+C. Bank
+D. National Police Agency
+"
+937,KIIP_society_124,,"다음은 한국사회에 대한 문제이다.
+보이스 피싱이란 무엇인가?","['A. 전화로 주민등록번호 등을 알아내어 범죄에 이용하는 행위', 'B. 우편물을 배달하는 일', 'C. 무선으로 통신하는 것', 'D. 휴대폰을 이용한 무선통신']",A,"A. 전화로 주민등록번호 등을 알아내어 범죄에 이용하는 행위
+B. 우편물을 배달하는 일
+C. 무선으로 통신하는 것
+D. 휴대폰을 이용한 무선통신
+","다음은 한국사회에 대한 문제이다.
+보이스 피싱이란 무엇인가?
+A. 전화로 주민등록번호 등을 알아내어 범죄에 이용하는 행위
+B. 우편물을 배달하는 일
+C. 무선으로 통신하는 것
+D. 휴대폰을 이용한 무선통신
+","The following is a problem for Korean society.
+What is voice phishing?
+A. Obtaining resident registration numbers, etc. over the phone and using them for crime
+B. Delivering mail
+C. Communicating wirelessly
+D. Wireless communication using mobile phones
+"
+938,KIIP_society_125,,"다음은 한국사회에 대한 문제이다.
+KBS는 어떤 방식으로 운영비를 마련하는가?","['A. 광고', 'B. TV 수신료', 'C. 후원금', 'D. 정부 지원금']",B,"A. 광고
+B. TV 수신료
+C. 후원금
+D. 정부 지원금
+","다음은 한국사회에 대한 문제이다.
+KBS는 어떤 방식으로 운영비를 마련하는가?
+A. 광고
+B. TV 수신료
+C. 후원금
+D. 정부 지원금
+","The following is a problem for Korean society.
+How does KBS raise operating expenses?
+A. Advertising
+B. TV license fee
+C. Sponsorship
+D. Government subsidies
+"
+939,KIIP_society_126,,"다음은 한국사회에 대한 문제이다.
+신문을 구입할 수 없는 곳은?","['A. 지하 철역', 'B. 버스 정류장', 'C. 편의점', 'D. 대형 마트']",D,"A. 지하 철역
+B. 버스 정류장
+C. 편의점
+D. 대형 마트
+","다음은 한국사회에 대한 문제이다.
+신문을 구입할 수 없는 곳은?
+A. 지하 철역
+B. 버스 정류장
+C. 편의점
+D. 대형 마트
+","The following is a problem for Korean society.
+Where can't I buy newspapers?
+A. Subway station
+B. Bus stop
+C. Convenience store
+D. Large supermarket
+"
+940,KIIP_society_127,,"다음은 한국사회에 대한 문제이다.
+‘강남스타일’ 뮤직비디오가 기네스북에 오른 연도는 언제인가?","['A. 2010년', 'B. 2011년', 'C. 2012년', 'D. 2013년']",C,"A. 2010년
+B. 2011년
+C. 2012년
+D. 2013년
+","다음은 한국사회에 대한 문제이다.
+‘강남스타일’ 뮤직비디오가 기네스북에 오른 연도는 언제인가?
+A. 2010년
+B. 2011년
+C. 2012년
+D. 2013년
+","The following is a problem for Korean society.
+In what year did the ‘Gangnam Style’ music video enter the Guinness Book of Records?
+A: 2010
+B. 2011
+C. 2012
+D. 2013
+"
+941,KIIP_society_128,,"다음은 한국사회에 대한 문제이다.
+한국의 TV 공중파 채널에는 어떤 것들이 있는가?","['A. KBS, MBC, SBS, EBS', 'B. KBS, MBC, SBS, TBS', 'C. KBS, MBC, EBS, TBS', 'D. MBC, SBS, EBS, TBS']",A,"A. KBS, MBC, SBS, EBS
+B. KBS, MBC, SBS, TBS
+C. KBS, MBC, EBS, TBS
+D. MBC, SBS, EBS, TBS
+","다음은 한국사회에 대한 문제이다.
+한국의 TV 공중파 채널에는 어떤 것들이 있는가?
+A. KBS, MBC, SBS, EBS
+B. KBS, MBC, SBS, TBS
+C. KBS, MBC, EBS, TBS
+D. MBC, SBS, EBS, TBS
+","The following is a problem for Korean society.
+What are the public TV channels in Korea?
+A. KBS, MBC, SBS, EBS
+B. KBS, MBC, SBS, TBS
+C. KBS, MBC, EBS, TBS
+D. MBC, SBS, EBS, TBS
+"
+942,KIIP_society_129,,"다음은 한국사회에 대한 문제이다.
+EBS는 주로 어떤 종류의 프로그램을 방송하는가?","['A. 교육', 'B. 오락', 'C. 스포츠', 'D. 뉴스']",A,"A. 교육
+B. 오락
+C. 스포츠
+D. 뉴스
+","다음은 한국사회에 대한 문제이다.
+EBS는 주로 어떤 종류의 프로그램을 방송하는가?
+A. 교육
+B. 오락
+C. 스포츠
+D. 뉴스
+","The following is a problem for Korean society.
+What types of programs does EBS mainly broadcast?
+A. Education
+B. Entertainment
+C. Sports
+D. News
+"
+943,KIIP_society_130,,"다음은 한국사회에 대한 문제이다.
+‘강남스타일’ 뮤직비디오가 올려져 전 세계적으로 많은 관심을 받게 된 계기가 된 영상 공유 사이트는 어디인가?","['A. 네이버', 'B. 다음', 'C. 유투브', 'D. 페이스북']",C,"A. 네이버
+B. 다음
+C. 유투브
+D. 페이스북
+","다음은 한국사회에 대한 문제이다.
+‘강남스타일’ 뮤직비디오가 올려져 전 세계적으로 많은 관심을 받게 된 계기가 된 영상 공유 사이트는 어디인가?
+A. 네이버
+B. 다음
+C. 유투브
+D. 페이스북
+","The following is a problem for Korean society.
+What video sharing site was the site where the ‘Gangnam Style’ music video was uploaded and received a lot of attention from around the world?
+A. Naver
+B.Next
+C. YouTube
+D. Facebook
+"
+944,KIIP_society_131,,"다음은 한국사회에 대한 문제이다.
+조선일보, 중앙일보, 동아일보, 한국일보, 한겨레, 경향신문 등은 어떤 종류의 신문인가?","['A. 일반신문', 'B. 스포츠/경제신문', 'C. 지방/ 지역신문', 'D. 인터넷신문']",A,"A. 일반신문
+B. 스포츠/경제신문
+C. 지방/ 지역신문
+D. 인터넷신문
+","다음은 한국사회에 대한 문제이다.
+조선일보, 중앙일보, 동아일보, 한국일보, 한겨레, 경향신문 등은 어떤 종류의 신문인가?
+A. 일반신문
+B. 스포츠/경제신문
+C. 지방/ 지역신문
+D. 인터넷신문
+","The following is a problem for Korean society.
+What types of newspapers are Chosun Ilbo, JoongAng Ilbo, Dong-A Ilbo, Hankook Ilbo, Hankyoreh, and Kyunghyang Shinmun?
+A. General newspapers
+B. Sports/economic newspapers
+C. Local/regional newspapers
+D. Internet newspaper
+"
+945,KIIP_society_132,,"다음은 한국사회에 대한 문제이다.
+부산 일보, 광주일보, 충청매일 등은 어떤 종류의 신문인가?","['A. 일반신문', 'B. 스포츠/경제신문', 'C. 지방/ 지역신문', 'D. 인터넷신문']",C,"A. 일반신문
+B. 스포츠/경제신문
+C. 지방/ 지역신문
+D. 인터넷신문
+","다음은 한국사회에 대한 문제이다.
+부산 일보, 광주일보, 충청매일 등은 어떤 종류의 신문인가?
+A. 일반신문
+B. 스포츠/경제신문
+C. 지방/ 지역신문
+D. 인터넷신문
+","The following is a problem for Korean society.
+What types of newspapers are Busan Ilbo, Gwangju Ilbo, Chungcheong Maeil, etc.?
+A. General newspapers
+B. Sports/economic newspapers
+C. Local/regional newspapers
+D. Internet newspaper
+"
+946,KIIP_society_133,,"다음은 한국사회에 대한 문제이다.
+공영방송이란 무엇인가?","['A. 공공 기관에서 운영하는 방송', 'B. 개인이 운영하는 방송', 'C. 국가가 운영하는 방송', 'D. 지역사회가 운영하는 방송']",A,"A. 공공 기관에서 운영하는 방송
+B. 개인이 운영하는 방송
+C. 국가가 운영하는 방송
+D. 지역사회가 운영하는 방송
+","다음은 한국사회에 대한 문제이다.
+공영방송이란 무엇인가?
+A. 공공 기관에서 운영하는 방송
+B. 개인이 운영하는 방송
+C. 국가가 운영하는 방송
+D. 지역사회가 운영하는 방송
+","The following is a problem for Korean society.
+What is public broadcasting?
+A. Broadcasting operated by public institutions
+B. Privately operated broadcasting
+C. State-run broadcasting
+D. Community-run broadcasting
+"
+947,KIIP_society_134,,"다음은 한국사회에 대한 문제이다.
+공중파 채널에 해당하지 않는 방송사는 무엇인가?","['A. KBS', 'B. EBS', 'C. MBC', 'D. JTBC']",D,"A. KBS
+B. EBS
+C. MBC
+D. JTBC
+","다음은 한국사회에 대한 문제이다.
+공중파 채널에 해당하지 않는 방송사는 무엇인가?
+A. KBS
+B. EBS
+C. MBC
+D. JTBC
+","The following is a problem for Korean society.
+What broadcasting stations are not public channels?
+A. KBS
+B.EBS
+C.MBC
+D.JTBC
+"
+948,KIIP_society_135,,"다음은 한국사회에 대한 문제이다.
+2020년 기준, 한국에서 가장 많이 사용되는 포털 사이트 중 하나는?","['A. 다음(daum)', 'B. 네이버(naver)', 'C. 네이트(nate)', 'D. 야후(yahoo)']",B,"A. 다음(daum)
+B. 네이버(naver)
+C. 네이트(nate)
+D. 야후(yahoo)
+","다음은 한국사회에 대한 문제이다.
+2020년 기준, 한국에서 가장 많이 사용되는 포털 사이트 중 하나는?
+A. 다음(daum)
+B. 네이버(naver)
+C. 네이트(nate)
+D. 야후(yahoo)
+","The following is a problem for Korean society.
+As of 2020, what is one of the most used portal sites in Korea?
+A. Daum
+B. Naver
+C. nate
+D. Yahoo
+"
+949,KIIP_society_136,,"다음은 한국사회에 대한 문제이다.
+다음 중 강남스타일을 부른 가수는 누구인가?","['A. 싸이', 'B. 아이유', 'C. 방탄소년단', 'D. 블랙핑크']",A,"A. 싸이
+B. 아이유
+C. 방탄소년단
+D. 블랙핑크
+","다음은 한국사회에 대한 문제이다.
+다음 중 강남스타일을 부른 가수는 누구인가?
+A. 싸이
+B. 아이유
+C. 방탄소년단
+D. 블랙핑크
+","The following is a problem for Korean society.
+Which of the following singers sang Gangnam Style?
+A. Psy
+B. IU
+C. BTS
+D. Blackpink
+"
+950,KIIP_society_137,,"다음은 한국사회에 대한 문제이다.
+한국에서 사용되는 SNS로 옳지 않은 것은 무엇인가?","['A. 카카오톡', 'B. 트위터', 'C. 페이스북', 'D. 아마존']",D,"A. 카카오톡
+B. 트위터
+C. 페이스북
+D. 아마존
+","다음은 한국사회에 대한 문제이다.
+한국에서 사용되는 SNS로 옳지 않은 것은 무엇인가?
+A. 카카오톡
+B. 트위터
+C. 페이스북
+D. 아마존
+","The following is a problem for Korean society.
+What is wrong with SNS used in Korea?
+A. KakaoTalk
+B. Twitter
+C. Facebook
+D.Amazon
+"
+951,KIIP_society_138,,"다음은 한국사회에 대한 문제이다.
+한국의 인터넷 보급 상태는 어떠한가?","['A. 한국은 전국 곳곳에 인터넷이 널리 보급되어 있어 어디서나 손쉽게 이용할 수 있다.', 'B. 한국은 인터넷이 제한적으로 보급되어 있다.', 'C. 한국은 인터넷이 전혀 보급되지 않았다.', 'D. 한국은 인터넷 보급률이 매우 낮다.']",A,"A. 한국은 전국 곳곳에 인터넷이 널리 보급되어 있어 어디서나 손쉽게 이용할 수 있다.
+B. 한국은 인터넷이 제한적으로 보급되어 있다.
+C. 한국은 인터넷이 전혀 보급되지 않았다.
+D. 한국은 인터넷 보급률이 매우 낮다.
+","다음은 한국사회에 대한 문제이다.
+한국의 인터넷 보급 상태는 어떠한가?
+A. 한국은 전국 곳곳에 인터넷이 널리 보급되어 있어 어디서나 손쉽게 이용할 수 있다.
+B. 한국은 인터넷이 제한적으로 보급되어 있다.
+C. 한국은 인터넷이 전혀 보급되지 않았다.
+D. 한국은 인터넷 보급률이 매우 낮다.
+","The following is a problem for Korean society.
+What is the status of Internet penetration in Korea?
+A. In Korea, the Internet is widely distributed throughout the country, so it can be easily used anywhere.
+B. Internet availability is limited in Korea.
+C. In Korea, the Internet was not widespread at all.
+D. Korea has a very low Internet penetration rate.
+"
+952,KIIP_society_139,,"다음은 한국사회에 대한 문제이다.
+한국에서 인터넷 사용의 주요 목적은 무엇인가?","['A. 정보를 찾아내고, 자신이 만든 정보를 다른 사람들에게 전달하거나 공유하는 것', 'B. 이메일을 통해 소식이나 중요한 문서 등을 주고받는 것', 'C. 물건을 사거나 은행 업무 등을 보는 것', 'D. 모든 보기']",D,"A. 정보를 찾아내고, 자신이 만든 정보를 다른 사람들에게 전달하거나 공유하는 것
+B. 이메일을 통해 소식이나 중요한 문서 등을 주고받는 것
+C. 물건을 사거나 은행 업무 등을 보는 것
+D. 모든 보기
+","다음은 한국사회에 대한 문제이다.
+한국에서 인터넷 사용의 주요 목적은 무엇인가?
+A. 정보를 찾아내고, 자신이 만든 정보를 다른 사람들에게 전달하거나 공유하는 것
+B. 이메일을 통해 소식이나 중요한 문서 등을 주고받는 것
+C. 물건을 사거나 은행 업무 등을 보는 것
+D. 모든 보기
+","The following is a problem for Korean society.
+What is the main purpose of Internet use in Korea?
+A. Finding information and conveying or sharing the information you create with others
+B. Exchanging news or important documents via email
+C. Buying things, doing banking, etc.
+D. View all
+"
+953,KIIP_society_140,,"다음은 한국사회에 대한 문제이다.
+한국에서 블로그를 통해 주로 어떤 활동을 하는가?","['A. 자신이 관심을 갖는 내용을 표현한다.', 'B. 온라인 게임을 한다.', 'C. 영화를 본다.', 'D. 음악을 듣는다.']",A,"A. 자신이 관심을 갖는 내용을 표현한다.
+B. 온라인 게임을 한다.
+C. 영화를 본다.
+D. 음악을 듣는다.
+","다음은 한국사회에 대한 문제이다.
+한국에서 블로그를 통해 주로 어떤 활동을 하는가?
+A. 자신이 관심을 갖는 내용을 표현한다.
+B. 온라인 게임을 한다.
+C. 영화를 본다.
+D. 음악을 듣는다.
+","The following is a problem for Korean society.
+What activities do you mainly engage in through blogging in Korea?
+A. Express what you are interested in.
+B. Play online games.
+C. Watch a movie.
+D. Listen to music.
+"
+954,KIIP_society_141,,"다음은 한국사회에 대한 문제이다.
+한국의 사회복지제도는 어떤 세 가지로 나눌 수 있는가?","['A. 사회보험, 공공부조, 사회복지 서비스', 'B. 국민연금, 공공부조, 사회복지 서비스', 'C. 사회보험, 공공부조, 국민연금', 'D. 사회보험, 공공부조, 건강보험']",A,"A. 사회보험, 공공부조, 사회복지 서비스
+B. 국민연금, 공공부조, 사회복지 서비스
+C. 사회보험, 공공부조, 국민연금
+D. 사회보험, 공공부조, 건강보험
+","다음은 한국사회에 대한 문제이다.
+한국의 사회복지제도는 어떤 세 가지로 나눌 수 있는가?
+A. 사회보험, 공공부조, 사회복지 서비스
+B. 국민연금, 공공부조, 사회복지 서비스
+C. 사회보험, 공공부조, 국민연금
+D. 사회보험, 공공부조, 건강보험
+","The following is a problem for Korean society.
+How can Korea’s social welfare system be divided into three categories?
+A. Social insurance, public assistance, and social welfare services
+B. National pension, public assistance, social welfare services
+C. Social insurance, public assistance, national pension
+D. Social insurance, public assistance, health insurance
+"
+955,KIIP_society_142,,"다음은 한국사회에 대한 문제이다.
+사회보험에는 어떤 네 가지가 있는가?","['A. 건강보험, 고용보험, 국민연금, 산업재해보상보험', 'B. 건강보험, 고용보험, 국민연금, 공공부조', 'C. 건강보험, 고용보험, 사회복지 서비스, 산업재해보상보험', 'D. 건강보험, 고용보험, 국민연금, 사회복지 서비스']",A,"A. 건강보험, 고용보험, 국민연금, 산업재해보상보험
+B. 건강보험, 고용보험, 국민연금, 공공부조
+C. 건강보험, 고용보험, 사회복지 서비스, 산업재해보상보험
+D. 건강보험, 고용보험, 국민연금, 사회복지 서비스
+","다음은 한국사회에 대한 문제이다.
+사회보험에는 어떤 네 가지가 있는가?
+A. 건강보험, 고용보험, 국민연금, 산업재해보상보험
+B. 건강보험, 고용보험, 국민연금, 공공부조
+C. 건강보험, 고용보험, 사회복지 서비스, 산업재해보상보험
+D. 건강보험, 고용보험, 국민연금, 사회복지 서비스
+","The following is a problem for Korean society.
+What four types of social insurance are there?
+A. Health insurance, employment insurance, national pension, industrial accident compensation insurance
+B. Health insurance, employment insurance, national pension, public assistance
+C. Health insurance, employment insurance, social welfare services, industrial accident compensation insurance
+D. Health insurance, employment insurance, national pension, social welfare services
+"
+956,KIIP_society_143,,"다음은 한국사회에 대한 문제이다.
+소득이 최저생계비보다 적은 저소득층은 어떤 제도를 통해 어떤 지원을 받을 수 있는가?","['A. 국민기초생활보장제도를 통해 생활비와 의료비를 지원받을 수 있다', 'B. 의료급여 제도를 통해 생활비와 의료비를 지원받을 수 있다', 'C. 국민기초생활보장제도를 통해 생활비를, 의료급여 제도를 통해 의료비를 지원받을 수 있다', 'D. 국민기초생활보장제도와 의료급여 제도를 통해 생활비만 지원받을 수 있다']",C,"A. 국민기초생활보장제도를 통해 생활비와 의료비를 지원받을 수 있다
+B. 의료급여 제도를 통해 생활비와 의료비를 지원받을 수 있다
+C. 국민기초생활보장제도를 통해 생활비를, 의료급여 제도를 통해 의료비를 지원받을 수 있다
+D. 국민기초생활보장제도와 의료급여 제도를 통해 생활비만 지원받을 수 있다
+","다음은 한국사회에 대한 문제이다.
+소득이 최저생계비보다 적은 저소득층은 어떤 제도를 통해 어떤 지원을 받을 수 있는가?
+A. 국민기초생활보장제도를 통해 생활비와 의료비를 지원받을 수 있다
+B. 의료급여 제도를 통해 생활비와 의료비를 지원받을 수 있다
+C. 국민기초생활보장제도를 통해 생활비를, 의료급여 제도를 통해 의료비를 지원받을 수 있다
+D. 국민기초생활보장제도와 의료급여 제도를 통해 생활비만 지원받을 수 있다
+","The following is a problem for Korean society.
+What support can low-income people whose income is less than the minimum cost of living receive?
+A. You can receive support for living expenses and medical expenses through the National Basic Living Security System.
+B. You can receive support for living and medical expenses through the medical benefit system.
+C. You can receive support for living expenses through the National Basic Living Security System and medical expenses through the medical benefit system.
+D. Only living expenses can be supported through the National Basic Living Security System and medical benefit system.
+"
+957,KIIP_society_144,,"다음은 한국사회에 대한 문제이다.
+사회보험은 어떤 목적으로 국민들이 가입해야 하는 제도인가?","['A. 미래의 위험에 대비하기 위해', 'B. 현재의 위험에 대비하기 위해', 'C. 과거의 위험에 대비하기 위해', 'D. 미래의 기회를 잡기 위해']",A,"A. 미래의 위험에 대비하기 위해
+B. 현재의 위험에 대비하기 위해
+C. 과거의 위험에 대비하기 위해
+D. 미래의 기회를 잡기 위해
+","다음은 한국사회에 대한 문제이다.
+사회보험은 어떤 목적으로 국민들이 가입해야 하는 제도인가?
+A. 미래의 위험에 대비하기 위해
+B. 현재의 위험에 대비하기 위해
+C. 과거의 위험에 대비하기 위해
+D. 미래의 기회를 잡기 위해
+","The following is a problem for Korean society.
+For what purpose is social insurance a system that citizens should subscribe to?
+A. To prepare for future risks
+B. To prepare for current risks
+C. To prepare for past risks
+D. To seize future opportunities
+"
+958,KIIP_society_145,,"다음은 한국사회에 대한 문제이다.
+공공부조는 어떤 목적으로 제공되는가?","['A. 생활능력이 없는 사람들의 기본적인 생활수준을 보장하기 위해', 'B. 생활능력이 있는 사람들의 기본적인 생활수준을 보장하기 위해', 'C. 생활능력이 없는 사람들의 고급 생활수준을 보장하기 위해', 'D. 생활능력이 있는 사람들의 고급 생활수준을 보장하기 위해']",A,"A. 생활능력이 없는 사람들의 기본적인 생활수준을 보장하기 위해
+B. 생활능력이 있는 사람들의 기본적인 생활수준을 보장하기 위해
+C. 생활능력이 없는 사람들의 고급 생활수준을 보장하기 위해
+D. 생활능력이 있는 사람들의 고급 생활수준을 보장하기 위해
+","다음은 한국사회에 대한 문제이다.
+공공부조는 어떤 목적으로 제공되는가?
+A. 생활능력이 없는 사람들의 기본적인 생활수준을 보장하기 위해
+B. 생활능력이 있는 사람들의 기본적인 생활수준을 보장하기 위해
+C. 생활능력이 없는 사람들의 고급 생활수준을 보장하기 위해
+D. 생활능력이 있는 사람들의 고급 생활수준을 보장하기 위해
+","The following is a problem for Korean society.
+For what purposes is public assistance provided?
+A. To ensure a basic standard of living for those without the ability to live.
+B. To ensure a basic standard of living for those capable of living.
+C. To ensure a high standard of living for those who cannot afford to live.
+D. To ensure a high standard of living for those who can afford it.
+"
+959,KIIP_society_146,,"다음은 한국사회에 대한 문제이다.
+건강보험의 주요 기능은 무엇인가?","['A. 아파서 병원에 갈 때 의료비의 일부를 지원받을 수 있다', 'B. 회사에서 해고되었을 때 일정 기간 금전적 지원을 받을 수 있다', 'C. 나이가 많아 돈을 벌기 어려울 때 일정 금액을 생활비로 지급받을 수 있다', 'D. 회사에서 일하다가 사고로 다쳤을 때 피해에 대해 보상받을 수 있다']",A,"A. 아파서 병원에 갈 때 의료비의 일부를 지원받을 수 있다
+B. 회사에서 해고되었을 때 일정 기간 금전적 지원을 받을 수 있다
+C. 나이가 많아 돈을 벌기 어려울 때 일정 금액을 생활비로 지급받을 수 있다
+D. 회사에서 일하다가 사고로 다쳤을 때 피해에 대해 보상받을 수 있다
+","다음은 한국사회에 대한 문제이다.
+건강보험의 주요 기능은 무엇인가?
+A. 아파서 병원에 갈 때 의료비의 일부를 지원받을 수 있다
+B. 회사에서 해고되었을 때 일정 기간 금전적 지원을 받을 수 있다
+C. 나이가 많아 돈을 벌기 어려울 때 일정 금액을 생활비로 지급받을 수 있다
+D. 회사에서 일하다가 사고로 다쳤을 때 피해에 대해 보상받을 수 있다
+","The following is a problem for Korean society.
+What are the main functions of health insurance?
+A. When you go to the hospital because you are sick, you can receive support for part of your medical expenses.
+B. When you are fired from your company, you can receive financial support for a certain period of time.
+C. When you are old and have difficulty earning money, you can receive a certain amount of money for living expenses.
+D. If you are injured in an accident while working at the company, you can receive compensation for the damages.
+"
+960,KIIP_society_147,,"다음은 한국사회에 대한 문제이다.
+고용보험의 주요 기능은 무엇인가?","['A. 회사에서 해고되었을 때 일정 기간 금전적 지원을 받을 수 있다', 'B. 아파서 병원에 갈 때 의료비의 일부를 지원받을 수 있다', 'C. 나이가 많아 돈을 벌기 어려울 때 일정 금액을 생활비로 지급받을 수 있다', 'D. 회사에서 일하다가 사고로 다쳤을 때 피해에 대해 보상받을 수 있다']",A,"A. 회사에서 해고되었을 때 일정 기간 금전적 지원을 받을 수 있다
+B. 아파서 병원에 갈 때 의료비의 일부를 지원받을 수 있다
+C. 나이가 많아 돈을 벌기 어려울 때 일정 금액을 생활비로 지급받을 수 있다
+D. 회사에서 일하다가 사고로 다쳤을 때 피해에 대해 보상받을 수 있다
+","다음은 한국사회에 대한 문제이다.
+고용보험의 주요 기능은 무엇인가?
+A. 회사에서 해고되었을 때 일정 기간 금전적 지원을 받을 수 있다
+B. 아파서 병원에 갈 때 의료비의 일부를 지원받을 수 있다
+C. 나이가 많아 돈을 벌기 어려울 때 일정 금액을 생활비로 지급받을 수 있다
+D. 회사에서 일하다가 사고로 다쳤을 때 피해에 대해 보상받을 수 있다
+","The following is a problem for Korean society.
+What are the main functions of employment insurance?
+A. When you are fired from your company, you can receive financial support for a certain period of time.
+B. When you go to the hospital because you are sick, you can receive support for part of your medical expenses.
+C. When you are old and have difficulty earning money, you can receive a certain amount of money for living expenses.
+D. If you are injured in an accident while working at the company, you can receive compensation for the damages.
+"
+961,KIIP_society_148,,"다음은 한국사회에 대한 문제이다.
+국민연금의 주요 기능은 무엇인가?","['A. 나이가 많아 돈을 벌기 어려울 때 일정 금액을 생활비로 지급받을 수 있다', 'B. 아파서 병원에 갈 때 의료비의 일부를 지원받을 수 있다', 'C. 회사에서 해고되었을 때 일정 기간 금전적 지원을 받을 수 있다', 'D. 회사에서 일하다가 사고로 다쳤을 때 피해에 대해 보상받을 수 있다']",A,"A. 나이가 많아 돈을 벌기 어려울 때 일정 금액을 생활비로 지급받을 수 있다
+B. 아파서 병원에 갈 때 의료비의 일부를 지원받을 수 있다
+C. 회사에서 해고되었을 때 일정 기간 금전적 지원을 받을 수 있다
+D. 회사에서 일하다가 사고로 다쳤을 때 피해에 대해 보상받을 수 있다
+","다음은 한국사회에 대한 문제이다.
+국민연금의 주요 기능은 무엇인가?
+A. 나이가 많아 돈을 벌기 어려울 때 일정 금액을 생활비로 지급받을 수 있다
+B. 아파서 병원에 갈 때 의료비의 일부를 지원받을 수 있다
+C. 회사에서 해고되었을 때 일정 기간 금전적 지원을 받을 수 있다
+D. 회사에서 일하다가 사고로 다쳤을 때 피해에 대해 보상받을 수 있다
+","The following is a problem for Korean society.
+What are the main functions of the national pension?
+A. When you are old and have difficulty earning money, you can receive a certain amount of money for living expenses.
+B. When you go to the hospital because you are sick, you can receive support for part of your medical expenses.
+C. When you are fired from your company, you can receive financial support for a certain period of time.
+D. If you are injured in an accident while working at the company, you can receive compensation for the damages.
+"
+962,KIIP_society_149,,"다음은 한국사회에 대한 문제이다.
+산업재해보상보험의 주요 기능은 무엇인가?","['A. 회사에서 일하다가 사고로 다쳤을 때 피해에 대해 보상받을 수 있다', 'B. 아파서 병원에 갈 때 의료비의 일부를 지원받을 수 있다', 'C. 회사에서 해고되었을 때 일정 기간 금전적 지원을 받을 수 있다', 'D. 나이가 많아 돈을 벌기 어려울 때 일정 금액을 생활비로 지급받을 수 있다']",A,"A. 회사에서 일하다가 사고로 다쳤을 때 피해에 대해 보상받을 수 있다
+B. 아파서 병원에 갈 때 의료비의 일부를 지원받을 수 있다
+C. 회사에서 해고되었을 때 일정 기간 금전적 지원을 받을 수 있다
+D. 나이가 많아 돈을 벌기 어려울 때 일정 금액을 생활비로 지급받을 수 있다
+","다음은 한국사회에 대한 문제이다.
+산업재해보상보험의 주요 기능은 무엇인가?
+A. 회사에서 일하다가 사고로 다쳤을 때 피해에 대해 보상받을 수 있다
+B. 아파서 병원에 갈 때 의료비의 일부를 지원받을 수 있다
+C. 회사에서 해고되었을 때 일정 기간 금전적 지원을 받을 수 있다
+D. 나이가 많아 돈을 벌기 어려울 때 일정 금액을 생활비로 지급받을 수 있다
+","The following is a problem for Korean society.
+What are the main functions of industrial accident compensation insurance?
+A. If you are injured in an accident while working at a company, you can receive compensation for damages.
+B. When you go to the hospital because you are sick, you can receive support for part of your medical expenses.
+C. When you are fired from your company, you can receive financial support for a certain period of time.
+D. When you are old and have difficulty earning money, you can receive a certain amount of money for living expenses.
+"
+963,KIIP_society_150,,"다음은 한국사회에 대한 문제이다.
+국민연금 관리공단의 주요 설립 목적은 무엇인가?","['A. 국민의 노령, 질병, 부상으로 인한 장애 또는 사망에 대하여 연금을 지급 함으로써 국민의 생활 안정에 이바지하는 것', 'B. 국민의 질병, 부상에 대한 예방·진단·치료·재활과 출산·사망 등에 대하여 보험금을 지급함으로써 국민의 건강 증진을 목적으로 함', 'C. 근로자에 대한 복지사업, 창업촉진 지원사업, 업무상 재해를 입은 근로자의 치료, 재활 사업 등을 추진함으로써 근로자의 복지 증진에 이바지하는 것', 'D. 회사에서 일하다가 사고로 다쳤을 때 피해에 대해 보상받을 수 있다']",A,"A. 국민의 노령, 질병, 부상으로 인한 장애 또는 사망에 대하여 연금을 지급 함으로써 국민의 생활 안정에 이바지하는 것
+B. 국민의 질병, 부상에 대한 예방·진단·치료·재활과 출산·사망 등에 대하여 보험금을 지급함으로써 국민의 건강 증진을 목적으로 함
+C. 근로자에 대한 복지사업, 창업촉진 지원사업, 업무상 재해를 입은 근로자의 치료, 재활 사업 등을 추진함으로써 근로자의 복지 증진에 이바지하는 것
+D. 회사에서 일하다가 사고로 다쳤을 때 피해에 대해 보상받을 수 있다
+","다음은 한국사회에 대한 문제이다.
+국민연금 관리공단의 주요 설립 목적은 무엇인가?
+A. 국민의 노령, 질병, 부상으로 인한 장애 또는 사망에 대하여 연금을 지급 함으로써 국민의 생활 안정에 이바지하는 것
+B. 국민의 질병, 부상에 대한 예방·진단·치료·재활과 출산·사망 등에 대하여 보험금을 지급함으로써 국민의 건강 증진을 목적으로 함
+C. 근로자에 대한 복지사업, 창업촉진 지원사업, 업무상 재해를 입은 근로자의 치료, 재활 사업 등을 추진함으로써 근로자의 복지 증진에 이바지하는 것
+D. 회사에서 일하다가 사고로 다쳤을 때 피해에 대해 보상받을 수 있다
+","The following is a problem for Korean society.
+What is the main purpose of establishing the National Pension Service?
+A. Contributing to the stability of people's lives by paying pensions for disability or death due to old age, disease, or injury.
+B. The purpose is to improve the health of the people by paying insurance benefits for prevention, diagnosis, treatment, rehabilitation, childbirth, death, etc. of diseases and injuries.
+C. Contributing to the improvement of workers' welfare by promoting welfare projects for workers, business start-up promotion support projects, treatment and rehabilitation projects for workers who have suffered work-related accidents, etc.
+D. If you are injured in an accident while working at the company, you can receive compensation for the damages.
+"
+964,KIIP_society_151,,"다음은 한국사회에 대한 문제이다.
+국민건강 보험공단의 주요 설립 목적은 무엇인가?","['A. 국민의 질병, 부상에 대한 예방·진단·치료·재활과 출산·사망 등에 대하여 보험금을 지급함으로써 국민의 건강 증진을 목적으로 함', 'B. 국민의 노령, 질병, 부상으로 인한 장애 또는 사망에 대하여 연금을 지급 함으로써 국민의 생활 안정에 이바지하는 것', 'C. 근로자에 대한 복지사업, 창업촉진 지원사업, 업무상 재해를 입은 근로자의 치료, 재활 사업 등을 추진함으로써 근로자의 복지 증진에 이바지하는 것', 'D. 회사에서 일하다가 사고로 다쳤을 때 피해에 대해 보상받을 수 있다']",A,"A. 국민의 질병, 부상에 대한 예방·진단·치료·재활과 출산·사망 등에 대하여 보험금을 지급함으로써 국민의 건강 증진을 목적으로 함
+B. 국민의 노령, 질병, 부상으로 인한 장애 또는 사망에 대하여 연금을 지급 함으로써 국민의 생활 안정에 이바지하는 것
+C. 근로자에 대한 복지사업, 창업촉진 지원사업, 업무상 재해를 입은 근로자의 치료, 재활 사업 등을 추진함으로써 근로자의 복지 증진에 이바지하는 것
+D. 회사에서 일하다가 사고로 다쳤을 때 피해에 대해 보상받을 수 있다
+","다음은 한국사회에 대한 문제이다.
+국민건강 보험공단의 주요 설립 목적은 무엇인가?
+A. 국민의 질병, 부상에 대한 예방·진단·치료·재활과 출산·사망 등에 대하여 보험금을 지급함으로써 국민의 건강 증진을 목적으로 함
+B. 국민의 노령, 질병, 부상으로 인한 장애 또는 사망에 대하여 연금을 지급 함으로써 국민의 생활 안정에 이바지하는 것
+C. 근로자에 대한 복지사업, 창업촉진 지원사업, 업무상 재해를 입은 근로자의 치료, 재활 사업 등을 추진함으로써 근로자의 복지 증진에 이바지하는 것
+D. 회사에서 일하다가 사고로 다쳤을 때 피해에 대해 보상받을 수 있다
+","The following is a problem for Korean society.
+What is the main purpose of establishing the National Health Insurance Corporation?
+A. The purpose is to improve the health of the people by paying insurance benefits for prevention, diagnosis, treatment, rehabilitation, childbirth, death, etc. of diseases and injuries.
+B. Contributing to the stability of people's lives by paying pensions for disability or death due to old age, disease, or injury.
+C. Contributing to the improvement of workers' welfare by promoting welfare projects for workers, business start-up promotion support projects, treatment and rehabilitation projects for workers who have suffered work-related accidents, etc.
+D. If you are injured in an accident while working at the company, you can receive compensation for the damages.
+"
+965,KIIP_society_152,,"다음은 한국사회에 대한 문제이다.
+근로 복지공단의 주요 설립 목적은 무엇인가?","['A. 근로자에 대한 복지사업, 창업촉진 지원사업, 업무상 재해를 입은 근로자의 치료, 재활 사업 등을 추진함으로써 근로자의 복지 증진에 이바지하는 것', 'B. 국민의 노령, 질병, 부상으로 인한 장애 또는 사망에 대하여 연금을 지급 함으로써 국민의 생활 안정에 이바지하는 것', 'C. 국민의 질병, 부상에 대한 예방·진단·치료·재활과 출산·사망 등에 대하여 보험금을 지급함으로써 국민의 건강 증진을 목적으로 함', 'D. 회사에서 일하다가 사고로 다쳤을 때 피해에 대해 보상받을 수 있다']",A,"A. 근로자에 대한 복지사업, 창업촉진 지원사업, 업무상 재해를 입은 근로자의 치료, 재활 사업 등을 추진함으로써 근로자의 복지 증진에 이바지하는 것
+B. 국민의 노령, 질병, 부상으로 인한 장애 또는 사망에 대하여 연금을 지급 함으로써 국민의 생활 안정에 이바지하는 것
+C. 국민의 질병, 부상에 대한 예방·진단·치료·재활과 출산·사망 등에 대하여 보험금을 지급함으로써 국민의 건강 증진을 목적으로 함
+D. 회사에서 일하다가 사고로 다쳤을 때 피해에 대해 보상받을 수 있다
+","다음은 한국사회에 대한 문제이다.
+근로 복지공단의 주요 설립 목적은 무엇인가?
+A. 근로자에 대한 복지사업, 창업촉진 지원사업, 업무상 재해를 입은 근로자의 치료, 재활 사업 등을 추진함으로써 근로자의 복지 증진에 이바지하는 것
+B. 국민의 노령, 질병, 부상으로 인한 장애 또는 사망에 대하여 연금을 지급 함으로써 국민의 생활 안정에 이바지하는 것
+C. 국민의 질병, 부상에 대한 예방·진단·치료·재활과 출산·사망 등에 대하여 보험금을 지급함으로써 국민의 건강 증진을 목적으로 함
+D. 회사에서 일하다가 사고로 다쳤을 때 피해에 대해 보상받을 수 있다
+","The following is a problem for Korean society.
+What is the main purpose of establishing the Korea Workers' Compensation and Welfare Service?
+A. Contributing to the improvement of workers' welfare by promoting welfare projects for workers, business start-up promotion support projects, treatment and rehabilitation projects for workers who have suffered work-related accidents, etc.
+B. Contributing to the stability of people's lives by paying pensions for disability or death due to old age, disease, or injury.
+C. The purpose is to improve the health of the people by paying insurance benefits for prevention, diagnosis, treatment, rehabilitation, childbirth, death, etc. of diseases and injuries.
+D. If you are injured in an accident while working at the company, you can receive compensation for the damages.
+"
+966,KIIP_society_153,,"다음은 한국사회에 대한 문제이다.
+최저생계비에 대한 정보를 제공하는 부처는 무엇인가?","['A. 건강보험공단', 'B. 근로복지공단', 'C. 여성가족부', 'D. 보건복지부']",D,"A. 건강보험공단
+B. 근로복지공단
+C. 여성가족부
+D. 보건복지부
+","다음은 한국사회에 대한 문제이다.
+최저생계비에 대한 정보를 제공하는 부처는 무엇인가?
+A. 건강보험공단
+B. 근로복지공단
+C. 여성가족부
+D. 보건복지부
+","The following is a problem for Korean society.
+Which ministry provides information on the minimum cost of living?
+A. National Health Insurance Corporation
+B. Korea Workers’ Compensation and Welfare Service
+C. Ministry of Gender Equality and Family
+D. Ministry of Health and Welfare
+"
+967,KIIP_society_154,,"다음은 한국사회에 대한 문제이다.
+한국에서 도시 인구 증가로 인해 발생한 여러 문제 중 하나는 무엇인가?","['A. 주택 부족 및 집값 상승', 'B. 식료품 부족', 'C. 교육 기회 부족', 'D. 기대수명 감소']",A,"A. 주택 부족 및 집값 상승
+B. 식료품 부족
+C. 교육 기회 부족
+D. 기대수명 감소
+","다음은 한국사회에 대한 문제이다.
+한국에서 도시 인구 증가로 인해 발생한 여러 문제 중 하나는 무엇인가?
+A. 주택 부족 및 집값 상승
+B. 식료품 부족
+C. 교육 기회 부족
+D. 기대수명 감소
+","The following is a problem for Korean society.
+What is one of the many problems caused by urban population growth in Korea?
+A. Housing shortage and rising housing prices
+B. Food shortage
+C. Lack of educational opportunities
+D. Decrease life expectancy
+"
+968,KIIP_society_155,,"다음은 한국사회에 대한 문제이다.
+1900년대 한국의 핵심 산업은 무엇이었는가?","['A. 농업', 'B. 제조업', 'C. 서비스업', 'D. IT업']",A,"A. 농업
+B. 제조업
+C. 서비스업
+D. IT업
+","다음은 한국사회에 대한 문제이다.
+1900년대 한국의 핵심 산업은 무엇이었는가?
+A. 농업
+B. 제조업
+C. 서비스업
+D. IT업
+","The following is a problem for Korean society.
+What were Korea’s key industries in the 1900s?
+A. Agriculture
+B. Manufacturing
+C. Service industry
+D. IT industry
+"
+969,KIIP_society_156,,"다음은 한국사회에 대한 문제이다.
+2010년대 기준, 한국의 전체 인구 중 농촌에 거주하는 인구 비율은 얼마나 되는가?","['A. 5%', 'B. 10%', 'C. 20%', 'D. 30%']",B,"A. 5%
+B. 10%
+C. 20%
+D. 30%
+","다음은 한국사회에 대한 문제이다.
+2010년대 기준, 한국의 전체 인구 중 농촌에 거주하는 인구 비율은 얼마나 되는가?
+A. 5%
+B. 10%
+C. 20%
+D. 30%
+","The following is a problem for Korean society.
+As of the 2010s, what percentage of Korea's total population lives in rural areas?
+A. 5%
+B. 10%
+C.20%
+D. 30%
+"
+970,KIIP_society_157,,"다음은 한국사회에 대한 문제이다.
+한국에서는 농촌과 도시 중 어디에서 주민 간의 관계가 더 친밀할 가능성이 높은가?","['A. 농촌', 'B. 도시', 'C. 둘 다 같다', 'D. 정보가 부족하다']",A,"A. 농촌
+B. 도시
+C. 둘 다 같다
+D. 정보가 부족하다
+","다음은 한국사회에 대한 문제이다.
+한국에서는 농촌과 도시 중 어디에서 주민 간의 관계가 더 친밀할 가능성이 높은가?
+A. 농촌
+B. 도시
+C. 둘 다 같다
+D. 정보가 부족하다
+","The following is a problem for Korean society.
+In Korea, which is more likely to have closer relationships between residents: rural areas or cities?
+A. Rural
+B.City
+C. Both are the same
+D. There is not enough information
+"
+971,KIIP_society_158,,"다음은 한국사회에 대한 문제이다.
+2010년대 이후 한국에서 시작되고 있는 현상이 아닌 것은?","['A. 귀농 인구 증가', 'B. 농촌 인구 감소', 'C. 도시 인구 증가', 'D. 출산율 증가']",D,"A. 귀농 인구 증가
+B. 농촌 인구 감소
+C. 도시 인구 증가
+D. 출산율 증가
+","다음은 한국사회에 대한 문제이다.
+2010년대 이후 한국에서 시작되고 있는 현상이 아닌 것은?
+A. 귀농 인구 증가
+B. 농촌 인구 감소
+C. 도시 인구 증가
+D. 출산율 증가
+","The following is a problem for Korean society.
+Which of the following is not a phenomenon that has begun in Korea since the 2010s?
+A. Increase in population returning to farming
+B. Rural population decline
+C. Urban population growth
+D. Increased birth rate
+"
+972,KIIP_society_159,,"다음은 한국사회에 대한 문제이다.
+한국의 산업화가 빠른 속도로 진행된 시기는 언제인가?","['A. 1950년대', 'B. 1960년대', 'C. 1970년대', 'D. 1980년대']",B,"A. 1950년대
+B. 1960년대
+C. 1970년대
+D. 1980년대
+","다음은 한국사회에 대한 문제이다.
+한국의 산업화가 빠른 속도로 진행된 시기는 언제인가?
+A. 1950년대
+B. 1960년대
+C. 1970년대
+D. 1980년대
+","The following is a problem for Korean society.
+When did Korea's industrialization progress at a rapid pace?
+A. 1950s
+B. 1960s
+C. 1970s
+D. 1980s
+"
+973,KIIP_society_160,,"다음은 한국사회에 대한 문제이다.
+산업화 과정에서 나타난 현상은 무엇인가?","['A. 도시화', 'B. 농업화', 'C. 임업화', 'D. 정치화']",A,"A. 도시화
+B. 농업화
+C. 임업화
+D. 정치화
+","다음은 한국사회에 대한 문제이다.
+산업화 과정에서 나타난 현상은 무엇인가?
+A. 도시화
+B. 농업화
+C. 임업화
+D. 정치화
+","The following is a problem for Korean society.
+What phenomena emerged during the industrialization process?
+A. Urbanization
+B. Agriculturalization
+C. Forestry
+D. Politicization
+"
+974,KIIP_society_161,,"다음은 한국사회에 대한 문제이다.
+현재 한국의 도시 거주 인구 비율은 얼마나 되는가?","['A. 70%', 'B. 80%', 'C. 90%', 'D. 100%']",C,"A. 70%
+B. 80%
+C. 90%
+D. 100%
+","다음은 한국사회에 대한 문제이다.
+현재 한국의 도시 거주 인구 비율은 얼마나 되는가?
+A. 70%
+B. 80%
+C. 90%
+D. 100%
+","The following is a problem for Korean society.
+What is the current proportion of the population living in cities in Korea?
+A: 70%
+B. 80%
+C.90%
+D. 100%
+"
+975,KIIP_society_162,,"다음은 한국사회에 대한 문제이다.
+한국에서 인구가 가장 많이 집중된 지역은 어디인가?","['A. 서울, 경기', 'B. 부산, 경남', 'C. 대구, 경북', 'D. 광주, 전남']",A,"A. 서울, 경기
+B. 부산, 경남
+C. 대구, 경북
+D. 광주, 전남
+","다음은 한국사회에 대한 문제이다.
+한국에서 인구가 가장 많이 집중된 지역은 어디인가?
+A. 서울, 경기
+B. 부산, 경남
+C. 대구, 경북
+D. 광주, 전남
+","The following is a problem for Korean society.
+Where is the most concentrated population in Korea?
+A. Seoul, Gyeonggi
+B. Busan, Gyeongnam
+C. Daegu, Gyeongbuk
+D. Gwangju, Jeonnam
+"
+976,KIIP_society_163,,"다음은 한국사회에 대한 문제이다.
+대학 병원과 비교했을 때, 동네 의원은 어떤 경우에 가는 곳인가?","['A. 비교적 가벼운 증상이 있을 때', 'B. 세밀한 검사가 필요할 때', 'C. 예방접종이 필요할 때', 'D. 치과 치료가 필요할 때']",A,"A. 비교적 가벼운 증상이 있을 때
+B. 세밀한 검사가 필요할 때
+C. 예방접종이 필요할 때
+D. 치과 치료가 필요할 때
+","다음은 한국사회에 대한 문제이다.
+대학 병원과 비교했을 때, 동네 의원은 어떤 경우에 가는 곳인가?
+A. 비교적 가벼운 증상이 있을 때
+B. 세밀한 검사가 필요할 때
+C. 예방접종이 필요할 때
+D. 치과 치료가 필요할 때
+","The following is a problem for Korean society.
+Compared to university hospitals, in what cases do you go to local clinics?
+A. When there are relatively mild symptoms
+B. When detailed inspection is necessary
+C. When vaccination is necessary
+D. When dental treatment is needed
+"
+977,KIIP_society_164,,"다음은 한국사회에 대한 문제이다.
+건강보험제도란 무엇인가?","['A. 의료비 전액을 내는 제도', 'B. 소득에 따라 매달 일정금액을 건강보험료로 내는 제도', 'C. 병원을 이용할 때마다 돈을 내는 제도', 'D. 병원을 이용할 때마다 돈을 받는 제도']",B,"A. 의료비 전액을 내는 제도
+B. 소득에 따라 매달 일정금액을 건강보험료로 내는 제도
+C. 병원을 이용할 때마다 돈을 내는 제도
+D. 병원을 이용할 때마다 돈을 받는 제도
+","다음은 한국사회에 대한 문제이다.
+건강보험제도란 무엇인가?
+A. 의료비 전액을 내는 제도
+B. 소득에 따라 매달 일정금액을 건강보험료로 내는 제도
+C. 병원을 이용할 때마다 돈을 내는 제도
+D. 병원을 이용할 때마다 돈을 받는 제도
+","The following is a problem for Korean society.
+What is the health insurance system?
+A. System to pay all medical expenses
+B. A system where you pay a certain amount of money as health insurance premium every month depending on your income
+C. A system where you pay every time you use the hospital
+D. A system where you get paid every time you use the hospital
+"
+978,KIIP_society_165,,"다음은 한국사회에 대한 문제이다.
+건강보험증은 누가 발급해주는가?","['A. 국민건강보험공단', 'B. 병원', 'C. 약국', 'D. 보건소']",A,"A. 국민건강보험공단
+B. 병원
+C. 약국
+D. 보건소
+","다음은 한국사회에 대한 문제이다.
+건강보험증은 누가 발급해주는가?
+A. 국민건강보험공단
+B. 병원
+C. 약국
+D. 보건소
+","The following is a problem for Korean society.
+Who issues health insurance cards?
+A. National Health Insurance Corporation
+B.Hospital
+C. Pharmacy
+D. Public health center
+"
+979,KIIP_society_166,,"다음은 한국사회에 대한 문제이다.
+대학병원은 어떤 경우에 가는 곳인가?","['A. 비교적 가벼운 증상이 있을 때', 'B. 세밀한 검사가 필요할 때', 'C. 예방접종이 필요할 때', 'D. 치과 치료가 필요할 때']",B,"A. 비교적 가벼운 증상이 있을 때
+B. 세밀한 검사가 필요할 때
+C. 예방접종이 필요할 때
+D. 치과 치료가 필요할 때
+","다음은 한국사회에 대한 문제이다.
+대학병원은 어떤 경우에 가는 곳인가?
+A. 비교적 가벼운 증상이 있을 때
+B. 세밀한 검사가 필요할 때
+C. 예방접종이 필요할 때
+D. 치과 치료가 필요할 때
+","The following is a problem for Korean society.
+In what cases do you go to a university hospital?
+A. When there are relatively mild symptoms
+B. When detailed inspection is necessary
+C. When vaccination is necessary
+D. When dental treatment is needed
+"
+980,KIIP_society_167,,"다음은 한국사회에 대한 문제이다.
+건강보험제도의 장점은 무엇인가?","['A. 적은 비용으로 의료기관 이용 가능', 'B. 무료로 의료기관 이용 가능', 'C. 의료기관 이용에 제한이 없다', 'D. 모든 병원을 이용할 수 있다']",A,"A. 적은 비용으로 의료기관 이용 가능
+B. 무료로 의료기관 이용 가능
+C. 의료기관 이용에 제한이 없다
+D. 모든 병원을 이용할 수 있다
+","다음은 한국사회에 대한 문제이다.
+건강보험제도의 장점은 무엇인가?
+A. 적은 비용으로 의료기관 이용 가능
+B. 무료로 의료기관 이용 가능
+C. 의료기관 이용에 제한이 없다
+D. 모든 병원을 이용할 수 있다
+","The following is a problem for Korean society.
+What are the advantages of the health insurance system?
+A. Medical facilities can be used at a low cost
+B. Medical facilities available for free
+C. There are no restrictions on using medical institutions.
+D. All hospitals are available
+"
+981,KIIP_society_168,,"다음은 한국사회에 대한 문제이다.
+보건소는 누가 운영하는가?","['A. 국가', 'B. 개인', 'C. 병원', 'D. 약국']",A,"A. 국가
+B. 개인
+C. 병원
+D. 약국
+","다음은 한국사회에 대한 문제이다.
+보건소는 누가 운영하는가?
+A. 국가
+B. 개인
+C. 병원
+D. 약국
+","The following is a problem for Korean society.
+Who runs the public health center?
+A. Country
+B. Individual
+C.Hospital
+D. Pharmacy
+"
+982,KIIP_society_169,,"다음은 한국사회에 대한 문제이다.
+응급환자가 발생했을 때에는 어떤 전화번호로 연락해야 하는가?","['A. 112', 'B. 119', 'C. 118', 'D. 911']",B,"A. 112
+B. 119
+C. 118
+D. 911
+","다음은 한국사회에 대한 문제이다.
+응급환자가 발생했을 때에는 어떤 전화번호로 연락해야 하는가?
+A. 112
+B. 119
+C. 118
+D. 911
+","The following is a problem for Korean society.
+What phone number should I call in case of an emergency?
+A.112
+B.119
+C.118
+D.911
+"
+983,KIIP_society_170,,"다음은 한국사회에 대한 문제이다.
+한국에서는 긴급 상황별로 어떤 것이 정해져 있는가?","['A. 신고번호', 'B. 신고장소', 'C. 신고인원', 'D. 신고시간']",A,"A. 신고번호
+B. 신고장소
+C. 신고인원
+D. 신고시간
+","다음은 한국사회에 대한 문제이다.
+한국에서는 긴급 상황별로 어떤 것이 정해져 있는가?
+A. 신고번호
+B. 신고장소
+C. 신고인원
+D. 신고시간
+","The following is a problem for Korean society.
+What is determined for each emergency situation in Korea?
+A. Report number
+B. Reporting location
+C. Number of people reporting
+D. Reporting time
+"
+984,KIIP_society_171,,"다음은 한국사회에 대한 문제이다.
+한국 사람들은 어떤 숫자를 불길한 숫자로 생각하는 경우가 많은가?","['A. 1', 'B. 2', 'C. 3', 'D. 4']",D,"A. 1
+B. 2
+C. 3
+D. 4
+","다음은 한국사회에 대한 문제이다.
+한국 사람들은 어떤 숫자를 불길한 숫자로 생각하는 경우가 많은가?
+A. 1
+B. 2
+C. 3
+D. 4
+","The following is a problem for Korean society.
+What numbers do Koreans often consider unlucky?
+A.1
+B.2
+C.3
+D.4
+"
+985,KIIP_society_172,,"다음은 한국사회에 대한 문제이다.
+한국에서는 언제부터 매월 4일을 안전점검의 날로 정하였는가?","['A. 1986년', 'B. 1996년', 'C. 2006년', 'D. 2016년']",B,"A. 1986년
+B. 1996년
+C. 2006년
+D. 2016년
+","다음은 한국사회에 대한 문제이다.
+한국에서는 언제부터 매월 4일을 안전점검의 날로 정하였는가?
+A. 1986년
+B. 1996년
+C. 2006년
+D. 2016년
+","The following is a problem for Korean society.
+Since when did Korea designate the 4th of every month as Safety Inspection Day?
+A: 1986
+B. 1996
+C. 2006
+D. 2016
+"
+986,KIIP_society_173,,"다음은 한국사회에 대한 문제이다.
+한국에서 매월 어느 날이 안전점검의 날인가?","['A. 1일', 'B. 2일', 'C. 3일', 'D. 4일']",D,"A. 1일
+B. 2일
+C. 3일
+D. 4일
+","다음은 한국사회에 대한 문제이다.
+한국에서 매월 어느 날이 안전점검의 날인가?
+A. 1일
+B. 2일
+C. 3일
+D. 4일
+","The following is a problem for Korean society.
+Which day of each month is Safety Inspection Day in Korea?
+A. 1 day
+B. 2 days
+C. 3 days
+D. 4 days
+"
+987,KIIP_society_174,,"다음은 한국사회에 대한 문제이다.
+안전문화운동이란 어떤 활동인가?","['A. 사회안전, 생활안전, 교통안전, 산업안전의 4개 분야에서 실천과제를 정하여 실시하는 활동', 'B. 교통안전만을 위한 활동', 'C. 산업안전만을 위한 활동', 'D. 생활안전만을 위한 활동']",A,"A. 사회안전, 생활안전, 교통안전, 산업안전의 4개 분야에서 실천과제를 정하여 실시하는 활동
+B. 교통안전만을 위한 활동
+C. 산업안전만을 위한 활동
+D. 생활안전만을 위한 활동
+","다음은 한국사회에 대한 문제이다.
+안전문화운동이란 어떤 활동인가?
+A. 사회안전, 생활안전, 교통안전, 산업안전의 4개 분야에서 실천과제를 정하여 실시하는 활동
+B. 교통안전만을 위한 활동
+C. 산업안전만을 위한 활동
+D. 생활안전만을 위한 활동
+","The following is a problem for Korean society.
+What kind of activity is the safety culture movement?
+A. Activities carried out by setting practical tasks in four areas: social safety, living safety, traffic safety, and industrial safety.
+B. Activities solely for traffic safety
+C. Activities solely for industrial safety
+D. Activities solely for daily safety
+"
+988,KIIP_society_175,,"다음은 한국사회에 대한 문제이다.
+임신·출산 진료비 지원 신청을 위해 필요한 서류는 무엇인가?","['A. 임신확인서', 'B. 출산확인서', 'C. 진료비 지원 신청서', 'D. 임신진단서']",A,"A. 임신확인서
+B. 출산확인서
+C. 진료비 지원 신청서
+D. 임신진단서
+","다음은 한국사회에 대한 문제이다.
+임신·출산 진료비 지원 신청을 위해 필요한 서류는 무엇인가?
+A. 임신확인서
+B. 출산확인서
+C. 진료비 지원 신청서
+D. 임신진단서
+","The following is a problem for Korean society.
+What documents are required to apply for support for pregnancy and childbirth medical expenses?
+A. Confirmation of pregnancy
+B. Birth certificate
+C. Application for support for medical expenses
+D. Pregnancy certificate
+"
+989,KIIP_society_176,,"다음은 한국사회에 대한 문제이다.
+한국의 어린이집의 종류가 아닌 것은?","['A. 회사의 직원 자녀를 대상으로 하는 직장 어린이집', 'B. 일반 가정에서 아동을 돌보는 가정 어린이집', 'C. 교회나 성당 등과 같은 종교단체에서 운영하는 종교 단체 어린이집', 'D. 특정 아파트에서 자체적으로 운영하는 아파트 어린이집']",D,"A. 회사의 직원 자녀를 대상으로 하는 직장 어린이집
+B. 일반 가정에서 아동을 돌보는 가정 어린이집
+C. 교회나 성당 등과 같은 종교단체에서 운영하는 종교 단체 어린이집
+D. 특정 아파트에서 자체적으로 운영하는 아파트 어린이집
+","다음은 한국사회에 대한 문제이다.
+한국의 어린이집의 종류가 아닌 것은?
+A. 회사의 직원 자녀를 대상으로 하는 직장 어린이집
+B. 일반 가정에서 아동을 돌보는 가정 어린이집
+C. 교회나 성당 등과 같은 종교단체에서 운영하는 종교 단체 어린이집
+D. 특정 아파트에서 자체적으로 운영하는 아파트 어린이집
+","The following is a problem for Korean society.
+What is not a type of daycare center in Korea?
+A. A workplace daycare center for children of company employees
+B. Family daycare center that takes care of children in regular homes
+C. Religious organization daycare centers operated by religious organizations such as churches or cathedrals
+D. Apartment daycare center operated independently in a specific apartment
+"
+990,KIIP_society_177,,"다음은 한국사회에 대한 문제이다.
+초등학교에 입학하기 전의 어린이를 위한 보육 및 교육기관에는 어떤 것들이 있는가?","['A. 어린이집, 유치원', 'B. 어린이집, 돌봄교실', 'C. 유치원, 돌봄교실', 'D. 어린이집, 유치원, 초등학교']",A,"A. 어린이집, 유치원
+B. 어린이집, 돌봄교실
+C. 유치원, 돌봄교실
+D. 어린이집, 유치원, 초등학교
+","다음은 한국사회에 대한 문제이다.
+초등학교에 입학하기 전의 어린이를 위한 보육 및 교육기관에는 어떤 것들이 있는가?
+A. 어린이집, 유치원
+B. 어린이집, 돌봄교실
+C. 유치원, 돌봄교실
+D. 어린이집, 유치원, 초등학교
+","The following is a problem for Korean society.
+What kind of childcare and educational institutions are there for children before they enter elementary school?
+A. Daycare center, kindergarten
+B. Daycare center, care class
+C. Kindergarten, care class
+D. Daycare center, kindergarten, elementary school
+"
+991,KIIP_society_178,,"다음은 한국사회에 대한 문제이다.
+한국이 어떤 목적으로 임신, 출산, 양육과 관련한 비용을 지원하고 있는가?","['A. 출산을 장려하고 양육에 대한 경제적 부담을 줄이기 위해', 'B. 출산율을 감소시키기 위해', 'C. 인구증가를 막기 위해', 'D. 국민의 건강을 증진시키기 위해']",A,"A. 출산을 장려하고 양육에 대한 경제적 부담을 줄이기 위해
+B. 출산율을 감소시키기 위해
+C. 인구증가를 막기 위해
+D. 국민의 건강을 증진시키기 위해
+","다음은 한국사회에 대한 문제이다.
+한국이 어떤 목적으로 임신, 출산, 양육과 관련한 비용을 지원하고 있는가?
+A. 출산을 장려하고 양육에 대한 경제적 부담을 줄이기 위해
+B. 출산율을 감소시키기 위해
+C. 인구증가를 막기 위해
+D. 국민의 건강을 증진시키기 위해
+","The following is a problem for Korean society.
+For what purpose does Korea support costs related to pregnancy, childbirth, and childcare?
+A. To encourage childbirth and reduce the economic burden of childcare
+B. To reduce the birth rate
+C. To prevent population growth
+D. To improve the health of the people
+"
+992,KIIP_society_179,,"다음은 한국사회에 대한 문제이다.
+보육비/양육수당은 어디에서 신청할 수 있는가?","['A. 읍·면·동 주민센터, ‘복지로’ 웹사이트', 'B. 국민건강관리공단 지사, BC카드, 롯데카드, 삼성카드 영업점', 'C. 보건복지부, 국민건강보험공단, 지방자치단체', 'D. 우체국, 지방세무서, 국세청']",A,"A. 읍·면·동 주민센터, ‘복지로’ 웹사이트
+B. 국민건강관리공단 지사, BC카드, 롯데카드, 삼성카드 영업점
+C. 보건복지부, 국민건강보험공단, 지방자치단체
+D. 우체국, 지방세무서, 국세청
+","다음은 한국사회에 대한 문제이다.
+보육비/양육수당은 어디에서 신청할 수 있는가?
+A. 읍·면·동 주민센터, ‘복지로’ 웹사이트
+B. 국민건강관리공단 지사, BC카드, 롯데카드, 삼성카드 영업점
+C. 보건복지부, 국민건강보험공단, 지방자치단체
+D. 우체국, 지방세무서, 국세청
+","The following is a problem for Korean society.
+Where can I apply for childcare expenses/childcare allowance?
+A. Eup, myeon, and dong community centers, ‘Bokbokro’ website
+B. National Health Service branches, BC Card, Lotte Card, Samsung Card branches
+C. Ministry of Health and Welfare, National Health Insurance Corporation, local governments
+D. Post office, local tax office, National Tax Service
+"
+993,KIIP_society_180,,"다음은 한국사회에 대한 문제이다.
+한국에서 영아, 유아, 영·유아의 나이 범위는 각각 어떻게 되는가?","['A. 영아: 0-2세, 유아: 3-5세, 영·유아: 6세 미만', 'B. 영아: 0-1세, 유아: 2-5세, 영·유아: 6세 미만', 'C. 영아: 0-2세, 유아: 3-6세, 영·유아: 7세 미만', 'D. 영아: 0-1세, 유아: 2-6세, 영·유아: 7세 미만']",A,"A. 영아: 0-2세, 유아: 3-5세, 영·유아: 6세 미만
+B. 영아: 0-1세, 유아: 2-5세, 영·유아: 6세 미만
+C. 영아: 0-2세, 유아: 3-6세, 영·유아: 7세 미만
+D. 영아: 0-1세, 유아: 2-6세, 영·유아: 7세 미만
+","다음은 한국사회에 대한 문제이다.
+한국에서 영아, 유아, 영·유아의 나이 범위는 각각 어떻게 되는가?
+A. 영아: 0-2세, 유아: 3-5세, 영·유아: 6세 미만
+B. 영아: 0-1세, 유아: 2-5세, 영·유아: 6세 미만
+C. 영아: 0-2세, 유아: 3-6세, 영·유아: 7세 미만
+D. 영아: 0-1세, 유아: 2-6세, 영·유아: 7세 미만
+","The following is a problem for Korean society.
+What are the age ranges for infants, toddlers, and infants/toddlers in Korea?
+A. Infant: 0-2 years old, Toddler: 3-5 years old, Infant/Toddler: under 6 years old
+B. Infant: 0-1 years old, Toddler: 2-5 years old, Infant/Toddler: Under 6 years old
+C. Infant: 0-2 years old, Toddler: 3-6 years old, Infant/Toddler: under 7 years old
+D. Infant: 0-1 years old, Toddler: 2-6 years old, Infant/Toddler: Under 7 years old
+"
+994,KIIP_society_181,,"다음은 한국사회에 대한 문제이다.
+합계출산율이란 무엇을 의미하는가?","['A. 가입여성 1명당 출산한 아이의 수', 'B. 가입여성 1명당 임신한 횟수', 'C. 가입여성 1명당 미혼모의 수', 'D. 가입여성 1명당 미혼부의 수']",A,"A. 가입여성 1명당 출산한 아이의 수
+B. 가입여성 1명당 임신한 횟수
+C. 가입여성 1명당 미혼모의 수
+D. 가입여성 1명당 미혼부의 수
+","다음은 한국사회에 대한 문제이다.
+합계출산율이란 무엇을 의미하는가?
+A. 가입여성 1명당 출산한 아이의 수
+B. 가입여성 1명당 임신한 횟수
+C. 가입여성 1명당 미혼모의 수
+D. 가입여성 1명당 미혼부의 수
+","The following is a problem for Korean society.
+What does total fertility rate mean?
+A. Number of children born per registered woman
+B. Number of pregnancies per registered woman
+C. Number of single mothers per registered woman
+D. Number of unmarried fathers per registered woman
+"
+995,KIIP_society_182,,"다음은 한국사회에 대한 문제이다.
+임신·출산 지원금은 어디에서 사용할 수 있는가?","['A. 지정 요양기관', 'B. 모든 병원', 'C. 지정 약국', 'D. 모든 약국']",A,"A. 지정 요양기관
+B. 모든 병원
+C. 지정 약국
+D. 모든 약국
+","다음은 한국사회에 대한 문제이다.
+임신·출산 지원금은 어디에서 사용할 수 있는가?
+A. 지정 요양기관
+B. 모든 병원
+C. 지정 약국
+D. 모든 약국
+","The following is a problem for Korean society.
+Where can I use the pregnancy and childbirth support fund?
+A. Designated medical institution
+B. All hospitals
+C. Designated Pharmacy
+D. All pharmacies
+"
+996,KIIP_society_183,,"다음은 한국사회에 대한 문제이다.
+어린이집은 어떤 연령의 아이들이 이용할 수 있는가?","['A. 만0세~취학 전', 'B. 만3세~취학 전', 'C. 만6세~취학 전', 'D. 만1세~취학 전']",A,"A. 만0세~취학 전
+B. 만3세~취학 전
+C. 만6세~취학 전
+D. 만1세~취학 전
+","다음은 한국사회에 대한 문제이다.
+어린이집은 어떤 연령의 아이들이 이용할 수 있는가?
+A. 만0세~취학 전
+B. 만3세~취학 전
+C. 만6세~취학 전
+D. 만1세~취학 전
+","The following is a problem for Korean society.
+What ages can children use the daycare center?
+A. Ages 0 to preschool
+B. Ages 3 to preschool
+C. Ages 6 to preschool
+D. 1 year old ~ preschool age
+"
+997,KIIP_society_184,,"다음은 한국사회에 대한 문제이다.
+영·유아를 위한 보육과 교육은 어디에서 담당하는가?","['A. 어린이집', 'B. 초등학교', 'C. 중학교', 'D. 고등학교']",A,"A. 어린이집
+B. 초등학교
+C. 중학교
+D. 고등학교
+","다음은 한국사회에 대한 문제이다.
+영·유아를 위한 보육과 교육은 어디에서 담당하는가?
+A. 어린이집
+B. 초등학교
+C. 중학교
+D. 고등학교
+","The following is a problem for Korean society.
+Who is responsible for childcare and education for infants and toddlers?
+A. Daycare center
+B. Elementary school
+C. Middle school
+D. High school
+"
+998,KIIP_society_185,,"다음은 한국사회에 대한 문제이다.
+유치원에서는 어떤 연령대의 아동에 대한 교육을 제공하는가?","['A. 만3세부터 초등학교 입학 전까지', 'B. 만0세부터 취학 전까지', 'C. 만6세부터 초등학교 입학 전까지', 'D. 만1세부터 취학 전까지']",A,"A. 만3세부터 초등학교 입학 전까지
+B. 만0세부터 취학 전까지
+C. 만6세부터 초등학교 입학 전까지
+D. 만1세부터 취학 전까지
+","다음은 한국사회에 대한 문제이다.
+유치원에서는 어떤 연령대의 아동에 대한 교육을 제공하는가?
+A. 만3세부터 초등학교 입학 전까지
+B. 만0세부터 취학 전까지
+C. 만6세부터 초등학교 입학 전까지
+D. 만1세부터 취학 전까지
+","The following is a problem for Korean society.
+What age groups of children does the kindergarten serve?
+A. From the age of 3 until entering elementary school
+B. From age 0 to school age
+C. From the age of 6 until entering elementary school
+D. From 1 year old until school age
+"
+999,KIIP_society_186,,"다음은 한국사회에 대한 문제이다.
+유치원의 종류에는 어떤 것들이 있는가?","['A. 국·공립 유치원, 사립유치원', 'B. 국·공립 유치원', 'C. 사립유치원', 'D. 국·공립 유치원, 사립유치원, 종교 단체 유치원']",A,"A. 국·공립 유치원, 사립유치원
+B. 국·공립 유치원
+C. 사립유치원
+D. 국·공립 유치원, 사립유치원, 종교 단체 유치원
+","다음은 한국사회에 대한 문제이다.
+유치원의 종류에는 어떤 것들이 있는가?
+A. 국·공립 유치원, 사립유치원
+B. 국·공립 유치원
+C. 사립유치원
+D. 국·공립 유치원, 사립유치원, 종교 단체 유치원
+","The following is a problem for Korean society.
+What types of kindergartens are there?
+A. National and public kindergartens, private kindergartens
+B. National and public kindergartens
+C. Private kindergarten
+D. National/public kindergartens, private kindergartens, religious group kindergartens
+"
+1000,KIIP_society_187,,"다음은 한국사회에 대한 문제이다.
+어린이집과 유치원의 중요성이 더욱 높아지는 이유는 무엇인가?","['A. 맞벌이 가정이 많아지고 있기 때문', 'B. 아동의 교육 수준이 높아지고 있기 때문', 'C. 교육비가 저렴해지고 있기 때문', 'D. 교육 시스템이 개선되고 있기 때문']",A,"A. 맞벌이 가정이 많아지고 있기 때문
+B. 아동의 교육 수준이 높아지고 있기 때문
+C. 교육비가 저렴해지고 있기 때문
+D. 교육 시스템이 개선되고 있기 때문
+","다음은 한국사회에 대한 문제이다.
+어린이집과 유치원의 중요성이 더욱 높아지는 이유는 무엇인가?
+A. 맞벌이 가정이 많아지고 있기 때문
+B. 아동의 교육 수준이 높아지고 있기 때문
+C. 교육비가 저렴해지고 있기 때문
+D. 교육 시스템이 개선되고 있기 때문
+","The following is a problem for Korean society.
+Why is the importance of daycare centers and kindergartens increasing?
+A. Because the number of dual-income families is increasing.
+B. Because children’s education levels are increasing.
+C. Because education costs are becoming cheaper.
+D. Because the education system is improving.
+"
+1001,KIIP_society_188,,"다음은 한국사회에 대한 문제이다.
+어린이집은 일반적으로 어떤 시간에 운영되는가?","['A. 평일 오전 7시 30분부터 오후 7시 30분까지', 'B. 평일 오전 9시부터 오후 2시까지', 'C. 주말 오전 7시부터 오후 8시까지', 'D. 주말 오전 8시부터 오후 6시까지']",A,"A. 평일 오전 7시 30분부터 오후 7시 30분까지
+B. 평일 오전 9시부터 오후 2시까지
+C. 주말 오전 7시부터 오후 8시까지
+D. 주말 오전 8시부터 오후 6시까지
+","다음은 한국사회에 대한 문제이다.
+어린이집은 일반적으로 어떤 시간에 운영되는가?
+A. 평일 오전 7시 30분부터 오후 7시 30분까지
+B. 평일 오전 9시부터 오후 2시까지
+C. 주말 오전 7시부터 오후 8시까지
+D. 주말 오전 8시부터 오후 6시까지
+","The following is a problem for Korean society.
+What hours does the daycare center generally operate?
+A. Weekdays from 7:30 a.m. to 7:30 p.m.
+B. Weekdays from 9 a.m. to 2 p.m.
+C. Weekends from 7 a.m. to 8 p.m.
+D. Weekends from 8:00 am to 6:00 pm
+"
+1002,KIIP_society_189,,"다음은 한국사회에 대한 문제이다.
+종일제 유치원은 일반적으로 어떤 시간에 운영되는가?","['A. 주말 오전 7시 30분부터 오후 7시 30분까지', 'B. 주말 오전 9시부터 오후 2시까지', 'C. 평일 오전 7시부터 오후 8시까지', 'D. 평일 오전 8시부터 오후 4시까지']",C,"A. 주말 오전 7시 30분부터 오후 7시 30분까지
+B. 주말 오전 9시부터 오후 2시까지
+C. 평일 오전 7시부터 오후 8시까지
+D. 평일 오전 8시부터 오후 4시까지
+","다음은 한국사회에 대한 문제이다.
+종일제 유치원은 일반적으로 어떤 시간에 운영되는가?
+A. 주말 오전 7시 30분부터 오후 7시 30분까지
+B. 주말 오전 9시부터 오후 2시까지
+C. 평일 오전 7시부터 오후 8시까지
+D. 평일 오전 8시부터 오후 4시까지
+","The following is a problem for Korean society.
+What hours do full-day kindergartens generally operate?
+A. Weekends from 7:30 a.m. to 7:30 p.m.
+B. Weekends from 9 a.m. to 2 p.m.
+C. Weekdays from 7 a.m. to 8 p.m.
+D. Weekdays from 8 a.m. to 4 p.m.
+"
+1003,KIIP_society_190,,"다음은 한국사회에 대한 문제이다.
+국·공립 교육기관의 보육료와 사립 교육기관의 보육료 중 어느 것이 일반적으로 더 싼가?","['A. 국·공립 교육기관의 보육료', 'B. 사립 교육기관의 보육료', 'C. 둘 다 같다', 'D. 정보가 부족하다']",A,"A. 국·공립 교육기관의 보육료
+B. 사립 교육기관의 보육료
+C. 둘 다 같다
+D. 정보가 부족하다
+","다음은 한국사회에 대한 문제이다.
+국·공립 교육기관의 보육료와 사립 교육기관의 보육료 중 어느 것이 일반적으로 더 싼가?
+A. 국·공립 교육기관의 보육료
+B. 사립 교육기관의 보육료
+C. 둘 다 같다
+D. 정보가 부족하다
+","The following is a problem for Korean society.
+Which is generally cheaper: childcare fees at national or public educational institutions or childcare fees at private educational institutions?
+A. Childcare fees at national and public educational institutions
+B. Childcare fees at private educational institutions
+C. Both are the same
+D. There is not enough information
+"
+1004,KIIP_society_191,,"다음은 한국사회에 대한 문제이다.
+국·공립 교육기관에 어린이를 보내려면 어떤 과정을 거쳐야 하는가?","['A. 즉시 등록', 'B. 신청 후 바로 등록', 'C. 신청 후 오랫동안 기다림', 'D. 신청 없이 등록']",C,"A. 즉시 등록
+B. 신청 후 바로 등록
+C. 신청 후 오랫동안 기다림
+D. 신청 없이 등록
+","다음은 한국사회에 대한 문제이다.
+국·공립 교육기관에 어린이를 보내려면 어떤 과정을 거쳐야 하는가?
+A. 즉시 등록
+B. 신청 후 바로 등록
+C. 신청 후 오랫동안 기다림
+D. 신청 없이 등록
+","The following is a problem for Korean society.
+What process do I have to go through to send my child to a national or public educational institution?
+A. Immediate registration
+B. Register immediately after application
+C. Waiting for a long time after applying
+D. Registration without application
+"
+1005,KIIP_society_192,,"다음은 한국사회에 대한 문제이다.
+국·공립 교육기관의 보육료는 어떤 특징이 있는가?","['A. 사립 교육기관의 보육료보다 비싸다', 'B. 사립 교육기관의 보육료와 같다', 'C. 사립 교육기관의 보육료보다 싸다', 'D. 보육료가 없다']",C,"A. 사립 교육기관의 보육료보다 비싸다
+B. 사립 교육기관의 보육료와 같다
+C. 사립 교육기관의 보육료보다 싸다
+D. 보육료가 없다
+","다음은 한국사회에 대한 문제이다.
+국·공립 교육기관의 보육료는 어떤 특징이 있는가?
+A. 사립 교육기관의 보육료보다 비싸다
+B. 사립 교육기관의 보육료와 같다
+C. 사립 교육기관의 보육료보다 싸다
+D. 보육료가 없다
+","The following is a problem for Korean society.
+What are the characteristics of childcare fees at national and public educational institutions?
+A. It is more expensive than childcare fees at private educational institutions.
+B. Same as childcare fees at private educational institutions
+C. Cheaper than childcare fees at private educational institutions
+D. There is no childcare fee.
+"
+1006,KIIP_society_193,,"다음은 한국사회에 대한 문제이다.
+국·공립 교육기관에 어린이를 보내는 데 어떤 어려움이 있는가?","['A. 신청 후 오랫동안 기다려야 한다', 'B. 신청 자체가 어렵다', 'C. 보육료가 비싸다', 'D. 교육 품질이 낮다']",A,"A. 신청 후 오랫동안 기다려야 한다
+B. 신청 자체가 어렵다
+C. 보육료가 비싸다
+D. 교육 품질이 낮다
+","다음은 한국사회에 대한 문제이다.
+국·공립 교육기관에 어린이를 보내는 데 어떤 어려움이 있는가?
+A. 신청 후 오랫동안 기다려야 한다
+B. 신청 자체가 어렵다
+C. 보육료가 비싸다
+D. 교육 품질이 낮다
+","The following is a problem for Korean society.
+What are the difficulties in sending children to national and public educational institutions?
+A. You have to wait a long time after applying
+B. The application itself is difficult
+C. Childcare fees are expensive.
+D. The quality of education is low.
+"
+1007,KIIP_society_194,,"다음은 한국사회에 대한 문제이다.
+국립학교는 누구에 의해 설립되어 운영되는가?","['A. 개인', 'B. 민간단체', 'C. 지방자치단체', 'D. 국가(중앙 정부)']",D,"A. 개인
+B. 민간단체
+C. 지방자치단체
+D. 국가(중앙 정부)
+","다음은 한국사회에 대한 문제이다.
+국립학교는 누구에 의해 설립되어 운영되는가?
+A. 개인
+B. 민간단체
+C. 지방자치단체
+D. 국가(중앙 정부)
+","The following is a problem for Korean society.
+Who established and operates national schools?
+A. Individual
+B. Private organizations
+C. Local governments
+D. State (central government)
+"
+1008,KIIP_society_195,,"다음은 한국사회에 대한 문제이다.
+공립학교는 누구에 의해 설립되어 운영되는가?","['A. 개인', 'B. 민간단체', 'C. 지방자치단체', 'D. 국가(중앙 정부)']",C,"A. 개인
+B. 민간단체
+C. 지방자치단체
+D. 국가(중앙 정부)
+","다음은 한국사회에 대한 문제이다.
+공립학교는 누구에 의해 설립되어 운영되는가?
+A. 개인
+B. 민간단체
+C. 지방자치단체
+D. 국가(중앙 정부)
+","The following is a problem for Korean society.
+Who established and operates public schools?
+A. Individual
+B. Private organizations
+C. Local governments
+D. State (central government)
+"
+1009,KIIP_society_196,,"다음은 한국사회에 대한 문제이다.
+사립학교는 누구에 의해 설립되어 운영되는가?","['A. 개인이나 민간단체', 'B. 지방자치단체', 'C. 국가(중앙 정부)', 'D. 교육청']",A,"A. 개인이나 민간단체
+B. 지방자치단체
+C. 국가(중앙 정부)
+D. 교육청
+","다음은 한국사회에 대한 문제이다.
+사립학교는 누구에 의해 설립되어 운영되는가?
+A. 개인이나 민간단체
+B. 지방자치단체
+C. 국가(중앙 정부)
+D. 교육청
+","The following is a problem for Korean society.
+Who establishes and operates private schools?
+A. Individual or private organization
+B. Local governments
+C. State (Central Government)
+D. Office of Education
+"
+1010,KIIP_society_197,,"다음은 한국사회에 대한 문제이다.
+교육청의 주요 역할은 무엇인가?","['A. 교육과정 개발', 'B. 교사 배치', 'C. 학교 설립', 'D. 각지역의 교육에 관한 일을 맡아 보는 것']",D,"A. 교육과정 개발
+B. 교사 배치
+C. 학교 설립
+D. 각지역의 교육에 관한 일을 맡아 보는 것
+","다음은 한국사회에 대한 문제이다.
+교육청의 주요 역할은 무엇인가?
+A. 교육과정 개발
+B. 교사 배치
+C. 학교 설립
+D. 각지역의 교육에 관한 일을 맡아 보는 것
+","The following is a problem for Korean society.
+What is the main role of the Office of Education?
+A. Curriculum development
+B. Teacher placement
+C. School establishment
+D. Taking charge of education-related matters in each region
+"
+1011,KIIP_society_198,,"다음은 한국사회에 대한 문제이다.
+사립 초등학교에 다니게 되는 경우는 주로 어떤 방식으로 결정되는가?","['A. 성적 순', 'B. 추첨', 'C. 면접', 'D. 학교의 재량']",B,"A. 성적 순
+B. 추첨
+C. 면접
+D. 학교의 재량
+","다음은 한국사회에 대한 문제이다.
+사립 초등학교에 다니게 되는 경우는 주로 어떤 방식으로 결정되는가?
+A. 성적 순
+B. 추첨
+C. 면접
+D. 학교의 재량
+","The following is a problem for Korean society.
+How is it usually decided whether to attend a private elementary school?
+A. In order of grades
+B. Lottery
+C. Interview
+D. School discretion
+"
+1012,KIIP_society_199,,"다음은 한국사회에 대한 문제이다.
+일반계 고등학교에 진학하기 위해 치르는 시험은 무엇인가?","['A. 고입선발고사나 학교별 입학시험', 'B. 국어능력시험', 'C. 수능', 'D. 영어능력시험']",A,"A. 고입선발고사나 학교별 입학시험
+B. 국어능력시험
+C. 수능
+D. 영어능력시험
+","다음은 한국사회에 대한 문제이다.
+일반계 고등학교에 진학하기 위해 치르는 시험은 무엇인가?
+A. 고입선발고사나 학교별 입학시험
+B. 국어능력시험
+C. 수능
+D. 영어능력시험
+","The following is a problem for Korean society.
+What is the test taken to enter a general high school?
+A. High school entrance exam or school-specific entrance exam
+B. Korean Language Proficiency Test
+C. CSAT
+D. English proficiency test
+"
+1013,KIIP_society_200,,"다음은 한국사회에 대한 문제이다.
+특수목적 고등학교는 어떤 분야의 교육을 집중적으로 하는가?","['A. 과학, 외국어, 체육, 예술', 'B. 사회, 역사', 'C. 수학, 물리', 'D. 컴퓨터, 기술']",A,"A. 과학, 외국어, 체육, 예술
+B. 사회, 역사
+C. 수학, 물리
+D. 컴퓨터, 기술
+","다음은 한국사회에 대한 문제이다.
+특수목적 고등학교는 어떤 분야의 교육을 집중적으로 하는가?
+A. 과학, 외국어, 체육, 예술
+B. 사회, 역사
+C. 수학, 물리
+D. 컴퓨터, 기술
+","The following is a problem for Korean society.
+What areas of education do special purpose high schools focus on?
+A. Science, foreign language, physical education, art
+B. Society, History
+C. Mathematics, Physics
+D. Computers, technology
+"
+1014,KIIP_society_201,,"다음은 한국사회에 대한 문제이다.
+왜 가정통신문을 잘 읽어봐야 하는가?","['A. 학교 주변 날씨 정보를 얻기 위해', 'B. 학교에서 부모에게 전달하는 중요한 내용이 들어 있기 때문', 'C. 학교 식단을 확인하기 위해', 'D. 학교의 성적표를 확인하기 위해']",B,"A. 학교 주변 날씨 정보를 얻기 위해
+B. 학교에서 부모에게 전달하는 중요한 내용이 들어 있기 때문
+C. 학교 식단을 확인하기 위해
+D. 학교의 성적표를 확인하기 위해
+","다음은 한국사회에 대한 문제이다.
+왜 가정통신문을 잘 읽어봐야 하는가?
+A. 학교 주변 날씨 정보를 얻기 위해
+B. 학교에서 부모에게 전달하는 중요한 내용이 들어 있기 때문
+C. 학교 식단을 확인하기 위해
+D. 학교의 성적표를 확인하기 위해
+","The following is a problem for Korean society.
+Why should you read family correspondence carefully?
+A. To obtain weather information around the school
+B. Because it contains important information conveyed by the school to parents.
+C. To check the school diet
+D. To check the school's report card
+"
+1015,KIIP_society_202,,"다음은 한국사회에 대한 문제이다.
+초등학생의 부모가 매일 확인해야 하는 것은 무엇인가?","['A. 알림장', 'B. 학교 웹사이트', 'C. 학교 뉴스레터', 'D. 학교 일정표']",A,"A. 알림장
+B. 학교 웹사이트
+C. 학교 뉴스레터
+D. 학교 일정표
+","다음은 한국사회에 대한 문제이다.
+초등학생의 부모가 매일 확인해야 하는 것은 무엇인가?
+A. 알림장
+B. 학교 웹사이트
+C. 학교 뉴스레터
+D. 학교 일정표
+","The following is a problem for Korean society.
+What should parents of elementary school students check every day?
+A. Notice
+B. School website
+C. School Newsletter
+D. School Schedule
+"
+1016,KIIP_society_203,,"다음은 한국사회에 대한 문제이다.
+대안학교는 어떤 목적으로 만들어진 학교인가?","['A. 입시위주의 공교육 문제점 보완', 'B. 학생들의 체육능력 향상', 'C. 예술적 재능을 가진 학생 육성', 'D. 과학기술 교육 강화']",A,"A. 입시위주의 공교육 문제점 보완
+B. 학생들의 체육능력 향상
+C. 예술적 재능을 가진 학생 육성
+D. 과학기술 교육 강화
+","다음은 한국사회에 대한 문제이다.
+대안학교는 어떤 목적으로 만들어진 학교인가?
+A. 입시위주의 공교육 문제점 보완
+B. 학생들의 체육능력 향상
+C. 예술적 재능을 가진 학생 육성
+D. 과학기술 교육 강화
+","The following is a problem for Korean society.
+What is the purpose of an alternative school?
+A. Completing the problems of public education focused on entrance exams
+B. Improving students’ physical education ability
+C. Cultivating students with artistic talent
+D. Strengthening science and technology education
+"
+1017,KIIP_society_204,,"다음은 한국사회에 대한 문제이다.
+2010년대 기준, 한국에는 어떤 대학이 가장 많는가?","['A. 2년제 대학', 'B. 3년제 대학', 'C. 4년제 대학', 'D. 5년제 대학']",C,"A. 2년제 대학
+B. 3년제 대학
+C. 4년제 대학
+D. 5년제 대학
+","다음은 한국사회에 대한 문제이다.
+2010년대 기준, 한국에는 어떤 대학이 가장 많는가?
+A. 2년제 대학
+B. 3년제 대학
+C. 4년제 대학
+D. 5년제 대학
+","The following is a problem for Korean society.
+As of the 2010s, which universities have the most in Korea?
+A. Two-year college
+B. 3-year college
+C. 4-year university
+D. 5-year university
+"
+1018,KIIP_society_205,,"다음은 한국사회에 대한 문제이다.
+한국의 대학교 등록금은 대략 얼마나 되는가?","['A. 국립대학교는 1년에 300만 원~500만 원, 사립대학교는 1년에 대략 600만 원~1,000만 원', 'B. 국립대학교는 1년에 500만 원~700만 원, 사립대학교는 1년에 대략 1,000만 원~1,500만 원', 'C. 국립대학교는 1년에 200만 원~400만 원, 사립대학교는 1년에 대략 500만 원~800만 원', 'D. 국립대학교는 1년에 100만 원~200만 원, 사립대학교는 1년에 대략 300만 원~500만 원']",A,"A. 국립대학교는 1년에 300만 원~500만 원, 사립대학교는 1년에 대략 600만 원~1,000만 원
+B. 국립대학교는 1년에 500만 원~700만 원, 사립대학교는 1년에 대략 1,000만 원~1,500만 원
+C. 국립대학교는 1년에 200만 원~400만 원, 사립대학교는 1년에 대략 500만 원~800만 원
+D. 국립대학교는 1년에 100만 원~200만 원, 사립대학교는 1년에 대략 300만 원~500만 원
+","다음은 한국사회에 대한 문제이다.
+한국의 대학교 등록금은 대략 얼마나 되는가?
+A. 국립대학교는 1년에 300만 원~500만 원, 사립대학교는 1년에 대략 600만 원~1,000만 원
+B. 국립대학교는 1년에 500만 원~700만 원, 사립대학교는 1년에 대략 1,000만 원~1,500만 원
+C. 국립대학교는 1년에 200만 원~400만 원, 사립대학교는 1년에 대략 500만 원~800만 원
+D. 국립대학교는 1년에 100만 원~200만 원, 사립대학교는 1년에 대략 300만 원~500만 원
+","The following is a problem for Korean society.
+Approximately how much is university tuition in Korea?
+A. National universities cost 3 to 5 million won per year, and private universities cost approximately 6 million to 10 million won per year.
+B. National universities cost approximately 5 to 7 million won per year, and private universities cost approximately 10 to 15 million won per year.
+C. National universities cost approximately 2 to 4 million won per year, and private universities cost approximately 5 to 8 million won per year.
+D. National universities cost approximately 1 million to 2 million won per year, and private universities cost approximately 3 million to 5 million won per year.
+"
+1019,KIIP_society_206,,"다음은 한국사회에 대한 문제이다.
+한국의 대학교에서는 등록금 부담을 줄이기 위해 어떤 제도를 마련하고 있는가?","['A. 장학금 제도', 'B. 할인 제도', 'C. 무료 교육 제도', 'D. 교육 지원금 제도']",A,"A. 장학금 제도
+B. 할인 제도
+C. 무료 교육 제도
+D. 교육 지원금 제도
+","다음은 한국사회에 대한 문제이다.
+한국의 대학교에서는 등록금 부담을 줄이기 위해 어떤 제도를 마련하고 있는가?
+A. 장학금 제도
+B. 할인 제도
+C. 무료 교육 제도
+D. 교육 지원금 제도
+","The following is a problem for Korean society.
+What systems are in place at Korean universities to reduce the burden of tuition?
+A. Scholarship system
+B. Discount system
+C. Free education system
+D. Educational subsidy system
+"
+1020,KIIP_society_207,,"다음은 한국사회에 대한 문제이다.
+한국에서 초등교육을 담당하는 교육기관은 무엇인가?","['A. 중학교', 'B. 고등학교', 'C. 초등학교', 'D. 대학교']",C,"A. 중학교
+B. 고등학교
+C. 초등학교
+D. 대학교
+","다음은 한국사회에 대한 문제이다.
+한국에서 초등교육을 담당하는 교육기관은 무엇인가?
+A. 중학교
+B. 고등학교
+C. 초등학교
+D. 대학교
+","The following is a problem for Korean society.
+What educational institutions are responsible for elementary education in Korea?
+A. Middle school
+B.High school
+C. Elementary school
+D. University
+"
+1021,KIIP_society_208,,"다음은 한국사회에 대한 문제이다.
+한국의 중학교 교육 기간은 얼마나 되는가?","['A. 6년', 'B. 3년', 'C. 4년', 'D. 2년']",B,"A. 6년
+B. 3년
+C. 4년
+D. 2년
+","다음은 한국사회에 대한 문제이다.
+한국의 중학교 교육 기간은 얼마나 되는가?
+A. 6년
+B. 3년
+C. 4년
+D. 2년
+","The following is a problem for Korean society.
+How long is middle school education in Korea?
+A: 6 years
+B. 3 years
+C. 4 years
+D. 2 years
+"
+1022,KIIP_society_209,,"다음은 한국사회에 대한 문제이다.
+한국에서 의무교육 기간은 얼마나 되는가?","['A. 6년', 'B. 9년', 'C. 12년', 'D. 15년']",B,"A. 6년
+B. 9년
+C. 12년
+D. 15년
+","다음은 한국사회에 대한 문제이다.
+한국에서 의무교육 기간은 얼마나 되는가?
+A. 6년
+B. 9년
+C. 12년
+D. 15년
+","The following is a problem for Korean society.
+How long is compulsory education in Korea?
+A: 6 years
+B. 9 years
+C. 12 years
+D. 15 years
+"
+1023,KIIP_society_210,,"다음은 한국사회에 대한 문제이다.
+한국에서 2학기는 언제부터 언제까지인가?","['A. 3월~8월', 'B. 9월~다음해 2월', 'C. 1월~6월', 'D. 7월~12월']",B,"A. 3월~8월
+B. 9월~다음해 2월
+C. 1월~6월
+D. 7월~12월
+","다음은 한국사회에 대한 문제이다.
+한국에서 2학기는 언제부터 언제까지인가?
+A. 3월~8월
+B. 9월~다음해 2월
+C. 1월~6월
+D. 7월~12월
+","The following is a problem for Korean society.
+From when does the second semester start and end in Korea?
+A. March to August
+B. September - February of the following year
+C. January to June
+D. July to December
+"
+1024,KIIP_society_211,,"다음은 한국사회에 대한 문제이다.
+한국에서 의무교육을 받아야 하는 학교는 어디인가?","['A. 초등학교와 중학교', 'B. 중학교와 고등학교', 'C. 초등학교와 고등학교', 'D. 초등학교, 중학교, 고등학교']",A,"A. 초등학교와 중학교
+B. 중학교와 고등학교
+C. 초등학교와 고등학교
+D. 초등학교, 중학교, 고등학교
+","다음은 한국사회에 대한 문제이다.
+한국에서 의무교육을 받아야 하는 학교는 어디인가?
+A. 초등학교와 중학교
+B. 중학교와 고등학교
+C. 초등학교와 고등학교
+D. 초등학교, 중학교, 고등학교
+","The following is a problem for Korean society.
+Which schools require compulsory education in Korea?
+A. Elementary and middle school
+B. Middle school and high school
+C. Elementary and high schools
+D. Elementary school, middle school, high school
+"
+1025,KIIP_society_212,,"다음은 한국사회에 대한 문제이다.
+교육청에서 학생들을 국·공립 초등학교로 배정할 때 고려하는 요소는 무엇인가?","['A. 학생의 성적', 'B. 학생의 행동', 'C. 집과 학교 사이의 거리', 'D. 학생의 선호도']",C,"A. 학생의 성적
+B. 학생의 행동
+C. 집과 학교 사이의 거리
+D. 학생의 선호도
+","다음은 한국사회에 대한 문제이다.
+교육청에서 학생들을 국·공립 초등학교로 배정할 때 고려하는 요소는 무엇인가?
+A. 학생의 성적
+B. 학생의 행동
+C. 집과 학교 사이의 거리
+D. 학생의 선호도
+","The following is a problem for Korean society.
+What factors does the Office of Education consider when assigning students to national and public elementary schools?
+A. Student grades
+B. Student Behavior
+C. Distance between home and school
+D. Student Preferences
+"
+1026,KIIP_society_213,,"다음은 한국사회에 대한 문제이다.
+전문계 고등학교는 어떤 교육을 강조하는가?","['A. 과학 교육', 'B. 예술 교육', 'C. 직업 교육', 'D. 체육 교육']",C,"A. 과학 교육
+B. 예술 교육
+C. 직업 교육
+D. 체육 교육
+","다음은 한국사회에 대한 문제이다.
+전문계 고등학교는 어떤 교육을 강조하는가?
+A. 과학 교육
+B. 예술 교육
+C. 직업 교육
+D. 체육 교육
+","The following is a problem for Korean society.
+What kind of education do vocational high schools emphasize?
+A. Science education
+B. Arts Education
+C. Vocational education
+D. Physical Education
+"
+1027,KIIP_society_214,,"다음은 한국사회에 대한 문제이다.
+고등학교는 어떤 종류로 구분되는가?","['A. 일반계 고등학교, 전문계 고등학교, 특수목적 고등학교', 'B. 과학고등학교, 예술고등학교, 체육고등학교', 'C. 국립고등학교, 사립고등학교', 'D. 일반고등학교, 특성화고등학교']",A,"A. 일반계 고등학교, 전문계 고등학교, 특수목적 고등학교
+B. 과학고등학교, 예술고등학교, 체육고등학교
+C. 국립고등학교, 사립고등학교
+D. 일반고등학교, 특성화고등학교
+","다음은 한국사회에 대한 문제이다.
+고등학교는 어떤 종류로 구분되는가?
+A. 일반계 고등학교, 전문계 고등학교, 특수목적 고등학교
+B. 과학고등학교, 예술고등학교, 체육고등학교
+C. 국립고등학교, 사립고등학교
+D. 일반고등학교, 특성화고등학교
+","The following is a problem for Korean society.
+What types of high schools are classified into?
+A. General high school, vocational high school, special purpose high school
+B. Science high school, arts high school, physical education high school
+C. National high school, private high school
+D. General high school, specialized high school
+"
+1028,KIIP_society_215,,"다음은 한국사회에 대한 문제이다.
+가정통신문을 보내주는 주체는 누구인가?","['A. 음악 선생님', 'B. 담임 선생님', 'C. 학교 사무실', 'D. 학부모회']",B,"A. 음악 선생님
+B. 담임 선생님
+C. 학교 사무실
+D. 학부모회
+","다음은 한국사회에 대한 문제이다.
+가정통신문을 보내주는 주체는 누구인가?
+A. 음악 선생님
+B. 담임 선생님
+C. 학교 사무실
+D. 학부모회
+","The following is a problem for Korean society.
+Who sends home communications?
+A. Music teacher
+B. Homeroom teacher
+C. School Office
+D. Parents' Association
+"
+1029,KIIP_society_216,,"다음은 한국사회에 대한 문제이다.
+알림장에 기록되는 내용은 무엇인가?","['A. 수업 준비물, 숙제 등', 'B. 학교 식단', 'C. 학교 일정', 'D. 학교 행사 정보']",A,"A. 수업 준비물, 숙제 등
+B. 학교 식단
+C. 학교 일정
+D. 학교 행사 정보
+","다음은 한국사회에 대한 문제이다.
+알림장에 기록되는 내용은 무엇인가?
+A. 수업 준비물, 숙제 등
+B. 학교 식단
+C. 학교 일정
+D. 학교 행사 정보
+","The following is a problem for Korean society.
+What is recorded in the notification book?
+A. Class preparation materials, homework, etc.
+B. School menu
+C. School Schedule
+D. School event information
+"
+1030,KIIP_society_217,,"다음은 한국사회에 대한 문제이다.
+1980년 한국의 대학진학률은 얼마였는가?","['A. 27%', 'B. 70%', 'C. 79%', 'D. 54%']",A,"A. 27%
+B. 70%
+C. 79%
+D. 54%
+","다음은 한국사회에 대한 문제이다.
+1980년 한국의 대학진학률은 얼마였는가?
+A. 27%
+B. 70%
+C. 79%
+D. 54%
+","The following is a problem for Korean society.
+What was Korea’s college entrance rate in 1980?
+A: 27%
+B. 70%
+C. 79%
+D. 54%
+"
+1031,KIIP_society_218,,"다음은 한국사회에 대한 문제이다.
+2010년 한국의 대학진학률은 얼마였는가?","['A. 27%', 'B. 70%', 'C. 79%', 'D. 54%']",C,"A. 27%
+B. 70%
+C. 79%
+D. 54%
+","다음은 한국사회에 대한 문제이다.
+2010년 한국의 대학진학률은 얼마였는가?
+A. 27%
+B. 70%
+C. 79%
+D. 54%
+","The following is a problem for Korean society.
+What was Korea’s college entrance rate in 2010?
+A: 27%
+B. 70%
+C. 79%
+D. 54%
+"
+1032,KIIP_society_219,,"다음은 한국사회에 대한 문제이다.
+한국의 교육에 대해 옳은 것은?","['A. 대안학교를 졸업해도 모두 학력을 인정받을 수 있다.', 'B. 한국은 교육열이 세계 최고수준으로 높다.', 'C. 대학 진학율은 다소 낮은 편이다.', 'D. 수능을 쳐야만 대학에 입학할 수 있다.']",B,"A. 대안학교를 졸업해도 모두 학력을 인정받을 수 있다.
+B. 한국은 교육열이 세계 최고수준으로 높다.
+C. 대학 진학율은 다소 낮은 편이다.
+D. 수능을 쳐야만 대학에 입학할 수 있다.
+","다음은 한국사회에 대한 문제이다.
+한국의 교육에 대해 옳은 것은?
+A. 대안학교를 졸업해도 모두 학력을 인정받을 수 있다.
+B. 한국은 교육열이 세계 최고수준으로 높다.
+C. 대학 진학율은 다소 낮은 편이다.
+D. 수능을 쳐야만 대학에 입학할 수 있다.
+","The following is a problem for Korean society.
+What is true about education in Korea?
+A. Anyone who graduates from an alternative school can have their academic background recognized.
+B. Korea has one of the highest levels of enthusiasm for education in the world.
+C. The college entrance rate is somewhat low.
+D. You can only enter college by taking the college entrance exam.
+"
+1033,KIIP_society_220,,"다음은 한국사회에 대한 문제이다.
+한국의 고등교육기관에는 어떤 것들이 있는가?","['A. 대학교와 대학원', 'B. 고등학교와 대학교', 'C. 중학교와 고등학교', 'D. 초등학교와 중학교']",A,"A. 대학교와 대학원
+B. 고등학교와 대학교
+C. 중학교와 고등학교
+D. 초등학교와 중학교
+","다음은 한국사회에 대한 문제이다.
+한국의 고등교육기관에는 어떤 것들이 있는가?
+A. 대학교와 대학원
+B. 고등학교와 대학교
+C. 중학교와 고등학교
+D. 초등학교와 중학교
+","The following is a problem for Korean society.
+What are the higher education institutions in Korea?
+A. Universities and graduate schools
+B. High school and college
+C. Middle school and high school
+D. Elementary and middle schools
+"
+1034,KIIP_society_221,,"다음은 한국사회에 대한 문제이다.
+한국의 대학에서는 유학생을 위해 어떤 지원을 하고 있는가?","['A. 숙소, 학비 지원, 각종 문화 행사 등', 'B. 학비 지원만', 'C. 숙소 지원만', 'D. 문화 행사 지원만']",A,"A. 숙소, 학비 지원, 각종 문화 행사 등
+B. 학비 지원만
+C. 숙소 지원만
+D. 문화 행사 지원만
+","다음은 한국사회에 대한 문제이다.
+한국의 대학에서는 유학생을 위해 어떤 지원을 하고 있는가?
+A. 숙소, 학비 지원, 각종 문화 행사 등
+B. 학비 지원만
+C. 숙소 지원만
+D. 문화 행사 지원만
+","The following is a problem for Korean society.
+What kind of support do Korean universities provide for international students?
+A. Accommodation, tuition support, various cultural events, etc.
+B. Tuition support only
+C. Accommodation support only
+D. Support for cultural events only
+"
+1035,KIIP_society_222,,"다음은 한국사회에 대한 문제이다.
+방송 통신대학, 디지털대학, 사이버대학 등이 인기가 높은 이유는 무엇인가?","['A. 원하는 시간에 자유롭게 수업을 들을 수 있기 때문', 'B. 학비가 저렴하기 때문', 'C. 입학이 쉽기 때문', 'D. 졸업이 쉽기 때문']",A,"A. 원하는 시간에 자유롭게 수업을 들을 수 있기 때문
+B. 학비가 저렴하기 때문
+C. 입학이 쉽기 때문
+D. 졸업이 쉽기 때문
+","다음은 한국사회에 대한 문제이다.
+방송 통신대학, 디지털대학, 사이버대학 등이 인기가 높은 이유는 무엇인가?
+A. 원하는 시간에 자유롭게 수업을 들을 수 있기 때문
+B. 학비가 저렴하기 때문
+C. 입학이 쉽기 때문
+D. 졸업이 쉽기 때문
+","The following is a problem for Korean society.
+Why are universities such as broadcasting and communication universities, digital universities, and cyber universities so popular?
+A. Because you can freely take classes at any time you want.
+B. Because tuition is cheap
+C. Because admission is easy
+D. Because it is easy to graduate.
+"
+1036,KIIP_society_223,,"다음은 한국사회에 대한 문제이다.
+다음 중 특수목적고등학교에 포함되지 않는 고등학교는 무엇인가?","['A. 과학고등학교', 'B. 외국어 고등학교', 'C. 예술 고등학교', 'D. 과학중점고등학교']",D,"A. 과학고등학교
+B. 외국어 고등학교
+C. 예술 고등학교
+D. 과학중점고등학교
+","다음은 한국사회에 대한 문제이다.
+다음 중 특수목적고등학교에 포함되지 않는 고등학교는 무엇인가?
+A. 과학고등학교
+B. 외국어 고등학교
+C. 예술 고등학교
+D. 과학중점고등학교
+","The following is a problem for Korean society.
+Which of the following high schools is not included in special purpose high schools?
+A. Science High School
+B. Foreign language high school
+C. Arts High School
+D. Science Central High School
+"
+1037,KIIP_society_224,,"다음은 한국사회에 대한 문제이다.
+한국에서 초등학교와 중학교의 입학은 어떻게 이루어지는가?","['A. 특별한 시험을 보고 입학한다', 'B. 의무교육으로 이루어져 특별한 시험을 보지 않고 입학한다', 'C. 면접을 보고 입학한다', 'D. 논술 시험을 보고 입학한다']",B,"A. 특별한 시험을 보고 입학한다
+B. 의무교육으로 이루어져 특별한 시험을 보지 않고 입학한다
+C. 면접을 보고 입학한다
+D. 논술 시험을 보고 입학한다
+","다음은 한국사회에 대한 문제이다.
+한국에서 초등학교와 중학교의 입학은 어떻게 이루어지는가?
+A. 특별한 시험을 보고 입학한다
+B. 의무교육으로 이루어져 특별한 시험을 보지 않고 입학한다
+C. 면접을 보고 입학한다
+D. 논술 시험을 보고 입학한다
+","The following is a problem for Korean society.
+How is admission to elementary and middle school in Korea done?
+A. Admission after taking a special test
+B. It is compulsory education, so you can enter without taking a special exam.
+C. Admission after an interview
+D. Admission after taking an essay test
+"
+1038,KIIP_society_225,,"다음은 한국사회에 대한 문제이다.
+한국에서 대학교에 입학하기 위해 일반적으로 치르는 시험은 무엇인가?","['A. 토익', 'B. 토플', 'C. 수능', 'D. SAT']",C,"A. 토익
+B. 토플
+C. 수능
+D. SAT
+","다음은 한국사회에 대한 문제이다.
+한국에서 대학교에 입학하기 위해 일반적으로 치르는 시험은 무엇인가?
+A. 토익
+B. 토플
+C. 수능
+D. SAT
+","The following is a problem for Korean society.
+What tests are commonly taken to enter universities in Korea?
+A. TOEIC
+B. TOEFL
+C. CSAT
+D.SAT
+"
+1039,KIIP_society_226,,"다음은 한국사회에 대한 문제이다.
+수능은 언제 실시되는가?","['A. 매년 10월', 'B. 매년 11월', 'C. 매년 12월', 'D. 매년 1월']",B,"A. 매년 10월
+B. 매년 11월
+C. 매년 12월
+D. 매년 1월
+","다음은 한국사회에 대한 문제이다.
+수능은 언제 실시되는가?
+A. 매년 10월
+B. 매년 11월
+C. 매년 12월
+D. 매년 1월
+","The following is a problem for Korean society.
+When is the CSAT held?
+A. Every October
+B. Every November
+C. Every December
+D. Every January
+"
+1040,KIIP_society_227,,"다음은 한국사회에 대한 문제이다.
+수능 이외에 대학 진학을 위해 어떤 과정을 거치는가?","['A. 면접, 논술 등', 'B. 토익, 토플 등', 'C. GRE, GMAT 등', 'D. IELTS, SAT 등']",C,"A. 면접, 논술 등
+B. 토익, 토플 등
+C. GRE, GMAT 등
+D. IELTS, SAT 등
+","다음은 한국사회에 대한 문제이다.
+수능 이외에 대학 진학을 위해 어떤 과정을 거치는가?
+A. 면접, 논술 등
+B. 토익, 토플 등
+C. GRE, GMAT 등
+D. IELTS, SAT 등
+","The following is a problem for Korean society.
+Besides the CSAT, what process do you go through to enter college?
+A. Interview, essay, etc.
+B. TOEIC, TOEFL, etc.
+C. GRE, GMAT, etc.
+D. IELTS, SAT, etc.
+"
+1041,KIIP_society_228,,"다음은 한국사회에 대한 문제이다.
+2014년 기준 한국의 대학 진학률은 어떻게 되는가?","['A. 약 60%', 'B. 약 70%', 'C. 약 80%', 'D. 약 90%']",B,"A. 약 60%
+B. 약 70%
+C. 약 80%
+D. 약 90%
+","다음은 한국사회에 대한 문제이다.
+2014년 기준 한국의 대학 진학률은 어떻게 되는가?
+A. 약 60%
+B. 약 70%
+C. 약 80%
+D. 약 90%
+","The following is a problem for Korean society.
+What is Korea’s college entrance rate as of 2014?
+A. About 60%
+B. About 70%
+C. About 80%
+D. About 90%
+"
+1042,KIIP_society_229,,"다음은 한국사회에 대한 문제이다.
+한국의 고등학교 이수 비율이 높은 이유는 무엇인가?","['A. 교육열이 높아서', 'B. 대학 진학을 희망하는 학생들이 많아서', 'C. 고등학교 교육이 우수해서', 'D. 고등학교 교육이 의무화되어 있어서']",B,"A. 교육열이 높아서
+B. 대학 진학을 희망하는 학생들이 많아서
+C. 고등학교 교육이 우수해서
+D. 고등학교 교육이 의무화되어 있어서
+","다음은 한국사회에 대한 문제이다.
+한국의 고등학교 이수 비율이 높은 이유는 무엇인가?
+A. 교육열이 높아서
+B. 대학 진학을 희망하는 학생들이 많아서
+C. 고등학교 교육이 우수해서
+D. 고등학교 교육이 의무화되어 있어서
+","The following is a problem for Korean society.
+Why is Korea’s high school completion rate high?
+A. Because I have a high passion for education.
+B. There are many students who want to go to college.
+C. Because high school education is excellent
+D. Because high school education is mandatory
+"
+1043,KIIP_society_230,,"다음은 한국사회에 대한 문제이다.
+한국에서 고등학교는 어떤 교육에 해당하는가?","['A. 의무 교육', 'B. 선택 교육', 'C. 특수 교육', 'D. 보편 교육']",B,"A. 의무 교육
+B. 선택 교육
+C. 특수 교육
+D. 보편 교육
+","다음은 한국사회에 대한 문제이다.
+한국에서 고등학교는 어떤 교육에 해당하는가?
+A. 의무 교육
+B. 선택 교육
+C. 특수 교육
+D. 보편 교육
+","The following is a problem for Korean society.
+What kind of education does high school correspond to in Korea?
+A. Compulsory education
+B. Optional training
+C. Special Education
+D. Universal education
+"
+1044,KIIP_society_231,,"다음은 한국사회에 대한 문제이다.
+수능의 주요 목적은 무엇인가?","['A. 대학에서 공부할 수 있는 능력을 확인하는 것', 'B. 고등학교 졸업을 위한 것', 'C. 직업적인 능력을 확인하는 것', 'D. 외국어 능력을 확인하는 것']",A,"A. 대학에서 공부할 수 있는 능력을 확인하는 것
+B. 고등학교 졸업을 위한 것
+C. 직업적인 능력을 확인하는 것
+D. 외국어 능력을 확인하는 것
+","다음은 한국사회에 대한 문제이다.
+수능의 주요 목적은 무엇인가?
+A. 대학에서 공부할 수 있는 능력을 확인하는 것
+B. 고등학교 졸업을 위한 것
+C. 직업적인 능력을 확인하는 것
+D. 외국어 능력을 확인하는 것
+","The following is a problem for Korean society.
+What is the main purpose of the CSAT?
+A. Confirming your ability to study at university
+B. For high school graduation
+C. Confirming professional competency
+D. Checking foreign language skills
+"
+1045,KIIP_society_232,,"다음은 한국사회에 대한 문제이다.
+한국의 대학 진학률은 OECD 국가 중 어떤 수준인가?","['A. 평균 수준', 'B. 최하 수준', 'C. 최고 수준', 'D. 하위 수준']",C,"A. 평균 수준
+B. 최하 수준
+C. 최고 수준
+D. 하위 수준
+","다음은 한국사회에 대한 문제이다.
+한국의 대학 진학률은 OECD 국가 중 어떤 수준인가?
+A. 평균 수준
+B. 최하 수준
+C. 최고 수준
+D. 하위 수준
+","The following is a problem for Korean society.
+What is Korea's college entrance rate among OECD countries?
+A. Average level
+B. Lowest level
+C. Top level
+D. Lower level
+"
+1046,KIIP_society_233,,"다음은 한국사회에 대한 문제이다.
+한국에서 교육은 어떤 역할을 하는 것으로 인식되는가?","['A. 사회적 지위를 낮추는 방법', 'B. 사회적 지위를 상승시키는 방법', 'C. 사회적 지위와 관련이 없는 방법', 'D. 사회적 지위를 유지하는 방법']",B,"A. 사회적 지위를 낮추는 방법
+B. 사회적 지위를 상승시키는 방법
+C. 사회적 지위와 관련이 없는 방법
+D. 사회적 지위를 유지하는 방법
+","다음은 한국사회에 대한 문제이다.
+한국에서 교육은 어떤 역할을 하는 것으로 인식되는가?
+A. 사회적 지위를 낮추는 방법
+B. 사회적 지위를 상승시키는 방법
+C. 사회적 지위와 관련이 없는 방법
+D. 사회적 지위를 유지하는 방법
+","The following is a problem for Korean society.
+What role is education perceived to play in Korea?
+A. How to lower your social status
+B. How to increase your social status
+C. Methods not related to social status
+D. How to maintain social status
+"
+1047,KIIP_society_234,,"다음은 한국사회에 대한 문제이다.
+한국에서 학력이 임금에 어떤 영향을 미치는가?","['A. 학력이 높을수록 임금이 낮아진다', 'B. 학력이 낮을수록 임금이 높아진다', 'C. 학력과 임금 사이에는 관련성이 없다', 'D. 학력이 높을수록 임금이 높아진다']",D,"A. 학력이 높을수록 임금이 낮아진다
+B. 학력이 낮을수록 임금이 높아진다
+C. 학력과 임금 사이에는 관련성이 없다
+D. 학력이 높을수록 임금이 높아진다
+","다음은 한국사회에 대한 문제이다.
+한국에서 학력이 임금에 어떤 영향을 미치는가?
+A. 학력이 높을수록 임금이 낮아진다
+B. 학력이 낮을수록 임금이 높아진다
+C. 학력과 임금 사이에는 관련성이 없다
+D. 학력이 높을수록 임금이 높아진다
+","The following is a problem for Korean society.
+How does educational background affect wages in Korea?
+A. The higher the educational level, the lower the wage.
+B. The lower the educational level, the higher the wage.
+C. There is no relationship between education and wages.
+D. The higher the educational level, the higher the wage.
+"
+1048,KIIP_society_235,,"다음은 한국사회에 대한 문제이다.
+한국에서 대학 진학에 대한 부모들의 태도는 어떠한가?","['A. 자녀의 대학 진학을 반대한다', 'B. 자녀의 대학 진학을 지지하지 않는다', 'C. 자녀의 대학 진학을 지지한다', 'D. 자녀의 대학 진학에 대해 무관심하다']",C,"A. 자녀의 대학 진학을 반대한다
+B. 자녀의 대학 진학을 지지하지 않는다
+C. 자녀의 대학 진학을 지지한다
+D. 자녀의 대학 진학에 대해 무관심하다
+","다음은 한국사회에 대한 문제이다.
+한국에서 대학 진학에 대한 부모들의 태도는 어떠한가?
+A. 자녀의 대학 진학을 반대한다
+B. 자녀의 대학 진학을 지지하지 않는다
+C. 자녀의 대학 진학을 지지한다
+D. 자녀의 대학 진학에 대해 무관심하다
+","The following is a problem for Korean society.
+What is the attitude of parents toward going to college in Korea?
+A. I am opposed to my child going to college.
+B. Do not support your child going to college
+C. Support your child’s college entrance
+D. They are indifferent about their children going to college.
+"
+1049,KIIP_society_236,,"다음은 한국사회에 대한 문제이다.
+한국에서 중요한 시험을 보는 사람들에게 주는 선물의 의미는 무엇인가?","['A. 시험을 포기하라는 의미', 'B. 시험을 잘 보라는 의미', 'C. 시험에 떨어지라는 의미', 'D. 시험에 대한 무관심을 나타내는 의미']",B,"A. 시험을 포기하라는 의미
+B. 시험을 잘 보라는 의미
+C. 시험에 떨어지라는 의미
+D. 시험에 대한 무관심을 나타내는 의미
+","다음은 한국사회에 대한 문제이다.
+한국에서 중요한 시험을 보는 사람들에게 주는 선물의 의미는 무엇인가?
+A. 시험을 포기하라는 의미
+B. 시험을 잘 보라는 의미
+C. 시험에 떨어지라는 의미
+D. 시험에 대한 무관심을 나타내는 의미
+","The following is a problem for Korean society.
+What is the meaning of gifts given to people taking important exams in Korea?
+A. It means to give up the exam
+B. It means do well on the exam
+C. Meaning to fail the exam
+D. Meaning of indifference to testing
+"
+1050,KIIP_society_237,,"다음은 한국사회에 대한 문제이다.
+한국에서 전통적으로 합격을 기원하는 선물로 주어지는 것은 무엇인가?","['A. 엿과 찹쌀떡', 'B. 과일과 초콜릿', 'C. 꽃과 카드', 'D. 책과 연필']",A,"A. 엿과 찹쌀떡
+B. 과일과 초콜릿
+C. 꽃과 카드
+D. 책과 연필
+","다음은 한국사회에 대한 문제이다.
+한국에서 전통적으로 합격을 기원하는 선물로 주어지는 것은 무엇인가?
+A. 엿과 찹쌀떡
+B. 과일과 초콜릿
+C. 꽃과 카드
+D. 책과 연필
+","The following is a problem for Korean society.
+What is the traditional gift given in Korea to wish for success?
+A. Taffy and glutinous rice cake
+B. Fruits and chocolate
+C. Flowers and cards
+D. Books and pencils
+"
+1051,KIIP_society_238,,"다음은 한국사회에 대한 문제이다.
+대학 입학시, 특별 전형 대상에 포함되지 않는 것은 무엇인가?","['A. 농어촌학생', 'B. 재외국민', 'C. 특성화고교출신자', 'D. 고소득층학생']",D,"A. 농어촌학생
+B. 재외국민
+C. 특성화고교출신자
+D. 고소득층학생
+","다음은 한국사회에 대한 문제이다.
+대학 입학시, 특별 전형 대상에 포함되지 않는 것은 무엇인가?
+A. 농어촌학생
+B. 재외국민
+C. 특성화고교출신자
+D. 고소득층학생
+","The following is a problem for Korean society.
+When entering college, what is not included in the special selection process?
+A. Rural students
+B. Overseas Koreans
+C. Graduates from specialized high schools
+D. High-income students
+"
+1052,KIIP_society_239,,"다음은 한국사회에 대한 문제이다.
+한국의 높은 교육열이 한국 경제에 어떤 영향을 끼쳤다고 평가되고 있는가?","['A. 경제의 빠른 발전', 'B. 경제의 불안정', 'C. 경제의 둔화', 'D. 경제의 침체']",A,"A. 경제의 빠른 발전
+B. 경제의 불안정
+C. 경제의 둔화
+D. 경제의 침체
+","다음은 한국사회에 대한 문제이다.
+한국의 높은 교육열이 한국 경제에 어떤 영향을 끼쳤다고 평가되고 있는가?
+A. 경제의 빠른 발전
+B. 경제의 불안정
+C. 경제의 둔화
+D. 경제의 침체
+","The following is a problem for Korean society.
+What impact is it assessed that Korea's high enthusiasm for education has had on the Korean economy?
+A. Rapid development of the economy
+B. Economic instability
+C. slowdown in the economy
+D. economic downturn
+"
+1053,KIIP_society_240,,"다음은 한국사회에 대한 문제이다.
+한국의 높은 교육열은 대부분 어떤 목적을 위한 것인가?","['A. 대학 진학', 'B. 고등학교 진학', 'C. 중학교 진학', 'D. 초등학교 진학']",A,"A. 대학 진학
+B. 고등학교 진학
+C. 중학교 진학
+D. 초등학교 진학
+","다음은 한국사회에 대한 문제이다.
+한국의 높은 교육열은 대부분 어떤 목적을 위한 것인가?
+A. 대학 진학
+B. 고등학교 진학
+C. 중학교 진학
+D. 초등학교 진학
+","The following is a problem for Korean society.
+What is the purpose of Korea's high enthusiasm for education?
+A. Going to college
+B. Going to high school
+C. Enter middle school
+D. Enter elementary school
+"
+1054,KIIP_society_241,,"다음은 한국사회에 대한 문제이다.
+부모들이 자녀의 중·고등학교 시기에 사교육비로 많은 돈을 쓰는 이유는 무엇인가?","['A. 자녀의 대학 진학', 'B. 자녀의 고등학교 진학', 'C. 자녀의 중학교 진학', 'D. 자녀의 초등학교 진학']",A,"A. 자녀의 대학 진학
+B. 자녀의 고등학교 진학
+C. 자녀의 중학교 진학
+D. 자녀의 초등학교 진학
+","다음은 한국사회에 대한 문제이다.
+부모들이 자녀의 중·고등학교 시기에 사교육비로 많은 돈을 쓰는 이유는 무엇인가?
+A. 자녀의 대학 진학
+B. 자녀의 고등학교 진학
+C. 자녀의 중학교 진학
+D. 자녀의 초등학교 진학
+","The following is a problem for Korean society.
+Why do parents spend a lot of money on private education during their children's middle and high school years?
+A. Your child will attend college
+B. Your child’s transition to high school
+C. Your child will attend middle school
+D. Your child goes to elementary school
+"
+1055,KIIP_society_242,,"다음은 한국사회에 대한 문제이다.
+부모들에게 상당한 부담을 주는 교육 형태는 무엇인가?","['A. 정규 학교교육', 'B. 사교육', 'C. 자기주도 학습', 'D. 온라인 학습']",B,"A. 정규 학교교육
+B. 사교육
+C. 자기주도 학습
+D. 온라인 학습
+","다음은 한국사회에 대한 문제이다.
+부모들에게 상당한 부담을 주는 교육 형태는 무엇인가?
+A. 정규 학교교육
+B. 사교육
+C. 자기주도 학습
+D. 온라인 학습
+","The following is a problem for Korean society.
+What types of education place a significant burden on parents?
+A. Regular school education
+B. Private education
+C. Self-directed learning
+D. Online learning
+"
+1056,KIIP_society_243,,"다음은 한국사회에 대한 문제이다.
+학생들이 좋은 대학에 가기 위해 어떤 활동을 하는가?","['A. 밤늦게까지 학원에서 공부하거나 인터넷 강의 듣기', 'B. 아르바이트', 'C. 운동', 'D. 여행']",A,"A. 밤늦게까지 학원에서 공부하거나 인터넷 강의 듣기
+B. 아르바이트
+C. 운동
+D. 여행
+","다음은 한국사회에 대한 문제이다.
+학생들이 좋은 대학에 가기 위해 어떤 활동을 하는가?
+A. 밤늦게까지 학원에서 공부하거나 인터넷 강의 듣기
+B. 아르바이트
+C. 운동
+D. 여행
+","The following is a problem for Korean society.
+What do students do to get into good universities?
+A. Studying at a cram school or listening to online lectures until late at night
+B. Part-time job
+C.Exercise
+D. Travel
+"
+1057,KIIP_society_244,,"다음은 한국사회에 대한 문제이다.
+힘든 고등학교 생활을 표현하는 말로 무엇이 있는가?","['A. 고3병, 입시지옥', 'B. 고1병, 입시천국', 'C. 고2병, 입시지옥', 'D. 고3병, 입시천국']",A,"A. 고3병, 입시지옥
+B. 고1병, 입시천국
+C. 고2병, 입시지옥
+D. 고3병, 입시천국
+","다음은 한국사회에 대한 문제이다.
+힘든 고등학교 생활을 표현하는 말로 무엇이 있는가?
+A. 고3병, 입시지옥
+B. 고1병, 입시천국
+C. 고2병, 입시지옥
+D. 고3병, 입시천국
+","The following is a problem for Korean society.
+What are some words to describe difficult high school life?
+A. Senior year of high school, entrance exam hell
+B. 1st year of high school, entrance exam heaven
+C. 2nd year of high school, entrance exam hell
+D. Senior year of high school, entrance exam heaven
+"
+1058,KIIP_society_245,,"다음은 한국사회에 대한 문제이다.
+기러기 아빠의 증가가 시작된 시기는 언제인가?","['A. 1980년대', 'B. 1990년대 말', 'C. 2000년대 초', 'D. 2010년대']",B,"A. 1980년대
+B. 1990년대 말
+C. 2000년대 초
+D. 2010년대
+","다음은 한국사회에 대한 문제이다.
+기러기 아빠의 증가가 시작된 시기는 언제인가?
+A. 1980년대
+B. 1990년대 말
+C. 2000년대 초
+D. 2010년대
+","The following is a problem for Korean society.
+When did the increase in wild goose fathers begin?
+A. 1980s
+B. Late 1990s
+C. Early 2000s
+D. 2010s
+"
+1059,KIIP_society_246,,"다음은 한국사회에 대한 문제이다.
+왜 평생교육이 필요한가?","['A. 학교 교육만으로는 모든 지식과 기술을 얻기 어렵다', 'B. 학교 수가 부족하다', 'C. 학교 교육이 재미없다', 'D. 학교 교육이 비싸다']",A,"A. 학교 교육만으로는 모든 지식과 기술을 얻기 어렵다
+B. 학교 수가 부족하다
+C. 학교 교육이 재미없다
+D. 학교 교육이 비싸다
+","다음은 한국사회에 대한 문제이다.
+왜 평생교육이 필요한가?
+A. 학교 교육만으로는 모든 지식과 기술을 얻기 어렵다
+B. 학교 수가 부족하다
+C. 학교 교육이 재미없다
+D. 학교 교육이 비싸다
+","The following is a problem for Korean society.
+Why is lifelong education necessary?
+A. It is difficult to obtain all knowledge and skills through school education alone.
+B. There are not enough schools
+C. School education is not fun.
+D. Schooling is expensive.
+"
+1060,KIIP_society_247,,"다음은 한국사회에 대한 문제이다.
+평생교육의 특징은 무엇인가?","['A. 학교 교육과 별도로 이루어진다', 'B. 학교 교육과 함께 이루어진다', 'C. 학교 교육을 대체한다', 'D. 학교 교육을 보완한다']",A,"A. 학교 교육과 별도로 이루어진다
+B. 학교 교육과 함께 이루어진다
+C. 학교 교육을 대체한다
+D. 학교 교육을 보완한다
+","다음은 한국사회에 대한 문제이다.
+평생교육의 특징은 무엇인가?
+A. 학교 교육과 별도로 이루어진다
+B. 학교 교육과 함께 이루어진다
+C. 학교 교육을 대체한다
+D. 학교 교육을 보완한다
+","The following is a problem for Korean society.
+What are the characteristics of lifelong education?
+A. It is conducted separately from school education.
+B. Takes place along with school education
+C. Replaces school education
+D. Complement school education
+"
+1061,KIIP_society_248,,"다음은 한국사회에 대한 문제이다.
+대학교의 평생교육원에서는 어떤 과정을 운영하는가?","['A. 전문가 과정과 자격증 과정', 'B. 초등학교 과정', 'C. 중학교 과정', 'D. 고등학교 과정']",A,"A. 전문가 과정과 자격증 과정
+B. 초등학교 과정
+C. 중학교 과정
+D. 고등학교 과정
+","다음은 한국사회에 대한 문제이다.
+대학교의 평생교육원에서는 어떤 과정을 운영하는가?
+A. 전문가 과정과 자격증 과정
+B. 초등학교 과정
+C. 중학교 과정
+D. 고등학교 과정
+","The following is a problem for Korean society.
+What courses are offered at the university’s Lifelong Education Center?
+A. Professional courses and certification courses
+B. Elementary school course
+C. Middle school course
+D. High school course
+"
+1062,KIIP_society_249,,"다음은 한국사회에 대한 문제이다.
+최근에 실시되는 노년층을 위한 평생교육의 예는 무엇인가?","['A. 스마트폰 교육, SNS 교육', 'B. 영어 교육, 중국어 교육', 'C. 수학 교육, 과학 교육', 'D. 음악 교육, 미술 교육']",A,"A. 스마트폰 교육, SNS 교육
+B. 영어 교육, 중국어 교육
+C. 수학 교육, 과학 교육
+D. 음악 교육, 미술 교육
+","다음은 한국사회에 대한 문제이다.
+최근에 실시되는 노년층을 위한 평생교육의 예는 무엇인가?
+A. 스마트폰 교육, SNS 교육
+B. 영어 교육, 중국어 교육
+C. 수학 교육, 과학 교육
+D. 음악 교육, 미술 교육
+","The following is a problem for Korean society.
+What are recent examples of lifelong education for the elderly?
+A. Smartphone education, SNS education
+B. English education, Chinese education
+C. Mathematics education, science education
+D. Music education, art education
+"
+1063,KIIP_society_250,,"다음은 한국사회에 대한 문제이다.
+평생교육이란 무엇인가?","['A. 학교 교육을 이어나가는 것', 'B. 학교 교육을 대체하는 것', 'C. 본인이 관심을 가지고 있거나 필요로 하는 분야에 대해 지속적으로 공부하는 것', 'D. 학교 교육을 보완하는 것']",C,"A. 학교 교육을 이어나가는 것
+B. 학교 교육을 대체하는 것
+C. 본인이 관심을 가지고 있거나 필요로 하는 분야에 대해 지속적으로 공부하는 것
+D. 학교 교육을 보완하는 것
+","다음은 한국사회에 대한 문제이다.
+평생교육이란 무엇인가?
+A. 학교 교육을 이어나가는 것
+B. 학교 교육을 대체하는 것
+C. 본인이 관심을 가지고 있거나 필요로 하는 분야에 대해 지속적으로 공부하는 것
+D. 학교 교육을 보완하는 것
+","The following is a problem for Korean society.
+What is lifelong education?
+A. Continuing school education
+B. A replacement for school education
+C. Continuing to study in the field you are interested in or need.
+D. Complementary to school education
+"
+1064,KIIP_society_251,,"다음은 한국사회에 대한 문제이다.
+평생교육 프로그램의 수강료는 어떤가?","['A. 매우 비싸다', 'B. 비교적 비싸다', 'C. 비교적 싸다', 'D. 무료 이다']",C,"A. 매우 비싸다
+B. 비교적 비싸다
+C. 비교적 싸다
+D. 무료 이다
+","다음은 한국사회에 대한 문제이다.
+평생교육 프로그램의 수강료는 어떤가?
+A. 매우 비싸다
+B. 비교적 비싸다
+C. 비교적 싸다
+D. 무료 이다
+","The following is a problem for Korean society.
+What are the tuition fees for continuing education programs?
+A. Very expensive
+B. Relatively expensive
+C. Relatively cheap
+D. It's free
+"
+1065,KIIP_society_252,,"다음은 한국사회에 대한 문제이다.
+인터넷 등 미디어를 이용한 평생교육이 증가하는 이유는 무엇인가?","['A. 교육비가 저렴하다', 'B. 본인이 원하는 시간에 들을 수 있다', 'C. 교육 내용이 다양하다', 'D. 교육 기관이 많다']",B,"A. 교육비가 저렴하다
+B. 본인이 원하는 시간에 들을 수 있다
+C. 교육 내용이 다양하다
+D. 교육 기관이 많다
+","다음은 한국사회에 대한 문제이다.
+인터넷 등 미디어를 이용한 평생교육이 증가하는 이유는 무엇인가?
+A. 교육비가 저렴하다
+B. 본인이 원하는 시간에 들을 수 있다
+C. 교육 내용이 다양하다
+D. 교육 기관이 많다
+","The following is a problem for Korean society.
+Why is lifelong education using media such as the Internet increasing?
+A. Education costs are low.
+B. You can listen at any time you want.
+C. Education content is diverse
+D. There are many educational institutions.
+"
+1066,KIIP_society_253,,"다음은 한국사회에 대한 문제이다.
+다음 중 SNS로 분류되지 않는 것은 무엇인가?","['A. 카카오톡', 'B. 트위터', 'C. 페이스북', 'D. 네이버 웹툰']",D,"A. 카카오톡
+B. 트위터
+C. 페이스북
+D. 네이버 웹툰
+","다음은 한국사회에 대한 문제이다.
+다음 중 SNS로 분류되지 않는 것은 무엇인가?
+A. 카카오톡
+B. 트위터
+C. 페이스북
+D. 네이버 웹툰
+","The following is a problem for Korean society.
+Which of the following is not classified as SNS?
+A. KakaoTalk
+B. Twitter
+C. Facebook
+D. Naver Webtoon
+"
+1067,KIIP_society_254,,"다음은 한국사회에 대한 문제이다.
+다음 중 한국에서 가장 많이 사용되는 SNS는 무엇인가?","['A. 카카오톡', 'B. 트위터', 'C. 페이스북', 'D. 인스타그램']",A,"A. 카카오톡
+B. 트위터
+C. 페이스북
+D. 인스타그램
+","다음은 한국사회에 대한 문제이다.
+다음 중 한국에서 가장 많이 사용되는 SNS는 무엇인가?
+A. 카카오톡
+B. 트위터
+C. 페이스북
+D. 인스타그램
+","The following is a problem for Korean society.
+Which of the following is the most used SNS in Korea?
+A. KakaoTalk
+B. Twitter
+C. Facebook
+D. Instagram
+"
+1068,KIIP_society_255,,"다음은 한국사회에 대한 문제이다.
+아파트는 대체로 몇 가구에서 몇 가구까지 지어지는 경우가 많은가?","['A. 수십 가구에서 수백 가구', 'B. 수백 가구에서 수천 가구', 'C. 수천 가구에서 수만 가구', 'D. 수만 가구에서 수십만 가구']",B,"A. 수십 가구에서 수백 가구
+B. 수백 가구에서 수천 가구
+C. 수천 가구에서 수만 가구
+D. 수만 가구에서 수십만 가구
+","다음은 한국사회에 대한 문제이다.
+아파트는 대체로 몇 가구에서 몇 가구까지 지어지는 경우가 많은가?
+A. 수십 가구에서 수백 가구
+B. 수백 가구에서 수천 가구
+C. 수천 가구에서 수만 가구
+D. 수만 가구에서 수십만 가구
+","The following is a problem for Korean society.
+How many or how many apartments are usually built in apartments?
+A. Dozens to hundreds of households
+B. Hundreds to thousands of households
+C. Thousands to tens of thousands of households
+D. Tens of thousands to hundreds of thousands of households
+"
+1069,KIIP_society_256,,"다음은 한국사회에 대한 문제이다.
+한국에서 집을 구하는 방법에 대한 정보를 얻을 수 없는 곳은?","['A. 부동산 중개인', 'B. 이웃', 'C. 인터넷', 'D. 코인노래방']",D,"A. 부동산 중개인
+B. 이웃
+C. 인터넷
+D. 코인노래방
+","다음은 한국사회에 대한 문제이다.
+한국에서 집을 구하는 방법에 대한 정보를 얻을 수 없는 곳은?
+A. 부동산 중개인
+B. 이웃
+C. 인터넷
+D. 코인노래방
+","The following is a problem for Korean society.
+Where can I get information on how to find a home in Korea?
+A. Real estate agent
+B. Neighbor
+C.Internet
+D. Coin Karaoke
+"
+1070,KIIP_society_257,,"다음은 한국사회에 대한 문제이다.
+자가 거주란 무엇을 의미하는가?","['A. 자기가 소유한 집에 살고 있는 것', 'B. 집주인에게 보증금을 맡기고 집을 빌려 살고 있는 것', 'C. 매달 일정한 돈을 내고 집을 빌려 살고 있는 것', 'D. 보증금을 내고 월세를 내면서 집을 빌려 살고 있는 것']",A,"A. 자기가 소유한 집에 살고 있는 것
+B. 집주인에게 보증금을 맡기고 집을 빌려 살고 있는 것
+C. 매달 일정한 돈을 내고 집을 빌려 살고 있는 것
+D. 보증금을 내고 월세를 내면서 집을 빌려 살고 있는 것
+","다음은 한국사회에 대한 문제이다.
+자가 거주란 무엇을 의미하는가?
+A. 자기가 소유한 집에 살고 있는 것
+B. 집주인에게 보증금을 맡기고 집을 빌려 살고 있는 것
+C. 매달 일정한 돈을 내고 집을 빌려 살고 있는 것
+D. 보증금을 내고 월세를 내면서 집을 빌려 살고 있는 것
+","The following is a problem for Korean society.
+What does self-occupation mean?
+A. Living in a house you own
+B. Renting a house and living in it by leaving a deposit with the landlord
+C. Renting a house by paying a certain amount of money every month
+D. Living in a rented house by paying a deposit and monthly rent
+"
+1071,KIIP_society_258,,"다음은 한국사회에 대한 문제이다.
+전세 거주란 어떤 방식인가?","['A. 집주인에게 보증금을 맡기고 계약기간 동안 집을 빌려서 생활하는 것', 'B. 매달 일정한 돈을 내고 집을 빌려서 생활하는 것', 'C. 자기가 소유한 집에 살고 있는 것', 'D. 보증금을 내고 월세를 내면서 집을 빌려 살고 있는 것']",A,"A. 집주인에게 보증금을 맡기고 계약기간 동안 집을 빌려서 생활하는 것
+B. 매달 일정한 돈을 내고 집을 빌려서 생활하는 것
+C. 자기가 소유한 집에 살고 있는 것
+D. 보증금을 내고 월세를 내면서 집을 빌려 살고 있는 것
+","다음은 한국사회에 대한 문제이다.
+전세 거주란 어떤 방식인가?
+A. 집주인에게 보증금을 맡기고 계약기간 동안 집을 빌려서 생활하는 것
+B. 매달 일정한 돈을 내고 집을 빌려서 생활하는 것
+C. 자기가 소유한 집에 살고 있는 것
+D. 보증금을 내고 월세를 내면서 집을 빌려 살고 있는 것
+","The following is a problem for Korean society.
+What is jeonse residence like?
+A. Leaving a deposit with the landlord and renting a house for the duration of the contract.
+B. Paying a certain amount of money every month to rent a house and live there
+C. Living in a house that one owns.
+D. Living in a rented house by paying a deposit and monthly rent
+"
+1072,KIIP_society_259,,"다음은 한국사회에 대한 문제이다.
+월세 거주의 경우 발생하는 비용이 아닌것은?","['A. 보증금', 'B. 월세', 'C. 관리비', 'D. 전세금']",D,"A. 보증금
+B. 월세
+C. 관리비
+D. 전세금
+","다음은 한국사회에 대한 문제이다.
+월세 거주의 경우 발생하는 비용이 아닌것은?
+A. 보증금
+B. 월세
+C. 관리비
+D. 전세금
+","The following is a problem for Korean society.
+Which of the following is not an expense incurred when living in a monthly rental?
+A. Deposit
+B. Monthly rent
+C. Management fee
+D. Deposit deposit
+"
+1073,KIIP_society_260,,"다음은 한국사회에 대한 문제이다.
+2015년 기준, 한국의 주택 임대 트렌드는 어떻게 변하고 있는가?","['A. 월세의 비중이 높아지고 있고 반전세가 많아지고 있다', 'B. 전세의 비중이 높아지고 있고 반전세가 많아지고 있다', 'C. 자가의 비중이 높아지고 있고 반전세가 많아지고 있다', 'D. 월세의 비중이 높아지고 있고 전세가 많아지고 있다']",A,"A. 월세의 비중이 높아지고 있고 반전세가 많아지고 있다
+B. 전세의 비중이 높아지고 있고 반전세가 많아지고 있다
+C. 자가의 비중이 높아지고 있고 반전세가 많아지고 있다
+D. 월세의 비중이 높아지고 있고 전세가 많아지고 있다
+","다음은 한국사회에 대한 문제이다.
+2015년 기준, 한국의 주택 임대 트렌드는 어떻게 변하고 있는가?
+A. 월세의 비중이 높아지고 있고 반전세가 많아지고 있다
+B. 전세의 비중이 높아지고 있고 반전세가 많아지고 있다
+C. 자가의 비중이 높아지고 있고 반전세가 많아지고 있다
+D. 월세의 비중이 높아지고 있고 전세가 많아지고 있다
+","The following is a problem for Korean society.
+As of 2015, how are Korea's housing rental trends changing?
+A. The proportion of monthly rent is increasing and there is an increasing trend of reversal.
+B. The proportion of jeonse is increasing and the reversal trend is increasing.
+C. The proportion of self-owned companies is increasing and the reversal trend is increasing.
+D. The proportion of monthly rent is increasing and jeonse is increasing.
+"
+1074,KIIP_society_261,,"다음은 한국사회에 대한 문제이다.
+반전세의 보증금은 어떻게 결정되는가?","['A. 전세 보다는 적고 월세보다는 많다', 'B. 전세 보다는 많고 월세보다는 적다', 'C. 전세와 월세의 보증금을 합한 것', 'D. 전세와 월세의 보증금을 평균낸 것']",A,"A. 전세 보다는 적고 월세보다는 많다
+B. 전세 보다는 많고 월세보다는 적다
+C. 전세와 월세의 보증금을 합한 것
+D. 전세와 월세의 보증금을 평균낸 것
+","다음은 한국사회에 대한 문제이다.
+반전세의 보증금은 어떻게 결정되는가?
+A. 전세 보다는 적고 월세보다는 많다
+B. 전세 보다는 많고 월세보다는 적다
+C. 전세와 월세의 보증금을 합한 것
+D. 전세와 월세의 보증금을 평균낸 것
+","The following is a problem for Korean society.
+How is the deposit for reversal tax determined?
+A. It is less than jeonse but more than monthly rent.
+B. More than jeonse but less than monthly rent
+C. Combined deposit of jeonse and monthly rent
+D. Average of deposit for jeonse and monthly rent
+"
+1075,KIIP_society_262,,"다음은 한국사회에 대한 문제이다.
+전세 보증금을 안전하게 돌려받기 위한 방법은 무엇인가?","['A. 이사 후 전입신고를 하고 확정일자를 받는 것', 'B. 이사 전 전입신고를 하고 확정일자를 받는 것', 'C. 이사 후 전입신고를 하고 계약서를 받는 것', 'D. 이사 전 전입신고를 하고 계약서를 받는 것']",A,"A. 이사 후 전입신고를 하고 확정일자를 받는 것
+B. 이사 전 전입신고를 하고 확정일자를 받는 것
+C. 이사 후 전입신고를 하고 계약서를 받는 것
+D. 이사 전 전입신고를 하고 계약서를 받는 것
+","다음은 한국사회에 대한 문제이다.
+전세 보증금을 안전하게 돌려받기 위한 방법은 무엇인가?
+A. 이사 후 전입신고를 하고 확정일자를 받는 것
+B. 이사 전 전입신고를 하고 확정일자를 받는 것
+C. 이사 후 전입신고를 하고 계약서를 받는 것
+D. 이사 전 전입신고를 하고 계약서를 받는 것
+","The following is a problem for Korean society.
+How can I safely get my rental deposit back?
+A. After moving, report your move-in and receive a confirmed date.
+B. Report your move-in and receive a confirmed date before moving.
+C. After moving, report your move-in and receive a contract.
+D. Report your move-in and receive a contract before moving.
+"
+1076,KIIP_society_263,,"다음은 한국사회에 대한 문제이다.
+월세와 전세 중 어느 것의 보증금이 더 많는가?","['A. 월세', 'B. 전세', 'C. 둘 다 같다', 'D. 상황에 따라 다르다']",B,"A. 월세
+B. 전세
+C. 둘 다 같다
+D. 상황에 따라 다르다
+","다음은 한국사회에 대한 문제이다.
+월세와 전세 중 어느 것의 보증금이 더 많는가?
+A. 월세
+B. 전세
+C. 둘 다 같다
+D. 상황에 따라 다르다
+","The following is a problem for Korean society.
+Which has a larger deposit: monthly rent or jeonse?
+A. Monthly rent
+B. Charter
+C. Both are the same
+D. It depends on the situation
+"
+1077,KIIP_society_264,,"다음은 한국사회에 대한 문제이다.
+집을 사거나 전세 또는 월세를 구할 때 어떤 방법이 안전한가?","['A. 직접 계약서를 작성하는 것', 'B. 공인중개사를 통해 계약서를 작성하고 설명을 듣는 것', 'C. 인터넷을 통해 계약서를 작성하는 것', 'D. 친구나 지인을 통해 계약서를 작성하는 것']",B,"A. 직접 계약서를 작성하는 것
+B. 공인중개사를 통해 계약서를 작성하고 설명을 듣는 것
+C. 인터넷을 통해 계약서를 작성하는 것
+D. 친구나 지인을 통해 계약서를 작성하는 것
+","다음은 한국사회에 대한 문제이다.
+집을 사거나 전세 또는 월세를 구할 때 어떤 방법이 안전한가?
+A. 직접 계약서를 작성하는 것
+B. 공인중개사를 통해 계약서를 작성하고 설명을 듣는 것
+C. 인터넷을 통해 계약서를 작성하는 것
+D. 친구나 지인을 통해 계약서를 작성하는 것
+","The following is a problem for Korean society.
+What is the safest way to buy a house or rent or rent a house?
+A. Writing the contract yourself
+B. Writing a contract and receiving an explanation through a licensed real estate agent
+C. Drawing up a contract via the Internet
+D. Drawing up a contract through a friend or acquaintance
+"
+1078,KIIP_society_265,,"다음은 한국사회에 대한 문제이다.
+한국인들이 거주하고 있는 집의 형태는 어떻게 나눌 수 있는가?","['A. 단독주택과 공동주택', 'B. 아파트와 빌라', 'C. 오피스텔과 아파트', 'D. 빌라와 단독주택']",A,"A. 단독주택과 공동주택
+B. 아파트와 빌라
+C. 오피스텔과 아파트
+D. 빌라와 단독주택
+","다음은 한국사회에 대한 문제이다.
+한국인들이 거주하고 있는 집의 형태는 어떻게 나눌 수 있는가?
+A. 단독주택과 공동주택
+B. 아파트와 빌라
+C. 오피스텔과 아파트
+D. 빌라와 단독주택
+","The following is a problem for Korean society.
+How can we divide the types of houses that Koreans live in?
+A. Single-family homes and apartment complexes
+B. Apartments and villas
+C. Officetels and apartments
+D. Villas and single-family homes
+"
+1079,KIIP_society_266,,"다음은 한국사회에 대한 문제이다.
+2000년대 중반부터 어떤 주택에 살고 있는 가구 수가 많아졌는가?","['A. 단독주택', 'B. 다가구주택', 'C. 연립주택', 'D. 아파트']",D,"A. 단독주택
+B. 다가구주택
+C. 연립주택
+D. 아파트
+","다음은 한국사회에 대한 문제이다.
+2000년대 중반부터 어떤 주택에 살고 있는 가구 수가 많아졌는가?
+A. 단독주택
+B. 다가구주택
+C. 연립주택
+D. 아파트
+","The following is a problem for Korean society.
+Has the number of households living in certain types of housing increased since the mid-2000s?
+A. Single-family home
+B. Multi-family housing
+C. Townhouse
+D. Apartment
+"
+1080,KIIP_society_267,,"다음은 한국사회에 대한 문제이다.
+도시에 인구가 집중되면서 어떤 주택이 점점 늘어났는가?","['A. 단독주택', 'B. 다가구주택', 'C. 연립주택', 'D. 대규모 고층 아파트']",D,"A. 단독주택
+B. 다가구주택
+C. 연립주택
+D. 대규모 고층 아파트
+","다음은 한국사회에 대한 문제이다.
+도시에 인구가 집중되면서 어떤 주택이 점점 늘어났는가?
+A. 단독주택
+B. 다가구주택
+C. 연립주택
+D. 대규모 고층 아파트
+","The following is a problem for Korean society.
+As population concentrates in cities, what type of housing has increased?
+A. Single-family home
+B. Multi-family housing
+C. Townhouse
+D. Large-scale high-rise apartments
+"
+1081,KIIP_society_268,,"다음은 한국사회에 대한 문제이다.
+오늘날 많은 한국인들이 어떤 주택에서 사는 것을 선호하는가?","['A. 단독주택', 'B. 다가구주택', 'C. 연립주택', 'D. 아파트']",D,"A. 단독주택
+B. 다가구주택
+C. 연립주택
+D. 아파트
+","다음은 한국사회에 대한 문제이다.
+오늘날 많은 한국인들이 어떤 주택에서 사는 것을 선호하는가?
+A. 단독주택
+B. 다가구주택
+C. 연립주택
+D. 아파트
+","The following is a problem for Korean society.
+What kind of houses do many Koreans prefer to live in today?
+A. Single-family home
+B. Multi-family housing
+C. Townhouse
+D. Apartment
+"
+1082,KIIP_society_269,,"다음은 한국사회에 대한 문제이다.
+한국인들이 아파트를 선호하는 이유는 무엇인가?","['A. 가격이 저렴하기 때문', 'B. 교통이 편리하고 다양한 편의시설이 제공되기 때문', 'C. 아파트가 크기 때문', 'D. 아파트가 안전하기 때문']",B,"A. 가격이 저렴하기 때문
+B. 교통이 편리하고 다양한 편의시설이 제공되기 때문
+C. 아파트가 크기 때문
+D. 아파트가 안전하기 때문
+","다음은 한국사회에 대한 문제이다.
+한국인들이 아파트를 선호하는 이유는 무엇인가?
+A. 가격이 저렴하기 때문
+B. 교통이 편리하고 다양한 편의시설이 제공되기 때문
+C. 아파트가 크기 때문
+D. 아파트가 안전하기 때문
+","The following is a problem for Korean society.
+Why do Koreans prefer apartments?
+A. Because the price is cheap
+B. Because transportation is convenient and various amenities are provided.
+C. Because the apartment is large
+D. Because the apartment is safe
+"
+1083,KIIP_society_270,,"다음은 한국사회에 대한 문제이다.
+한국의 대도시에서 서민들이 집을 구하기 어려운 이유는 무엇인가?","['A. 집이 부족하다', 'B. 집값이 비싸다', 'C. 임대료가 비싸다', 'D. 주택 정책이 부족하다']",B,"A. 집이 부족하다
+B. 집값이 비싸다
+C. 임대료가 비싸다
+D. 주택 정책이 부족하다
+","다음은 한국사회에 대한 문제이다.
+한국의 대도시에서 서민들이 집을 구하기 어려운 이유는 무엇인가?
+A. 집이 부족하다
+B. 집값이 비싸다
+C. 임대료가 비싸다
+D. 주택 정책이 부족하다
+","The following is a problem for Korean society.
+Why is it difficult for ordinary people to find housing in large cities in Korea?
+A. There is not enough housing.
+B. House prices are expensive.
+C. The rent is expensive.
+D. Housing policy is lacking.
+"
+1084,KIIP_society_271,,"다음은 한국사회에 대한 문제이다.
+한국 정부가 서민들의 주거 문제를 해결하기 위해 어떤 방법을 사용하였는가?","['A. 다양한 주택 정책 마련', 'B. 임대료 인하', 'C. 집값 인하', 'D. 주택 수량 증가']",A,"A. 다양한 주택 정책 마련
+B. 임대료 인하
+C. 집값 인하
+D. 주택 수량 증가
+","다음은 한국사회에 대한 문제이다.
+한국 정부가 서민들의 주거 문제를 해결하기 위해 어떤 방법을 사용하였는가?
+A. 다양한 주택 정책 마련
+B. 임대료 인하
+C. 집값 인하
+D. 주택 수량 증가
+","The following is a problem for Korean society.
+What methods did the Korean government use to solve the housing problems of the common people?
+A. Preparation of various housing policies
+B. Rent reduction
+C. House price reduction
+D. Increase in housing quantity
+"
+1085,KIIP_society_272,,"다음은 한국사회에 대한 문제이다.
+한국 정부가 경제적으로 어려운 사람들을 위해 어떤 주택 정책을 시행하였는가?","['A. 공동주택 건설', 'B. 임대료 인하', 'C. 집값 인하', 'D. 주택 수량 증가']",A,"A. 공동주택 건설
+B. 임대료 인하
+C. 집값 인하
+D. 주택 수량 증가
+","다음은 한국사회에 대한 문제이다.
+한국 정부가 경제적으로 어려운 사람들을 위해 어떤 주택 정책을 시행하였는가?
+A. 공동주택 건설
+B. 임대료 인하
+C. 집값 인하
+D. 주택 수량 증가
+","The following is a problem for Korean society.
+What housing policies has the Korean government implemented for economically disadvantaged people?
+A. Construction of apartment complex
+B. Rent reduction
+C. House price reduction
+D. Increase in housing quantity
+"
+1086,KIIP_society_273,,"다음은 한국사회에 대한 문제이다.
+한국 정부의 주택 정책이 아닌 것은?","['A. 국민임대주택', 'B. 공공임대주택', 'C. 보금자리주택', 'D. 단기경매주택']",D,"A. 국민임대주택
+B. 공공임대주택
+C. 보금자리주택
+D. 단기경매주택
+","다음은 한국사회에 대한 문제이다.
+한국 정부의 주택 정책이 아닌 것은?
+A. 국민임대주택
+B. 공공임대주택
+C. 보금자리주택
+D. 단기경매주택
+","The following is a problem for Korean society.
+Which of the following is not a housing policy of the Korean government?
+A. National Rental Housing
+B. Public rental housing
+C. Bogeumjari Housing
+D. Short-term auction houses
+"
+1087,KIIP_society_274,,"다음은 한국사회에 대한 문제이다.
+한국 정부의 주택공급 정책의 주된 대상은 누구인가?","['A. 다주택자', 'B. 저소득층이나 집이 없는 서민들', 'C. 고소득층', 'D. 외국인']",B,"A. 다주택자
+B. 저소득층이나 집이 없는 서민들
+C. 고소득층
+D. 외국인
+","다음은 한국사회에 대한 문제이다.
+한국 정부의 주택공급 정책의 주된 대상은 누구인가?
+A. 다주택자
+B. 저소득층이나 집이 없는 서민들
+C. 고소득층
+D. 외국인
+","The following is a problem for Korean society.
+Who is the main target of the Korean government's housing supply policy?
+A. Multiple homeowners
+B. Low-income people or homeless people
+C. High-income group
+D. Foreigner
+"
+1088,KIIP_society_275,,"다음은 한국사회에 대한 문제이다.
+한국 정부의 주택 정책을 통해 얻을 수 있는 이점은 무엇인가?","['A. 주변 시세보다 싼 가격으로 집을 빌리거나 살 수 있다', 'B. 임대료 인하', 'C. 집값 인하', 'D. 주택 수량 증가']",A,"A. 주변 시세보다 싼 가격으로 집을 빌리거나 살 수 있다
+B. 임대료 인하
+C. 집값 인하
+D. 주택 수량 증가
+","다음은 한국사회에 대한 문제이다.
+한국 정부의 주택 정책을 통해 얻을 수 있는 이점은 무엇인가?
+A. 주변 시세보다 싼 가격으로 집을 빌리거나 살 수 있다
+B. 임대료 인하
+C. 집값 인하
+D. 주택 수량 증가
+","The following is a problem for Korean society.
+What are the benefits of the Korean government's housing policy?
+A. You can rent or buy a house at a lower price than the surrounding market price.
+B. Rent reduction
+C. House price reduction
+D. Increase in housing quantity
+"
+1089,KIIP_society_276,,"다음은 한국사회에 대한 문제이다.
+전입신고란 무엇을 의미하는가?","['A. 이사 온 사실을 주민등록부에 기록하는 것', 'B. 이사 간 사실을 법원에 알리는 것', 'C. 이사 간 사실을 이웃에게 알리는 것', 'D. 이사 간 사실을 부동산 중개인에게 알리는 것']",A,"A. 이사 온 사실을 주민등록부에 기록하는 것
+B. 이사 간 사실을 법원에 알리는 것
+C. 이사 간 사실을 이웃에게 알리는 것
+D. 이사 간 사실을 부동산 중개인에게 알리는 것
+","다음은 한국사회에 대한 문제이다.
+전입신고란 무엇을 의미하는가?
+A. 이사 온 사실을 주민등록부에 기록하는 것
+B. 이사 간 사실을 법원에 알리는 것
+C. 이사 간 사실을 이웃에게 알리는 것
+D. 이사 간 사실을 부동산 중개인에게 알리는 것
+","The following is a problem for Korean society.
+What does moving-in notification mean?
+A. Recording the fact of moving in the resident register
+B. Notifying the court that you have moved
+C. Notifying your neighbors that you have moved
+D. Notifying the real estate agent that you have moved.
+"
+1090,KIIP_society_277,,"다음은 한국사회에 대한 문제이다.
+확정일자란 무엇을 의미하는가?","['A. 이사 간 날짜', 'B. 주택임대차 계약을 한 날짜를 확인하기 위한 날짜', 'C. 법원에서 주택임대차 계약을 확인하는 날짜', 'D. 주민센터에서 주택임대차 계약을 확인하는 날짜']",B,"A. 이사 간 날짜
+B. 주택임대차 계약을 한 날짜를 확인하기 위한 날짜
+C. 법원에서 주택임대차 계약을 확인하는 날짜
+D. 주민센터에서 주택임대차 계약을 확인하는 날짜
+","다음은 한국사회에 대한 문제이다.
+확정일자란 무엇을 의미하는가?
+A. 이사 간 날짜
+B. 주택임대차 계약을 한 날짜를 확인하기 위한 날짜
+C. 법원에서 주택임대차 계약을 확인하는 날짜
+D. 주민센터에서 주택임대차 계약을 확인하는 날짜
+","The following is a problem for Korean society.
+What does confirmed date mean?
+A. Date of moving
+B. Date to confirm the date of signing the housing rental contract
+C. Date on which the court confirms the residential lease agreement
+D. Date of confirming the housing rental contract at the community center
+"
+1091,KIIP_society_278,,"다음은 한국사회에 대한 문제이다.
+등기부란 무엇인가?","['A. 부동산의 위치를 기록하는 장부', 'B. 부동산의 가격을 기록하는 장부', 'C. 부동산에 관한 권리 관계를 기록하는 장부', 'D. 부동산의 면적을 기록하는 장부']",C,"A. 부동산의 위치를 기록하는 장부
+B. 부동산의 가격을 기록하는 장부
+C. 부동산에 관한 권리 관계를 기록하는 장부
+D. 부동산의 면적을 기록하는 장부
+","다음은 한국사회에 대한 문제이다.
+등기부란 무엇인가?
+A. 부동산의 위치를 기록하는 장부
+B. 부동산의 가격을 기록하는 장부
+C. 부동산에 관한 권리 관계를 기록하는 장부
+D. 부동산의 면적을 기록하는 장부
+","The following is a problem for Korean society.
+What is a register?
+A. A ledger that records the location of real estate
+B. A ledger that records the price of real estate
+C. A ledger that records rights to real estate
+D. A ledger recording the area of ​​the property
+"
+1092,KIIP_society_279,,"다음은 한국사회에 대한 문제이다.
+한국에서 ‘손 없는 날’에는 어떤 행사를 주로 하는가?","['A. 이사', 'B. 생일 파티', 'C. 입학식', 'D. 졸업식']",A,"A. 이사
+B. 생일 파티
+C. 입학식
+D. 졸업식
+","다음은 한국사회에 대한 문제이다.
+한국에서 ‘손 없는 날’에는 어떤 행사를 주로 하는가?
+A. 이사
+B. 생일 파티
+C. 입학식
+D. 졸업식
+","The following is a problem for Korean society.
+What events are mainly held on ‘Handless Day’ in Korea?
+A. Director
+B. Birthday party
+C. Entrance ceremony
+D. Graduation ceremony
+"
+1093,KIIP_society_280,,"다음은 한국사회에 대한 문제이다.
+‘손 없는 날’은 어떤 날을 가리키는가?","['A. 매월 음력 1일과 2일', 'B. 매월 음력 9일과 10일, 19일과 20일, 29일과 30일', 'C. 매월 음력 15일과 16일', 'D. 매월 음력 28일과 29일']",B,"A. 매월 음력 1일과 2일
+B. 매월 음력 9일과 10일, 19일과 20일, 29일과 30일
+C. 매월 음력 15일과 16일
+D. 매월 음력 28일과 29일
+","다음은 한국사회에 대한 문제이다.
+‘손 없는 날’은 어떤 날을 가리키는가?
+A. 매월 음력 1일과 2일
+B. 매월 음력 9일과 10일, 19일과 20일, 29일과 30일
+C. 매월 음력 15일과 16일
+D. 매월 음력 28일과 29일
+","The following is a problem for Korean society.
+What day does ‘Handless Day’ refer to?
+A. The 1st and 2nd day of the lunar calendar every month
+B. 9th and 10th, 19th and 20th, 29th and 30th of each lunar calendar
+C. 15th and 16th lunar days of each month
+D. 28th and 29th lunar days of every month
+"
+1094,KIIP_society_281,,"다음은 한국사회에 대한 문제이다.
+‘손 없는 날’에 이사를 하는 경우 어떤 어려움이 있을 수 있는가?","['A. 이사에 필요한 차량이나 인력을 구하기 어려움', 'B. 이사 비용이 상승함', 'C. 이사를 도와줄 사람을 찾기 어려움', 'D. 이사를 위한 포장재를 구하기 어려움']",A,"A. 이사에 필요한 차량이나 인력을 구하기 어려움
+B. 이사 비용이 상승함
+C. 이사를 도와줄 사람을 찾기 어려움
+D. 이사를 위한 포장재를 구하기 어려움
+","다음은 한국사회에 대한 문제이다.
+‘손 없는 날’에 이사를 하는 경우 어떤 어려움이 있을 수 있는가?
+A. 이사에 필요한 차량이나 인력을 구하기 어려움
+B. 이사 비용이 상승함
+C. 이사를 도와줄 사람을 찾기 어려움
+D. 이사를 위한 포장재를 구하기 어려움
+","The following is a problem for Korean society.
+What difficulties can arise when moving on a ‘handless day’?
+A. Difficulty finding vehicles or manpower needed for moving
+B. Moving costs rise
+C. Difficulty finding someone to help with moving
+D. Difficulty obtaining packaging materials for moving
+"
+1095,KIIP_society_282,,"다음은 한국사회에 대한 문제이다.
+짐이 많고 시간이 넉넉하지 않을 경우 어떤 서비스를 이용하는 것이 편리한가?","['A. 택배 서비스', 'B. 포장이사 서비스', 'C. 대리운전 서비스', 'D. 배달 서비스']",B,"A. 택배 서비스
+B. 포장이사 서비스
+C. 대리운전 서비스
+D. 배달 서비스
+","다음은 한국사회에 대한 문제이다.
+짐이 많고 시간이 넉넉하지 않을 경우 어떤 서비스를 이용하는 것이 편리한가?
+A. 택배 서비스
+B. 포장이사 서비스
+C. 대리운전 서비스
+D. 배달 서비스
+","The following is a problem for Korean society.
+What service is convenient to use if you have a lot of luggage and limited time?
+A. Delivery service
+B. Packaging and moving service
+C. Designated driver service
+D. Delivery service
+"
+1096,KIIP_society_283,,"다음은 한국사회에 대한 문제이다.
+포장이사 서비스란 무엇인가?","['A. 이사를 위해 짐을 포장해주는 서비스', 'B. 이사를 위해 짐을 운반해주는 서비스', 'C. 이사를 위해 짐을 포장하고 운반해주는 서비스', 'D. 이사를 위해 짐을 포장하고, 운반하고, 정리까지 해주는 서비스']",C,"A. 이사를 위해 짐을 포장해주는 서비스
+B. 이사를 위해 짐을 운반해주는 서비스
+C. 이사를 위해 짐을 포장하고 운반해주는 서비스
+D. 이사를 위해 짐을 포장하고, 운반하고, 정리까지 해주는 서비스
+","다음은 한국사회에 대한 문제이다.
+포장이사 서비스란 무엇인가?
+A. 이사를 위해 짐을 포장해주는 서비스
+B. 이사를 위해 짐을 운반해주는 서비스
+C. 이사를 위해 짐을 포장하고 운반해주는 서비스
+D. 이사를 위해 짐을 포장하고, 운반하고, 정리까지 해주는 서비스
+","The following is a problem for Korean society.
+What is a packing and moving service?
+A. Service that packs luggage for moving
+B. Service that transports luggage for moving
+C. Service that packs and transports luggage for moving
+D. Services that pack, transport, and even organize luggage for moving
+"
+1097,KIIP_society_284,,"다음은 한국사회에 대한 문제이다.
+한국에서의 주요 거주 형태는 어떤 것들이 있는가?","['A. 자가, 전세, 월세', 'B. 전세, 월세, 반전세', 'C. 자가, 월세, 반전세', 'D. 자가, 전세, 반전세']",A,"A. 자가, 전세, 월세
+B. 전세, 월세, 반전세
+C. 자가, 월세, 반전세
+D. 자가, 전세, 반전세
+","다음은 한국사회에 대한 문제이다.
+한국에서의 주요 거주 형태는 어떤 것들이 있는가?
+A. 자가, 전세, 월세
+B. 전세, 월세, 반전세
+C. 자가, 월세, 반전세
+D. 자가, 전세, 반전세
+","The following is a problem for Korean society.
+What are the main types of residence in Korea?
+A. Own, jeonse, monthly rent
+B. Jeonse, monthly rent, reverse tax
+C. Own, monthly rent, reverse tax
+D. Own, jeonse, reverse tax
+"

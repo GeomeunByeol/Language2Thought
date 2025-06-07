@@ -1,0 +1,1657 @@
+index,id,paragraph,question,choices,answer,options,ko,en
+89,KIIP_geography_1,,"다음은 한국의 지리에 대한 문제이다.
+한국에는 몇 개의 계절이 있는가?","['A. 2개', 'B. 3개', 'C. 4개', 'D. 5개']",C,"A. 2개
+B. 3개
+C. 4개
+D. 5개
+","다음은 한국의 지리에 대한 문제이다.
+한국에는 몇 개의 계절이 있는가?
+A. 2개
+B. 3개
+C. 4개
+D. 5개
+","Next is the question of Korea's geography.
+How many seasons are there in Korea?
+A: 2
+B. 3
+C. 4
+D. 5
+"
+90,KIIP_geography_2,,"다음은 한국의 지리에 대한 문제이다.
+한국의 봄 계절은 어떤 특징이 있는가?","['A. 덥고 비가 많이 온다', 'B. 포근하고 따뜻하다', 'C. 건조하고 화창하다', 'D. 추위가 찾아오진 않는다.']",B,"A. 덥고 비가 많이 온다
+B. 포근하고 따뜻하다
+C. 건조하고 화창하다
+D. 추위가 찾아오진 않는다.
+","다음은 한국의 지리에 대한 문제이다.
+한국의 봄 계절은 어떤 특징이 있는가?
+A. 덥고 비가 많이 온다
+B. 포근하고 따뜻하다
+C. 건조하고 화창하다
+D. 추위가 찾아오진 않는다.
+","Next is the question of Korea's geography.
+What are the characteristics of the spring season in Korea?
+A. It’s hot and raining a lot.
+B. Cozy and warm
+C. dry and sunny
+D. The cold will not come.
+"
+91,KIIP_geography_3,,"다음은 한국의 지리에 대한 문제이다.
+한국에서 황사가 불어올 때 사람들의 대비로 옳지 않은 것은?","['A. 외출을 삼가한다.', 'B. 우산을 쓴다', 'C. 집에서 창문을 닫는다', 'D. 마스크를 착용한다']",B,"A. 외출을 삼가한다.
+B. 우산을 쓴다
+C. 집에서 창문을 닫는다
+D. 마스크를 착용한다
+","다음은 한국의 지리에 대한 문제이다.
+한국에서 황사가 불어올 때 사람들의 대비로 옳지 않은 것은?
+A. 외출을 삼가한다.
+B. 우산을 쓴다
+C. 집에서 창문을 닫는다
+D. 마스크를 착용한다
+","Next is the question of Korea's geography.
+What is incorrect in preparing people when yellow dust blows in Korea?
+A. Avoid going out.
+B. Use an umbrella
+C. Close the windows at home
+D. Wear a mask
+"
+92,KIIP_geography_4,,"다음은 한국의 지리에 대한 문제이다.
+한국의 여름 계절은 어떤 특징이 있는가?","['A. 추우면서도 포근하고 따뜻하다', 'B. 건조하고 무덥다', 'C. 눈이 많이 온다', 'D. 무덥고 비가 많이 내린다']",D,"A. 추우면서도 포근하고 따뜻하다
+B. 건조하고 무덥다
+C. 눈이 많이 온다
+D. 무덥고 비가 많이 내린다
+","다음은 한국의 지리에 대한 문제이다.
+한국의 여름 계절은 어떤 특징이 있는가?
+A. 추우면서도 포근하고 따뜻하다
+B. 건조하고 무덥다
+C. 눈이 많이 온다
+D. 무덥고 비가 많이 내린다
+","Next is the question of Korea's geography.
+What are the characteristics of Korea’s summer season?
+A. It’s cold but cozy and warm.
+B. Dry and hot
+C. It snows a lot.
+D. It’s hot and raining a lot.
+"
+93,KIIP_geography_5,,"다음은 한국의 지리에 대한 문제이다.
+한국의 가을 계절은 어떤 특징이 있는가?","['A. 추우면서도 포근하고 따뜻하다', 'B. 무덥고 비가 많이 내린다', 'C. 건조하고 화창하다', 'D. 눈이 많이 온다']",C,"A. 추우면서도 포근하고 따뜻하다
+B. 무덥고 비가 많이 내린다
+C. 건조하고 화창하다
+D. 눈이 많이 온다
+","다음은 한국의 지리에 대한 문제이다.
+한국의 가을 계절은 어떤 특징이 있는가?
+A. 추우면서도 포근하고 따뜻하다
+B. 무덥고 비가 많이 내린다
+C. 건조하고 화창하다
+D. 눈이 많이 온다
+","Next is the question of Korea's geography.
+What are the characteristics of the fall season in Korea?
+A. It’s cold but cozy and warm.
+B. It’s hot and raining a lot.
+C. dry and sunny
+D. It snows a lot.
+"
+94,KIIP_geography_6,,"다음은 한국의 지리에 대한 문제이다.
+한국의 늦은 가을에 거리에서 볼 수 있는 것은 무엇인가?","['A. 눈', 'B. 비', 'C. 꽃', 'D. 낙엽']",D,"A. 눈
+B. 비
+C. 꽃
+D. 낙엽
+","다음은 한국의 지리에 대한 문제이다.
+한국의 늦은 가을에 거리에서 볼 수 있는 것은 무엇인가?
+A. 눈
+B. 비
+C. 꽃
+D. 낙엽
+","Next is the question of Korea's geography.
+What can you see on the streets in late fall in Korea?
+A.Eyes
+B. rain
+C. Flowers
+D. Fallen leaves
+"
+95,KIIP_geography_7,,"다음은 한국의 지리에 대한 문제이다.
+한국의 겨울은 어떤 특성을 가지고 있는가?","['A. 춥고 습함', 'B. 화창하고 건조함', 'C. 춥고 건조하다', 'D. 포근하고 따뜻함']",C,"A. 춥고 습함
+B. 화창하고 건조함
+C. 춥고 건조하다
+D. 포근하고 따뜻함
+","다음은 한국의 지리에 대한 문제이다.
+한국의 겨울은 어떤 특성을 가지고 있는가?
+A. 춥고 습함
+B. 화창하고 건조함
+C. 춥고 건조하다
+D. 포근하고 따뜻함
+","Next is the question of Korea's geography.
+What characteristics does winter in Korea have?
+A. Cold and wet
+B. Sunny and dry
+C. cold and dry
+D. Cozy and warm
+"
+96,KIIP_geography_8,,"다음은 한국의 지리에 대한 문제이다.
+2000년대 기준, 한국에서 겨울이 시작될 때 대부분의 가정에서 어떤 준비를 하는가?","['A. 봄놀이를 준비한다', 'B. 김장을 담근다', 'C. 물놀이를 준비한다', 'D. 단풍놀이를 준비한다']",B,"A. 봄놀이를 준비한다
+B. 김장을 담근다
+C. 물놀이를 준비한다
+D. 단풍놀이를 준비한다
+","다음은 한국의 지리에 대한 문제이다.
+2000년대 기준, 한국에서 겨울이 시작될 때 대부분의 가정에서 어떤 준비를 하는가?
+A. 봄놀이를 준비한다
+B. 김장을 담근다
+C. 물놀이를 준비한다
+D. 단풍놀이를 준비한다
+","Next is the question of Korea's geography.
+As of the 2000s, what preparations do most households make when winter begins in Korea?
+A. Preparing for spring play
+B. Make kimchi
+C. Prepare for water play
+D. Preparing to see fall foliage
+"
+97,KIIP_geography_9,,"다음은 한국의 지리에 대한 문제이다.
+한국인들이 가을에 즐기는 활동은 무엇인가?","['A. 벚꽃놀이', 'B. 물놀이', 'C. 단풍놀이', 'D. 스키']",C,"A. 벚꽃놀이
+B. 물놀이
+C. 단풍놀이
+D. 스키
+","다음은 한국의 지리에 대한 문제이다.
+한국인들이 가을에 즐기는 활동은 무엇인가?
+A. 벚꽃놀이
+B. 물놀이
+C. 단풍놀이
+D. 스키
+","Next is the question of Korea's geography.
+What activities do Koreans enjoy in fall?
+A. Cherry blossom viewing
+B. Playing in the water
+C. Playing with autumn leaves
+D. skiing
+"
+98,KIIP_geography_10,,"다음은 한국의 지리에 대한 문제이다.
+한국에서 여름에 주로 판매되는 상품은 무엇인가?","['A. 에어컨, 선풍기, 냉면', 'B. 전기장판, 온풍기', 'C. 단풍놀이용품', 'D. 봄꽃놀이용품']",A,"A. 에어컨, 선풍기, 냉면
+B. 전기장판, 온풍기
+C. 단풍놀이용품
+D. 봄꽃놀이용품
+","다음은 한국의 지리에 대한 문제이다.
+한국에서 여름에 주로 판매되는 상품은 무엇인가?
+A. 에어컨, 선풍기, 냉면
+B. 전기장판, 온풍기
+C. 단풍놀이용품
+D. 봄꽃놀이용품
+","Next is the question of Korea's geography.
+What products are mainly sold in summer in Korea?
+A. Air conditioner, fan, cold noodles
+B. Electric blanket, heater
+C. Autumn leaves play equipment
+D. Spring flower viewing supplies
+"
+99,KIIP_geography_11,,"다음은 한국의 지리에 대한 문제이다.
+한국에서 겨울에 주로 판매되는 상품은 무엇인가?","['A. 에어컨, 선풍기, 냉면', 'B. 전기장판, 온풍기', 'C. 단풍놀이용품', 'D. 봄꽃놀이용품']",B,"A. 에어컨, 선풍기, 냉면
+B. 전기장판, 온풍기
+C. 단풍놀이용품
+D. 봄꽃놀이용품
+","다음은 한국의 지리에 대한 문제이다.
+한국에서 겨울에 주로 판매되는 상품은 무엇인가?
+A. 에어컨, 선풍기, 냉면
+B. 전기장판, 온풍기
+C. 단풍놀이용품
+D. 봄꽃놀이용품
+","Next is the question of Korea's geography.
+What products are mainly sold in winter in Korea?
+A. Air conditioner, fan, cold noodles
+B. Electric blanket, heater
+C. Autumn leaves play equipment
+D. Spring flower viewing supplies
+"
+100,KIIP_geography_12,,"다음은 한국의 지리에 대한 문제이다.
+산경표는 누구에 의해 편찬되었는가?","['A. 영조', 'B. 신경준', 'C. 백두대간', 'D. 조선']",B,"A. 영조
+B. 신경준
+C. 백두대간
+D. 조선
+","다음은 한국의 지리에 대한 문제이다.
+산경표는 누구에 의해 편찬되었는가?
+A. 영조
+B. 신경준
+C. 백두대간
+D. 조선
+","Next is the question of Korea's geography.
+Who compiled the Sangyeongpyo?
+A. King Yeongjo
+B. Shin Kyeong-jun
+C. Baekdudaegan
+D. Joseon
+"
+101,KIIP_geography_13,,"다음은 한국의 지리에 대한 문제이다.
+백두대간은 어디에서 어디까지 이르는 산줄기를 의미하는가?","['A. 백두산에서 지리산까지', 'B. 백두산에서 태백산까지', 'C. 한라산에서 태백산까지', 'D. 지리산에서 한라산까지']",A,"A. 백두산에서 지리산까지
+B. 백두산에서 태백산까지
+C. 한라산에서 태백산까지
+D. 지리산에서 한라산까지
+","다음은 한국의 지리에 대한 문제이다.
+백두대간은 어디에서 어디까지 이르는 산줄기를 의미하는가?
+A. 백두산에서 지리산까지
+B. 백두산에서 태백산까지
+C. 한라산에서 태백산까지
+D. 지리산에서 한라산까지
+","Next is the question of Korea's geography.
+Baekdudaegan refers to a mountain range that extends from where to where?
+A. From Baekdu Mountain to Jiri Mountain
+B. From Baekdu Mountain to Taebaek Mountain
+C. From Hallasan to Taebaeksan
+D. From Jiri Mountain to Hallasan Mountain
+"
+102,KIIP_geography_14,,"다음은 한국의 지리에 대한 문제이다.
+한국의 지형 특성은 어떻게 설명될 수 있는가?","['A. 동쪽이 높고 서쪽이 낮다', 'B. 서쪽이 높고 동쪽이 낮다', 'C. 남쪽이 높고 북쪽이 낮다', 'D. 북쪽이 높고 남쪽이 낮다']",A,"A. 동쪽이 높고 서쪽이 낮다
+B. 서쪽이 높고 동쪽이 낮다
+C. 남쪽이 높고 북쪽이 낮다
+D. 북쪽이 높고 남쪽이 낮다
+","다음은 한국의 지리에 대한 문제이다.
+한국의 지형 특성은 어떻게 설명될 수 있는가?
+A. 동쪽이 높고 서쪽이 낮다
+B. 서쪽이 높고 동쪽이 낮다
+C. 남쪽이 높고 북쪽이 낮다
+D. 북쪽이 높고 남쪽이 낮다
+","Next is the question of Korea's geography.
+How can Korea’s topographical characteristics be explained?
+A. East is high and west is low
+B. West is high and east is low
+C. High in the south and low in the north
+D. North is high and south is low
+"
+103,KIIP_geography_15,,"다음은 한국의 지리에 대한 문제이다.
+한국의 전체 국토 중 산이 차지하는 비율은 얼마나 됩니까?","['A. 30%', 'B. 65%', 'C. 80%', 'D. 10%']",B,"A. 30%
+B. 65%
+C. 80%
+D. 10%
+","다음은 한국의 지리에 대한 문제이다.
+한국의 전체 국토 중 산이 차지하는 비율은 얼마나 됩니까?
+A. 30%
+B. 65%
+C. 80%
+D. 10%
+","Next is the question of Korea's geography.
+What percentage of Korea's total land area are mountains?
+A: 30%
+B. 65%
+C.80%
+D. 10%
+"
+104,KIIP_geography_16,,"다음은 한국의 지리에 대한 문제이다.
+한반도의 등줄기로 불리는 산맥은 무엇인가?","['A. 백두산맥', 'B. 태백산맥', 'C. 지리산맥', 'D. 한라산맥']",B,"A. 백두산맥
+B. 태백산맥
+C. 지리산맥
+D. 한라산맥
+","다음은 한국의 지리에 대한 문제이다.
+한반도의 등줄기로 불리는 산맥은 무엇인가?
+A. 백두산맥
+B. 태백산맥
+C. 지리산맥
+D. 한라산맥
+","Next is the question of Korea's geography.
+What is the mountain range called the backbone of the Korean Peninsula?
+A. Baekdu Mountains
+B. Taebaek Mountains
+C. Jiri Mountains
+D. Halla Mountains
+"
+105,KIIP_geography_17,,"다음은 한국의 지리에 대한 문제이다.
+태백산맥에 위치한 대표적인 산으로 어떤 것들이 있는가?","['A. 설악산과 오대산', 'B. 한라산과 지리산', 'C. 백두산과 태백산', 'D. 지리산과 백두산']",A,"A. 설악산과 오대산
+B. 한라산과 지리산
+C. 백두산과 태백산
+D. 지리산과 백두산
+","다음은 한국의 지리에 대한 문제이다.
+태백산맥에 위치한 대표적인 산으로 어떤 것들이 있는가?
+A. 설악산과 오대산
+B. 한라산과 지리산
+C. 백두산과 태백산
+D. 지리산과 백두산
+","Next is the question of Korea's geography.
+What are the representative mountains located in the Taebaek Mountains?
+A. Seoraksan Mountain and Odaesan Mountain
+B. Hallasan and Jiri Mountain
+C. Baekdu Mountain and Taebaek Mountain
+D. Jiri Mountain and Baekdu Mountain
+"
+106,KIIP_geography_18,,"다음은 한국의 지리에 대한 문제이다.
+한국에서 가장 높은 산은 어디에 위치해 있는가?","['A. 제주도', 'B. 경기도', 'C. 강원도', 'D. 전라도']",A,"A. 제주도
+B. 경기도
+C. 강원도
+D. 전라도
+","다음은 한국의 지리에 대한 문제이다.
+한국에서 가장 높은 산은 어디에 위치해 있는가?
+A. 제주도
+B. 경기도
+C. 강원도
+D. 전라도
+","Next is the question of Korea's geography.
+Where is the highest mountain in Korea located?
+A. Jeju Island
+B. Gyeonggi-do
+C. Gangwon-do
+D. Jeolla-do
+"
+107,KIIP_geography_19,,"다음은 한국의 지리에 대한 문제이다.
+한국인의 주식인 쌀이 많이 생산되는 평야가 아닌 곳은?","['A. 호남평야', 'B. 나주평야', 'C. 김포평야', 'D. 강원평야']",D,"A. 호남평야
+B. 나주평야
+C. 김포평야
+D. 강원평야
+","다음은 한국의 지리에 대한 문제이다.
+한국인의 주식인 쌀이 많이 생산되는 평야가 아닌 곳은?
+A. 호남평야
+B. 나주평야
+C. 김포평야
+D. 강원평야
+","Next is the question of Korea's geography.
+What place is not a plain that produces a lot of rice, the staple food of Koreans?
+A. Honam Plain
+B. Naju Plain
+C. Gimpo Plain
+D. Gangwon Plain
+"
+108,KIIP_geography_20,,"다음은 한국의 지리에 대한 문제이다.
+해안선이 복잡하고 수심이 얕은 한반도의 지역은 어디인가?","['A. 남해안과 서해안', 'B. 남해안과 동해안', 'C. 서해안과 동해안', 'D. 동해안과 북해안']",A,"A. 남해안과 서해안
+B. 남해안과 동해안
+C. 서해안과 동해안
+D. 동해안과 북해안
+","다음은 한국의 지리에 대한 문제이다.
+해안선이 복잡하고 수심이 얕은 한반도의 지역은 어디인가?
+A. 남해안과 서해안
+B. 남해안과 동해안
+C. 서해안과 동해안
+D. 동해안과 북해안
+","Next is the question of Korea's geography.
+Which region of the Korean Peninsula has a complex coastline and shallow water?
+A. South coast and west coast
+B. South coast and east coast
+C. West Coast and East Coast
+D. East Coast and North Coast
+"
+109,KIIP_geography_21,,"다음은 한국의 지리에 대한 문제이다.
+한국에서 갯벌이 잘 발달한 지역은 어디인가?","['A. 서해안과 남해안', 'B. 서해안과 동해안', 'C. 남해안과 동해안', 'D. 동해안과 북해안']",A,"A. 서해안과 남해안
+B. 서해안과 동해안
+C. 남해안과 동해안
+D. 동해안과 북해안
+","다음은 한국의 지리에 대한 문제이다.
+한국에서 갯벌이 잘 발달한 지역은 어디인가?
+A. 서해안과 남해안
+B. 서해안과 동해안
+C. 남해안과 동해안
+D. 동해안과 북해안
+","Next is the question of Korea's geography.
+Which areas in Korea have well-developed mudflats?
+A. West coast and south coast
+B. West Coast and East Coast
+C. South coast and east coast
+D. East Coast and North Coast
+"
+110,KIIP_geography_22,,"다음은 한국의 지리에 대한 문제이다.
+한반도의 어느 쪽이 바다에 접해 있어 다양한 해안 지형을 볼 수 있는가?","['A. 동쪽, 남쪽, 서쪽', 'B. 동쪽, 남쪽, 북쪽', 'C. 서쪽, 남쪽, 북쪽', 'D. 동쪽, 서쪽, 북쪽']",A,"A. 동쪽, 남쪽, 서쪽
+B. 동쪽, 남쪽, 북쪽
+C. 서쪽, 남쪽, 북쪽
+D. 동쪽, 서쪽, 북쪽
+","다음은 한국의 지리에 대한 문제이다.
+한반도의 어느 쪽이 바다에 접해 있어 다양한 해안 지형을 볼 수 있는가?
+A. 동쪽, 남쪽, 서쪽
+B. 동쪽, 남쪽, 북쪽
+C. 서쪽, 남쪽, 북쪽
+D. 동쪽, 서쪽, 북쪽
+","Next is the question of Korea's geography.
+Which side of the Korean Peninsula faces the sea and has a variety of coastal topography?
+A. East, south, west
+B. East, South, North
+C. West, South, North
+D. East, West, North
+"
+111,KIIP_geography_23,,"다음은 한국의 지리에 대한 문제이다.
+한국의 수도 서울이 처음으로 수도가 된 연도는 언제인가?","['A. 1392년', 'B. 1592년', 'C. 1292년', 'D. 1492년']",A,"A. 1392년
+B. 1592년
+C. 1292년
+D. 1492년
+","다음은 한국의 지리에 대한 문제이다.
+한국의 수도 서울이 처음으로 수도가 된 연도는 언제인가?
+A. 1392년
+B. 1592년
+C. 1292년
+D. 1492년
+","Next is the question of Korea's geography.
+In what year did Seoul, the capital of Korea, first become the capital?
+A. 1392
+B. 1592
+C. 1292
+D. 1492
+"
+112,KIIP_geography_24,,"다음은 한국의 지리에 대한 문제이다.
+서울특별시는 몇 개의 자치구로 이루어져 있는가?","['A. 20개', 'B. 25개', 'C. 30개', 'D. 35개']",B,"A. 20개
+B. 25개
+C. 30개
+D. 35개
+","다음은 한국의 지리에 대한 문제이다.
+서울특별시는 몇 개의 자치구로 이루어져 있는가?
+A. 20개
+B. 25개
+C. 30개
+D. 35개
+","Next is the question of Korea's geography.
+How many autonomous districts does Seoul Metropolitan City consist of?
+A: 20
+B. 25
+C. 30
+D. 35
+"
+113,KIIP_geography_25,,"다음은 한국의 지리에 대한 문제이다.
+서울에서 한강을 기준으로 북쪽을 무엇이라고 부르는가?","['A. 강남', 'B. 강서', 'C. 강북', 'D. 강동']",C,"A. 강남
+B. 강서
+C. 강북
+D. 강동
+","다음은 한국의 지리에 대한 문제이다.
+서울에서 한강을 기준으로 북쪽을 무엇이라고 부르는가?
+A. 강남
+B. 강서
+C. 강북
+D. 강동
+","Next is the question of Korea's geography.
+What is the north of the Han River called in Seoul?
+A. Gangnam
+B. Gangseo
+C. Gangbuk
+D. Gangdong
+"
+114,KIIP_geography_26,,"다음은 한국의 지리에 대한 문제이다.
+2013년 12월말 기준 서울의 인구는 약 몇 명인가?","['A. 714만 명', 'B. 814만 명', 'C. 914만 명', 'D. 1014만 명']",D,"A. 714만 명
+B. 814만 명
+C. 914만 명
+D. 1014만 명
+","다음은 한국의 지리에 대한 문제이다.
+2013년 12월말 기준 서울의 인구는 약 몇 명인가?
+A. 714만 명
+B. 814만 명
+C. 914만 명
+D. 1014만 명
+","Next is the question of Korea's geography.
+What was the population of Seoul as of the end of December 2013?
+A. 7.14 million people
+B. 8.14 million people
+C. 9.14 million people
+D. 10.14 million people
+"
+115,KIIP_geography_27,,"다음은 한국의 지리에 대한 문제이다.
+서울에 위치한 대규모 도매 시장 두 곳은 어디인가?","['A. 남대문 시장, 노량진 수산 시장', 'B. 동대문 시장, 가락시장', 'C. 광장시장, 청평화시장', 'D. 마포 농수산물 시장, 신림동 농수산물 시장']",A,"A. 남대문 시장, 노량진 수산 시장
+B. 동대문 시장, 가락시장
+C. 광장시장, 청평화시장
+D. 마포 농수산물 시장, 신림동 농수산물 시장
+","다음은 한국의 지리에 대한 문제이다.
+서울에 위치한 대규모 도매 시장 두 곳은 어디인가?
+A. 남대문 시장, 노량진 수산 시장
+B. 동대문 시장, 가락시장
+C. 광장시장, 청평화시장
+D. 마포 농수산물 시장, 신림동 농수산물 시장
+","Next is the question of Korea's geography.
+What are the two large wholesale markets located in Seoul?
+A. Namdaemun Market, Noryangjin Fish Market
+B. Dongdaemun Market, Garak Market
+C. Gwangjang Market, Cheongpyeonghwa Market
+D. Mapo Agricultural and Marine Products Market, Sillim-dong Agricultural and Marine Products Market
+"
+116,KIIP_geography_28,,"다음은 한국의 지리에 대한 문제이다.
+2010년대 기준 신도시가 계속해서 만들어지고 있는 지역은 어디인가?","['A. 서울', 'B. 부산', 'C. 대구', 'D. 경기도']",D,"A. 서울
+B. 부산
+C. 대구
+D. 경기도
+","다음은 한국의 지리에 대한 문제이다.
+2010년대 기준 신도시가 계속해서 만들어지고 있는 지역은 어디인가?
+A. 서울
+B. 부산
+C. 대구
+D. 경기도
+","Next is the question of Korea's geography.
+As of the 2010s, in which areas are new cities continuing to be built?
+A. Seoul
+B. Busan
+C. Daegu
+D. Gyeonggi-do
+"
+117,KIIP_geography_29,,"다음은 한국의 지리에 대한 문제이다.
+수도권에 모여 있는 것은 무엇인가?","['A. 각종 기업과 학교', 'B. 농장과 목장', 'C. 산과 강', 'D. 해변과 섬']",A,"A. 각종 기업과 학교
+B. 농장과 목장
+C. 산과 강
+D. 해변과 섬
+","다음은 한국의 지리에 대한 문제이다.
+수도권에 모여 있는 것은 무엇인가?
+A. 각종 기업과 학교
+B. 농장과 목장
+C. 산과 강
+D. 해변과 섬
+","Next is the question of Korea's geography.
+What is gathered in the metropolitan area?
+A. Various companies and schools
+B. Farms and Ranches
+C. Mountains and rivers
+D. Beaches and islands
+"
+118,KIIP_geography_30,,"다음은 한국의 지리에 대한 문제이다.
+차이나타운이 위치한 도시가 아닌 곳은?","['A. 서울', 'B. 부산', 'C. 인천', 'D. 광주']",D,"A. 서울
+B. 부산
+C. 인천
+D. 광주
+","다음은 한국의 지리에 대한 문제이다.
+차이나타운이 위치한 도시가 아닌 곳은?
+A. 서울
+B. 부산
+C. 인천
+D. 광주
+","Next is the question of Korea's geography.
+Which city is not located in Chinatown?
+A. Seoul
+B. Busan
+C. Incheon
+D. Gwangju
+"
+119,KIIP_geography_31,,"다음은 한국의 지리에 대한 문제이다.
+인천 차이나타운은 어떤 문화와 풍습을 간직하고 있는가?","['A. 화교 고유의 문화와 풍습', 'B. 한국 고유의 문화와 풍습', 'C. 일본 고유의 문화와 풍습', 'D. 미국 고유의 문화와 풍습']",A,"A. 화교 고유의 문화와 풍습
+B. 한국 고유의 문화와 풍습
+C. 일본 고유의 문화와 풍습
+D. 미국 고유의 문화와 풍습
+","다음은 한국의 지리에 대한 문제이다.
+인천 차이나타운은 어떤 문화와 풍습을 간직하고 있는가?
+A. 화교 고유의 문화와 풍습
+B. 한국 고유의 문화와 풍습
+C. 일본 고유의 문화와 풍습
+D. 미국 고유의 문화와 풍습
+","Next is the question of Korea's geography.
+What culture and customs does Incheon Chinatown preserve?
+A. Chinese unique culture and customs
+B. Korea’s unique culture and customs
+C. Japan’s unique culture and customs
+D. Unique American culture and customs
+"
+120,KIIP_geography_32,,"다음은 한국의 지리에 대한 문제이다.
+왜 매일 서울과 경기도를 오가는 사람들이 많은가?","['A. 직장생활, 공부 등을 위해', 'B. 서울과 경기도 사이의 거리가 가깝기 때문', 'C. 서울과 경기도의 경제 활동이 활발하기 때문', 'D. 서울과 경기도의 교육 수준이 높기 때문']",A,"A. 직장생활, 공부 등을 위해
+B. 서울과 경기도 사이의 거리가 가깝기 때문
+C. 서울과 경기도의 경제 활동이 활발하기 때문
+D. 서울과 경기도의 교육 수준이 높기 때문
+","다음은 한국의 지리에 대한 문제이다.
+왜 매일 서울과 경기도를 오가는 사람들이 많은가?
+A. 직장생활, 공부 등을 위해
+B. 서울과 경기도 사이의 거리가 가깝기 때문
+C. 서울과 경기도의 경제 활동이 활발하기 때문
+D. 서울과 경기도의 교육 수준이 높기 때문
+","Next is the question of Korea's geography.
+Why are there so many people traveling between Seoul and Gyeonggi-do every day?
+A. For work life, study, etc.
+B. Because the distance between Seoul and Gyeonggi-do is close
+C. Because economic activities in Seoul and Gyeonggi-do are active
+D. Because the level of education in Seoul and Gyeonggi-do is high
+"
+121,KIIP_geography_33,,"다음은 한국의 지리에 대한 문제이다.
+왜 분당, 일산, 군포 등에 신도시가 건설되었는가?","['A. 서울의 인구 집중문제를 해결하기 위해', 'B. 경기도의 인구 집중문제를 해결하기 위해', 'C. 서울의 교통 문제를 해결하기 위해', 'D. 경기도의 교통 문제를 해결하기 위해']",A,"A. 서울의 인구 집중문제를 해결하기 위해
+B. 경기도의 인구 집중문제를 해결하기 위해
+C. 서울의 교통 문제를 해결하기 위해
+D. 경기도의 교통 문제를 해결하기 위해
+","다음은 한국의 지리에 대한 문제이다.
+왜 분당, 일산, 군포 등에 신도시가 건설되었는가?
+A. 서울의 인구 집중문제를 해결하기 위해
+B. 경기도의 인구 집중문제를 해결하기 위해
+C. 서울의 교통 문제를 해결하기 위해
+D. 경기도의 교통 문제를 해결하기 위해
+","Next is the question of Korea's geography.
+Why were new cities built in Bundang, Ilsan, and Gunpo?
+A. To solve the population concentration problem in Seoul
+B. To solve the population concentration problem in Gyeonggi-do
+C. To solve Seoul’s traffic problems
+D. To solve transportation problems in Gyeonggi-do
+"
+122,KIIP_geography_34,,"다음은 한국의 지리에 대한 문제이다.
+경기도에서 어떤 산업이 발달하였는가?","['A. 서비스업, 공업, 농업', 'B. 광업, 어업, 임업', 'C. 관광업, IT업, 제조업', 'D. 금융업, 부동산업, 유통업']",A,"A. 서비스업, 공업, 농업
+B. 광업, 어업, 임업
+C. 관광업, IT업, 제조업
+D. 금융업, 부동산업, 유통업
+","다음은 한국의 지리에 대한 문제이다.
+경기도에서 어떤 산업이 발달하였는가?
+A. 서비스업, 공업, 농업
+B. 광업, 어업, 임업
+C. 관광업, IT업, 제조업
+D. 금융업, 부동산업, 유통업
+","Next is the question of Korea's geography.
+What industries have developed in Gyeonggi-do?
+A. Service industry, industry, agriculture
+B. Mining, fishing and forestry
+C. Tourism, IT, manufacturing
+D. Finance, real estate, distribution industry
+"
+123,KIIP_geography_35,,"다음은 한국의 지리에 대한 문제이다.
+서울을 제외하면 수도권에서 가장 큰 도시는 어디인가?","['A. 광명', 'B. 용인', 'C. 인천', 'D. 수원']",C,"A. 광명
+B. 용인
+C. 인천
+D. 수원
+","다음은 한국의 지리에 대한 문제이다.
+서울을 제외하면 수도권에서 가장 큰 도시는 어디인가?
+A. 광명
+B. 용인
+C. 인천
+D. 수원
+","Next is the question of Korea's geography.
+Excluding Seoul, what is the largest city in the metropolitan area?
+A. Gwangmyeong
+B. Yongin
+C. Incheon
+D. Suwon
+"
+124,KIIP_geography_36,,"다음은 한국의 지리에 대한 문제이다.
+20세기, 인천은 어떤 역할을 담당해 왔는가?","['A. 농업 중심 도시', 'B. 산업 중심 도시', 'C. 항구 도시', 'D. 관광 도시']",C,"A. 농업 중심 도시
+B. 산업 중심 도시
+C. 항구 도시
+D. 관광 도시
+","다음은 한국의 지리에 대한 문제이다.
+20세기, 인천은 어떤 역할을 담당해 왔는가?
+A. 농업 중심 도시
+B. 산업 중심 도시
+C. 항구 도시
+D. 관광 도시
+","Next is the question of Korea's geography.
+What role has Incheon played in the 20th century?
+A. Agricultural-centered city
+B. Industrial city
+C. Port city
+D. Tourist city
+"
+125,KIIP_geography_37,,"다음은 한국의 지리에 대한 문제이다.
+한국 최대의 공항은 어디인가?","['A. 김포국제공항', 'B. 제주국제공항', 'C. 부산국제공항', 'D. 인천국제공항']",D,"A. 김포국제공항
+B. 제주국제공항
+C. 부산국제공항
+D. 인천국제공항
+","다음은 한국의 지리에 대한 문제이다.
+한국 최대의 공항은 어디인가?
+A. 김포국제공항
+B. 제주국제공항
+C. 부산국제공항
+D. 인천국제공항
+","Next is the question of Korea's geography.
+Where is the largest airport in Korea?
+A. Gimpo International Airport
+B. Jeju International Airport
+C. Busan International Airport
+D. Incheon International Airport
+"
+126,KIIP_geography_38,,"다음은 한국의 지리에 대한 문제이다.
+2014년에 어떤 대회가 인천에서 개최되었는가?","['A. 올림픽', 'B. 아시안게임', 'C. 세계축구선수권대회', 'D. 유니버시아드']",B,"A. 올림픽
+B. 아시안게임
+C. 세계축구선수권대회
+D. 유니버시아드
+","다음은 한국의 지리에 대한 문제이다.
+2014년에 어떤 대회가 인천에서 개최되었는가?
+A. 올림픽
+B. 아시안게임
+C. 세계축구선수권대회
+D. 유니버시아드
+","Next is the question of Korea's geography.
+What competitions were held in Incheon in 2014?
+A. Olympics
+B. Asian Games
+C. World Football Championship
+D. Universiade
+"
+127,KIIP_geography_39,,"다음은 한국의 지리에 대한 문제이다.
+강원도는 한반도의 어디에 위치해 있는가?","['A. 서쪽', 'B. 동쪽', 'C. 남쪽', 'D. 북쪽']",B,"A. 서쪽
+B. 동쪽
+C. 남쪽
+D. 북쪽
+","다음은 한국의 지리에 대한 문제이다.
+강원도는 한반도의 어디에 위치해 있는가?
+A. 서쪽
+B. 동쪽
+C. 남쪽
+D. 북쪽
+","Next is the question of Korea's geography.
+Where is Gangwon-do located on the Korean Peninsula?
+A. West
+B. East
+C. south
+D. north
+"
+128,KIIP_geography_40,,"다음은 한국의 지리에 대한 문제이다.
+강원도의 동쪽 지역을 무엇이라고 부르는가?","['A. 영서 지방', 'B. 영동 지방', 'C. 영남 지방', 'D. 영북 지방']",B,"A. 영서 지방
+B. 영동 지방
+C. 영남 지방
+D. 영북 지방
+","다음은 한국의 지리에 대한 문제이다.
+강원도의 동쪽 지역을 무엇이라고 부르는가?
+A. 영서 지방
+B. 영동 지방
+C. 영남 지방
+D. 영북 지방
+","Next is the question of Korea's geography.
+What is the eastern part of Gangwon-do called?
+A. Yeongseo region
+B. Yeongdong region
+C. Yeongnam region
+D. Yeongbuk region
+"
+129,KIIP_geography_41,,"다음은 한국의 지리에 대한 문제이다.
+강릉의 대표적인 문화유산은 무엇인가?","['A. 경포대', 'B. 오죽헌', 'C. 설악산', 'D. 삼척해변']",B,"A. 경포대
+B. 오죽헌
+C. 설악산
+D. 삼척해변
+","다음은 한국의 지리에 대한 문제이다.
+강릉의 대표적인 문화유산은 무엇인가?
+A. 경포대
+B. 오죽헌
+C. 설악산
+D. 삼척해변
+","Next is the question of Korea's geography.
+What are the representative cultural heritages of Gangneung?
+A. Gyeongpodae
+B. Ojukheon
+C. Seoraksan Mountain
+D. Samcheok Beach
+"
+130,KIIP_geography_42,,"다음은 한국의 지리에 대한 문제이다.
+강원도에는 어떤 시설이 많이 있는가?","['A. 수영장', 'B. 스키장', 'C. 야구장', 'D. 축구장']",B,"A. 수영장
+B. 스키장
+C. 야구장
+D. 축구장
+","다음은 한국의 지리에 대한 문제이다.
+강원도에는 어떤 시설이 많이 있는가?
+A. 수영장
+B. 스키장
+C. 야구장
+D. 축구장
+","Next is the question of Korea's geography.
+What kind of facilities are there in Gangwon-do?
+A. Swimming pool
+B. Ski resort
+C. Baseball field
+D. Soccer field
+"
+131,KIIP_geography_43,,"다음은 한국의 지리에 대한 문제이다.
+강원도의 지형적 특성으로 인해 어떤 불편함이 있었는가?","['A. 이동의 불편함', 'B. 농사짓기의 어려움', 'C. 통신의 어려움', 'D. 상업활동의 어려움']",A,"A. 이동의 불편함
+B. 농사짓기의 어려움
+C. 통신의 어려움
+D. 상업활동의 어려움
+","다음은 한국의 지리에 대한 문제이다.
+강원도의 지형적 특성으로 인해 어떤 불편함이 있었는가?
+A. 이동의 불편함
+B. 농사짓기의 어려움
+C. 통신의 어려움
+D. 상업활동의 어려움
+","Next is the question of Korea's geography.
+Were there any inconveniences due to the geographical characteristics of Gangwon-do?
+A. Inconvenience in movement
+B. Difficulties of farming
+C. Difficulties in communication
+D. Difficulties in commercial activities
+"
+132,KIIP_geography_44,,"다음은 한국의 지리에 대한 문제이다.
+강원도에 위치한 국립공원으로 지정된 산은 무엇인가?","['A. 설악산', 'B. 한라산', 'C. 지리산', 'D. 북한산']",A,"A. 설악산
+B. 한라산
+C. 지리산
+D. 북한산
+","다음은 한국의 지리에 대한 문제이다.
+강원도에 위치한 국립공원으로 지정된 산은 무엇인가?
+A. 설악산
+B. 한라산
+C. 지리산
+D. 북한산
+","Next is the question of Korea's geography.
+What mountain is designated as a national park located in Gangwon-do?
+A. Seoraksan Mountain
+B. Hallasan Mountain
+C. Jiri Mountain
+D. Bukhansan Mountain
+"
+133,KIIP_geography_45,,"다음은 한국의 지리에 대한 문제이다.
+20세기에는 어떤 산업이 강원도에서 매우 발달했었는가?","['A. 광산산업', 'B. 농업', 'C. 어업', 'D. 제조업']",A,"A. 광산산업
+B. 농업
+C. 어업
+D. 제조업
+","다음은 한국의 지리에 대한 문제이다.
+20세기에는 어떤 산업이 강원도에서 매우 발달했었는가?
+A. 광산산업
+B. 농업
+C. 어업
+D. 제조업
+","Next is the question of Korea's geography.
+What industries were highly developed in Gangwon-do in the 20th century?
+A. Mining industry
+B. Agriculture
+C. Fisheries
+D. Manufacturing
+"
+134,KIIP_geography_46,,"다음은 한국의 지리에 대한 문제이다.
+1993년에 대전에서 개최된 행사는 무엇인가?","['A. 세계과학엑스포', 'B. 세계문화엑스포', 'C. 세계경제포럼', 'D. 세계환경회의']",A,"A. 세계과학엑스포
+B. 세계문화엑스포
+C. 세계경제포럼
+D. 세계환경회의
+","다음은 한국의 지리에 대한 문제이다.
+1993년에 대전에서 개최된 행사는 무엇인가?
+A. 세계과학엑스포
+B. 세계문화엑스포
+C. 세계경제포럼
+D. 세계환경회의
+","Next is the question of Korea's geography.
+What event was held in Daejeon in 1993?
+A. World Science Expo
+B. World Culture Expo
+C. World Economic Forum
+D. World Environment Conference
+"
+135,KIIP_geography_47,,"다음은 한국의 지리에 대한 문제이다.
+어느 지역에 백제시대 문화를 엿볼 수 있는 유적이 많은가?","['A. 경상남도', 'B. 전라북도', 'C. 충청남도', 'D. 강원도']",C,"A. 경상남도
+B. 전라북도
+C. 충청남도
+D. 강원도
+","다음은 한국의 지리에 대한 문제이다.
+어느 지역에 백제시대 문화를 엿볼 수 있는 유적이 많은가?
+A. 경상남도
+B. 전라북도
+C. 충청남도
+D. 강원도
+","Next is the question of Korea's geography.
+In which region are there many relics that provide a glimpse into the culture of the Baekje period?
+A. Gyeongsangnam-do
+B. Jeollabuk-do
+C. Chungcheongnam-do
+D. Gangwon-do
+"
+136,KIIP_geography_48,,"다음은 한국의 지리에 대한 문제이다.
+주요 행정부처의 일부가 이전한 도시는 어디인가?","['A. 대구', 'B. 광주', 'C. 세종', 'D. 울산']",C,"A. 대구
+B. 광주
+C. 세종
+D. 울산
+","다음은 한국의 지리에 대한 문제이다.
+주요 행정부처의 일부가 이전한 도시는 어디인가?
+A. 대구
+B. 광주
+C. 세종
+D. 울산
+","Next is the question of Korea's geography.
+To which city did some of the major administrative agencies relocate?
+A. Daegu
+B. Gwangju
+C. Sejong
+D. Ulsan
+"
+137,KIIP_geography_49,,"다음은 한국의 지리에 대한 문제이다.
+충청북도에 위치한 철쭉이 많이 피어 많은 사람들이 찾는 산은 무엇인가?","['A. 한라산', 'B. 지리산', 'C. 소백산', 'D. 북한산']",C,"A. 한라산
+B. 지리산
+C. 소백산
+D. 북한산
+","다음은 한국의 지리에 대한 문제이다.
+충청북도에 위치한 철쭉이 많이 피어 많은 사람들이 찾는 산은 무엇인가?
+A. 한라산
+B. 지리산
+C. 소백산
+D. 북한산
+","Next is the question of Korea's geography.
+What mountain in Chungcheongbuk-do is visited by many people because of its abundant azalea blooms?
+A. Hallasan Mountain
+B. Jiri Mountain
+C. Sobaeksan Mountain
+D. Bukhansan Mountain
+"
+138,KIIP_geography_50,,"다음은 한국의 지리에 대한 문제이다.
+충청북도는 어느 지역과 접하지 않는가?","['A. 전라남도', 'B. 강원도', 'C. 전라북도', 'D. 경상북도']",A,"A. 전라남도
+B. 강원도
+C. 전라북도
+D. 경상북도
+","다음은 한국의 지리에 대한 문제이다.
+충청북도는 어느 지역과 접하지 않는가?
+A. 전라남도
+B. 강원도
+C. 전라북도
+D. 경상북도
+","Next is the question of Korea's geography.
+Which regions does Chungcheongbuk-do not border?
+A. Jeollanam-do
+B. Gangwon-do
+C. Jeollabuk-do
+D. Gyeongsangbuk-do
+"
+139,KIIP_geography_51,,"다음은 한국의 지리에 대한 문제이다.
+백제의 도읍지(수도)로 기능했던 두 도시는 무엇인가?","['A. 서울과 부산', 'B. 공주와 부여', 'C. 대전과 대구', 'D. 광주와 전주']",B,"A. 서울과 부산
+B. 공주와 부여
+C. 대전과 대구
+D. 광주와 전주
+","다음은 한국의 지리에 대한 문제이다.
+백제의 도읍지(수도)로 기능했던 두 도시는 무엇인가?
+A. 서울과 부산
+B. 공주와 부여
+C. 대전과 대구
+D. 광주와 전주
+","Next is the question of Korea's geography.
+What are the two cities that served as the capital of Baekje?
+A. Seoul and Busan
+B. Gongju and Buyeo
+C. Daejeon and Daegu
+D. Gwangju and Jeonju
+"
+140,KIIP_geography_52,,"다음은 한국의 지리에 대한 문제이다.
+충청남도에서는 어떤 농작물이 주로 재배되는가?","['A. 배, 포도, 사과', 'B. 밀, 콩, 옥수수', 'C. 감자, 고구마, 당근', 'D. 토마토, 오이, 상추']",A,"A. 배, 포도, 사과
+B. 밀, 콩, 옥수수
+C. 감자, 고구마, 당근
+D. 토마토, 오이, 상추
+","다음은 한국의 지리에 대한 문제이다.
+충청남도에서는 어떤 농작물이 주로 재배되는가?
+A. 배, 포도, 사과
+B. 밀, 콩, 옥수수
+C. 감자, 고구마, 당근
+D. 토마토, 오이, 상추
+","Next is the question of Korea's geography.
+What crops are mainly grown in Chungcheongnam-do?
+A. Pears, grapes, apples
+B. Wheat, soybeans, corn
+C. Potatoes, sweet potatoes, carrots
+D. Tomatoes, cucumbers, lettuce
+"
+141,KIIP_geography_53,,"다음은 한국의 지리에 대한 문제이다.
+충청지역의 대표적인 대도시는 어디인가?","['A. 서울', 'B. 부산', 'C. 대전', 'D. 인천']",C,"A. 서울
+B. 부산
+C. 대전
+D. 인천
+","다음은 한국의 지리에 대한 문제이다.
+충청지역의 대표적인 대도시는 어디인가?
+A. 서울
+B. 부산
+C. 대전
+D. 인천
+","Next is the question of Korea's geography.
+What is the representative large city in the Chungcheong region?
+A. Seoul
+B. Busan
+C. Daejeon
+D. Incheon
+"
+142,KIIP_geography_54,,"다음은 한국의 지리에 대한 문제이다.
+대전에서는 어떤 산업단지가 중요한 역할을 담당하고 있는가?","['A. 자동차 산업단지', 'B. 과학 산업단지', 'C. 식품 산업단지', 'D. 의료 산업단지']",B,"A. 자동차 산업단지
+B. 과학 산업단지
+C. 식품 산업단지
+D. 의료 산업단지
+","다음은 한국의 지리에 대한 문제이다.
+대전에서는 어떤 산업단지가 중요한 역할을 담당하고 있는가?
+A. 자동차 산업단지
+B. 과학 산업단지
+C. 식품 산업단지
+D. 의료 산업단지
+","Next is the question of Korea's geography.
+Which industrial complexes play an important role in Daejeon?
+A. Automotive industrial complex
+B. Science Industrial Complex
+C. Food industrial complex
+D. Medical industrial complex
+"
+143,KIIP_geography_55,,"다음은 한국의 지리에 대한 문제이다.
+경상지역은 한국의 어느 방향에 위치해 있는가?","['A. 북동쪽', 'B. 북서쪽', 'C. 남서쪽', 'D. 동남쪽']",D,"A. 북동쪽
+B. 북서쪽
+C. 남서쪽
+D. 동남쪽
+","다음은 한국의 지리에 대한 문제이다.
+경상지역은 한국의 어느 방향에 위치해 있는가?
+A. 북동쪽
+B. 북서쪽
+C. 남서쪽
+D. 동남쪽
+","Next is the question of Korea's geography.
+In which direction is the Gyeongsang region located in Korea?
+A. Northeast
+B. northwest
+C. southwest
+D. Southeast
+"
+144,KIIP_geography_56,,"다음은 한국의 지리에 대한 문제이다.
+경상지역에는 어떤 도시들이 포함되어 있는가?","['A. 서울, 인천, 대전', 'B. 부산, 대구, 울산', 'C. 광주, 전주, 목포', 'D. 청주, 대전, 세종']",B,"A. 서울, 인천, 대전
+B. 부산, 대구, 울산
+C. 광주, 전주, 목포
+D. 청주, 대전, 세종
+","다음은 한국의 지리에 대한 문제이다.
+경상지역에는 어떤 도시들이 포함되어 있는가?
+A. 서울, 인천, 대전
+B. 부산, 대구, 울산
+C. 광주, 전주, 목포
+D. 청주, 대전, 세종
+","Next is the question of Korea's geography.
+What cities are included in the Gyeongsang region?
+A. Seoul, Incheon, Daejeon
+B. Busan, Daegu, Ulsan
+C. Gwangju, Jeonju, Mokpo
+D. Cheongju, Daejeon, Sejong
+"
+145,KIIP_geography_57,,"다음은 한국의 지리에 대한 문제이다.
+경상지역에 속해 있는 섬은 무엇인가?","['A. 제주도와 울릉도', 'B. 독도와 울릉도', 'C. 강화도와 독도', 'D. 울릉도와 월미도']",B,"A. 제주도와 울릉도
+B. 독도와 울릉도
+C. 강화도와 독도
+D. 울릉도와 월미도
+","다음은 한국의 지리에 대한 문제이다.
+경상지역에 속해 있는 섬은 무엇인가?
+A. 제주도와 울릉도
+B. 독도와 울릉도
+C. 강화도와 독도
+D. 울릉도와 월미도
+","Next is the question of Korea's geography.
+What islands belong to the Gyeongsang region?
+A. Jeju Island and Ulleungdo
+B. Dokdo and Ulleungdo
+C. Ganghwado and Dokdo
+D. Ulleungdo and Wolmido
+"
+146,KIIP_geography_58,,"다음은 한국의 지리에 대한 문제이다.
+경상지역에서는 어떤 산업이 발달했는가?","['A. 농업', 'B. 서비스업', 'C. 광업', 'D. 공업']",D,"A. 농업
+B. 서비스업
+C. 광업
+D. 공업
+","다음은 한국의 지리에 대한 문제이다.
+경상지역에서는 어떤 산업이 발달했는가?
+A. 농업
+B. 서비스업
+C. 광업
+D. 공업
+","Next is the question of Korea's geography.
+What industries have developed in the Gyeongsang region?
+A. Agriculture
+B. Service industry
+C. Mining
+D. Industry
+"
+147,KIIP_geography_59,,"다음은 한국의 지리에 대한 문제이다.
+구미 지역에서는 어떤 산업이 크게 발달했는가?","['A. 섬유와 전자 산업', 'B. 자동차와 조선 산업', 'C. 농업과 어업', 'D. 광업과 제조업']",A,"A. 섬유와 전자 산업
+B. 자동차와 조선 산업
+C. 농업과 어업
+D. 광업과 제조업
+","다음은 한국의 지리에 대한 문제이다.
+구미 지역에서는 어떤 산업이 크게 발달했는가?
+A. 섬유와 전자 산업
+B. 자동차와 조선 산업
+C. 농업과 어업
+D. 광업과 제조업
+","Next is the question of Korea's geography.
+What industries have developed greatly in the Gumi region?
+A. Textile and electronics industry
+B. Automotive and shipbuilding industry
+C. Agriculture and Fisheries
+D. Mining and manufacturing
+"
+148,KIIP_geography_60,,"다음은 한국의 지리에 대한 문제이다.
+포항과 울산에서는 어떤 산업이 대표적인가?","['A. 제철소와 조선소 및 자동차 공장', 'B. 전자산업과 섬유산업', 'C. 농업과 어업', 'D. 광업과 제조업']",A,"A. 제철소와 조선소 및 자동차 공장
+B. 전자산업과 섬유산업
+C. 농업과 어업
+D. 광업과 제조업
+","다음은 한국의 지리에 대한 문제이다.
+포항과 울산에서는 어떤 산업이 대표적인가?
+A. 제철소와 조선소 및 자동차 공장
+B. 전자산업과 섬유산업
+C. 농업과 어업
+D. 광업과 제조업
+","Next is the question of Korea's geography.
+What industries are representative in Pohang and Ulsan?
+A. Steel mills, shipyards and automobile factories
+B. Electronics industry and textile industry
+C. Agriculture and Fisheries
+D. Mining and manufacturing
+"
+149,KIIP_geography_61,,"다음은 한국의 지리에 대한 문제이다.
+부산에서는 어떤 국제적인 행사가 열리는가?","['A. 부산 국제영화제', 'B. 부산 국제음악제', 'C. 부산 국제미술제', 'D. 부산 국제문학제']",A,"A. 부산 국제영화제
+B. 부산 국제음악제
+C. 부산 국제미술제
+D. 부산 국제문학제
+","다음은 한국의 지리에 대한 문제이다.
+부산에서는 어떤 국제적인 행사가 열리는가?
+A. 부산 국제영화제
+B. 부산 국제음악제
+C. 부산 국제미술제
+D. 부산 국제문학제
+","Next is the question of Korea's geography.
+What international events are held in Busan?
+A. Busan International Film Festival
+B. Busan International Music Festival
+C. Busan International Art Festival
+D. Busan International Literature Festival
+"
+150,KIIP_geography_62,,"다음은 한국의 지리에 대한 문제이다.
+경주는 어떤 시대의 문화유산이 많이 남아 있는가?","['A. 고구려', 'B. 백제', 'C. 신라', 'D. 조선']",C,"A. 고구려
+B. 백제
+C. 신라
+D. 조선
+","다음은 한국의 지리에 대한 문제이다.
+경주는 어떤 시대의 문화유산이 많이 남아 있는가?
+A. 고구려
+B. 백제
+C. 신라
+D. 조선
+","Next is the question of Korea's geography.
+What period of time does Gyeongju have a lot of cultural heritage?
+A. Goguryeo
+B. Baekje
+C. Silla
+D. Joseon
+"
+151,KIIP_geography_63,,"다음은 한국의 지리에 대한 문제이다.
+안동 지방은 어떤 시대의 문화유산이 많이 남아 있는가?","['A. 고구려', 'B. 백제', 'C. 신라', 'D. 조선']",D,"A. 고구려
+B. 백제
+C. 신라
+D. 조선
+","다음은 한국의 지리에 대한 문제이다.
+안동 지방은 어떤 시대의 문화유산이 많이 남아 있는가?
+A. 고구려
+B. 백제
+C. 신라
+D. 조선
+","Next is the question of Korea's geography.
+What period of cultural heritage remains in the Andong region?
+A. Goguryeo
+B. Baekje
+C. Silla
+D. Joseon
+"
+152,KIIP_geography_64,,"다음은 한국의 지리에 대한 문제이다.
+2002년에 부산에서 개최된 행사는 무엇인가?","['A. 아시안 게임', 'B. 세계육상선수권대회', 'C. 월드컵', 'D. 한류 드라마 촬영']",A,"A. 아시안 게임
+B. 세계육상선수권대회
+C. 월드컵
+D. 한류 드라마 촬영
+","다음은 한국의 지리에 대한 문제이다.
+2002년에 부산에서 개최된 행사는 무엇인가?
+A. 아시안 게임
+B. 세계육상선수권대회
+C. 월드컵
+D. 한류 드라마 촬영
+","Next is the question of Korea's geography.
+What event was held in Busan in 2002?
+A. Asian Games
+B. World Championships in Athletics
+C. World Cup
+D. Korean Wave Drama Filming
+"
+153,KIIP_geography_65,,"다음은 한국의 지리에 대한 문제이다.
+2013년에 대구에서 개최된 행사는 무엇인가?","['A. 아시안 게임', 'B. 세계육상선수권대회', 'C. 부산 국제영화제', 'D. 한류 드라마 촬영']",B,"A. 아시안 게임
+B. 세계육상선수권대회
+C. 부산 국제영화제
+D. 한류 드라마 촬영
+","다음은 한국의 지리에 대한 문제이다.
+2013년에 대구에서 개최된 행사는 무엇인가?
+A. 아시안 게임
+B. 세계육상선수권대회
+C. 부산 국제영화제
+D. 한류 드라마 촬영
+","Next is the question of Korea's geography.
+What events were held in Daegu in 2013?
+A. Asian Games
+B. World Championships in Athletics
+C. Busan International Film Festival
+D. Korean Wave Drama Filming
+"
+154,KIIP_geography_66,,"다음은 한국의 지리에 대한 문제이다.
+부산에서 BIFF 광장이 위치한 곳은 어디인가?","['A. 서면', 'B. 남포동', 'C. 해운대', 'D. 기장']",B,"A. 서면
+B. 남포동
+C. 해운대
+D. 기장
+","다음은 한국의 지리에 대한 문제이다.
+부산에서 BIFF 광장이 위치한 곳은 어디인가?
+A. 서면
+B. 남포동
+C. 해운대
+D. 기장
+","Next is the question of Korea's geography.
+Where is BIFF Square located in Busan?
+A. In writing
+B. Nampo-dong
+C. Haeundae
+D. millet
+"
+155,KIIP_geography_67,,"다음은 한국의 지리에 대한 문제이다.
+제주도의 가장 높은 산은 무엇인가?","['A. 설악산', 'B. 지리산', 'C. 백두산', 'D. 한라산']",D,"A. 설악산
+B. 지리산
+C. 백두산
+D. 한라산
+","다음은 한국의 지리에 대한 문제이다.
+제주도의 가장 높은 산은 무엇인가?
+A. 설악산
+B. 지리산
+C. 백두산
+D. 한라산
+","Next is the question of Korea's geography.
+What is the highest mountain in Jeju Island?
+A. Seoraksan Mountain
+B. Jiri Mountain
+C. Baekdu Mountain
+D. Hallasan Mountain
+"
+156,KIIP_geography_68,,"다음은 한국의 지리에 대한 문제이다.
+제주도에는 대략 몇 개의 오름이 있는가?","['A. 10개', 'B. 100개', 'C. 300개', 'D. 1000개']",C,"A. 10개
+B. 100개
+C. 300개
+D. 1000개
+","다음은 한국의 지리에 대한 문제이다.
+제주도에는 대략 몇 개의 오름이 있는가?
+A. 10개
+B. 100개
+C. 300개
+D. 1000개
+","Next is the question of Korea's geography.
+Approximately how many oreums are there on Jeju Island?
+A: 10
+B. 100
+C. 300
+D. 1000
+"
+157,KIIP_geography_69,,"다음은 한국의 지리에 대한 문제이다.
+제주도는 어떤 기구의 세계자연유산으로 선정되었는가?","['A. 유네스코', 'B. 세계보건기구', 'C. 국제통화기금', 'D. 세계무역기구']",A,"A. 유네스코
+B. 세계보건기구
+C. 국제통화기금
+D. 세계무역기구
+","다음은 한국의 지리에 대한 문제이다.
+제주도는 어떤 기구의 세계자연유산으로 선정되었는가?
+A. 유네스코
+B. 세계보건기구
+C. 국제통화기금
+D. 세계무역기구
+","Next is the question of Korea's geography.
+Jeju Island was selected as a World Natural Heritage by which organization?
+A. UNESCO
+B. World Health Organization
+C. International Monetary Fund
+D. World Trade Organization
+"
+158,KIIP_geography_70,,"다음은 한국의 지리에 대한 문제이다.
+제주 화산섬과 용암동굴에 포함되지 않는 것은 무엇인가?","['A. 한라산 천연보호구역', 'B. 성산일출봉', 'C. 거문오름', 'D. 남산']",D,"A. 한라산 천연보호구역
+B. 성산일출봉
+C. 거문오름
+D. 남산
+","다음은 한국의 지리에 대한 문제이다.
+제주 화산섬과 용암동굴에 포함되지 않는 것은 무엇인가?
+A. 한라산 천연보호구역
+B. 성산일출봉
+C. 거문오름
+D. 남산
+","Next is the question of Korea's geography.
+What is not included in Jeju volcanic islands and lava tubes?
+A. Hallasan Natural Reserve
+B. Seongsan Ilchulbong
+C. Geomun Oreum
+D. Namsan
+"
+159,KIIP_geography_71,,"다음은 한국의 지리에 대한 문제이다.
+전라지역은 어느 방향에 위치해 있는가?","['A. 서북부', 'B. 동북부', 'C. 서남부', 'D. 동남부']",C,"A. 서북부
+B. 동북부
+C. 서남부
+D. 동남부
+","다음은 한국의 지리에 대한 문제이다.
+전라지역은 어느 방향에 위치해 있는가?
+A. 서북부
+B. 동북부
+C. 서남부
+D. 동남부
+","Next is the question of Korea's geography.
+In which direction is the Jeolla region located?
+A. Northwest
+B. Northeast
+C. Southwest
+D. Southeast
+"
+160,KIIP_geography_72,,"다음은 한국의 지리에 대한 문제이다.
+전주는 어떤 건물이 잘 보존되어 유명한가?","['A. 전통한옥', 'B. 저층빌딩', 'C. 기찻길', 'D. 학교']",A,"A. 전통한옥
+B. 저층빌딩
+C. 기찻길
+D. 학교
+","다음은 한국의 지리에 대한 문제이다.
+전주는 어떤 건물이 잘 보존되어 유명한가?
+A. 전통한옥
+B. 저층빌딩
+C. 기찻길
+D. 학교
+","Next is the question of Korea's geography.
+What buildings in Jeonju are famous for being well-preserved?
+A. Traditional Hanok
+B. Low-rise building
+C. Train tracks
+D.School
+"
+161,KIIP_geography_73,,"다음은 한국의 지리에 대한 문제이다.
+다음 중 광주광역시와 광양시에서 발달한 공업은 무엇인가?","['A. 자동차와 제철', 'B. 전자와 반도체', 'C. 섬유와 의류', 'D. 식품과 음료']",A,"A. 자동차와 제철
+B. 전자와 반도체
+C. 섬유와 의류
+D. 식품과 음료
+","다음은 한국의 지리에 대한 문제이다.
+다음 중 광주광역시와 광양시에서 발달한 공업은 무엇인가?
+A. 자동차와 제철
+B. 전자와 반도체
+C. 섬유와 의류
+D. 식품과 음료
+","Next is the question of Korea's geography.
+Which of the following industries developed in Gwangju Metropolitan City and Gwangyang City?
+A. Automobiles and steel
+B. Electronics and semiconductors
+C. Textiles and Clothing
+D. Food and beverages
+"
+162,KIIP_geography_74,,"다음은 한국의 지리에 대한 문제이다.
+2010년대에 전라지역의 발전에 기여한 요인이 아닌 것은?","['A. 교통의 편리성', 'B. 인구증가', 'C. 기업의 진출', 'D. 전라지역 특산물의 홍보']",D,"A. 교통의 편리성
+B. 인구증가
+C. 기업의 진출
+D. 전라지역 특산물의 홍보
+","다음은 한국의 지리에 대한 문제이다.
+2010년대에 전라지역의 발전에 기여한 요인이 아닌 것은?
+A. 교통의 편리성
+B. 인구증가
+C. 기업의 진출
+D. 전라지역 특산물의 홍보
+","Next is the question of Korea's geography.
+Which of the following is not a factor that contributed to the development of the Jeolla region in the 2010s?
+A. Convenience of transportation
+B. Population increase
+C. Entry of companies
+D. Promotion of Jeolla region’s special products
+"
+163,KIIP_geography_75,,"다음은 한국의 지리에 대한 문제이다.
+한국에서 가장 큰 섬은 어디인가?","['A. 울릉도', 'B. 독도', 'C. 제주도', 'D. 거제도']",C,"A. 울릉도
+B. 독도
+C. 제주도
+D. 거제도
+","다음은 한국의 지리에 대한 문제이다.
+한국에서 가장 큰 섬은 어디인가?
+A. 울릉도
+B. 독도
+C. 제주도
+D. 거제도
+","Next is the question of Korea's geography.
+What is the largest island in Korea?
+A. Ulleungdo
+B. Dokdo
+C. Jeju Island
+D. Geoje Island
+"
+164,KIIP_geography_76,,"다음은 한국의 지리에 대한 문제이다.
+남한에서 가장 높은 산은 어디인가?","['A. 지리산', 'B. 설악산', 'C. 북한산', 'D. 한라산']",D,"A. 지리산
+B. 설악산
+C. 북한산
+D. 한라산
+","다음은 한국의 지리에 대한 문제이다.
+남한에서 가장 높은 산은 어디인가?
+A. 지리산
+B. 설악산
+C. 북한산
+D. 한라산
+","Next is the question of Korea's geography.
+What is the highest mountain in South Korea?
+A. Jiri Mountain
+B. Seoraksan Mountain
+C. Bukhansan Mountain
+D. Hallasan Mountain
+"
+165,KIIP_geography_77,,"다음은 한국의 지리에 대한 문제이다.
+예로부터 제주지역은 많다고 유명하여 관련 이야기가 많이 전해져 내려오는 대상은?","['A. 바람, 돌, 여자', 'B. 해변, 산, 동굴', 'C. 바다, 감귤, 돌하르방', 'D. 해녀, 돌담, 유채꽃']",A,"A. 바람, 돌, 여자
+B. 해변, 산, 동굴
+C. 바다, 감귤, 돌하르방
+D. 해녀, 돌담, 유채꽃
+","다음은 한국의 지리에 대한 문제이다.
+예로부터 제주지역은 많다고 유명하여 관련 이야기가 많이 전해져 내려오는 대상은?
+A. 바람, 돌, 여자
+B. 해변, 산, 동굴
+C. 바다, 감귤, 돌하르방
+D. 해녀, 돌담, 유채꽃
+","Next is the question of Korea's geography.
+Since ancient times, the Jeju region has been famous for its abundance, so what is it about which many stories are told?
+A. Wind, stone, woman
+B. Beaches, mountains, caves
+C. Sea, tangerines, Dolhareubang
+D. Haenyeo, stone walls, rape flowers
+"
+166,KIIP_geography_78,,"다음은 한국의 지리에 대한 문제이다.
+제주도가 한국의 대표적인 관광지가 된 이유가 아닌것은?","['A. 아름다운 자연경관과 따뜻한 날씨', 'B. 맛있는 음식과 친절한 사람들', 'C. 다양한 문화행사와 축제', 'D. 저렴한 숙박시설과 편리한 교통']",A,"A. 아름다운 자연경관과 따뜻한 날씨
+B. 맛있는 음식과 친절한 사람들
+C. 다양한 문화행사와 축제
+D. 저렴한 숙박시설과 편리한 교통
+","다음은 한국의 지리에 대한 문제이다.
+제주도가 한국의 대표적인 관광지가 된 이유가 아닌것은?
+A. 아름다운 자연경관과 따뜻한 날씨
+B. 맛있는 음식과 친절한 사람들
+C. 다양한 문화행사와 축제
+D. 저렴한 숙박시설과 편리한 교통
+","Next is the question of Korea's geography.
+Which of the following is not a reason why Jeju Island became a representative tourist destination in Korea?
+A. Beautiful natural scenery and warm weather
+B. Delicious food and friendly people
+C. Various cultural events and festivals
+D. Inexpensive accommodations and convenient transportation
+"
+167,KIIP_geography_79,,"다음은 한국의 지리에 대한 문제이다.
+강화도 갯벌은 어느 도시에 속해 있는가?","['A. 서울', 'B. 부산', 'C. 인천', 'D. 대구']",C,"A. 서울
+B. 부산
+C. 인천
+D. 대구
+","다음은 한국의 지리에 대한 문제이다.
+강화도 갯벌은 어느 도시에 속해 있는가?
+A. 서울
+B. 부산
+C. 인천
+D. 대구
+","Next is the question of Korea's geography.
+Which city does the Ganghwa Island mud flat belong to?
+A. Seoul
+B. Busan
+C. Incheon
+D. Daegu
+"
+168,KIIP_geography_80,,"다음은 한국의 지리에 대한 문제이다.
+아름다운 모래사장이 많은 지역은 어디인가?","['A. 강원지역의 동해안', 'B. 경상지역의 서해안', 'C. 경기지역의 남해안', 'D. 충청지역의 북해안']",A,"A. 강원지역의 동해안
+B. 경상지역의 서해안
+C. 경기지역의 남해안
+D. 충청지역의 북해안
+","다음은 한국의 지리에 대한 문제이다.
+아름다운 모래사장이 많은 지역은 어디인가?
+A. 강원지역의 동해안
+B. 경상지역의 서해안
+C. 경기지역의 남해안
+D. 충청지역의 북해안
+","Next is the question of Korea's geography.
+Where are the most beautiful sandy beaches?
+A. East coast of Gangwon region
+B. West coast of Gyeongsang region
+C. South coast of Gyeonggi region
+D. North coast of Chungcheong region
+"
+169,KIIP_geography_81,,"다음은 한국의 지리에 대한 문제이다.
+국내 최대의 자연 늪지인 우포늪은 어느 지역에 위치해 있는가?","['A. 강원지역', 'B. 충청지역', 'C. 경상지역', 'D. 전라지역']",C,"A. 강원지역
+B. 충청지역
+C. 경상지역
+D. 전라지역
+","다음은 한국의 지리에 대한 문제이다.
+국내 최대의 자연 늪지인 우포늪은 어느 지역에 위치해 있는가?
+A. 강원지역
+B. 충청지역
+C. 경상지역
+D. 전라지역
+","Next is the question of Korea's geography.
+In which area is Upo Wetland, the largest natural swamp in Korea, located?
+A. Gangwon area
+B. Chungcheong area
+C. Gyeongsang region
+D. Jeolla region
+"
+170,KIIP_geography_82,,"다음은 한국의 지리에 대한 문제이다.
+다음 중 충청북도 단양에 위치한 관광명소는 무엇인가?","['A. 우포늪', 'B. 명동', 'C. 고수동굴', 'D. 강화도 갯벌']",C,"A. 우포늪
+B. 명동
+C. 고수동굴
+D. 강화도 갯벌
+","다음은 한국의 지리에 대한 문제이다.
+다음 중 충청북도 단양에 위치한 관광명소는 무엇인가?
+A. 우포늪
+B. 명동
+C. 고수동굴
+D. 강화도 갯벌
+","Next is the question of Korea's geography.
+Which of the following tourist attractions is located in Danyang, Chungcheongbuk-do?
+A. Upo Wetland
+B. Myeongdong
+C. Gosu Cave
+D. Ganghwado mudflat
+"
+171,KIIP_geography_83,,"다음은 한국의 지리에 대한 문제이다.
+청계천은 어느 도시의 관광명소인가?","['A. 부산', 'B. 대구', 'C. 서울', 'D. 인천']",C,"A. 부산
+B. 대구
+C. 서울
+D. 인천
+","다음은 한국의 지리에 대한 문제이다.
+청계천은 어느 도시의 관광명소인가?
+A. 부산
+B. 대구
+C. 서울
+D. 인천
+","Next is the question of Korea's geography.
+In which city is Cheonggyecheon a tourist attraction?
+A. Busan
+B. Daegu
+C. Seoul
+D. Incheon
+"
+172,KIIP_geography_84,,"다음은 한국의 지리에 대한 문제이다.
+다음 중 남원에서 열리는 축제는 무엇인가?","['A. 세계인의 날', 'B. 도자기 엑스포', 'C. 군항제', 'D. 춘향제']",D,"A. 세계인의 날
+B. 도자기 엑스포
+C. 군항제
+D. 춘향제
+","다음은 한국의 지리에 대한 문제이다.
+다음 중 남원에서 열리는 축제는 무엇인가?
+A. 세계인의 날
+B. 도자기 엑스포
+C. 군항제
+D. 춘향제
+","Next is the question of Korea's geography.
+Which of the following festivals is held in Namwon?
+A. International People's Day
+B. Ceramics Expo
+C. Gunhangje
+D. Chunhyangje
+"
+173,KIIP_geography_85,,"다음은 한국의 지리에 대한 문제이다.
+이천에서 열리는 유명한 축제는 무엇인가?","['A. 세계 도자기 엑스포', 'B. 세계 꽃 박람회', 'C. 세계 음식 축제', 'D. 세계 미술 박람회']",A,"A. 세계 도자기 엑스포
+B. 세계 꽃 박람회
+C. 세계 음식 축제
+D. 세계 미술 박람회
+","다음은 한국의 지리에 대한 문제이다.
+이천에서 열리는 유명한 축제는 무엇인가?
+A. 세계 도자기 엑스포
+B. 세계 꽃 박람회
+C. 세계 음식 축제
+D. 세계 미술 박람회
+","Next is the question of Korea's geography.
+What are the famous festivals held in Icheon?
+A. World Ceramics Expo
+B. World Flower Expo
+C. World Food Festival
+D. World Art Fair
+"
+174,KIIP_geography_86,,"다음은 한국의 지리에 대한 문제이다.
+고양시에서 열리는 유명한 축제는 무엇인가?","['A. 세계 도자기 엑스포', 'B. 세계 꽃 박람회', 'C. 세계 음식 축제', 'D. 세계 미술 박람회']",B,"A. 세계 도자기 엑스포
+B. 세계 꽃 박람회
+C. 세계 음식 축제
+D. 세계 미술 박람회
+","다음은 한국의 지리에 대한 문제이다.
+고양시에서 열리는 유명한 축제는 무엇인가?
+A. 세계 도자기 엑스포
+B. 세계 꽃 박람회
+C. 세계 음식 축제
+D. 세계 미술 박람회
+","Next is the question of Korea's geography.
+What are the famous festivals held in Goyang City?
+A. World Ceramics Expo
+B. World Flower Expo
+C. World Food Festival
+D. World Art Fair
+"
+175,KIIP_geography_87,,"다음은 한국의 지리에 대한 문제이다.
+매년 가을에 열리는 어떤 행사가 예약을 해야만 관람이 가능한가?","['A. 경복궁, 창덕궁, 덕수궁의 야간개장 행사', 'B. 서울 무형 문화제 축제', 'C. 하이 서울 페스티벌', 'D. 세계 도자기 엑스포']",A,"A. 경복궁, 창덕궁, 덕수궁의 야간개장 행사
+B. 서울 무형 문화제 축제
+C. 하이 서울 페스티벌
+D. 세계 도자기 엑스포
+","다음은 한국의 지리에 대한 문제이다.
+매년 가을에 열리는 어떤 행사가 예약을 해야만 관람이 가능한가?
+A. 경복궁, 창덕궁, 덕수궁의 야간개장 행사
+B. 서울 무형 문화제 축제
+C. 하이 서울 페스티벌
+D. 세계 도자기 엑스포
+","Next is the question of Korea's geography.
+Which event held every fall requires a reservation to attend?
+A. Night opening events at Gyeongbokgung Palace, Changdeokgung Palace, and Deoksugung Palace
+B. Seoul Intangible Culture Festival
+C. Hi Seoul Festival
+D. World Ceramics Expo
+"
+176,KIIP_geography_88,,"다음은 한국의 지리에 대한 문제이다.
+대관령과 태백산에서 겨울에 열리는 축제는 무엇인가?","['A. 눈꽃 축제', 'B. 해돋이 축제', 'C. 세계 도자기 엑스포', 'D. 머드 축제']",A,"A. 눈꽃 축제
+B. 해돋이 축제
+C. 세계 도자기 엑스포
+D. 머드 축제
+","다음은 한국의 지리에 대한 문제이다.
+대관령과 태백산에서 겨울에 열리는 축제는 무엇인가?
+A. 눈꽃 축제
+B. 해돋이 축제
+C. 세계 도자기 엑스포
+D. 머드 축제
+","Next is the question of Korea's geography.
+What festivals are held in Daegwallyeong and Taebaek Mountain in winter?
+A. Snow Festival
+B. Sunrise Festival
+C. World Ceramics Expo
+D. Mud Festival
+"
+177,KIIP_geography_89,,"다음은 한국의 지리에 대한 문제이다.
+충청남도 부여군과 공주시에서 매년 개최하는 축제는 무엇인가?","['A. 백제 문화제', 'B. 세계 도자기 엑스포', 'C. 해돋이 축제', 'D. 머드 축제']",A,"A. 백제 문화제
+B. 세계 도자기 엑스포
+C. 해돋이 축제
+D. 머드 축제
+","다음은 한국의 지리에 대한 문제이다.
+충청남도 부여군과 공주시에서 매년 개최하는 축제는 무엇인가?
+A. 백제 문화제
+B. 세계 도자기 엑스포
+C. 해돋이 축제
+D. 머드 축제
+","Next is the question of Korea's geography.
+What festivals are held every year in Buyeo-gun and Gongju-si, Chungcheongnam-do?
+A. Baekje Cultural Festival
+B. World Ceramics Expo
+C. Sunrise Festival
+D. Mud Festival
+"
+178,KIIP_geography_90,,"다음은 한국의 지리에 대한 문제이다.
+울릉도에서 열리는 축제는 무엇인가?","['A. 오징어 축제', 'B. 한산대첩 축제', 'C. 군항제', 'D. 탈춤 페스티벌']",A,"A. 오징어 축제
+B. 한산대첩 축제
+C. 군항제
+D. 탈춤 페스티벌
+","다음은 한국의 지리에 대한 문제이다.
+울릉도에서 열리는 축제는 무엇인가?
+A. 오징어 축제
+B. 한산대첩 축제
+C. 군항제
+D. 탈춤 페스티벌
+","Next is the question of Korea's geography.
+What festivals are held on Ulleungdo?
+A. Squid Festival
+B. Hansan Battle Festival
+C. Gunhangje
+D. Talchum Festival
+"
+179,KIIP_geography_91,,"다음은 한국의 지리에 대한 문제이다.
+전라지역에서 열리는 음식 문화와 관련된 축제는 무엇인가?","['A. 남도 음식 문화 큰잔치', 'B. 전주 세계 소리 축제', 'C. 남원 춘향제', 'D. 울릉도 오징어 축제']",A,"A. 남도 음식 문화 큰잔치
+B. 전주 세계 소리 축제
+C. 남원 춘향제
+D. 울릉도 오징어 축제
+","다음은 한국의 지리에 대한 문제이다.
+전라지역에서 열리는 음식 문화와 관련된 축제는 무엇인가?
+A. 남도 음식 문화 큰잔치
+B. 전주 세계 소리 축제
+C. 남원 춘향제
+D. 울릉도 오징어 축제
+","Next is the question of Korea's geography.
+What are the festivals related to food culture held in the Jeolla region?
+A. Southern Food Culture Festival
+B. Jeonju World Sound Festival
+C. Namwon Chunhyang Festival
+D. Ulleungdo Squid Festival
+"
+180,KIIP_geography_92,,"다음은 한국의 지리에 대한 문제이다.
+전라남도에서 열리는 해넘이해맞이 축제는 어디에서 열리는가?","['A. 벌교', 'B. 순천만', 'C. 땅 끝 마을', 'D. 남원']",C,"A. 벌교
+B. 순천만
+C. 땅 끝 마을
+D. 남원
+","다음은 한국의 지리에 대한 문제이다.
+전라남도에서 열리는 해넘이해맞이 축제는 어디에서 열리는가?
+A. 벌교
+B. 순천만
+C. 땅 끝 마을
+D. 남원
+","Next is the question of Korea's geography.
+Where is the Sunset Sunrise Festival held in Jeollanam-do?
+A. Beolgyo
+B. Suncheon Bay
+C. Village at the End of the Earth
+D. Namwon
+"

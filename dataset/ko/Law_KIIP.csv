@@ -1,0 +1,919 @@
+index,id,paragraph,question,choices,answer,options,ko,en
+470,KIIP_law_1,,"다음은 한국사회의 법에 대한 문제이다.
+외국인 중 어떤 사람들이 기간 제한 없이 한국에 머무를 수 있는가?","['A. 영주권을 신청한 사람들', 'B. 한국을 좋아하는 사람들', 'C. 한국에 투자한 사람들', 'D. 한국어를 유창하게 구사하는 사람들']",A,"A. 영주권을 신청한 사람들
+B. 한국을 좋아하는 사람들
+C. 한국에 투자한 사람들
+D. 한국어를 유창하게 구사하는 사람들
+","다음은 한국사회의 법에 대한 문제이다.
+외국인 중 어떤 사람들이 기간 제한 없이 한국에 머무를 수 있는가?
+A. 영주권을 신청한 사람들
+B. 한국을 좋아하는 사람들
+C. 한국에 투자한 사람들
+D. 한국어를 유창하게 구사하는 사람들
+","Next is the issue of law in Korean society.
+Which foreigners can stay in Korea for an unlimited period of time?
+A. People who applied for permanent residency
+B. People who like Korea
+C. People who invested in Korea
+D. People who speak Korean fluently
+"
+471,KIIP_law_2,,"다음은 한국사회의 법에 대한 문제이다.
+한국에서 VISA는 어떤 용어로 불리는가?","['A. 여권', 'B. 사증', 'C. 체류증', 'D. 입국증']",B,"A. 여권
+B. 사증
+C. 체류증
+D. 입국증
+","다음은 한국사회의 법에 대한 문제이다.
+한국에서 VISA는 어떤 용어로 불리는가?
+A. 여권
+B. 사증
+C. 체류증
+D. 입국증
+","Next is the issue of law in Korean society.
+What term is VISA called in Korea?
+A. Passport
+B. Visa
+C. Residence permit
+D. Entry card
+"
+472,KIIP_law_3,,"다음은 한국사회의 법에 대한 문제이다.
+서울 외에 어떤 지역에도 외국인 마을이 있는가?","['A. 경기도 안산의 국경 없는 마을과 인천의 차이나 타운', 'B. 부산의 러시아 마을과 대구의 베트남 마을', 'C. 광주의 미국 마을과 대전의 중국 마을', 'D. 제주도의 일본 마을과 울산의 필리핀 마을']",A,"A. 경기도 안산의 국경 없는 마을과 인천의 차이나 타운
+B. 부산의 러시아 마을과 대구의 베트남 마을
+C. 광주의 미국 마을과 대전의 중국 마을
+D. 제주도의 일본 마을과 울산의 필리핀 마을
+","다음은 한국사회의 법에 대한 문제이다.
+서울 외에 어떤 지역에도 외국인 마을이 있는가?
+A. 경기도 안산의 국경 없는 마을과 인천의 차이나 타운
+B. 부산의 러시아 마을과 대구의 베트남 마을
+C. 광주의 미국 마을과 대전의 중국 마을
+D. 제주도의 일본 마을과 울산의 필리핀 마을
+","Next is the issue of law in Korean society.
+Are there any foreign villages outside of Seoul?
+A. Borderless Village in Ansan, Gyeonggi-do and Chinatown in Incheon
+B. Russian village in Busan and Vietnamese village in Daegu
+C. American Village in Gwangju and Chinese Village in Daejeon
+D. Japanese village in Jeju Island and Philippine village in Ulsan
+"
+473,KIIP_law_4,,"다음은 한국사회의 법에 대한 문제이다.
+서울의 어느 지역에 이슬람 마을이 위치해 있는가?","['A. 구로구 가리봉동', 'B. 용산구 이태원동', 'C. 서초구 방배동', 'D. 동대문구 광희동']",B,"A. 구로구 가리봉동
+B. 용산구 이태원동
+C. 서초구 방배동
+D. 동대문구 광희동
+","다음은 한국사회의 법에 대한 문제이다.
+서울의 어느 지역에 이슬람 마을이 위치해 있는가?
+A. 구로구 가리봉동
+B. 용산구 이태원동
+C. 서초구 방배동
+D. 동대문구 광희동
+","Next is the issue of law in Korean society.
+In which area of ​​Seoul is the Islamic village located?
+A. Garibong-dong, Guro-gu
+B. Itaewon-dong, Yongsan-gu
+C. Bangbae-dong, Seocho-gu
+D. Gwanghui-dong, Dongdaemun-gu
+"
+474,KIIP_law_5,,"다음은 한국사회의 법에 대한 문제이다.
+경기도 안산에는 어떤 외국인 마을이 있는가?","['A. 국경 없는 마을', 'B. 차이나 타운', 'C. 일본마을', 'D. 몽고마을']",A,"A. 국경 없는 마을
+B. 차이나 타운
+C. 일본마을
+D. 몽고마을
+","다음은 한국사회의 법에 대한 문제이다.
+경기도 안산에는 어떤 외국인 마을이 있는가?
+A. 국경 없는 마을
+B. 차이나 타운
+C. 일본마을
+D. 몽고마을
+","Next is the issue of law in Korean society.
+What foreign villages are there in Ansan, Gyeonggi-do?
+A. Village without borders
+B. Chinatown
+C. Japanese Village
+D. Mongolian Village
+"
+475,KIIP_law_6,,"다음은 한국사회의 법에 대한 문제이다.
+브라서 마리 헬렌씨가 한국에서 무료 진료소를 열었던 장소는 어디인가?","['A. 서울 강남구', 'B. 서울 종로구', 'C. 서울 시흥동', 'D. 서울 동대문구']",C,"A. 서울 강남구
+B. 서울 종로구
+C. 서울 시흥동
+D. 서울 동대문구
+","다음은 한국사회의 법에 대한 문제이다.
+브라서 마리 헬렌씨가 한국에서 무료 진료소를 열었던 장소는 어디인가?
+A. 서울 강남구
+B. 서울 종로구
+C. 서울 시흥동
+D. 서울 동대문구
+","Next is the issue of law in Korean society.
+Where did Bracer Marie Helen open a free clinic in Korea?
+A. Gangnam-gu, Seoul
+B. Jongno-gu, Seoul
+C. Siheung-dong, Seoul
+D. Dongdaemun-gu, Seoul
+"
+476,KIIP_law_7,,"다음은 한국사회의 법에 대한 문제이다.
+엄넬리 박사가 설립한 학교의 이름은 무엇인가?","['A. 한민족학교', 'B. 한국어학교', 'C. 한국문화학교', 'D. 한국사학교']",A,"A. 한민족학교
+B. 한국어학교
+C. 한국문화학교
+D. 한국사학교
+","다음은 한국사회의 법에 대한 문제이다.
+엄넬리 박사가 설립한 학교의 이름은 무엇인가?
+A. 한민족학교
+B. 한국어학교
+C. 한국문화학교
+D. 한국사학교
+","Next is the issue of law in Korean society.
+What is the name of the school founded by Dr. Umneli?
+A. Korean School
+B. Korean Language School
+C. Korean Culture School
+D. Korean History School
+"
+477,KIIP_law_8,,"다음은 한국사회의 법에 대한 문제이다.
+한국에서는 한 사건에 대해 몇 번까지 재판을 받을 수 있도록 하고 있는가?","['A. 1번', 'B. 2번', 'C. 3번', 'D. 4번']",C,"A. 1번
+B. 2번
+C. 3번
+D. 4번
+","다음은 한국사회의 법에 대한 문제이다.
+한국에서는 한 사건에 대해 몇 번까지 재판을 받을 수 있도록 하고 있는가?
+A. 1번
+B. 2번
+C. 3번
+D. 4번
+","Next is the issue of law in Korean society.
+How many times can a case be tried in Korea?
+A. No. 1
+B. No. 2
+C. No. 3
+D. No. 4
+"
+478,KIIP_law_9,,"다음은 한국사회의 법에 대한 문제이다.
+1심 재판은 어디에서 이루어지는가?","['A. 대법원', 'B. 고등법원', 'C. 지방법원', 'D. 헌법재판소']",C,"A. 대법원
+B. 고등법원
+C. 지방법원
+D. 헌법재판소
+","다음은 한국사회의 법에 대한 문제이다.
+1심 재판은 어디에서 이루어지는가?
+A. 대법원
+B. 고등법원
+C. 지방법원
+D. 헌법재판소
+","Next is the issue of law in Korean society.
+Where is the first trial held?
+A. Supreme Court
+B. High Court
+C. District Court
+D. Constitutional Court
+"
+479,KIIP_law_10,,"다음은 한국사회의 법에 대한 문제이다.
+한국에서 법을 집행하는 기관은 무엇인가?","['A. 경찰과 검찰', 'B. 국회', 'C. 정부', 'D. 헌법재판소']",A,"A. 경찰과 검찰
+B. 국회
+C. 정부
+D. 헌법재판소
+","다음은 한국사회의 법에 대한 문제이다.
+한국에서 법을 집행하는 기관은 무엇인가?
+A. 경찰과 검찰
+B. 국회
+C. 정부
+D. 헌법재판소
+","Next is the issue of law in Korean society.
+What agencies enforce the law in Korea?
+A. Police and prosecutors
+B. National Assembly
+C. Government
+D. Constitutional Court
+"
+480,KIIP_law_11,,"다음은 한국사회의 법에 대한 문제이다.
+경찰의 도움을 받기 위해 어떤 전화번호로 신고를 할 수 있는가?","['A. 119', 'B. 112', 'C. 114', 'D. 120']",B,"A. 119
+B. 112
+C. 114
+D. 120
+","다음은 한국사회의 법에 대한 문제이다.
+경찰의 도움을 받기 위해 어떤 전화번호로 신고를 할 수 있는가?
+A. 119
+B. 112
+C. 114
+D. 120
+","Next is the issue of law in Korean society.
+What phone number can I call to get police help?
+A.119
+B.112
+C.114
+D.120
+"
+481,KIIP_law_12,,"다음은 한국사회의 법에 대한 문제이다.
+대한민국 검찰의 주요 역할은 무엇인가?","['A. 범죄를 수사하고 법을 집행하는 일', 'B. 국민의 생명과 신체, 재산의 보호', 'C. 교통 단속과 위해 방지', 'D. 질서유지']",A,"A. 범죄를 수사하고 법을 집행하는 일
+B. 국민의 생명과 신체, 재산의 보호
+C. 교통 단속과 위해 방지
+D. 질서유지
+","다음은 한국사회의 법에 대한 문제이다.
+대한민국 검찰의 주요 역할은 무엇인가?
+A. 범죄를 수사하고 법을 집행하는 일
+B. 국민의 생명과 신체, 재산의 보호
+C. 교통 단속과 위해 방지
+D. 질서유지
+","Next is the issue of law in Korean society.
+What is the main role of prosecutors in Korea?
+A. Investigating crimes and enforcing the law
+B. Protection of people’s lives, bodies, and property
+C. Traffic enforcement and harm prevention
+D. Maintaining order
+"
+482,KIIP_law_13,,"다음은 한국사회의 법에 대한 문제이다.
+법집행 기관의 수사 결과, 용의자의 법 위반 사실이 있다고 판단될 경우 어떤 조치를 취하는가?","['A. 범죄자를 직접 처벌한다', 'B. 범죄자를 처벌해 달라고 법원에 재판을 신청한다', 'C. 범죄자를 경찰에게 인계한다', 'D. 범죄자를 해외로 추방한다']",B,"A. 범죄자를 직접 처벌한다
+B. 범죄자를 처벌해 달라고 법원에 재판을 신청한다
+C. 범죄자를 경찰에게 인계한다
+D. 범죄자를 해외로 추방한다
+","다음은 한국사회의 법에 대한 문제이다.
+법집행 기관의 수사 결과, 용의자의 법 위반 사실이 있다고 판단될 경우 어떤 조치를 취하는가?
+A. 범죄자를 직접 처벌한다
+B. 범죄자를 처벌해 달라고 법원에 재판을 신청한다
+C. 범죄자를 경찰에게 인계한다
+D. 범죄자를 해외로 추방한다
+","Next is the issue of law in Korean society.
+As a result of the law enforcement agency's investigation, what actions are taken if it is determined that the suspect has violated the law?
+A. Punish criminals directly
+B. Apply to the court to punish the criminal
+C. Hand over the criminal to the police
+D. Deport criminals abroad
+"
+483,KIIP_law_14,,"다음은 한국사회의 법에 대한 문제이다.
+3심 재판은 어디에서 이루어지는가?","['A. 지방법원', 'B. 고등법원', 'C. 대법원', 'D. 헌법재판소']",C,"A. 지방법원
+B. 고등법원
+C. 대법원
+D. 헌법재판소
+","다음은 한국사회의 법에 대한 문제이다.
+3심 재판은 어디에서 이루어지는가?
+A. 지방법원
+B. 고등법원
+C. 대법원
+D. 헌법재판소
+","Next is the issue of law in Korean society.
+Where does the third trial take place?
+A. District Court
+B. High Court
+C. Supreme Court
+D. Constitutional Court
+"
+484,KIIP_law_15,,"다음은 한국사회의 법에 대한 문제이다.
+특별사법경찰관이란 무엇인가?","['A. 경찰의 일종', 'B. 법에 의해 사법경찰관의 직무를 행하는 자', 'C. 범죄자에 대한 처벌을 요구하는 자', 'D. 수사를 지휘하는 자']",B,"A. 경찰의 일종
+B. 법에 의해 사법경찰관의 직무를 행하는 자
+C. 범죄자에 대한 처벌을 요구하는 자
+D. 수사를 지휘하는 자
+","다음은 한국사회의 법에 대한 문제이다.
+특별사법경찰관이란 무엇인가?
+A. 경찰의 일종
+B. 법에 의해 사법경찰관의 직무를 행하는 자
+C. 범죄자에 대한 처벌을 요구하는 자
+D. 수사를 지휘하는 자
+","Next is the issue of law in Korean society.
+What is a special judicial police officer?
+A. A type of police officer
+B. A person who performs the duties of a judicial police officer in accordance with the law
+C. Those who demand punishment for criminals
+D. Person directing the investigation
+"
+485,KIIP_law_16,,"다음은 한국사회의 법에 대한 문제이다.
+특별사법경찰관이 경찰의 역할을 수행하는 경우는 어떤 경우인가?","['A. 경찰이 직접 직무를 수행하기 힘든 전문적인 분야', 'B. 범죄자에 대한 처벌을 요구하는 경우', 'C. 재판을 법원에 청구하는 경우', 'D. 수사를 지휘하는 경우']",A,"A. 경찰이 직접 직무를 수행하기 힘든 전문적인 분야
+B. 범죄자에 대한 처벌을 요구하는 경우
+C. 재판을 법원에 청구하는 경우
+D. 수사를 지휘하는 경우
+","다음은 한국사회의 법에 대한 문제이다.
+특별사법경찰관이 경찰의 역할을 수행하는 경우는 어떤 경우인가?
+A. 경찰이 직접 직무를 수행하기 힘든 전문적인 분야
+B. 범죄자에 대한 처벌을 요구하는 경우
+C. 재판을 법원에 청구하는 경우
+D. 수사를 지휘하는 경우
+","Next is the issue of law in Korean society.
+In what cases do special judicial police officers perform the role of police officers?
+A. Professional fields where it is difficult for police officers to perform their duties directly
+B. When demanding punishment for criminals
+C. When requesting a trial to the court
+D. When directing an investigation
+"
+486,KIIP_law_17,,"다음은 한국사회의 법에 대한 문제이다.
+출입국관리사무소나 세관의 담당 직원들이 하는 역할은 무엇인가?","['A. 경찰을 대신해 직접 수사하는 것', 'B. 범죄자에 대한 처벌을 요구하는 것', 'C. 재판을 법원에 청구하는 것', 'D. 수사를 지휘하는 것']",A,"A. 경찰을 대신해 직접 수사하는 것
+B. 범죄자에 대한 처벌을 요구하는 것
+C. 재판을 법원에 청구하는 것
+D. 수사를 지휘하는 것
+","다음은 한국사회의 법에 대한 문제이다.
+출입국관리사무소나 세관의 담당 직원들이 하는 역할은 무엇인가?
+A. 경찰을 대신해 직접 수사하는 것
+B. 범죄자에 대한 처벌을 요구하는 것
+C. 재판을 법원에 청구하는 것
+D. 수사를 지휘하는 것
+","Next is the issue of law in Korean society.
+What is the role of employees at the immigration office or customs office?
+A. Direct investigation on behalf of the police
+B. Demanding punishment for criminals
+C. Requesting a court trial
+D. Directing the investigation
+"
+487,KIIP_law_18,,"다음은 한국사회의 법에 대한 문제이다.
+부동산 계약을 할 때 반드시 확인해야 하는 것은 무엇인가?","['A. 계약서와 함께 해당 부동산의 등기부등본', 'B. 계약서와 함께 해당 부동산의 가격', 'C. 계약서와 함께 해당 부동산의 위치', 'D. 계약서와 함께 해당 부동산의 크기']",A,"A. 계약서와 함께 해당 부동산의 등기부등본
+B. 계약서와 함께 해당 부동산의 가격
+C. 계약서와 함께 해당 부동산의 위치
+D. 계약서와 함께 해당 부동산의 크기
+","다음은 한국사회의 법에 대한 문제이다.
+부동산 계약을 할 때 반드시 확인해야 하는 것은 무엇인가?
+A. 계약서와 함께 해당 부동산의 등기부등본
+B. 계약서와 함께 해당 부동산의 가격
+C. 계약서와 함께 해당 부동산의 위치
+D. 계약서와 함께 해당 부동산의 크기
+","Next is the issue of law in Korean society.
+What must be checked when signing a real estate contract?
+A. A copy of the register of the relevant real estate along with the contract.
+B. The price of the property together with the contract
+C. Location of the property along with the contract
+D. Size of the property along with the contract
+"
+488,KIIP_law_19,,"다음은 한국사회의 법에 대한 문제이다.
+법무사의 역할은 무엇인가?","['A. 법원이나 검찰 등에 내야 하는 서류를 대신해서 작성한다', 'B. 재산 문제에 관한 재판을 한다', 'C. 계약서를 작성한다', 'D. 각종 계약을 대신 해준다']",A,"A. 법원이나 검찰 등에 내야 하는 서류를 대신해서 작성한다
+B. 재산 문제에 관한 재판을 한다
+C. 계약서를 작성한다
+D. 각종 계약을 대신 해준다
+","다음은 한국사회의 법에 대한 문제이다.
+법무사의 역할은 무엇인가?
+A. 법원이나 검찰 등에 내야 하는 서류를 대신해서 작성한다
+B. 재산 문제에 관한 재판을 한다
+C. 계약서를 작성한다
+D. 각종 계약을 대신 해준다
+","Next is the issue of law in Korean society.
+What is the role of a legal practitioner?
+A. Prepare documents on behalf of the court or prosecutor's office, etc.
+B. Held trials on property matters
+C. Write a contract
+D. We carry out various contracts on your behalf.
+"
+489,KIIP_law_20,,"다음은 한국사회의 법에 대한 문제이다.
+한국에서 결혼을 하기 위한 최소 나이는 몇 세인가?","['A. 16세', 'B. 17세', 'C. 18세', 'D. 19세']",C,"A. 16세
+B. 17세
+C. 18세
+D. 19세
+","다음은 한국사회의 법에 대한 문제이다.
+한국에서 결혼을 하기 위한 최소 나이는 몇 세인가?
+A. 16세
+B. 17세
+C. 18세
+D. 19세
+","Next is the issue of law in Korean society.
+What is the minimum age to get married in Korea?
+A. 16 years old
+B. 17 years old
+C. 18 years old
+D. 19 years old
+"
+490,KIIP_law_21,,"다음은 한국사회의 법에 대한 문제이다.
+합의 없이 이혼을 진행할 수 없는 경우는 어떤 경우인가?","['A. 상대방이 자녀를 학대하는 경우', 'B. 상대방이 재산을 숨기는 경우', 'C. 배우자의 의무를 이행하지 않는 경우', 'D. 상대방이 외도를 하는 경우']",B,"A. 상대방이 자녀를 학대하는 경우
+B. 상대방이 재산을 숨기는 경우
+C. 배우자의 의무를 이행하지 않는 경우
+D. 상대방이 외도를 하는 경우
+","다음은 한국사회의 법에 대한 문제이다.
+합의 없이 이혼을 진행할 수 없는 경우는 어떤 경우인가?
+A. 상대방이 자녀를 학대하는 경우
+B. 상대방이 재산을 숨기는 경우
+C. 배우자의 의무를 이행하지 않는 경우
+D. 상대방이 외도를 하는 경우
+","Next is the issue of law in Korean society.
+In what cases can divorce proceed without agreement?
+A. When the other person abuses the child
+B. When the other party hides assets
+C. Failure to fulfill spouse's obligations
+D. When the other person is having an affair
+"
+491,KIIP_law_22,,"다음은 한국사회의 법에 대한 문제이다.
+전세나 월세로 사는 사람을 보호하는 법은 무엇인가?","['A. 주택임대차 보호법', 'B. 주택임대차 보호규칙', 'C. 주택임대차 보호조례', 'D. 주택임대차 보호지침']",A,"A. 주택임대차 보호법
+B. 주택임대차 보호규칙
+C. 주택임대차 보호조례
+D. 주택임대차 보호지침
+","다음은 한국사회의 법에 대한 문제이다.
+전세나 월세로 사는 사람을 보호하는 법은 무엇인가?
+A. 주택임대차 보호법
+B. 주택임대차 보호규칙
+C. 주택임대차 보호조례
+D. 주택임대차 보호지침
+","Next is the issue of law in Korean society.
+What are the laws that protect people who live on jeonse or monthly rent?
+A. Housing Lease Protection Act
+B. Housing rental protection rules
+C. Housing Lease Protection Ordinance
+D. Housing Lease Protection Guidelines
+"
+492,KIIP_law_23,,"다음은 한국사회의 법에 대한 문제이다.
+임대차 계약의 보통 기간은 얼마인가?","['A. 1년', 'B. 2년', 'C. 3년', 'D. 4년']",B,"A. 1년
+B. 2년
+C. 3년
+D. 4년
+","다음은 한국사회의 법에 대한 문제이다.
+임대차 계약의 보통 기간은 얼마인가?
+A. 1년
+B. 2년
+C. 3년
+D. 4년
+","Next is the issue of law in Korean society.
+What is the typical length of a rental agreement?
+A. 1 year
+B. 2 years
+C. 3 years
+D. 4 years
+"
+493,KIIP_law_24,,"다음은 한국사회의 법에 대한 문제이다.
+이혼 후 자녀를 키우지 않게 된 쪽이 자녀와 만날 수 있는가?","['A. 제한된 범위 내에서 허용된다', 'B. 전혀 만날 수 없다', 'C. 자유롭게 만날 수 있다', 'D. 가정법원의 결정에 따른다']",A,"A. 제한된 범위 내에서 허용된다
+B. 전혀 만날 수 없다
+C. 자유롭게 만날 수 있다
+D. 가정법원의 결정에 따른다
+","다음은 한국사회의 법에 대한 문제이다.
+이혼 후 자녀를 키우지 않게 된 쪽이 자녀와 만날 수 있는가?
+A. 제한된 범위 내에서 허용된다
+B. 전혀 만날 수 없다
+C. 자유롭게 만날 수 있다
+D. 가정법원의 결정에 따른다
+","Next is the issue of law in Korean society.
+Can the party who no longer raises children after divorce see their children?
+A. Allowed within a limited scope
+B. Can't meet at all
+C. You can meet freely
+D. Follow the decision of the family court
+"
+494,KIIP_law_25,,"다음은 한국사회의 법에 대한 문제이다.
+부동산과 관련된 계약을 할 때 어떻게 하면 비교적 안전하게 거래할 수 있는가?","['A. 공인 중개사를 통한다', 'B. 법무사를 통한다', 'C. 변호사를 통한다', 'D. 직접 거래한다']",A,"A. 공인 중개사를 통한다
+B. 법무사를 통한다
+C. 변호사를 통한다
+D. 직접 거래한다
+","다음은 한국사회의 법에 대한 문제이다.
+부동산과 관련된 계약을 할 때 어떻게 하면 비교적 안전하게 거래할 수 있는가?
+A. 공인 중개사를 통한다
+B. 법무사를 통한다
+C. 변호사를 통한다
+D. 직접 거래한다
+","Next is the issue of law in Korean society.
+How can I make transactions relatively safe when making real estate-related contracts?
+A. Through a licensed real estate agent
+B. Through a legal attorney
+C. Through a lawyer
+D. Deal directly
+"
+495,KIIP_law_26,,"다음은 한국사회의 법에 대한 문제이다.
+전세나 월세로 사는 사람을 보호하는 법은 무엇인가?","['A. 주택임대차 보호법', 'B. 부동산 보호법', 'C. 전세 보호법', 'D. 월세 보호법']",A,"A. 주택임대차 보호법
+B. 부동산 보호법
+C. 전세 보호법
+D. 월세 보호법
+","다음은 한국사회의 법에 대한 문제이다.
+전세나 월세로 사는 사람을 보호하는 법은 무엇인가?
+A. 주택임대차 보호법
+B. 부동산 보호법
+C. 전세 보호법
+D. 월세 보호법
+","Next is the issue of law in Korean society.
+What laws protect people who live on jeonse or monthly rent?
+A. Housing Lease Protection Act
+B. Real Estate Protection Act
+C. Jeonse Protection Act
+D. Monthly Rent Protection Act
+"
+496,KIIP_law_27,,"다음은 한국사회의 법에 대한 문제이다.
+임대차 계약의 보통 기간은 얼마인가?","['A. 2년', 'B. 1년', 'C. 3년', 'D. 5년']",A,"A. 2년
+B. 1년
+C. 3년
+D. 5년
+","다음은 한국사회의 법에 대한 문제이다.
+임대차 계약의 보통 기간은 얼마인가?
+A. 2년
+B. 1년
+C. 3년
+D. 5년
+","Next is the issue of law in Korean society.
+What is the typical length of a rental agreement?
+A. 2 years
+B. 1 year
+C. 3 years
+D. 5 years
+"
+497,KIIP_law_28,,"다음은 한국사회의 법에 대한 문제이다.
+한국에서 부부로 인정받기 위해 어디에 신고해야 하는가?","['A. 시청, 구청, 군청', 'B. 경찰서, 소방서', 'C. 병원, 약국', 'D. 학교, 도서관']",A,"A. 시청, 구청, 군청
+B. 경찰서, 소방서
+C. 병원, 약국
+D. 학교, 도서관
+","다음은 한국사회의 법에 대한 문제이다.
+한국에서 부부로 인정받기 위해 어디에 신고해야 하는가?
+A. 시청, 구청, 군청
+B. 경찰서, 소방서
+C. 병원, 약국
+D. 학교, 도서관
+","Next is the issue of law in Korean society.
+Where should I report to be recognized as a married couple in Korea?
+A. City hall, district office, county office
+B. Police station, fire station
+C. Hospital, pharmacy
+D. School, library
+"
+498,KIIP_law_29,,"다음은 한국사회의 법에 대한 문제이다.
+부부는 특별한 이유 없이 어떤 것을 거부할 수 없는가?","['A. 함께 사는 것', 'B. 함께 먹는 것', 'C. 함께 여행하는 것', 'D. 함께 일하는 것']",A,"A. 함께 사는 것
+B. 함께 먹는 것
+C. 함께 여행하는 것
+D. 함께 일하는 것
+","다음은 한국사회의 법에 대한 문제이다.
+부부는 특별한 이유 없이 어떤 것을 거부할 수 없는가?
+A. 함께 사는 것
+B. 함께 먹는 것
+C. 함께 여행하는 것
+D. 함께 일하는 것
+","Next is the issue of law in Korean society.
+What can't a couple refuse without a specific reason?
+A. Living together
+B. Eating together
+C. Traveling together
+D. Working together
+"
+499,KIIP_law_30,,"다음은 한국사회의 법에 대한 문제이다.
+법적으로 가정주부의 어떤 활동이 생활비를 벌어온 것으로 인정되는가?","['A. 요리, 청소 등의 가사노동', 'B. 쇼핑, 외식 등의 여가활동', 'C. 독서, 영화 감상 등의 문화활동', 'D. 운동, 걷기 등의 건강활동']",A,"A. 요리, 청소 등의 가사노동
+B. 쇼핑, 외식 등의 여가활동
+C. 독서, 영화 감상 등의 문화활동
+D. 운동, 걷기 등의 건강활동
+","다음은 한국사회의 법에 대한 문제이다.
+법적으로 가정주부의 어떤 활동이 생활비를 벌어온 것으로 인정되는가?
+A. 요리, 청소 등의 가사노동
+B. 쇼핑, 외식 등의 여가활동
+C. 독서, 영화 감상 등의 문화활동
+D. 운동, 걷기 등의 건강활동
+","Next is the issue of law in Korean society.
+What activities are legally recognized as earning a living by a housewife?
+A. Household work such as cooking and cleaning
+B. Leisure activities such as shopping and eating out
+C. Cultural activities such as reading and watching movies
+D. Healthy activities such as exercise and walking
+"
+500,KIIP_law_31,,"다음은 한국사회의 법에 대한 문제이다.
+부부가 관계를 끊고 싶을 때 어떤 방법을 통해 이혼할 수 있는가?","['A. 합의나 재판에 의해', 'B. 합의나 중재에 의해', 'C. 합의나 조정에 의해', 'D. 합의나 협상에 의해']",A,"A. 합의나 재판에 의해
+B. 합의나 중재에 의해
+C. 합의나 조정에 의해
+D. 합의나 협상에 의해
+","다음은 한국사회의 법에 대한 문제이다.
+부부가 관계를 끊고 싶을 때 어떤 방법을 통해 이혼할 수 있는가?
+A. 합의나 재판에 의해
+B. 합의나 중재에 의해
+C. 합의나 조정에 의해
+D. 합의나 협상에 의해
+","Next is the issue of law in Korean society.
+How can a couple get divorced when they want to end their relationship?
+A. By agreement or trial
+B. By agreement or arbitration
+C. By agreement or mediation
+D. By agreement or negotiation
+"
+501,KIIP_law_32,,"다음은 한국사회의 법에 대한 문제이다.
+이혼 원인을 제공하고 잘못이 있는 배우자는 무엇을 해야 하는가?","['A. 상대방에게 위자료를 지급해야 한다', 'B. 자녀 양육비를 지급해야 한다', 'C. 재산을 분할해야 한다', 'D. 이혼 비용을 전액 부담해야 한다']",A,"A. 상대방에게 위자료를 지급해야 한다
+B. 자녀 양육비를 지급해야 한다
+C. 재산을 분할해야 한다
+D. 이혼 비용을 전액 부담해야 한다
+","다음은 한국사회의 법에 대한 문제이다.
+이혼 원인을 제공하고 잘못이 있는 배우자는 무엇을 해야 하는가?
+A. 상대방에게 위자료를 지급해야 한다
+B. 자녀 양육비를 지급해야 한다
+C. 재산을 분할해야 한다
+D. 이혼 비용을 전액 부담해야 한다
+","Next is the issue of law in Korean society.
+What should the at-fault spouse who caused the divorce do?
+A. Alimony must be paid to the other party.
+B. You must pay child support
+C. Property must be divided
+D. Must bear all divorce costs
+"
+502,KIIP_law_33,,"다음은 한국사회의 법에 대한 문제이다.
+이혼 후 자녀의 양육권은 어떻게 결정되는가?","['A. 이혼한 당사자 간의 협의에 의해 결정한다', 'B. 가정법원에서 결정한다', 'C. 자녀의 의사에 따라 결정한다', 'D. 변호사가 결정한다']",A,"A. 이혼한 당사자 간의 협의에 의해 결정한다
+B. 가정법원에서 결정한다
+C. 자녀의 의사에 따라 결정한다
+D. 변호사가 결정한다
+","다음은 한국사회의 법에 대한 문제이다.
+이혼 후 자녀의 양육권은 어떻게 결정되는가?
+A. 이혼한 당사자 간의 협의에 의해 결정한다
+B. 가정법원에서 결정한다
+C. 자녀의 의사에 따라 결정한다
+D. 변호사가 결정한다
+","Next is the issue of law in Korean society.
+How is custody of children determined after divorce?
+A. It is decided through consultation between the divorced parties.
+B. Decided by family court
+C. Make decisions based on the child’s wishes
+D. The lawyer decides
+"
+503,KIIP_law_34,,"다음은 한국사회의 법에 대한 문제이다.
+이혼 당사자 간의 협의가 잘 이루어지지 않을 때, 자녀의 양육권은 어떻게 결정되는가?","['A. 가정법원에서 결정한다', 'B. 자녀의 의사에 따라 결정한다', 'C. 변호사가 결정한다', 'D. 이혼한 당사자 간의 협의에 의해 결정한다']",A,"A. 가정법원에서 결정한다
+B. 자녀의 의사에 따라 결정한다
+C. 변호사가 결정한다
+D. 이혼한 당사자 간의 협의에 의해 결정한다
+","다음은 한국사회의 법에 대한 문제이다.
+이혼 당사자 간의 협의가 잘 이루어지지 않을 때, 자녀의 양육권은 어떻게 결정되는가?
+A. 가정법원에서 결정한다
+B. 자녀의 의사에 따라 결정한다
+C. 변호사가 결정한다
+D. 이혼한 당사자 간의 협의에 의해 결정한다
+","Next is the issue of law in Korean society.
+How is custody of children determined when there is poor agreement between the divorced parties?
+A. It is decided by the family court.
+B. Make decisions based on your child’s wishes
+C. The lawyer decides
+D. It is decided through consultation between the divorced parties.
+"
+504,KIIP_law_35,,"다음은 한국사회의 법에 대한 문제이다.
+자녀를 맡아 키우게 된 쪽이 상대방에게 요구할 수 있는 것은 무엇인가?","['A. 자녀 양육에 필요한 비용', 'B. 이혼 비용', 'C. 위자료', 'D. 재산의 일부']",A,"A. 자녀 양육에 필요한 비용
+B. 이혼 비용
+C. 위자료
+D. 재산의 일부
+","다음은 한국사회의 법에 대한 문제이다.
+자녀를 맡아 키우게 된 쪽이 상대방에게 요구할 수 있는 것은 무엇인가?
+A. 자녀 양육에 필요한 비용
+B. 이혼 비용
+C. 위자료
+D. 재산의 일부
+","Next is the issue of law in Korean society.
+What can the party in charge of raising a child ask the other party to do?
+A. Costs necessary to raise children
+B. Divorce Costs
+C. Alimony
+D. Part of property
+"
+505,KIIP_law_36,,"다음은 한국사회의 법에 대한 문제이다.
+부모가 이혼을 하더라도 부모와 자녀의 관계는 어떻게 되는가?","['A. 그대로 유지된다', 'B. 끊어진다', 'C. 재판에 따라 결정된다', 'D. 자녀의 의사에 따라 결정된다']",A,"A. 그대로 유지된다
+B. 끊어진다
+C. 재판에 따라 결정된다
+D. 자녀의 의사에 따라 결정된다
+","다음은 한국사회의 법에 대한 문제이다.
+부모가 이혼을 하더라도 부모와 자녀의 관계는 어떻게 되는가?
+A. 그대로 유지된다
+B. 끊어진다
+C. 재판에 따라 결정된다
+D. 자녀의 의사에 따라 결정된다
+","Next is the issue of law in Korean society.
+Even if parents divorce, what happens to the relationship between parents and children?
+A. It remains the same.
+B. Cut off
+C. It is decided by trial.
+D. It is decided according to the child's will.
+"
+506,KIIP_law_37,,"다음은 한국사회의 법에 대한 문제이다.
+변호사를 구하는데 어려움이 있을 때 어디에서 도움을 받을 수 있는가?","['A. 국가', 'B. 외국 대사관', 'C. 대한법률구조 공단', 'D. 개인적인 연결']",C,"A. 국가
+B. 외국 대사관
+C. 대한법률구조 공단
+D. 개인적인 연결
+","다음은 한국사회의 법에 대한 문제이다.
+변호사를 구하는데 어려움이 있을 때 어디에서 도움을 받을 수 있는가?
+A. 국가
+B. 외국 대사관
+C. 대한법률구조 공단
+D. 개인적인 연결
+","Next is the issue of law in Korean society.
+Where can I get help if I have trouble finding a lawyer?
+A. Country
+B. Foreign embassies
+C. Korea Legal Aid Corporation
+D. Personal connection
+"
+507,KIIP_law_38,,"다음은 한국사회의 법에 대한 문제이다.
+대한법률구조공단의 주요 역할이 아닌 것은 무엇인가?","['A. 법률 상담 제공', 'B. 소송 대리', 'C. 정당한 권리 보호', 'D. 금융 상품 판매']",D,"A. 법률 상담 제공
+B. 소송 대리
+C. 정당한 권리 보호
+D. 금융 상품 판매
+","다음은 한국사회의 법에 대한 문제이다.
+대한법률구조공단의 주요 역할이 아닌 것은 무엇인가?
+A. 법률 상담 제공
+B. 소송 대리
+C. 정당한 권리 보호
+D. 금융 상품 판매
+","Next is the issue of law in Korean society.
+What is not the main role of the Korea Legal Aid Corporation?
+A. Providing legal advice
+B. Litigation Representation
+C. Protection of legitimate rights
+D. Sales of financial products
+"
+508,KIIP_law_39,,"다음은 한국사회의 법에 대한 문제이다.
+대한법률구조공단에서 제공하지 않는 서비스는 무엇인가?","['A. 법률 상담', 'B. 소송 대리', 'C. 한국어 교육', 'D. 외국어 교육']",D,"A. 법률 상담
+B. 소송 대리
+C. 한국어 교육
+D. 외국어 교육
+","다음은 한국사회의 법에 대한 문제이다.
+대한법률구조공단에서 제공하지 않는 서비스는 무엇인가?
+A. 법률 상담
+B. 소송 대리
+C. 한국어 교육
+D. 외국어 교육
+","Next is the issue of law in Korean society.
+What services does the Korea Legal Aid Corporation not provide?
+A. Legal advice
+B. Litigation Representation
+C. Korean language education
+D. Foreign language education
+"
+509,KIIP_law_40,,"다음은 한국사회의 법에 대한 문제이다.
+분쟁 해결에 있어 가장 바람직한 방법은 무엇인가?","['A. 재판', 'B. 변호사 상담', 'C. 당사자 간의 대화와 타협', 'D. 국가에 항의']",C,"A. 재판
+B. 변호사 상담
+C. 당사자 간의 대화와 타협
+D. 국가에 항의
+","다음은 한국사회의 법에 대한 문제이다.
+분쟁 해결에 있어 가장 바람직한 방법은 무엇인가?
+A. 재판
+B. 변호사 상담
+C. 당사자 간의 대화와 타협
+D. 국가에 항의
+","Next is the issue of law in Korean society.
+What is the most desirable method for resolving disputes?
+A. Trial
+B. Attorney Consultation
+C. Dialogue and compromise between parties
+D. protest against the state
+"
+510,KIIP_law_41,,"다음은 한국사회의 법에 대한 문제이다.
+국가인권위원회의 주요 역할은 무엇인가?","['A. 기본적인 인권 보호', 'B. 법률 상담 제공', 'C. 소비자 권리 보호', 'D. 외국인 지원']",A,"A. 기본적인 인권 보호
+B. 법률 상담 제공
+C. 소비자 권리 보호
+D. 외국인 지원
+","다음은 한국사회의 법에 대한 문제이다.
+국가인권위원회의 주요 역할은 무엇인가?
+A. 기본적인 인권 보호
+B. 법률 상담 제공
+C. 소비자 권리 보호
+D. 외국인 지원
+","Next is the issue of law in Korean society.
+What is the main role of the National Human Rights Commission?
+A. Protection of basic human rights
+B. Providing legal advice
+C. Consumer Rights Protection
+D. Support for foreigners
+"
+511,KIIP_law_42,,"다음은 한국사회의 법에 대한 문제이다.
+국민권익위원회의 주요 역할은 무엇인가?","['A. 기본적인 인권 보호', 'B. 법률 상담 제공', 'C. 부패 방지 및 국민의 권익 보호와 구제', 'D. 외국인 지원']",C,"A. 기본적인 인권 보호
+B. 법률 상담 제공
+C. 부패 방지 및 국민의 권익 보호와 구제
+D. 외국인 지원
+","다음은 한국사회의 법에 대한 문제이다.
+국민권익위원회의 주요 역할은 무엇인가?
+A. 기본적인 인권 보호
+B. 법률 상담 제공
+C. 부패 방지 및 국민의 권익 보호와 구제
+D. 외국인 지원
+","Next is the issue of law in Korean society.
+What is the main role of the Anti-Corruption and Civil Rights Commission?
+A. Protection of basic human rights
+B. Providing legal advice
+C. Prevention of corruption and protection and relief of citizens’ rights and interests
+D. Support for foreigners
+"
+512,KIIP_law_43,,"다음은 한국사회의 법에 대한 문제이다.
+한국소비자원의 주요 역할은 무엇인가?","['A. 기본적인 인권 보호', 'B. 법률 상담 제공', 'C. 소비자의 권리를 지키는 활동', 'D. 외국인 지원']",C,"A. 기본적인 인권 보호
+B. 법률 상담 제공
+C. 소비자의 권리를 지키는 활동
+D. 외국인 지원
+","다음은 한국사회의 법에 대한 문제이다.
+한국소비자원의 주요 역할은 무엇인가?
+A. 기본적인 인권 보호
+B. 법률 상담 제공
+C. 소비자의 권리를 지키는 활동
+D. 외국인 지원
+","Next is the issue of law in Korean society.
+What is the main role of the Korea Consumer Agency?
+A. Protection of basic human rights
+B. Providing legal advice
+C. Activities to protect consumer rights
+D. Support for foreigners
+"
+513,KIIP_law_44,,"다음은 한국사회의 법에 대한 문제이다.
+인권 침해 사실이 판단될 경우 국가인권위원회는 어떤 조치를 취하는가?","['A. 당사자에게 문제를 개선하도록 권고', 'B. 법적 처벌', 'C. 당사자를 해고', 'D. 사건을 무시']",A,"A. 당사자에게 문제를 개선하도록 권고
+B. 법적 처벌
+C. 당사자를 해고
+D. 사건을 무시
+","다음은 한국사회의 법에 대한 문제이다.
+인권 침해 사실이 판단될 경우 국가인권위원회는 어떤 조치를 취하는가?
+A. 당사자에게 문제를 개선하도록 권고
+B. 법적 처벌
+C. 당사자를 해고
+D. 사건을 무시
+","Next is the issue of law in Korean society.
+What action does the National Human Rights Commission take if it determines that human rights have been violated?
+A. Recommend the parties to improve the problem
+B. Legal Punishment
+C. Dismissal of the party.
+D. Ignoring the incident
+"
+514,KIIP_law_45,,"다음은 한국사회의 법에 대한 문제이다.
+피해를 입은 소비자가 어디에 피해 사실을 알리면 상담을 받거나 피해를 구제받을 수 있는가?","['A. 한국소비자원', 'B. 국가인권위원회', 'C. 주민자치센터', 'D. 외국인지원센터']",A,"A. 한국소비자원
+B. 국가인권위원회
+C. 주민자치센터
+D. 외국인지원센터
+","다음은 한국사회의 법에 대한 문제이다.
+피해를 입은 소비자가 어디에 피해 사실을 알리면 상담을 받거나 피해를 구제받을 수 있는가?
+A. 한국소비자원
+B. 국가인권위원회
+C. 주민자치센터
+D. 외국인지원센터
+","Next is the issue of law in Korean society.
+If a damaged consumer reports the damage, where can he or she receive counseling or receive relief for the damage?
+A. Korea Consumer Agency
+B. National Human Rights Commission
+C. Community Autonomy Center
+D. Foreigner Support Center
+"
+515,KIIP_law_46,,"다음은 한국사회의 법에 대한 문제이다.
+법률문제에 직면할 때 어려움을 해소하고 법률분쟁을 사전에 예방하기 위해 어떤 기관에서 생활법률 정보를 제공하는가?","['A. 경찰청', 'B. 법무부', 'C. 국회', 'D. 대법원']",B,"A. 경찰청
+B. 법무부
+C. 국회
+D. 대법원
+","다음은 한국사회의 법에 대한 문제이다.
+법률문제에 직면할 때 어려움을 해소하고 법률분쟁을 사전에 예방하기 위해 어떤 기관에서 생활법률 정보를 제공하는가?
+A. 경찰청
+B. 법무부
+C. 국회
+D. 대법원
+","Next is the issue of law in Korean society.
+What organizations provide lifestyle legal information to resolve difficulties when facing legal issues and prevent legal disputes in advance?
+A. National Police Agency
+B. Ministry of Justice
+C. National Assembly
+D. Supreme Court
+"
+516,KIIP_law_47,,"다음은 한국사회의 법에 대한 문제이다.
+정의의 여신상이 위치한 곳은 어디인가?","['A. 서울특별시 서초구 서초동 대법원', 'B. 서울특별시 종로구 대법원', 'C. 서울특별시 강남구 대법원', 'D. 서울특별시 중구 대법원']",A,"A. 서울특별시 서초구 서초동 대법원
+B. 서울특별시 종로구 대법원
+C. 서울특별시 강남구 대법원
+D. 서울특별시 중구 대법원
+","다음은 한국사회의 법에 대한 문제이다.
+정의의 여신상이 위치한 곳은 어디인가?
+A. 서울특별시 서초구 서초동 대법원
+B. 서울특별시 종로구 대법원
+C. 서울특별시 강남구 대법원
+D. 서울특별시 중구 대법원
+","Next is the issue of law in Korean society.
+Where is the Statue of Justice located?
+A. Supreme Court, Seocho-dong, Seocho-gu, Seoul
+B. Supreme Court, Jongno-gu, Seoul
+C. Supreme Court, Gangnam-gu, Seoul
+D. Supreme Court, Jung-gu, Seoul
+"
+517,KIIP_law_48,,"다음은 한국사회의 법에 대한 문제이다.
+정의의 여신상은 무엇을 상징하는가?","['A. 한국의 법이 추구하는 모습', 'B. 한국의 경제적인 성장', 'C. 한국의 문화적인 다양성', 'D. 한국의 국제적인 인정']",A,"A. 한국의 법이 추구하는 모습
+B. 한국의 경제적인 성장
+C. 한국의 문화적인 다양성
+D. 한국의 국제적인 인정
+","다음은 한국사회의 법에 대한 문제이다.
+정의의 여신상은 무엇을 상징하는가?
+A. 한국의 법이 추구하는 모습
+B. 한국의 경제적인 성장
+C. 한국의 문화적인 다양성
+D. 한국의 국제적인 인정
+","Next is the issue of law in Korean society.
+What does the Statue of Justice symbolize?
+A. What Korean law pursues
+B. Korea’s economic growth
+C. Korea’s cultural diversity
+D. International recognition of Korea
+"
+518,KIIP_law_49,,"다음은 한국사회의 법에 대한 문제이다.
+정의의 여신상이 들고 있는 물건은 무엇인가?","['A. 저울과 법전', 'B. 검과 방패', 'C. 왕관과 지팡이', 'D. 피리와 북']",A,"A. 저울과 법전
+B. 검과 방패
+C. 왕관과 지팡이
+D. 피리와 북
+","다음은 한국사회의 법에 대한 문제이다.
+정의의 여신상이 들고 있는 물건은 무엇인가?
+A. 저울과 법전
+B. 검과 방패
+C. 왕관과 지팡이
+D. 피리와 북
+","Next is the issue of law in Korean society.
+What does the Statue of Justice hold?
+A. Scales and law code
+B. Sword and Shield
+C. Crown and Staff
+D. Flute and drum
+"
+519,KIIP_law_50,,"다음은 한국사회의 법에 대한 문제이다.
+정의의 여신상이 들고 있는 법전과 저울은 각각 무엇을 상징하는가?","['A. 법전은 공정한 재판, 저울은 올바른 판단', 'B. 법전은 권력, 저울은 균형', 'C. 법전은 지식, 저울은 지혜', 'D. 법전은 규칙, 저울은 선택']",A,"A. 법전은 공정한 재판, 저울은 올바른 판단
+B. 법전은 권력, 저울은 균형
+C. 법전은 지식, 저울은 지혜
+D. 법전은 규칙, 저울은 선택
+","다음은 한국사회의 법에 대한 문제이다.
+정의의 여신상이 들고 있는 법전과 저울은 각각 무엇을 상징하는가?
+A. 법전은 공정한 재판, 저울은 올바른 판단
+B. 법전은 권력, 저울은 균형
+C. 법전은 지식, 저울은 지혜
+D. 법전은 규칙, 저울은 선택
+","Next is the issue of law in Korean society.
+What do the code and scales held by the Statue of Justice symbolize?
+A. The law code is a fair trial and the scales are the right judgment.
+B. The law code is power, the scales are balance
+C. The law code is knowledge, the scales are wisdom.
+D. The law code is the rule, the scales are the choice.
+"
+520,KIIP_law_51,,"다음은 한국사회의 법에 대한 문제이다.
+정의의 여신상이 두 눈을 뜨고 있는 것은 무엇을 의미하는가?","['A. 사회적 약자를 적극적으로 돕겠다는 의미', 'B. 법의 공정함을 감시하겠다는 의미', 'C. 모든 사람을 공평하게 보겠다는 의미', 'D. 사람들의 의견을 경청하겠다는 의미']",A,"A. 사회적 약자를 적극적으로 돕겠다는 의미
+B. 법의 공정함을 감시하겠다는 의미
+C. 모든 사람을 공평하게 보겠다는 의미
+D. 사람들의 의견을 경청하겠다는 의미
+","다음은 한국사회의 법에 대한 문제이다.
+정의의 여신상이 두 눈을 뜨고 있는 것은 무엇을 의미하는가?
+A. 사회적 약자를 적극적으로 돕겠다는 의미
+B. 법의 공정함을 감시하겠다는 의미
+C. 모든 사람을 공평하게 보겠다는 의미
+D. 사람들의 의견을 경청하겠다는 의미
+","Next is the issue of law in Korean society.
+What does it mean that the Statue of Justice has both eyes open?
+A. Meaning of actively helping the socially underprivileged
+B. Meaning of monitoring the fairness of the law
+C. Meaning of treating everyone equally
+D. Meaning that we will listen to people’s opinions
+"

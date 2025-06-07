@@ -1,0 +1,256 @@
+index,ID,Source,Country,Group,Subject,Level,Question,Context,answer,A,B,C,D,E,is_few_shot,ar,en
+1,13974,علوم إسلامية دوائر (فصلين).pdf - Google Drive,Jordan,Humanities,Islamic Studies,High,المنهج التجريبي يقوم على:,,E,جمع المعلومات عن طريق الملاحظة العلمية,اقتراح فرضية أو أكثر لتفسير هذه الملاحظة,إجراء التجربة لاختيار صدق الفرضيات.,تكتمل بعدها المعرفة التي توضح ما لوحظ وتفسره,جميع ما ذكر,0,"السؤال التالي يتعلق بالدراسات الإسلامية.
+المنهج التجريبي يقوم على:
+A. جمع المعلومات عن طريق الملاحظة العلمية
+B. اقتراح فرضية أو أكثر لتفسير هذه الملاحظة
+C. إجراء التجربة لاختيار صدق الفرضيات.
+D. تكتمل بعدها المعرفة التي توضح ما لوحظ وتفسره
+E. جميع ما ذكر","The next question is about Islamic Studies.
+The experimental method is based on:
+A. Collecting information through scientific observation
+B. Proposing one or more hypotheses to explain this observation
+C. Conducting an experiment to test the validity of the hypotheses.
+D. After that, the knowledge that clarifies and explains what was observed is completed
+E. All of the above"
+2,13975,علوم إسلامية دوائر (فصلين).pdf - Google Drive,Jordan,Humanities,Islamic Studies,High,الحضارات التي برزت بالمنهج العلمي قبل الإسلام:,,E,اليونان,الرومان,الفرس,الهنود,جميع ما ذكر,0,"السؤال التالي يتعلق بالدراسات الإسلامية.
+الحضارات التي برزت بالمنهج العلمي قبل الإسلام:
+A. اليونان
+B. الرومان
+C. الفرس
+D. الهنود
+E. جميع ما ذكر","The next question is about Islamic Studies.
+Civilizations that emerged with the scientific method before Islam:
+A. Greece
+B. Romans
+C. Persians
+D. Indians
+E. All of the above"
+3,13977,علوم إسلامية دوائر (فصلين).pdf - Google Drive,Jordan,Humanities,Islamic Studies,High,ترجم العلماء الغربيين كتاباً عربية لعلماء مسلمين برعوا بدراسة مناهج البحث العلمي :,,E,الخوارزمي، وابن الهيثم,ابن سينا، والرازي,ابن خلدون، وابن رشد,ابن النفيس، والزهراوي,جميع ما ذكر,0,"السؤال التالي يتعلق بالدراسات الإسلامية.
+ترجم العلماء الغربيين كتاباً عربية لعلماء مسلمين برعوا بدراسة مناهج البحث العلمي :
+A. الخوارزمي، وابن الهيثم
+B. ابن سينا، والرازي
+C. ابن خلدون، وابن رشد
+D. ابن النفيس، والزهراوي
+E. جميع ما ذكر","The next question is about Islamic Studies.
+Western scholars translated Arabic books by Muslim scholars who excelled in studying scientific research methods:
+A. Al-Khwarizmi, Ibn al-Haytham
+B. Ibn Sina, al-Razi
+C. Ibn Khaldun, Ibn Rushd
+D. Ibn al-Nafis, al-Zahrawi
+E. All of the above"
+4,13979,علوم إسلامية دوائر (فصلين).pdf - Google Drive,Jordan,Humanities,Islamic Studies,High,للبحث العلمي أخلاقيات كثيرة ينبغي على الباحث الإلتزام بها,,E,البعد عن الهوى والتعصب والتحّيز,الصبر والأمانة,الصدق في عرض النتائج,التوثيق والتثبت,جميع ما ذكر,0,"السؤال التالي يتعلق بالدراسات الإسلامية.
+للبحث العلمي أخلاقيات كثيرة ينبغي على الباحث الإلتزام بها
+A. البعد عن الهوى والتعصب والتحّيز
+B. الصبر والأمانة
+C. الصدق في عرض النتائج
+D. التوثيق والتثبت
+E. جميع ما ذكر","The next question is about Islamic Studies.
+Scientific research has many ethics that the researcher must adhere to.
+
+A. Avoiding whims, fanaticism and bias
+
+B. Patience and honesty
+
+C. Honesty in presenting results
+
+D. Documentation and verification
+
+E. All of the above"
+5,14003,علوم إسلامية دوائر (فصلين).pdf - Google Drive,Jordan,Humanities,Islamic Studies,High,حسن التواصل مع الناس يوثق معاني الأخوة والمحبة، فقد كان صلى الله عليه وسلم:,,E,يزور الناس ويطمئن عن أحوالهم، ويسأل عن حاجاتهم,يخاطبهم بأحسن الألفاظ ويتفقد من غاب منهم,يجالسهم ويجيب دعوة من دعاه,يواسيهم في مصابهم وأحزانهم,جميع ما ذكر,0,"السؤال التالي يتعلق بالدراسات الإسلامية.
+حسن التواصل مع الناس يوثق معاني الأخوة والمحبة، فقد كان صلى الله عليه وسلم:
+A. يزور الناس ويطمئن عن أحوالهم، ويسأل عن حاجاتهم
+B. يخاطبهم بأحسن الألفاظ ويتفقد من غاب منهم
+C. يجالسهم ويجيب دعوة من دعاه
+D. يواسيهم في مصابهم وأحزانهم
+E. جميع ما ذكر","The next question is about Islamic Studies.
+Good communication with people strengthens the meanings of brotherhood and love. The Prophet, may God bless him and grant him peace, used to:
+
+A. Visit people, check on their conditions, and ask about their needs
+
+B. Address them with the best words and check on those who were absent
+
+C. Sit with them and answer the call of those who called him
+
+D. Console them in their misfortunes and sorrows
+
+E. All of the above"
+6,14055,علوم إسلامية دوائر (فصلين).pdf - Google Drive,Jordan,Humanities,Islamic Studies,High,من الدروس والعبر المستفادة من قصة مريم بنت عمران التي يدل عليها قوله تعالى: (إن الله يدافع عن الذين آمنوا):,,E,المرأة الصالحة تحافظ على دينها وخلقها وتصون عفتها وطهارتها، فهي تتجنب الشبهات خشية من الله ,إن الله إذا أراد أمراً هيأ له أسبابه جميعها,دعاء الله والتقرب إليه بالطاعات سبب لإكرامه وفضله العظيم لعباده,أن الرزق من عند الله، فلا يحزن أحد على فواته فالله يرزق من يشاء بغير حساب,أن الله يدافع عن عباده الصالحين ويبرؤهم من التهم، فيصبروا ويتوجهوا إلى الله في تفريج الهم,0,"السؤال التالي يتعلق بالدراسات الإسلامية.
+من الدروس والعبر المستفادة من قصة مريم بنت عمران التي يدل عليها قوله تعالى: (إن الله يدافع عن الذين آمنوا):
+A. المرأة الصالحة تحافظ على دينها وخلقها وتصون عفتها وطهارتها، فهي تتجنب الشبهات خشية من الله 
+B. إن الله إذا أراد أمراً هيأ له أسبابه جميعها
+C. دعاء الله والتقرب إليه بالطاعات سبب لإكرامه وفضله العظيم لعباده
+D. أن الرزق من عند الله، فلا يحزن أحد على فواته فالله يرزق من يشاء بغير حساب
+E. أن الله يدافع عن عباده الصالحين ويبرؤهم من التهم، فيصبروا ويتوجهوا إلى الله في تفريج الهم","The next question is about Islamic Studies.
+Among the lessons and morals learned from the story of Mary, daughter of Imran, which is indicated by the Almighty’s saying: (Indeed, Allah defends those who believe):
+
+A. The righteous woman preserves her religion and morals and protects her chastity and purity, as she avoids suspicions out of fear of Allah
+
+B. If Allah wants something, He prepares all its causes for it
+
+C. Supplicating to Allah and drawing closer to Him through acts of obedience are a reason for His honor and great favor to His servants
+
+D. Provision is from Allah, so no one should be sad about losing it, as Allah provides for whomever He wills without account
+
+E. Allah defends His righteous servants and acquits them of accusations, so they are patient and turn to Allah to relieve their distress"
+7,14064,علوم إسلامية دوائر (فصلين).pdf - Google Drive,Jordan,Humanities,Islamic Studies,High,للتفكير آثار إيجابية عدة:,,E,الشعور بالطمأنينة والسكينة,تحقيق الدافعية للخير,تناقص الجرائم والعنف المجتمعي,لتقدم والرقي,جميع ما ذكر,0,"السؤال التالي يتعلق بالدراسات الإسلامية.
+للتفكير آثار إيجابية عدة:
+A. الشعور بالطمأنينة والسكينة
+B. تحقيق الدافعية للخير
+C. تناقص الجرائم والعنف المجتمعي
+D. لتقدم والرقي
+E. جميع ما ذكر","The next question is about Islamic Studies.
+Thinking has several positive effects:
+
+A. Feeling reassured and calm
+
+B. Achieving motivation for good
+
+C. Decreasing crimes and societal violence
+
+D. Progress and advancement
+
+E. All of the above"
+8,14068,علوم إسلامية دوائر (فصلين).pdf - Google Drive,Jordan,Humanities,Islamic Studies,High,"من الدروس والعبر المستفادة من قصة أصحاب الغار التي يدل عليها الحديث القدسي :"" أنا عند ظن
+عبدي بي،وأنا معه إذا ذكرني ، فإن ذكرني في نفسه ذكرته في نفسي .....",,E,معاملة الوالدين معاملة حسنة من أبواب تفريج الكربات,العفة عن الفاحشة من أسباب الفلاح والنجاح في الدنيا والآخرة,وجوب الإخلاص لله في كل الأعمال,التوسل إلى الله والتقرب إليه بالأعمال الصالحة أمر مشروع,ثقة الإنسان ويقينه بأن الله يستجيب له إذا دعاه,0,"السؤال التالي يتعلق بالدراسات الإسلامية.
+من الدروس والعبر المستفادة من قصة أصحاب الغار التي يدل عليها الحديث القدسي :"" أنا عند ظن
+عبدي بي،وأنا معه إذا ذكرني ، فإن ذكرني في نفسه ذكرته في نفسي .....
+A. معاملة الوالدين معاملة حسنة من أبواب تفريج الكربات
+B. العفة عن الفاحشة من أسباب الفلاح والنجاح في الدنيا والآخرة
+C. وجوب الإخلاص لله في كل الأعمال
+D. التوسل إلى الله والتقرب إليه بالأعمال الصالحة أمر مشروع
+E. ثقة الإنسان ويقينه بأن الله يستجيب له إذا دعاه","The next question is about Islamic Studies.
+Among the lessons and morals learned from the story of the people of the cave, which is indicated by the holy hadith: “I am as My servant thinks I am, and I am with him if he remembers Me. If he remembers Me to himself, I remember him to Myself…”
+A. Treating parents well is one of the ways to relieve distress
+B. Abstinence from immorality is one of the reasons for success and prosperity in this world and the hereafter
+C. The obligation of sincerity to God in all actions
+D. Supplicating to God and drawing closer to Him through righteous deeds is a legitimate matter
+E. A person’s trust and certainty that God will answer him if he calls upon Him"
+9,14073,علوم إسلامية دوائر (فصلين).pdf - Google Drive,Jordan,Humanities,Islamic Studies,High,بين كيف يكون الاهتمام باللغة العربية الفصيحة، والاعتزاز بها؟,,E,عن طريق تعلمها,تطبيقها في حياتنا اليومية قراءة وكتابة ومحادثة,استخدامها في الندوات والمؤتمرات,ترجمة كتب العلوم إليها في الجامعات,جميع ما ذكر,0,"السؤال التالي يتعلق بالدراسات الإسلامية.
+بين كيف يكون الاهتمام باللغة العربية الفصيحة، والاعتزاز بها؟
+A. عن طريق تعلمها
+B. تطبيقها في حياتنا اليومية قراءة وكتابة ومحادثة
+C. استخدامها في الندوات والمؤتمرات
+D. ترجمة كتب العلوم إليها في الجامعات
+E. جميع ما ذكر","The next question is about Islamic Studies.
+Explain how to care for and take pride in classical Arabic?
+A. By learning it
+B. Applying it in our daily lives, reading, writing and speaking
+C. Using it in seminars and conferences
+D. Translating science books into it in universities
+E. All of the above"
+10,14106,علوم إسلامية دوائر (فصلين).pdf - Google Drive,Jordan,Humanities,Islamic Studies,High,من صور البر بالوالدين عند الكبر,,E,الإهتمام بهما من الناحية الجسدية كالنظافة الشخصية,الإصغاء لهما وعدم مقاطعتهما,الترفيه عنهما عن طريق اصطحابهما لزيارة الأهل,الرعاية النفسية لهما,جميع ما ذكر,0,"السؤال التالي يتعلق بالدراسات الإسلامية.
+من صور البر بالوالدين عند الكبر
+A. الإهتمام بهما من الناحية الجسدية كالنظافة الشخصية
+B. الإصغاء لهما وعدم مقاطعتهما
+C. الترفيه عنهما عن طريق اصطحابهما لزيارة الأهل
+D. الرعاية النفسية لهما
+E. جميع ما ذكر","The next question is about Islamic Studies.
+Examples of being dutiful to parents when they are old:
+
+A. Taking care of them physically, such as personal hygiene
+
+B. Listening to them and not interrupting them
+
+C. Entertaining them by taking them to visit their relatives
+
+D. Psychological care for them
+
+E. All of the above"
+11,14107,علوم إسلامية دوائر (فصلين).pdf - Google Drive,Jordan,Humanities,Islamic Studies,High,اذكر أمور تجب على المجتمع تتعلق في العناية بكبار السن,,E,إنشاء دور الرعاية لمن لا معيل له ولا أبناء,"تأمين الرعاية الصحية لكبار السن
+",تأمين الرعاية الإجتماعية لهم,.تخصيص مقاعد للمسنين في وسائل النقل والأماكن العامة,جميع ما ذكر,0,"السؤال التالي يتعلق بالدراسات الإسلامية.
+اذكر أمور تجب على المجتمع تتعلق في العناية بكبار السن
+A. إنشاء دور الرعاية لمن لا معيل له ولا أبناء
+B. تأمين الرعاية الصحية لكبار السن
+
+C. تأمين الرعاية الإجتماعية لهم
+D. .تخصيص مقاعد للمسنين في وسائل النقل والأماكن العامة
+E. جميع ما ذكر","The next question is about Islamic Studies.
+Mention the things that society must do in terms of caring for the elderly
+A. Establishing nursing homes for those who have no breadwinner or children
+B. Providing health care for the elderly
+C. Providing social care for them
+D. Allocating seats for the elderly in transportation and public places
+E. All of the above"
+12,14139,علوم إسلامية دوائر (فصلين).pdf - Google Drive,Jordan,Humanities,Islamic Studies,High,دور مؤسسات الدولة تجاه المبدعين:,,E,البحث عن الموهوبين والمبدعين وتبنيهم,.تطوير مواهبهم,تنظيم البرامج والمسابقات الخاصة بهم,توفير الدعم المالي والمعنوي لهم,جميع ما ذكر,0,"السؤال التالي يتعلق بالدراسات الإسلامية.
+دور مؤسسات الدولة تجاه المبدعين:
+A. البحث عن الموهوبين والمبدعين وتبنيهم
+B. .تطوير مواهبهم
+C. تنظيم البرامج والمسابقات الخاصة بهم
+D. توفير الدعم المالي والمعنوي لهم
+E. جميع ما ذكر","The next question is about Islamic Studies.
+The role of state institutions towards creative people:
+
+A. Searching for and adopting talented and creative people
+
+B. Developing their talents
+
+C. Organizing programs and competitions for them
+
+D. Providing financial and moral support for them
+
+E. All of the above"
+13,14184,علوم إسلامية دوائر (فصلين).pdf - Google Drive,Jordan,Humanities,Islamic Studies,High,"واجبنا نحو العلماء: الذي يدل عليه قول النبي صلى الله عليه وسلم: ""الدين نصيحة""، قلنا لمن يا رسول الله؟ قال: ""لله ولكتابه ولرسوله ولأئمة المسلمين وعامتهم"".",,E,التأدب معهم واحترامهم وتوقيرهم, الاستجابة لهم والانتفاع بعلمهم,الدعاء لهم بالخير والسداد وحفظ معروفهم,دقة النقل عنهم,الدفاع عنهم,0,"السؤال التالي يتعلق بالدراسات الإسلامية.
+واجبنا نحو العلماء: الذي يدل عليه قول النبي صلى الله عليه وسلم: ""الدين نصيحة""، قلنا لمن يا رسول الله؟ قال: ""لله ولكتابه ولرسوله ولأئمة المسلمين وعامتهم"".
+A. التأدب معهم واحترامهم وتوقيرهم
+B.  الاستجابة لهم والانتفاع بعلمهم
+C. الدعاء لهم بالخير والسداد وحفظ معروفهم
+D. دقة النقل عنهم
+E. الدفاع عنهم","The next question is about Islamic Studies.
+Our duty towards scholars: which is indicated by the saying of the Prophet (peace be upon him): “Religion is advice.” We said: “To whom, O Messenger of Allah?” He said: “To Allah, His Book, His Messenger, the leaders of the Muslims, and their common people.”
+
+A. Be polite with them, respect them, and honor them
+
+B. Respond to them and benefit from their knowledge
+
+C. Pray for their well-being and success, and preserve their good deeds
+
+D. Accurate transmission from them
+
+E. Defend them"
+14,14198,علوم إسلامية دوائر (فصلين).pdf - Google Drive,Jordan,Humanities,Islamic Studies,High,كان لزبيدة محطات مشرقة لا تزال آثارها باقية إلى يومنا هذا، هي:,,E,العناية بالقرآن الكريم,الاهتمام بالأدب,سقاية الحجاج,درب زبيدة,جميع ما ذكر,0,"السؤال التالي يتعلق بالدراسات الإسلامية.
+كان لزبيدة محطات مشرقة لا تزال آثارها باقية إلى يومنا هذا، هي:
+A. العناية بالقرآن الكريم
+B. الاهتمام بالأدب
+C. سقاية الحجاج
+D. درب زبيدة
+E. جميع ما ذكر","The next question is about Islamic Studies.
+Zubaydah had bright stations whose effects still remain to this day, which are:
+A. Caring for the Holy Quran
+B. Interest in literature
+C. Providing water to pilgrims
+D. Zubaydah's path
+E. All of the above"
+15,14199,علوم إسلامية دوائر (فصلين).pdf - Google Drive,Jordan,Humanities,Islamic Studies,High,عين زبيدة كانت بين مكه والطائف وقد وصلت المياه ل,,E,عرفات,المزدلفة,منى,مكة المكرمة,جميع ما ذكر,0,"السؤال التالي يتعلق بالدراسات الإسلامية.
+عين زبيدة كانت بين مكه والطائف وقد وصلت المياه ل
+A. عرفات
+B. المزدلفة
+C. منى
+D. مكة المكرمة
+E. جميع ما ذكر","The next question is about Islamic Studies.
+Ain Zubaydah was between Mecca and Taif and the water reached A. Arafat B. Muzdalifah C. Mina D. Mecca E. All of the above"
+16,14210,علوم إسلامية دوائر (فصلين).pdf - Google Drive,Jordan,Humanities,Islamic Studies,High,"قال تعالى :""وشاورهم في الأمر"" تعود على واحدة من القيم السياسية",,C,طاعة الحاكم,العدل والمساواة,الشورى,الحرية,التعاون والتكافل,0,"السؤال التالي يتعلق بالدراسات الإسلامية.
+قال تعالى :""وشاورهم في الأمر"" تعود على واحدة من القيم السياسية
+A. طاعة الحاكم
+B. العدل والمساواة
+C. الشورى
+D. الحرية
+E. التعاون والتكافل","The next question is about Islamic Studies.
+God Almighty said: ""And consult them in the matter"" It refers to one of the political values
+A. Obedience to the ruler
+B. Justice and equality
+C. Consultation
+D. Freedom
+E. Cooperation and solidarity"
+17,14226,علوم إسلامية دوائر (فصلين).pdf - Google Drive,Jordan,Humanities,Islamic Studies,High,المهارات التي يحتاجها الداعي إلى الله لينجح في دعوته:,,E,التنويع في الأساليب,مراعاة الأولويات في دعوته,التلطف مع المدعو,امتالك مهارات التقنية الحديثة,جميع ما ذكر,0,"السؤال التالي يتعلق بالدراسات الإسلامية.
+المهارات التي يحتاجها الداعي إلى الله لينجح في دعوته:
+A. التنويع في الأساليب
+B. مراعاة الأولويات في دعوته
+C. التلطف مع المدعو
+D. امتالك مهارات التقنية الحديثة
+E. جميع ما ذكر","The next question is about Islamic Studies.
+Skills that a preacher needs to succeed in his preaching:
+A. Diversification of methods
+B. Taking into account priorities in his preaching
+C. Being kind to the one being preached
+D. Possessing modern technology skills
+E. All of the above"
