@@ -1,5 +1,3 @@
-### The code will be publicly released on GitHub after the paper is accepted.
-
 import pandas as pd
 import numpy as np
 import random
@@ -264,21 +262,21 @@ def main(args):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     g = parser.add_argument_group("Common Parameter")
-    g.add_argument("--quant", type=str, default="False", help="quantization")
-    g.add_argument("--model-type", type=str, default="openai", choices=["llama", "openai", "peft", "vllm"], help="model type")
-    g.add_argument("--huggingface-token", type=str, default="", help=" your huggingface token")
-    g.add_argument("--output-dir", type=str, default="../results", help="output directory path")
-    g.add_argument("--model-id", type=str, default="meta-llama/Meta-Llama-3-70B-Instruct", help="model id")
-    g.add_argument("--model-path", type=str, default="../../../Models/llama3.1_gguf/", help="model file path")
-    g.add_argument("--model-name", type=str, default="Meta-Llama-3-70B-Instruct.IQ4_XS.gguf", help="model file path")
-    g.add_argument("--seed", type=int, default=1, help="random seed")
-    g.add_argument("--dataset-dir", type=str, default="../dataset/ko", help="dataset directory path")
-    g.add_argument("--user-prompt-type", type=str, default="long_after", choices=["short", "long", "long_after"], help="user prompt type")
-    g.add_argument("--prompt-type", type=str, default="I", choices=["I", "IT", "ITO", "persona"], help="system prompt type") 
-    g.add_argument("--q-lang", type=str, default="ko", choices=["en", "ko", "zh", "ar"], help="question language")
-    g.add_argument("--i-lang", type=str, default="ko", choices=["en", "ko", "zh", "ar"], help="instruction language")
-    g.add_argument("--t-lang", type=str, default="ko", choices=["en", "ko", "zh", "ar"], help="think language")
-    g.add_argument("--role-type", type=str, default=None, choices=[None, "adopt", "take", "you"], help="persona type")
+    g.add_argument("--quant", type=str, default="False", help="Quantization.")
+    g.add_argument("--model-type", type=str, default="openai", choices=["llama", "openai", "peft", "vllm"], help="Engine type.")
+    g.add_argument("--huggingface-token", type=str, default="", help="Your huggingface token.")
+    g.add_argument("--output-dir", type=str, default="../results", help="Output directory path.")
+    g.add_argument("--model-id", type=str, default="meta-llama/Meta-Llama-3-70B-Instruct", help="Model id.")
+    g.add_argument("--model-path", type=str, default="", help="Directory path where the GGUF model file is stored.")
+    g.add_argument("--model-name", type=str, default="Meta-Llama-3.1-70B-Instruct-Q4_K_M.gguf", help="GGUF model filename.")
+    g.add_argument("--seed", type=int, default=1, help="Random seed.")
+    g.add_argument("--dataset-dir", type=str, default="../dataset/ko", help="Dataset directory path.")
+    g.add_argument("--user-prompt-type", type=str, default="long_after", choices=["short", "long", "long_after"], help="User prompt type.")  # Only 'long_after' was used in the paper, but you can try other types.
+    g.add_argument("--prompt-type", type=str, default="I", choices=["I", "IT", "ITO", "persona"], help="System prompt type.") 
+    g.add_argument("--q-lang", type=str, default="ko", choices=["en", "ko", "zh", "ar"], help="Question language.")
+    g.add_argument("--i-lang", type=str, default="ko", choices=["en", "ko", "zh", "ar"], help="Instruction language.")
+    g.add_argument("--t-lang", type=str, default="ko", choices=["en", "ko", "zh", "ar"], help="Think language.")
+    g.add_argument("--role-type", type=str, default=None, choices=[None, "adopt", "take", "you"], help="Persona type.")
 
     args = parser.parse_args()
 
