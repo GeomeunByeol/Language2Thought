@@ -81,7 +81,7 @@ def infer_llm(args, messages, tokenizer=None, model=None, client=None, model_id=
         else :
             prompt, response = mp.peft_infer(tokenizer, model, messages)
 
-        if args.quant:
+        if args.quant == "True":
             llm_guess = response["choices"][0]["text"][len(prompt):]
         else:
             llm_guess = response[0][prompt.shape[-1]:]
