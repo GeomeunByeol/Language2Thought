@@ -1,7 +1,7 @@
 # Language2Thought
 This is the official code repository for the paper: *When Language Shapes Thought: Cross-Lingual Transfer of Factual Knowledge in Question Answering*
 
-Accepted to CIKM2025 (link will be available soon) \
+Accepted to [CIKM2025](https://dl.acm.org/doi/abs/10.1145/3746252.3760807) \
 [Arxiv Link](https://www.arxiv.org/abs/2505.24409) (expanded verion)
 
 Code will be updated.
